@@ -1,22 +1,22 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M9.3775 0.123915C9.50824 0.125307 9.6332 0.108652 9.75239 0.073954C11.3187 -0.0286516 12.8849 -0.0244899 14.451 0.0864444C15.871 0.197086 17.2456 0.505183 18.5748 1.01073C20.7846 1.92048 22.2966 3.49843 23.1109 5.74457C23.5766 7.0969 23.8516 8.4875 23.9357 9.91634C24.0521 11.7106 24.0105 13.5009 23.8107 15.2872C23.6612 16.5427 23.3363 17.7501 22.836 18.9094C21.9081 20.9194 20.4044 22.3058 18.3249 23.0687C16.6398 23.6381 14.9069 23.9378 13.1264 23.968C11.1236 24.0721 9.14087 23.9222 7.17815 23.5183C3.56552 22.7136 1.337 20.5111 0.49263 16.9109C0.134306 15.2903 -0.0281463 13.6499 0.00527377 11.9897C-0.0347169 10.2244 0.152728 8.4841 0.567607 6.76878C1.45278 3.40263 3.58964 1.31674 6.97821 0.511116C7.7678 0.318078 8.56756 0.18901 9.3775 0.123915Z" fill="url(#paint0_radial_10_27)"/>
-<circle cx="9.30526" cy="10.3053" r="4.88421" fill="url(#paint1_radial_10_27)" stroke="#CC5E55" stroke-width="0.842105"/>
-<rect x="12.3368" y="8.95789" width="7.24211" height="7.24211" rx="0.926316" fill="url(#paint2_radial_10_27)" stroke="#006699" stroke-width="0.842105"/>
-<path d="M9.59779 12.1158C9.95433 11.4982 10.8457 11.4982 11.2022 12.1158L13.8276 16.6632C14.1842 17.2807 13.7385 18.0526 13.0254 18.0526H7.77458C7.0615 18.0526 6.61582 17.2807 6.97236 16.6632L9.59779 12.1158Z" fill="url(#paint3_radial_10_27)" stroke="#FFC328" stroke-width="0.842105"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.81458 2.10326C9.92353 2.10442 10.0277 2.09054 10.127 2.06163C11.4322 1.97612 12.7374 1.97959 14.0425 2.07204C15.2258 2.16424 16.3713 2.42099 17.479 2.84227C19.3205 3.6004 20.5805 4.91536 21.2591 6.78714C21.6472 7.91408 21.8763 9.07292 21.9464 10.2636C22.0434 11.7588 22.0087 13.2507 21.8423 14.7393C21.7177 15.7856 21.447 16.7918 21.03 17.7578C20.2567 19.4328 19.0037 20.5882 17.2707 21.2239C15.8665 21.6984 14.4224 21.9482 12.9387 21.9733C11.2697 22.0601 9.61739 21.9352 7.98179 21.5986C4.97127 20.928 3.11417 19.0926 2.41052 16.0924C2.11192 14.7419 1.97654 13.3749 2.00439 11.9915C1.97107 10.5204 2.12727 9.07008 2.47301 7.64065C3.21065 4.83553 4.99136 3.09728 7.81518 2.42593C8.47317 2.26506 9.13964 2.15751 9.81458 2.10326Z" fill="url(#paint0_radial_10_27)"/>
+<circle cx="9.75439" cy="10.5877" r="4.07018" fill="url(#paint1_radial_10_27)" stroke="#CC5E55" stroke-width="0.701754"/>
+<rect x="12.2807" y="9.46491" width="6.03509" height="6.03509" rx="0.77193" fill="url(#paint2_radial_10_27)" stroke="#006699" stroke-width="0.701754"/>
+<path d="M11.3352 12.0965L13.523 15.886C13.8201 16.4006 13.4488 17.0439 12.8545 17.0439H8.47881C7.88458 17.0439 7.51319 16.4006 7.8103 15.886L9.99816 12.0965C10.2953 11.5819 11.0381 11.5819 11.3352 12.0965Z" fill="url(#paint3_radial_10_27)" stroke="#FFC328" stroke-width="0.701754"/>
 <defs>
-<radialGradient id="paint0_radial_10_27" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(12) rotate(90) scale(24)">
+<radialGradient id="paint0_radial_10_27" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(12 2) rotate(90) scale(20)">
 <stop stop-color="#F4F4F4"/>
 <stop offset="1" stop-color="#BBBBBB"/>
 </radialGradient>
-<radialGradient id="paint1_radial_10_27" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(9.30526 1.0625) rotate(90) scale(18.9)">
+<radialGradient id="paint1_radial_10_27" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(9.75439 2.88542) rotate(90) scale(15.75)">
 <stop stop-color="#F4F4F4"/>
 <stop offset="1" stop-color="#BBBBBB"/>
 </radialGradient>
-<radialGradient id="paint2_radial_10_27" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(15.9579 5.53684) rotate(90) scale(14.4)">
+<radialGradient id="paint2_radial_10_27" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(15.2982 6.61403) rotate(90) scale(12)">
 <stop stop-color="#F4F4F4"/>
 <stop offset="1" stop-color="#BBBBBB"/>
 </radialGradient>
-<radialGradient id="paint3_radial_10_27" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10.4 6.69671) rotate(90) scale(15.3 17.6669)">
+<radialGradient id="paint3_radial_10_27" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10.6667 7.58059) rotate(90) scale(12.75 14.7224)">
 <stop stop-color="#F4F4F4"/>
 <stop offset="1" stop-color="#BBBBBB"/>
 </radialGradient>
