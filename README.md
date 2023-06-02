@@ -16,7 +16,7 @@ Inicialmente apresentei o conceito de UI Design no Fórum do [Big](https://www.b
 
 <figure align="center">
   <img src="https://i.imgur.com/KVPF5Za.png" alt="Screenshot do BigLinux salva em 3 de maio de 2023" width="1280" heigth="720">
-  <figcaption>Figura 2. Disponível em: https://store.kde.org/p/1499884. Acesso em 3 de maio de 2023.</figcaption>
+  <figcaption align="center">Figura 2. Disponível em: https://store.kde.org/p/1499884. Acesso em 3 de maio de 2023.</figcaption>
 </figure>
 
 Neste ponto, comecei a pensar em um conceito de UI Design que trouxesse maior autenticidade, possibilitando que o usuário reconheça o sistema mesmo que não haja um logo, semelhante ao que ocorre em sistemas como Mac OS, IOS e Android.
