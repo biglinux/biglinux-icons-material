@@ -1,14 +1,10 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
- <g fill-rule="evenodd">
-  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
- <path d="m5.8207 6.3499s-1.0583 0-1.0583 1.0583v2.1166c0 1.0583 1.0583 1.0583 1.0583 1.0583h1.5875v-0.52916h-1.5875s-0.52916 0-0.52916-0.52916v-2.1166c0-0.52916 0.52916-0.52916 0.52916-0.52916h1.5875v-0.52916zm3.1749 0v1.0583h-1.0583v0.52916h1.0583v1.0583h-1.0583v0.52916h1.0583v1.0583h0.52916v-1.0583h1.0583v1.0583h0.52916v-1.0583h1.0583v-0.52916h-1.0583v-1.0583h1.0583v-0.52916h-1.0583v-1.0583h-0.52916v1.0583h-1.0583v-1.0583zm0.52916 1.5875h1.0583v1.0583h-1.0583z" color="#000000" fill="#8c59d9" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_6_211)"/>
+<path d="M6.99999 8.00007C6.99999 8.00007 5 8.00007 5 10.0001V14.0001C5 16.0001 6.99999 16.0001 6.99999 16.0001H10.0001V15H6.99999C6.99999 15 5.99998 15 5.99998 14V10C5.99998 9.00002 6.99999 9.00002 6.99999 9.00002H10.0001V8L6.99999 8.00007ZM13 8.00007V10.0001H11V11.0001H13V13.0001H11V14.0001H13V16.0001H14V14.0001H16V16.0001H17V14.0001H19V13.0001H17V11.0001H19V10.0001H17V8.00007H16V10.0001H14V8.00007H13ZM14 11.0002H16V13.0002H14V11.0002Z" fill="#8C59D9"/>
+<defs>
+<radialGradient id="paint0_radial_6_211" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#BBBBBB"/>
+</radialGradient>
+</defs>
 </svg>

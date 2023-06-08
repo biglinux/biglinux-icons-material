@@ -1,18 +1,12 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
- <g fill-rule="evenodd">
-  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12h-31z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
- </g>
- <g transform="translate(-20.849 -2.0766)">
-  <rect x="25.876" y="8.691" width="6.879" height="3.7041" rx=".26458" ry=".26458" enable-background="new" fill="none" stroke="#455a64" stroke-width=".52916"/>
-  <path d="m26.934 11.601v-2.1166h0.52916l0.66144 0.82681 0.66145-0.82681h0.52916v2.1166h-0.52916v-1.2898l-0.66145 0.82681-0.66144-0.82681v1.2898z" enable-background="new" fill="#455a64"/>
-  <path d="m30.903 11.601-0.79373-1.0583h0.52916v-1.0583h0.52916v1.0583h0.52916z" enable-background="new" fill="#455a64"/>
- </g>
- <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_6_149)"/>
+<path d="M18.4615 8H5.53847C5.24108 8 5 8.24108 5 8.53847V15C5 15.2974 5.24108 15.5385 5.53847 15.5385H18.4615C18.7589 15.5385 19 15.2974 19 15V8.53847C19 8.24108 18.7589 8 18.4615 8Z" stroke="#455A64" stroke-width="1.07694"/>
+<path d="M7.15322 13.9224V9.61471H8.23016L9.5763 11.2974L10.9225 9.61471H11.9994V13.9224H10.9225V11.2974L9.5763 12.9801L8.23016 11.2974V13.9224H7.15322Z" fill="#455A64"/>
+<path d="M15.2308 13.9224L13.6155 11.7685H14.6924V9.61471H15.7693V11.7685H16.8463L15.2308 13.9224Z" fill="#455A64"/>
+<defs>
+<radialGradient id="paint0_radial_6_149" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#BBBBBB"/>
+</radialGradient>
+</defs>
 </svg>

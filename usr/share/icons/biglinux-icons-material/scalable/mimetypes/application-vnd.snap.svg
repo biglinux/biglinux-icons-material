@@ -1,14 +1,10 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" fill-rule="evenodd" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
- <g fill-rule="evenodd">
-  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12h-31z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m4.4314 4.6853 4.3741 4.3741v-2.7971zm5.0362 1.5966 3.034 1.3638-0.6679-1.3638zm-0.39338 0.09999v2.5419l1.8243-1.7127zm-1.3036 2.0513-2.0213 3.8145 2.9321-2.9322z" enable-background="new" fill="#c8c4b7" stroke-width=".13229"/>
- <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" fill-rule="evenodd" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_6_35)"/>
+<path d="M5 5L12.5881 12.5881V7.73574L5 5ZM13.7367 7.76975L19 10.1356L17.8413 7.76975H13.7367ZM13.0543 7.94321V12.3528L16.219 9.38168L13.0543 7.94321ZM10.7928 11.5018L7.2863 18.1191L12.3728 13.0324L10.7928 11.5018Z" fill="#777777"/>
+<defs>
+<radialGradient id="paint0_radial_6_35" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#BBBBBB"/>
+</radialGradient>
+</defs>
 </svg>

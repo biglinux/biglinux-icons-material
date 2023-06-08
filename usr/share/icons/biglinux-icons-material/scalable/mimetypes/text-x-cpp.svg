@@ -1,14 +1,10 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
- <g fill-rule="evenodd">
-  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
- <path d="m5.2916 6.6145h1.0583v0.52916h-1.0583s-0.52916 0-0.52916 0.52916v1.5875c0 0.52916 0.52916 0.52916 0.52916 0.52916h1.0583v0.52916h-1.0583s-1.0583 0-1.0583-1.0583v-1.5875c0-1.0583 1.0583-1.0583 1.0583-1.0583zm2.6458 0.52916h0.52916v1.0583h1.0583v0.52916h-1.0583v1.0583h-0.52916v-1.0583h-1.0583v-0.52916h1.0583zm3.1749 0h0.52916v1.0583h1.0583v0.52916h-1.0583v1.0583h-0.52916v-1.0583h-1.0583v-0.52916h1.0583z" color="#000000" fill="#2b898f" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_6_200)"/>
+<path d="M6.74999 9H8.49997V9.87501H6.74999C6.74999 9.87501 5.87498 9.87501 5.87498 10.75V13.3751C5.87498 14.2501 6.74999 14.2501 6.74999 14.2501H8.49997V15.1251H6.74999C6.74999 15.1251 5 15.1251 5 13.3751V10.7501C5 9.00007 6.74999 9 6.74999 9ZM11.125 9.87501H12V11.625H13.75V12.5H12V14.25H11.125V12.5H9.37505V11.625H11.125V9.87501ZM16.375 9.87501H17.25V11.625H19V12.5H17.25V14.25H16.375V12.5H14.625V11.625H16.375V9.87501Z" fill="#2B898F"/>
+<defs>
+<radialGradient id="paint0_radial_6_200" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#BBBBBB"/>
+</radialGradient>
+</defs>
 </svg>

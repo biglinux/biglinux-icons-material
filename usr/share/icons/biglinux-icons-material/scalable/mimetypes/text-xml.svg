@@ -1,18 +1,12 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
- <g fill-rule="evenodd">
-  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
- <g transform="translate(-19.469 -2.2965)" fill="#d85eca">
-  <path d="m24.322 10.763 2.1358 0.87841-0.15643 0.46327-2.5991-1.101v-0.48132l2.5991-1.101 0.15643 0.46327z" enable-background="new"/>
-  <path d="m27.207 13.675h-0.57156l2.0396-5.824h0.55953z" enable-background="new"/>
-  <path d="m29.413 9.8846 0.15643-0.46327 2.5991 1.101v0.48132l-2.5991 1.101-0.15643-0.46327 2.1358-0.87841z" enable-background="new"/>
- </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_6_290)"/>
+<path d="M6.0248 11.8153L9.55661 13.2679L9.29793 14.034L5 12.2133V11.4174L9.29793 9.59678L9.55661 10.3629L6.0248 11.8153Z" fill="#D85ECA"/>
+<path d="M10.7955 16.6307H9.85036L13.2231 7H14.1483L10.7955 16.6307Z" fill="#D85ECA"/>
+<path d="M14.4434 10.3628L14.7021 9.59674L19 11.4174V12.2133L14.7021 14.0339L14.4434 13.2679L17.9752 11.8153L14.4434 10.3628Z" fill="#D85ECA"/>
+<defs>
+<radialGradient id="paint0_radial_6_290" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#BBBBBB"/>
+</radialGradient>
+</defs>
 </svg>

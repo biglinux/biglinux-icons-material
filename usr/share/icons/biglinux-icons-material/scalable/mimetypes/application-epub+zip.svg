@@ -1,14 +1,10 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <g fill-rule="evenodd">
-  <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
-  <path d="m3.4395 1.0588c-0.73289 0-1.3229 0.58999-1.3229 1.3229v12.171c0 0.73286 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.58999 1.3229-1.3229v-10.319l-3.175-3.1749z" fill="#84c835" stroke-width=".26458" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#fff" opacity=".35" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m8.4664 10.961-2.4942-2.4944 2.4942-2.4941 0.83147 0.83132-1.6629 1.6627 0.83142 0.83147 2.4942-2.4941-2.1727-2.1727c-0.17742-0.17757-0.4652-0.17757-0.64277 0l-3.5142 3.5142c-0.17742 0.17742-0.17742 0.4652 0 0.64277l3.5142 3.5141c0.17757 0.17757 0.46535 0.17757 0.64277 0l3.5142-3.5141c0.17742-0.17757 0.17742-0.46535 0-0.64277l-0.51016-0.51001z" enable-background="new" fill="#fff" stroke-width=".050576"/>
- <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" fill-rule="evenodd" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_6_2)"/>
+<path d="M11.9998 16.3996L7.60049 11.9999L11.9998 7.60074L13.4664 9.06704L10.5333 11.9998L11.9998 13.4663L16.3991 9.06716L12.5669 5.2349C12.2539 4.9217 11.7463 4.9217 11.4331 5.2349L5.2347 11.4333C4.92177 11.7463 4.92177 12.2539 5.2347 12.5671L11.4331 18.7653C11.7463 19.0785 12.2539 19.0785 12.5669 18.7653L18.7653 12.5671C19.0782 12.2539 19.0782 11.7463 18.7653 11.4333L17.8655 10.5338L11.9998 16.3996Z" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial_6_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#AFDB7C"/>
+<stop offset="1" stop-color="#77B430"/>
+</radialGradient>
+</defs>
 </svg>
