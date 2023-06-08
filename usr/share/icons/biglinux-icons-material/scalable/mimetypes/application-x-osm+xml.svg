@@ -1,16 +1,12 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a-3" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <g fill-rule="evenodd">
-  <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a-3)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
-  <path d="m3.4395 1.0588c-0.73289 0-1.3229 0.58999-1.3229 1.3229v12.171c0 0.73286 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.58999 1.3229-1.3229v-10.319l-3.175-3.1749z" fill="#84c835" stroke-width=".26458" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#fff" opacity=".35" style="paint-order:stroke fill markers"/>
- </g>
- <ellipse cx="8.4665" cy="10.848" rx="2.3812" ry="1.0583" opacity=".1" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0304" style="paint-order:stroke fill markers"/>
- <ellipse cx="8.4665" cy="10.848" rx="1.5875" ry=".52916" opacity=".1" stroke-linecap="round" stroke-linejoin="round" stroke-width=".59491" style="paint-order:stroke fill markers"/>
- <path d="m8.4665 4.4978c-1.315 0-2.3812 1.0662-2.3812 2.3812s1.5875 3.9687 2.3812 3.9687c0.79373 0 2.3812-2.6537 2.3812-3.9687s-1.0662-2.3812-2.3812-2.3812zm0 1.0582c0.73063 0 1.323 0.59232 1.323 1.323 0 0.73063-0.59232 1.323-1.323 1.323s-1.323-0.59232-1.323-1.323c0-0.73063 0.59232-1.323 1.323-1.323z" fill="#fff" fill-rule="evenodd"/>
- <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" fill-rule="evenodd" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_3_1021)"/>
+<path opacity="0.1" d="M11.9998 19C14.485 19 16.4996 18.1046 16.4996 17.0001C16.4996 15.8956 14.485 15.0002 11.9998 15.0002C9.51464 15.0002 7.50001 15.8956 7.50001 17.0001C7.50001 18.1046 9.51464 19 11.9998 19Z" fill="black"/>
+<path opacity="0.1" d="M11.9998 18.0001C13.6566 18.0001 14.9997 17.5524 14.9997 17.0001C14.9997 16.4478 13.6566 16.0001 11.9998 16.0001C10.343 16.0001 8.99987 16.4478 8.99987 17.0001C8.99987 17.5524 10.343 18.0001 11.9998 18.0001Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.9998 5C9.51482 5 7.5 7.01482 7.5 9.4998C7.5 11.9848 10.4999 16.9995 11.9998 16.9995C13.4997 16.9995 16.4996 11.9848 16.4996 9.4998C16.4996 7.01482 14.4848 5 11.9998 5ZM11.9998 6.9997C13.3805 6.9997 14.4999 8.11902 14.4999 9.4998C14.4999 10.8805 13.3806 11.9999 11.9998 11.9999C10.619 11.9999 9.4997 10.8806 9.4997 9.4998C9.4997 8.11912 10.619 6.9997 11.9998 6.9997Z" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial_3_1021" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#AFDB7C"/>
+<stop offset="1" stop-color="#77B430"/>
+</radialGradient>
+</defs>
 </svg>

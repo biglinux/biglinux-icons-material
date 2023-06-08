@@ -1,14 +1,10 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <g transform="scale(3.7796)" fill-rule="evenodd">
-  <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
-  <path d="m3.4395 1.0588c-0.73289 0-1.3229 0.58999-1.3229 1.3229v12.171c0 0.73286 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.58999 1.3229-1.3229v-10.319l-3.175-3.1749z" fill="#56cc56" stroke-width=".26458" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#fff" opacity=".35" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m43.998 11v0.58399c0 3.0009 2.23 5.4162 5 5.4162h6.9998l5.37e-4 -1.0002-7.0006 1.89e-4c-2.77 7.5e-5 -5-2.23-5-5z" fill-rule="evenodd" opacity=".1" stroke-width="3.9338" style="paint-order:stroke fill markers"/>
- <path d="m35 21c-0.554 0-1 0.446-1 1v2h-12c-0.554 0-1 0.446-1 1v17c0 0.554 0.446 1 1 1h17c0.554 0 1-0.446 1-1v-4h2c0.554 0 1-0.446 1-1v-15c0-0.554-0.446-1-1-1h-2-5zm0 1h7v15h-2v-12c0-0.554-0.446-1-1-1-1.556-0.611-4.061-0.985-4-2zm-12 5h15v4h-15v-4zm0 6h7v1h-7v-1zm8 0h7v1h-7v-1zm-8 3h7v1h-7v-1zm8 0h7v1h-7v-1zm-8 3h7v1h-7v-1zm8 0h7v1h-7v-1z" color="#000000" color-rendering="auto" fill="#fff" image-rendering="auto" opacity=".9" shape-rendering="auto" solid-color="#000000" stroke-width="2" style="isolation:auto;mix-blend-mode:normal"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_1_202)"/>
+<path opacity="0.9" d="M13.9091 5C13.5565 5 13.2727 5.28382 13.2727 5.63636V6.90909H5.63636C5.28382 6.90909 5 7.19291 5 7.54545V18.3636C5 18.7162 5.28382 19 5.63636 19H16.4545C16.8071 19 17.0909 18.7162 17.0909 18.3636V15.8182H18.3636C18.7162 15.8182 19 15.5344 19 15.1818V5.63636C19 5.28382 18.7162 5 18.3636 5H17.0909H13.9091ZM13.9091 5.63636H18.3636V15.1818H17.0909V7.54545C17.0909 7.19291 16.8071 6.90909 16.4545 6.90909C15.4644 6.52027 13.8703 6.28227 13.9091 5.63636ZM6.27273 8.81818H15.8182V11.3636H6.27273V8.81818ZM6.27273 12.6364H10.7273V13.2727H6.27273V12.6364ZM11.3636 12.6364H15.8182V13.2727H11.3636V12.6364ZM6.27273 14.5455H10.7273V15.1818H6.27273V14.5455ZM11.3636 14.5455H15.8182V15.1818H11.3636V14.5455ZM6.27273 16.4545H10.7273V17.0909H6.27273V16.4545ZM11.3636 16.4545H15.8182V17.0909H11.3636V16.4545Z" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial_1_202" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#8FDD8F"/>
+<stop offset="1" stop-color="#4FB84F"/>
+</radialGradient>
+</defs>
 </svg>

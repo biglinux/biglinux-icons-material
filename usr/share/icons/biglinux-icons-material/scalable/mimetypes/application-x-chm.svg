@@ -1,18 +1,12 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <path transform="scale(3.7796)" d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
- <g transform="scale(3.7796)" fill-rule="evenodd">
-  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12z" fill="#59dd59" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#fff" opacity=".35" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m43.998 11v0.58399c0 3.0009 2.23 5.4162 5 5.4162h6.9998l5.37e-4 -1.0002-7.0006 1.89e-4c-2.77 7.5e-5 -5-2.23-5-5z" opacity=".1" stroke-width="3.9338" style="paint-order:stroke fill markers"/>
- <g transform="matrix(.25 0 0 .25 -5.9994 -6.9998)" enable-background="new" fill="#fff" shape-rendering="auto">
-  <path d="m152 96c-33.104 0-60 26.898-60 60s26.896 60 60 60 60-26.898 60-60-26.896-60-60-60zm2e-3 6a54 54 0 0 1 54 54 54 54 0 0 1-54 54 54 54 0 0 1-54-54 54 54 0 0 1 54-54z" color="#000000" color-rendering="auto" enable-background="accumulate" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-  <path d="m148 148v40l8 1e-5v-40z" color="#000000" color-rendering="auto" enable-background="accumulate" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
-  <path d="m152 126c-3.3137 1e-5 -6 2.6863-6 6 1e-5 3.3137 2.6863 6 6 6 3.3137-1e-5 6-2.6863 6-6-1e-5 -3.3137-2.6863-6-6-6z" color="#000000" color-rendering="auto" enable-background="accumulate" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
- </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_1_586)"/>
+<path d="M12 5C8.13787 5 5 8.1381 5 12C5 15.8619 8.13787 19 12 19C15.8621 19 19 15.8619 19 12C19 8.1381 15.8621 5 12 5ZM12.0002 5.7C13.6711 5.7 15.2735 6.36375 16.455 7.54523C17.6365 8.72671 18.3002 10.3291 18.3002 12C18.3002 13.6709 17.6365 15.2733 16.455 16.4548C15.2735 17.6363 13.6711 18.3 12.0002 18.3C10.3294 18.3 8.72694 17.6363 7.54546 16.4548C6.36398 15.2733 5.70023 13.6709 5.70023 12C5.70023 10.3291 6.36398 8.72671 7.54546 7.54523C8.72694 6.36375 10.3294 5.7 12.0002 5.7Z" fill="white"/>
+<path d="M11.5333 11.0667V15.7333L12.4667 15.7333V11.0667L11.5333 11.0667Z" fill="white"/>
+<path d="M12 8.5C11.6134 8.5 11.3 8.8134 11.3 9.2C11.3 9.5866 11.6134 9.9 12 9.9C12.3866 9.9 12.7 9.5866 12.7 9.2C12.7 8.8134 12.3866 8.5 12 8.5Z" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial_1_586" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#93E993"/>
+<stop offset="1" stop-color="#50C750"/>
+</radialGradient>
+</defs>
 </svg>
