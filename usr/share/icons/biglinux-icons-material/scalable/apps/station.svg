@@ -1,8 +1,52 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <g>
-  <path d="m8.9955 7.9976c-3.3223 0-5.9982 2.676-5.9982 5.9982v30.006c0 3.3223 2.676 5.9982 5.9982 5.9982v-30.002c0-3.326 2.676-5.9982 6.002-5.9982h40c0-3.326-2.6722-6.002-5.9944-6.002z" fill="#4d4d4d" stroke-width="3.7796"/>
-  <rect x="8.9992" y="14" width="52" height="41.999" rx="5.9982" ry="5.9982" fill="#f9f9f9" opacity=".75" stroke-width="3.7796"/>
-  <image x="8.9992" y="14" width="50.998" height="41.001" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAApCAYAAACY7BHXAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAp1JREFUaIHtmcGK21YUhv9zrmJb JbZTDFlk0TYlEGrtuh+6yxuoj9DXkJ4nep7xMptk6yEeOrYk33P+LjwzmRI30DBEN6APhBY6iP/j 6J4LuoJbyrIML16+fqWa/SzwpQAZEsAAKOAiakTsYXojyo8SeRXC06s8b2/quo441QF/1fUPP/36 25tM9XeFr1IR+S/cXUSgMbZPAEzK8m0AAC3LMswP/gcEzwbO+NUUxUZIir54+frV9yzyEM1Efxk6 xGOhFCyGDvFYaOqL/f+gQwd4TEaZVBllUmWUSZVRJlVGmVQZZVJllEmVUSZVRplUGWWGQlX58P7Z 828b5+sxi0AEVJ0AEENGANgtFvdiycvIg264Ot2VBDzEyHbSEe+B9Xp9qjGc/rSneLkqYQaSdHfi 9jRANRhJn3Phy+U1mwYQATIhz35/QyEin/K4gwBFxEQZRfRoasfAEH2WR0bx7XZLoAHwJzLVEIeL /gUMoDpJUjREUnvCekjo3NH73/uY/zixd/mKxWrFpmmQEbEfOvc5VJQUpQZ1EhFinRJ7s3iQJ+zy fN7vdlMrltdeVRXrumYG05uhg58jqlMNFFFztSMkdGbxEIz7Pnjbzrrj81lnl5eXFBEAQEbYbuDc n6GqDBBQ6aR5QDi6o5fIrp96m9uz9rD9cFxfXFhVVX63zrLgshVJbEQbEUPGEONpkM2m0bmP+WTe t9PueNh+OK5WK9tsNvddAYAshKdXt2eDSaEOHCbGORfO+NHzPLfdbmrPZ52tLy5ss9mwrmsCuJ9+ WZ63NwAmw8U+z26x4OQ9MFtec7vd812es1heOwAvy/KuI//aVgQAyvJtKIqNnHnnoKzXazYNADQo ioJVVZ2VuONegGRyMsBpZ38Y80u1/wCGdnqcHTd7BAAAAABJRU5ErkJggg=="/>
-  <path d="m20 22v3h-3v2h3v2h-3v2h3v3h2v-3h2v3h2v-3h2v-2h-2v-2h2v-2h-2v-3h-2v3h-2v-3zm10 0v9h2v-9zm-8 5h2v2h-2zm8 5v2h2v-2z" fill="#ffffff"/>
- </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg74740"
+   sodipodi:docname="station.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs74744"><radialGradient
+       id="paint0_radial_3_321"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,22,-22,0,11.999987,1.0000149)"><stop
+         stop-color="#555555"
+         id="stop180" /><stop
+         offset="1"
+         stop-color="#222222"
+         id="stop182" /></radialGradient></defs><sodipodi:namedview
+     id="namedview74742"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.6845824"
+     inkscape:cx="-105.87923"
+     inkscape:cy="20.386022"
+     inkscape:window-width="2560"
+     inkscape:window-height="1000"
+     inkscape:window-x="1680"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg74740" /><path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 9.5960272,1.1136049 c 0.11984,0.00127 0.23439,-0.01399 0.34365,-0.0458 1.4358098,-0.094054 2.8714098,-0.090239 4.3070098,0.01145 1.3017,0.10142 2.5618,0.38384 3.7802,0.84726 2.0256,0.83394 3.4117,2.2804 4.1581,4.33936 0.4269,1.23963 0.6789,2.51435 0.7561,3.8241401 0.1067,1.6447 0.0685,3.2858 -0.1146,4.9233 -0.137,1.1509 -0.4349,2.2577 -0.8935,3.3203 -0.8506,1.8425 -2.229,3.1134 -4.1352,3.8127 -1.5447,0.5219 -3.1331,0.7967 -4.7653,0.8243 -1.8359,0.0955 -3.6533698,-0.0419 -5.4525298,-0.4121 -3.31158,-0.7377 -5.35438,-2.7567 -6.12839,-6.0568 -0.32847,-1.4856 -0.47738099,-2.9893 -0.44675,-4.5111 -0.03665,-1.6182 0.13517,-3.2135101 0.51548,-4.7858901 0.8114,-3.08563 2.77019,-4.9977 5.87638,-5.73619 0.72379,-0.17695 1.45691,-0.29526 2.19935,-0.35493 z"
+     fill="url(#paint0_radial_3_321)"
+     id="path174"
+     style="fill:url(#paint0_radial_3_321)" /><path
+     d="m 7.5000003,6 v 3 h -3 v 2 h 3 v 2 h -3 v 2 h 3 v 3 h 2 V 15 H 11.5 v 3 h 2 v -3 h 2 v -2 h -2 v -2 h 2 V 9 h -2 V 6 h -2 V 9 H 9.5000003 V 6 Z M 17.5,6 v 9 h 2 V 6 Z M 9.5000003,11 H 11.5 v 2 H 9.5000003 Z M 17.5,16 v 2 h 2 v -2 z"
+     fill="#ffffff"
+     id="path74879" /></svg>
