@@ -1,1 +1,567 @@
-<svg width="64" height="64" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg"><defs><filter id="a" color-interpolation-filters="sRGB"><feColorMatrix result="result7" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"/><feGaussianBlur result="result6" stdDeviation="5"/><feComposite in="result6" in2="result7" operator="atop" result="result91"/><feComposite in2="result91" operator="in"/></filter></defs><g transform="translate(0 -280.07)"><circle cx="8.466" cy="288.53" r="7.144" fill="#0b93d3" style="paint-order:stroke markers fill"/><g fill="#fff" paint-order="stroke markers fill"><circle cx="11.906" cy="287.58" r="1.389" opacity=".25"/><circle cx="11.906" cy="287.58" r="1.389" opacity=".25"/><circle cx="8.819" cy="287.74" r="3.087"/><circle cx="8.731" cy="288.27" r="2.646"/><circle cx="5.424" cy="288.97" r="2.469"/><circle cx="5.821" cy="289.33" r="2.117"/><circle cx="12.215" cy="289.59" r="1.852"/><circle cx="11.642" cy="289.86" r="1.587"/><path d="M5.424 288.05h6.791v3.395H5.424z"/><path d="M5.821 288.53h5.821v2.91H5.821z"/></g><path d="M8.475 286.474a1.426 1.426 0 1 0 0 2.852 1.426 1.426 0 0 0 0-2.852zm.006.626a.805.805 0 0 1 .805.805.805.805 0 0 1-.805.805.805.805 0 0 1-.805-.805.805.805 0 0 1 .805-.805z" fill="#1793e6"/><path d="M10.088 288.004c-.374 0-.708.148-.962.382l.408.472a.851.851 0 0 1 .108-.09.716.716 0 0 1 .356-.127c.044-.004.09-.002.14 0a.751.751 0 0 1 .663.433.829.829 0 0 1 .085.402v.002a.313.313 0 0 0 .625 0V289.427a.893.893 0 0 0-.004-.073l-.001-.01-.001-.025h-.001a1.421 1.421 0 0 0-1.417-1.315M6.833 288a1.426 1.426 0 1 0 0 2.852 1.426 1.426 0 0 0 0-2.852zm.006.626a.805.805 0 0 1 .804.805.805.805 0 0 1-.804.805.805.805 0 0 1-.805-.805.805.805 0 0 1 .805-.805z" fill="#1793e6"/><path transform="translate(5.407 286.47) scale(.20374)" d="M6.973 7.471c-.365 0-.744.04-1.094.094a2.842 2.842 0 0 1 1.719 2.594c0 .16-.036.316-.063.469a3.839 3.839 0 0 1 2.938 2.063c.791 1.577.522 3.357-.719 4.594.962-.959 2.934-2.702 4.156-3.844-.512-3.375-3.409-5.969-6.938-5.969z" fill="#f44" filter="url(#a)"/><path d="m7.452 290.53-.652.026 2.295-2.13.41.46-1.78 1.653z" fill="#1793e6"/><circle cx="11.213" cy="290.31" r=".306" fill="#1793e6"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128mm"
+   height="127.99948mm"
+   viewBox="0 0 128 127.99948"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" /><defs
+     id="defs2"><linearGradient
+       inkscape:collect="always"
+       id="linearGradient3891"><stop
+         style="stop-color:#0b93d3;stop-opacity:1"
+         offset="0"
+         id="stop3887" /><stop
+         style="stop-color:#e6e6e6;stop-opacity:1"
+         offset="1"
+         id="stop3889" /></linearGradient><style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-9">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-3">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-97">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-9-0">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-9">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-3-3">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-97-6">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><filter
+       id="a-27"
+       color-interpolation-filters="sRGB"
+       x="-1.4942099"
+       y="-1.222743"
+       width="3.98842"
+       height="3.4454861"><feColorMatrix
+         result="result7"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0"
+         id="feColorMatrix3813" /><feGaussianBlur
+         result="result6"
+         stdDeviation="5"
+         id="feGaussianBlur3815" /><feComposite
+         in="result6"
+         in2="result7"
+         operator="atop"
+         result="result91"
+         id="feComposite3817" /><feComposite
+         in2="result91"
+         operator="in"
+         id="feComposite3819" /></filter><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3891"
+       id="linearGradient3893"
+       x1="220.09732"
+       y1="474.92041"
+       x2="235.61327"
+       y2="-86.756691"
+       gradientUnits="userSpaceOnUse" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3891"
+       id="linearGradient5142"
+       gradientUnits="userSpaceOnUse"
+       x1="220.09732"
+       y1="474.92041"
+       x2="235.61327"
+       y2="-86.756691" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3891"
+       id="linearGradient5144"
+       gradientUnits="userSpaceOnUse"
+       x1="220.09732"
+       y1="474.92041"
+       x2="235.61327"
+       y2="-86.756691" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3891"
+       id="linearGradient5146"
+       gradientUnits="userSpaceOnUse"
+       x1="220.09732"
+       y1="474.92041"
+       x2="235.61327"
+       y2="-86.756691" /></defs><g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.000001,-84.500272)"><g
+       id="g244"
+       transform="matrix(0.28676179,0,0,0.28676181,40.999978,84.500191)"
+       style="fill:url(#linearGradient3893);fill-opacity:1"
+       inkscape:export-filename="camp.svg"
+       inkscape:export-xdpi="25.400002"
+       inkscape:export-ydpi="25.400002"><g
+         id="g246"
+         style="fill:url(#linearGradient5146);fill-opacity:1"><g
+           id="g252"
+           style="fill:url(#linearGradient5144);fill-opacity:1"><path
+             d="m 174.406,2.305 c 2.434,0.027 4.758,-0.285 6.973,-0.93 29.133,-1.906 58.258,-1.832 87.387,0.234 26.41,2.055 51.976,7.786 76.699,17.188 41.097,16.922 69.219,46.269 84.363,88.043 8.66,25.152 13.774,51.015 15.34,77.59 2.164,33.371 1.391,66.668 -2.324,99.89 -2.782,23.352 -8.824,45.805 -18.129,67.368 -17.258,37.382 -45.223,63.167 -83.899,77.355 -31.343,10.59 -63.57,16.164 -96.687,16.723 -37.246,1.937 -74.121,-0.848 -110.625,-8.36 C 66.312,422.438 24.867,381.477 9.164,314.52 2.496,284.375 -0.523,253.867 0.098,222.992 -0.645,190.16 2.84,157.793 10.559,125.891 27.02,63.285 66.762,24.488 129.785,9.508 144.469,5.914 159.344,3.516 174.406,2.305 Z"
+             style="fill:url(#linearGradient5142);fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path260" /></g></g></g><g
+       id="g4980"
+       transform="matrix(0.76849303,0,0,0.76849303,236.18912,231.44024)"><g
+         fill="#ffffff"
+         paint-order="stroke markers fill"
+         id="g3846"
+         transform="matrix(13.144883,0,0,13.144883,-282.58568,-3900.8129)"><circle
+           cx="11.906"
+           cy="287.57999"
+           r="1.3890001"
+           opacity="0.25"
+           id="circle3826" /><circle
+           cx="11.906"
+           cy="287.57999"
+           r="1.3890001"
+           opacity="0.25"
+           id="circle3828" /><circle
+           cx="8.8190002"
+           cy="287.73999"
+           r="3.0869999"
+           id="circle3830" /><circle
+           cx="8.7309999"
+           cy="288.26999"
+           r="2.6459999"
+           id="circle3832" /><circle
+           cx="5.4239998"
+           cy="288.97"
+           r="2.4690001"
+           id="circle3834" /><circle
+           cx="5.8210001"
+           cy="289.32999"
+           r="2.1170001"
+           id="circle3836" /><circle
+           cx="12.215"
+           cy="289.59"
+           r="1.852"
+           id="circle3838" /><circle
+           cx="11.642"
+           cy="289.85999"
+           r="1.587"
+           id="circle3840" /><path
+           d="m 5.424,288.05 h 6.791 v 3.395 H 5.424 Z"
+           id="path3842" /><path
+           d="m 5.821,288.53 h 5.821 v 2.91 H 5.821 Z"
+           id="path3844" /></g><path
+         d="m -171.1828,-135.14569 a 18.744605,18.744605 0 1 0 0,37.489209 18.744604,18.744604 0 0 0 0,-37.489209 z m 0.0789,8.2287 a 10.581631,10.581631 0 0 1 10.58163,10.58163 10.581631,10.581631 0 0 1 -10.58163,10.58163 10.581631,10.581631 0 0 1 -10.58163,-10.58163 10.581631,10.581631 0 0 1 10.58163,-10.58163 z"
+         fill="#1793e6"
+         id="path3848"
+         style="stroke-width:13.1449" /><path
+         d="m -149.9801,-115.03402 c -4.91619,0 -9.30658,1.94545 -12.64538,5.02135 l 5.36311,6.20438 a 11.186295,11.186295 0 0 1 1.41965,-1.18304 9.4117362,9.4117362 0 0 1 4.67958,-1.6694 c 0.57838,-0.0526 1.18304,-0.0263 1.84028,0 a 9.8718071,9.8718071 0 0 1 8.71506,5.69174 10.897108,10.897108 0 0 1 1.11732,5.284241 v 0.02629 a 4.1143484,4.1143484 0 0 0 8.21555,0 v -0.670389 a 11.738381,11.738381 0 0 0 -0.0526,-0.959576 l -0.0132,-0.131449 -0.0131,-0.328622 h -0.0131 a 18.678879,18.678879 0 0 0 -18.6263,-17.285525 m -42.77344,-0.0526 a 18.744605,18.744605 0 1 0 0,37.48921 18.744605,18.744605 0 0 0 0,-37.48921 z m 0.0789,8.2287 a 10.581631,10.581631 0 0 1 10.56849,10.581632 10.581631,10.581631 0 0 1 -10.56849,10.58163 10.581631,10.581631 0 0 1 -10.58163,-10.58163 10.581631,10.581631 0 0 1 10.58163,-10.581632 z"
+         fill="#1793e6"
+         id="path3850"
+         style="stroke-width:13.1449" /><path
+         transform="matrix(2.6781385,0,0,2.6781385,-211.5113,-135.19827)"
+         d="m 6.973,7.471 c -0.365,0 -0.744,0.04 -1.094,0.094 a 2.842,2.842 0 0 1 1.719,2.594 c 0,0.16 -0.036,0.316 -0.063,0.469 a 3.839,3.839 0 0 1 2.938,2.063 c 0.791,1.577 0.522,3.357 -0.719,4.594 0.962,-0.959 2.934,-2.702 4.156,-3.844 C 13.398,10.066 10.501,7.472 6.972,7.472 Z"
+         fill="#ff4444"
+         filter="url(#a)"
+         id="path3852"
+         style="filter:url(#a-27)" /><path
+         d="m -184.63001,-81.830042 -8.57047,0.341767 30.16751,-27.998605 5.3894,6.04665 -23.39789,21.728492 z"
+         fill="#1793e6"
+         id="path3854"
+         style="stroke-width:13.1449" /><circle
+         cx="-135.19211"
+         cy="-84.721947"
+         r="4.0223341"
+         fill="#1793e6"
+         id="circle3856"
+         style="stroke-width:13.1449" /></g></g></svg>
