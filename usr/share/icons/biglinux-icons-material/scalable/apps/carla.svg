@@ -1,1 +1,544 @@
-<svg width="64" height="64" image-rendering="optimizeSpeed" xmlns="http://www.w3.org/2000/svg"><circle cx="32" cy="32" r="27" fill="#ff4b68" style="paint-order:stroke markers fill"/><rect x="16" y="16" width="32" height="32" rx="2.667" fill="#3d3d3d" style="paint-order:normal"/><circle transform="rotate(-90)" cx="-42" cy="32" r="3" fill="gray" style="paint-order:normal"/><path d="M35 42a3 3 0 0 0-.407-1.5H32a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5h2.596A3 3 0 0 0 35 42z" fill="#fff" opacity=".25" style="paint-order:normal"/><circle transform="rotate(-90)" cx="-42" cy="22.407" r="3" fill="gray" style="paint-order:normal"/><path d="M22.407 39a3 3 0 0 0-1.5.407V42a1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5v-2.596a3 3 0 0 0-1.5-.404z" fill="#fff" opacity=".25" style="paint-order:normal"/><circle transform="rotate(-90)" cx="-42" cy="41" r="3" fill="gray" style="paint-order:normal"/><path d="M41 45a3 3 0 0 0 1.5-.407V42a1.5 1.5 0 0 0-1.5-1.5 1.5 1.5 0 0 0-1.5 1.5v2.596A3 3 0 0 0 41 45z" fill="#fff" opacity=".25" style="paint-order:normal"/><rect x="19" y="19" width="26" height="18" ry="1" fill="#202020" style="paint-order:normal"/><circle cx="22.667" cy="42.667" fill="#b0b0b0" style="paint-order:normal" r="0"/><path fill="#3af684" style="paint-order:normal" d="M21 20h5v16h-5zM29 30h6v6h-6z"/><path fill="#0eabe7" style="paint-order:normal" d="M38 26h5v10h-5z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128mm"
+   height="127.99948mm"
+   viewBox="0 0 128 127.99948"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:export-filename="calibre-ebook-edit.svg"
+   inkscape:export-xdpi="25.400002"
+   inkscape:export-ydpi="25.400002"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" /><defs
+     id="defs2"><linearGradient
+       inkscape:collect="always"
+       id="linearGradient2597"><stop
+         style="stop-color:#ff4b68;stop-opacity:1"
+         offset="0"
+         id="stop2593" /><stop
+         style="stop-color:#ffaaaa;stop-opacity:1"
+         offset="1"
+         id="stop2595" /></linearGradient><style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-9">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-3">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-97">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-9-0">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-9">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-3-3">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-97-6">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2597"
+       id="linearGradient2599"
+       x1="236.0594"
+       y1="-0.63604528"
+       x2="222.89369"
+       y2="515.02106"
+       gradientUnits="userSpaceOnUse" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2597"
+       id="linearGradient3983"
+       gradientUnits="userSpaceOnUse"
+       x1="236.0594"
+       y1="-0.63604528"
+       x2="222.89369"
+       y2="515.02106" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2597"
+       id="linearGradient3985"
+       gradientUnits="userSpaceOnUse"
+       x1="236.0594"
+       y1="-0.63604528"
+       x2="222.89369"
+       y2="515.02106" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2597"
+       id="linearGradient3987"
+       gradientUnits="userSpaceOnUse"
+       x1="236.0594"
+       y1="-0.63604528"
+       x2="222.89369"
+       y2="515.02106" /></defs><g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.000001,-84.500272)"><g
+       id="g244"
+       transform="matrix(-0.28676179,0,0,-0.28676181,169.00002,212.49981)"
+       style="fill:url(#linearGradient2599);fill-opacity:1"
+       inkscape:export-filename="calligragemini.svg"
+       inkscape:export-xdpi="25.400002"
+       inkscape:export-ydpi="25.400002"><g
+         id="g246"
+         style="fill:url(#linearGradient3987);fill-opacity:1"><g
+           id="g252"
+           style="fill:url(#linearGradient3985);fill-opacity:1"><path
+             d="m 174.406,2.305 c 2.434,0.027 4.758,-0.285 6.973,-0.93 29.133,-1.906 58.258,-1.832 87.387,0.234 26.41,2.055 51.976,7.786 76.699,17.188 41.097,16.922 69.219,46.269 84.363,88.043 8.66,25.152 13.774,51.015 15.34,77.59 2.164,33.371 1.391,66.668 -2.324,99.89 -2.782,23.352 -8.824,45.805 -18.129,67.368 -17.258,37.382 -45.223,63.167 -83.899,77.355 -31.343,10.59 -63.57,16.164 -96.687,16.723 -37.246,1.937 -74.121,-0.848 -110.625,-8.36 C 66.312,422.438 24.867,381.477 9.164,314.52 2.496,284.375 -0.523,253.867 0.098,222.992 -0.645,190.16 2.84,157.793 10.559,125.891 27.02,63.285 66.762,24.488 129.785,9.508 144.469,5.914 159.344,3.516 174.406,2.305 Z"
+             style="fill:url(#linearGradient3983);fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path260" /></g></g></g><g
+       id="g3883"
+       transform="matrix(1.4382953,0,0,1.4382953,-418.55928,-87.260068)"><rect
+         x="333.86517"
+         y="133.76773"
+         width="60.297173"
+         height="60.297173"
+         rx="5.0253925"
+         fill="#3d3d3d"
+         style="stroke-width:1.88429;paint-order:normal;image-rendering:optimizeSpeed"
+         id="rect2853" /><circle
+         transform="rotate(-90)"
+         cx="-182.75919"
+         cy="364.01376"
+         r="5.6528602"
+         fill="#808080"
+         style="stroke-width:1.88429;paint-order:normal;image-rendering:optimizeSpeed"
+         id="circle2855" /><path
+         d="m 369.66663,182.75918 a 5.6528601,5.6528601 0 0 0 -0.7669,-2.82643 h -4.88596 a 2.82643,2.82643 0 0 0 -2.82643,2.82643 2.82643,2.82643 0 0 0 2.82643,2.82643 h 4.89161 a 5.6528601,5.6528601 0 0 0 0.76125,-2.82643 z"
+         fill="#ffffff"
+         opacity="0.25"
+         style="stroke-width:1.88429;paint-order:normal;image-rendering:optimizeSpeed"
+         id="path2857" /><circle
+         transform="rotate(-90)"
+         cx="-182.75919"
+         cy="345.93781"
+         r="5.6528602"
+         fill="#808080"
+         style="stroke-width:1.88429;paint-order:normal;image-rendering:optimizeSpeed"
+         id="circle2859" /><path
+         d="m 345.93781,177.10632 a 5.6528601,5.6528601 0 0 0 -2.82643,0.76691 v 4.88595 a 2.82643,2.82643 0 0 0 2.82643,2.82643 2.82643,2.82643 0 0 0 2.82643,-2.82643 v -4.89161 a 5.6528601,5.6528601 0 0 0 -2.82643,-0.76125 z"
+         fill="#ffffff"
+         opacity="0.25"
+         style="stroke-width:1.88429;paint-order:normal;image-rendering:optimizeSpeed"
+         id="path2861" /><circle
+         transform="rotate(-90)"
+         cx="-182.75919"
+         cy="380.97235"
+         r="5.6528602"
+         fill="#808080"
+         style="stroke-width:1.88429;paint-order:normal;image-rendering:optimizeSpeed"
+         id="circle2863" /><path
+         d="m 380.97235,188.41204 a 5.6528601,5.6528601 0 0 0 2.82643,-0.7669 v -4.88596 a 2.82643,2.82643 0 0 0 -2.82643,-2.82643 2.82643,2.82643 0 0 0 -2.82643,2.82643 v 4.89161 a 5.6528601,5.6528601 0 0 0 2.82643,0.76125 z"
+         fill="#ffffff"
+         opacity="0.25"
+         style="stroke-width:1.88429;paint-order:normal;image-rendering:optimizeSpeed"
+         id="path2865" /><rect
+         x="339.51804"
+         y="139.42059"
+         width="48.991455"
+         height="33.91716"
+         ry="1.8842866"
+         fill="#202020"
+         style="stroke-width:1.88429;paint-order:normal;image-rendering:optimizeSpeed"
+         id="rect2867" /><path
+         fill="#3af684"
+         style="stroke-width:1.88429;paint-order:normal;image-rendering:optimizeSpeed"
+         d="m 343.28662,141.30487 h 9.42143 v 30.14859 h -9.42143 z m 15.07429,18.84287 h 11.30572 v 11.30572 h -11.30572 z"
+         id="path2871" /><path
+         fill="#0eabe7"
+         style="stroke-width:1.88429;paint-order:normal;image-rendering:optimizeSpeed"
+         d="m 375.31949,152.61059 h 9.42144 v 18.84287 h -9.42144 z"
+         id="path2873" /></g></g></svg>
