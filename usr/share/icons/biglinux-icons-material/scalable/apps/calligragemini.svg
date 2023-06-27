@@ -1,1 +1,502 @@
-<svg width="64" height="64" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg"><rect x="1.323" y="1.323" width="14.287" height="14.287" rx="7.144" ry="7.144" fill="#b3b3b3" stroke="#000" stroke-opacity=".137" stroke-width=".265" style="paint-order:markers stroke fill"/><rect x="1.323" y="1.323" width="14.287" height="14.287" rx="7.144" ry="7.144" fill="#f9f9f9" style="paint-order:markers stroke fill"/><path d="M7.984 10.115c.529.317 1.818.126 2.832.782s1.585 1.711 1.606 1.754.022.084-.042.148-.169.063-.169.063-2.346.38-3.846-1.036C6.843 10.41 6.97 8.973 6.97 8.973s.084.613 1.014 1.142z" clip-rule="evenodd" fill="#f08616" fill-rule="evenodd"/><path d="M6.949 7.98s-.106-1.458 1.394-2.853c1.522-1.438 3.868-1.057 3.868-1.057s.106.021.17.063.063.106.041.148-.591 1.12-1.606 1.754-2.303.465-2.832.782C7.075 7.367 6.95 7.98 6.95 7.98z" clip-rule="evenodd" fill="#09b2df" fill-rule="evenodd"/><path d="M6.928 8.466a4.438 4.438 0 0 0 4.438 4.438H8.407a4.438 4.438 0 1 1 0-8.876h2.959a4.438 4.438 0 0 0-4.438 4.438z" clip-rule="evenodd" fill="#1b1f24" fill-rule="evenodd" stroke-width="1.252"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128mm"
+   height="127.99948mm"
+   viewBox="0 0 128 127.99948"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:export-filename="calibre-ebook-edit.svg"
+   inkscape:export-xdpi="25.400002"
+   inkscape:export-ydpi="25.400002"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" /><defs
+     id="defs2"><linearGradient
+       inkscape:collect="always"
+       id="linearGradient2597"><stop
+         style="stop-color:#b3b3b3;stop-opacity:1"
+         offset="0"
+         id="stop2593" /><stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop2595" /></linearGradient><style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-9">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-3">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-97">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-9-0">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-9">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-3-3">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-97-6">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      </style><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2597"
+       id="linearGradient2599"
+       x1="236.0594"
+       y1="-0.63604528"
+       x2="222.89369"
+       y2="515.02106"
+       gradientUnits="userSpaceOnUse" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2597"
+       id="linearGradient2815"
+       gradientUnits="userSpaceOnUse"
+       x1="236.0594"
+       y1="-0.63604528"
+       x2="222.89369"
+       y2="515.02106" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2597"
+       id="linearGradient2817"
+       gradientUnits="userSpaceOnUse"
+       x1="236.0594"
+       y1="-0.63604528"
+       x2="222.89369"
+       y2="515.02106" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2597"
+       id="linearGradient2819"
+       gradientUnits="userSpaceOnUse"
+       x1="236.0594"
+       y1="-0.63604528"
+       x2="222.89369"
+       y2="515.02106" /></defs><g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.000001,-84.500272)"><g
+       id="g244"
+       transform="matrix(-0.28676179,0,0,-0.28676181,169.00002,212.49981)"
+       style="fill:url(#linearGradient2599);fill-opacity:1"
+       inkscape:export-filename="calligragemini.svg"
+       inkscape:export-xdpi="25.400002"
+       inkscape:export-ydpi="25.400002"><g
+         id="g246"
+         style="fill:url(#linearGradient2819);fill-opacity:1"><g
+           id="g252"
+           style="fill:url(#linearGradient2817);fill-opacity:1"><path
+             d="m 174.406,2.305 c 2.434,0.027 4.758,-0.285 6.973,-0.93 29.133,-1.906 58.258,-1.832 87.387,0.234 26.41,2.055 51.976,7.786 76.699,17.188 41.097,16.922 69.219,46.269 84.363,88.043 8.66,25.152 13.774,51.015 15.34,77.59 2.164,33.371 1.391,66.668 -2.324,99.89 -2.782,23.352 -8.824,45.805 -18.129,67.368 -17.258,37.382 -45.223,63.167 -83.899,77.355 -31.343,10.59 -63.57,16.164 -96.687,16.723 -37.246,1.937 -74.121,-0.848 -110.625,-8.36 C 66.312,422.438 24.867,381.477 9.164,314.52 2.496,284.375 -0.523,253.867 0.098,222.992 -0.645,190.16 2.84,157.793 10.559,125.891 27.02,63.285 66.762,24.488 129.785,9.508 144.469,5.914 159.344,3.516 174.406,2.305 Z"
+             style="fill:url(#linearGradient2815);fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path260" /></g></g></g><g
+       id="g2609"
+       transform="matrix(1.096287,0,0,1.096287,-306.54776,21.573827)"><path
+         d="m 373.63823,129.11847 c 4.28039,2.56499 14.71031,1.01952 22.91507,6.32753 8.20476,5.30801 12.82499,13.84452 12.99491,14.19246 0.16992,0.34793 0.17802,0.67968 -0.33984,1.19754 -0.51785,0.51785 -1.36746,0.50976 -1.36746,0.50976 0,0 -18.98261,3.07476 -31.11983,-8.38277 -12.31523,-11.45754 -11.28761,-23.08499 -11.28761,-23.08499 0,0 0.67968,4.96007 8.20476,9.24047 z"
+         clip-rule="evenodd"
+         fill="#f08616"
+         fill-rule="evenodd"
+         id="path2574"
+         style="stroke-width:8.09148" /><path
+         d="m 365.26355,111.84316 c 0,0 -0.8577,-11.79738 11.27952,-23.084992 12.31523,-11.635547 31.29784,-8.552693 31.29784,-8.552693 0,0 0.8577,0.169921 1.37555,0.509763 0.51786,0.339842 0.50977,0.857697 0.33175,1.197539 -0.17801,0.339842 -4.78206,9.062457 -12.99491,14.192454 -8.21285,5.129999 -18.63468,3.762538 -22.91507,6.327539 -7.35516,4.45031 -8.36659,9.41039 -8.36659,9.41039 z"
+         clip-rule="evenodd"
+         fill="#09b2df"
+         fill-rule="evenodd"
+         id="path2576"
+         style="stroke-width:8.09148" /><path
+         d="m 365.09363,115.77562 a 35.909984,35.909984 0 0 0 35.90998,35.90998 h -23.94269 a 35.909984,35.909984 0 1 1 0,-71.819967 h 23.94269 a 35.909984,35.909984 0 0 0 -35.90998,35.909987 z"
+         clip-rule="evenodd"
+         fill="#1b1f24"
+         fill-rule="evenodd"
+         stroke-width="10.1305"
+         id="path2578" /></g></g></svg>
