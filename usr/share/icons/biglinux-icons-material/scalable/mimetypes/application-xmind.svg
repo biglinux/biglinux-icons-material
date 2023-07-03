@@ -1,16 +1,10 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <g fill-rule="evenodd">
-  <path transform="scale(3.7796)" d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
-  <g transform="scale(3.7796)">
-   <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12z" fill="#fa4b2d" style="paint-order:stroke fill markers"/>
-   <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#fff" opacity=".35" style="paint-order:stroke fill markers"/>
-  </g>
-  <path d="m43.998 11v0.58399c0 3.0009 2.23 5.4162 5 5.4162h6.9998l5.37e-4 -1.0002-7.0006 1.89e-4c-2.77 7.5e-5 -5-2.23-5-5z" opacity=".1" stroke-width="3.9338" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m41.25 26-6.454 1.118c0.093 4.223-4.186 7.158-8.201-0.798l-7.593 1.119c1.182 4.302 5.425 4.832 8.255 7.095-1.415 2.122-7.843 0.844-7.671 7.467l6.454-1.119c-0.093-4.223 7.355-7.78 11.369 0.177l7.593-1.119c-1.184-4.313-5.693-4.723-8.523-7 1.402-3.083 6.04-0.31 4.77-6.94" color="#000000" color-rendering="auto" fill="#fff" image-rendering="auto" opacity=".75" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_298)"/>
+<path opacity="0.75" d="M17.6911 7L13.7194 7.688C13.7766 10.2868 11.1434 12.0929 8.67261 7.19692L4 7.88554C4.72738 10.5329 7.33846 10.8591 9.08 12.2517C8.20923 13.5575 4.25354 12.7711 4.35938 16.8468L8.33108 16.1582C8.27385 13.5594 12.8572 11.3705 15.3274 16.2671L20 15.5785C19.2714 12.9243 16.4966 12.672 14.7551 11.2708C15.6178 9.37354 18.4726 11.08 17.6911 7Z" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial_21_298" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#FC8A76"/>
+<stop offset="1" stop-color="#E14429"/>
+</radialGradient>
+</defs>
 </svg>

@@ -17,25 +17,79 @@
   <sodipodi:namedview
      id="namedview156"
      pagecolor="#ffffff"
-     bordercolor="#eeeeee"
-     borderopacity="0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pagecheckerboard="false"
-     inkscape:deskcolor="#888888"
+     inkscape:deskcolor="#ffffff"
      showgrid="true"
-     inkscape:zoom="32.000001"
-     inkscape:cx="1.3125"
-     inkscape:cy="10.296875"
-     inkscape:window-width="952"
-     inkscape:window-height="1044"
-     inkscape:window-x="960"
+     inkscape:zoom="32"
+     inkscape:cx="7.5"
+     inkscape:cy="12.453125"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg154">
+     inkscape:current-layer="svg154"
+     showguides="true"
+     guidecolor="#ff0000"
+     guideopacity="1"
+     inkscape:lockguides="true"
+     showborder="true"
+     borderlayer="true">
     <inkscape:grid
        type="xygrid"
-       id="grid356" />
+       id="grid356"
+       color="#000000"
+       opacity="0.10196078"
+       empcolor="#000000"
+       empopacity="0.10196078"
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+    <sodipodi:guide
+       position="4.003125,23.042969"
+       orientation="1,0"
+       id="guide764"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="5.0007813,21.049219"
+       orientation="1,0"
+       id="guide2218"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="3.6445312,20"
+       orientation="0,-1"
+       id="guide2220"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="3.796875,5"
+       orientation="0,-1"
+       id="guide2222"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="3.625,4"
+       orientation="0,-1"
+       id="guide2224"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="19,4.8984375"
+       orientation="1,0"
+       id="guide2226"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="20,3.3312502"
+       orientation="1,0"
+       id="guide2228"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="22.875,19"
+       orientation="0,-1"
+       id="guide2230"
+       inkscape:locked="true" />
   </sodipodi:namedview>
   <defs
      id="defs152">
@@ -48,11 +102,14 @@
        gradientTransform="translate(12 1) rotate(90) scale(22)">
       <stop
          stop-color="#8FC8FF"
-         id="stop147" />
+         id="stop147"
+         offset="0"
+         style="stop-color:#f6f6f6;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#0056A8"
-         id="stop149" />
+         id="stop149"
+         style="stop-color:#cfcfcf;stop-opacity:1;" />
     </radialGradient>
     <radialGradient
        inkscape:collect="always"
@@ -65,47 +122,37 @@
        r="1"
        fx="0.17911513"
        fy="-1.7483425" />
+    <radialGradient
+       id="paint0_radial_10_2"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-10.999959,21.999967,-21.999967,-10.999959,17.5,1)"
+       xlink:href="#paint0_radial_29_23">
+      <stop
+         stop-color="#777777"
+         id="stop2847" />
+      <stop
+         offset="1"
+         stop-color="#222222"
+         id="stop2849" />
+    </radialGradient>
   </defs>
-  <g
-     id="g2267"
+  <path
+     d="M 50,5 C 9.0909092,5 5,25.454546 5,50 5,82.727274 17.272728,95 50,95 82.727274,95 95,82.727274 95,50 95,25.454546 90.909093,5 50,5 Z"
+     sketch:type="MSShapeGroup"
+     id="path6"
+     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#radialGradient1161);fill-opacity:1;stroke-width:4.56656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     sodipodi:nodetypes="sssss"
      inkscape:label="Shape"
-     inkscape:highlight-color="#00dcff">
-    <path
-       d="M 50,5 C 9.0909092,5 5,25.454546 5,50 5,82.727274 17.272728,95 50,95 82.727274,95 95,82.727274 95,50 95,25.454546 90.909093,5 50,5 Z"
-       sketch:type="MSShapeGroup"
-       id="path6"
-       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#radialGradient1161);fill-opacity:1;stroke-width:4.56656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       transform="matrix(0.24444444,0,0,0.24444444,-0.22222222,-0.22222222)"
-       sodipodi:nodetypes="sssss"
-       inkscape:label="Squircle" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Guides"
-     sodipodi:insensitive="true"
-     style="display:none">
-    <circle
-       style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:0.592829;stroke:#ff0000;stroke-width:0.0444444;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000;stop-opacity:1"
-       id="path1480"
-       cx="12"
-       cy="12"
-       r="8"
-       inkscape:label="Circle Guide" />
-    <rect
-       style="font-variation-settings:normal;display:inline;opacity:1;fill:none;fill-opacity:0.592829;stroke:#ff0000;stroke-width:0.05;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000;stop-opacity:1"
-       id="rect1482"
-       width="14"
-       height="14"
-       x="5"
-       y="5"
-       inkscape:label="Square Guide" />
-  </g>
+     transform="matrix(0.24444444,0,0,0.24444444,-0.22222222,-0.22222222)"
+     sodipodi:insensitive="true" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Colors References"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true"
      inkscape:highlight-color="#cc5ecc">
     <rect

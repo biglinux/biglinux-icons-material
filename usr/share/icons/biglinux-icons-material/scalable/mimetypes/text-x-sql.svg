@@ -1,23 +1,15 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
- <g fill-rule="evenodd">
-  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
- <g transform="translate(-19.843 2.3149)" fill="none" stroke="#999" stroke-width=".52916">
-  <ellipse cx="28.31" cy="3.7698" rx="3.4395" ry="1.3229" enable-background="new" stroke-dashoffset="1" stroke-linejoin="round"/>
-  <path d="m24.87 3.7041v4.8286" enable-background="new"/>
-  <g stroke-dashoffset="1" stroke-linejoin="round">
-   <path d="m31.749 5.3573a3.4395 1.3229 0 0 1-1.7198 1.1457 3.4395 1.3229 0 0 1-3.4395 0 3.4395 1.3229 0 0 1-1.7198-1.1457" enable-background="new"/>
-   <path d="m31.749 6.9448a3.4395 1.3229 0 0 1-1.7198 1.1457 3.4395 1.3229 0 0 1-3.4395 0 3.4395 1.3229 0 0 1-1.7198-1.1457" enable-background="new"/>
-   <path d="m31.749 8.5323a3.4395 1.3229 0 0 1-1.7198 1.1457 3.4395 1.3229 0 0 1-3.4395 0 3.4395 1.3229 0 0 1-1.7198-1.1457" enable-background="new"/>
-  </g>
-  <path d="m31.749 3.7041v4.8286" enable-background="new"/>
- </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_2425)"/>
+<path d="M12.0007 9.71421C15.8663 9.71421 19.0001 8.43504 19.0001 6.85711C19.0001 5.27917 15.8663 4 12.0007 4C8.13503 4 5.0013 5.27917 5.0013 6.85711C5.0013 8.43504 8.13503 9.71421 12.0007 9.71421Z" stroke="#999999" stroke-width="1.14284" stroke-linejoin="round"/>
+<path d="M5.00022 6.71521V17.1437" stroke="#999999" stroke-width="1.14284"/>
+<path d="M18.999 10.2857C18.999 10.7872 18.6756 11.2799 18.0612 11.7143C17.4469 12.1486 16.5633 12.5093 15.4992 12.7601C14.4351 13.0108 13.2281 13.1429 11.9995 13.1429C10.7708 13.1429 9.56384 13.0108 8.4998 12.7601C7.43571 12.5093 6.55208 12.1486 5.93774 11.7143C5.32339 11.2799 4.99998 10.7872 5 10.2857" stroke="#999999" stroke-width="1.14284" stroke-linejoin="round"/>
+<path d="M18.999 13.7142C18.999 14.2158 18.6756 14.7085 18.0612 15.1429C17.4469 15.5772 16.5633 15.9379 15.4992 16.1886C14.4351 16.4394 13.2281 16.5714 11.9995 16.5714C10.7708 16.5714 9.56384 16.4394 8.4998 16.1886C7.43571 15.9379 6.55208 15.5772 5.93774 15.1429C5.32339 14.7085 4.99998 14.2158 5 13.7142" stroke="#999999" stroke-width="1.14284" stroke-linejoin="round"/>
+<path d="M18.999 17.1428C18.999 17.6444 18.6756 18.1371 18.0612 18.5714C17.4469 19.0058 16.5633 19.3665 15.4992 19.6172C14.4351 19.868 13.2281 20 11.9995 20C10.7708 20 9.56384 19.868 8.4998 19.6172C7.43571 19.3665 6.55208 19.0058 5.93774 18.5714C5.32339 18.1371 4.99998 17.6444 5 17.1428" stroke="#999999" stroke-width="1.14284" stroke-linejoin="round"/>
+<path d="M18.999 6.71521V17.1437" stroke="#999999" stroke-width="1.14284"/>
+<defs>
+<radialGradient id="paint0_radial_21_2425" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#BBBBBB"/>
+</radialGradient>
+</defs>
 </svg>

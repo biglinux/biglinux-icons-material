@@ -1,59 +1,38 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g fill="#b3b3b3">
-  <g transform="translate(-1,1)">
-   <rect transform="scale(1,-1)" x="25" y="-60" width="4" height="9.6429"/>
-   <rect transform="scale(1,-1)" x="23" y="-56" width="8" height="5.7857"/>
-  </g>
-  <g transform="translate(11,1)">
-   <rect transform="scale(1,-1)" x="25" y="-60" width="4" height="9.6429"/>
-   <rect transform="scale(1,-1)" x="23" y="-56" width="8" height="5.7857"/>
-  </g>
-  <g transform="translate(22,1)">
-   <rect transform="scale(1,-1)" x="25" y="-60" width="4" height="9.6429"/>
-   <rect transform="scale(1,-1)" x="23" y="-56" width="8" height="5.7857"/>
-  </g>
-  <g transform="translate(0,1)">
-   <rect transform="scale(1,-1)" x="13" y="-60" width="4" height="9.6429"/>
-   <rect transform="scale(1,-1)" x="11" y="-56" width="8" height="5.7857"/>
-  </g>
- </g>
- <g transform="translate(-1)">
-  <rect transform="scale(1,-1)" x="25" y="-60" width="4" height="9.6429" fill="#ececec"/>
-  <rect transform="scale(1,-1)" x="23" y="-56" width="8" height="5.7857" fill="#ccc"/>
- </g>
- <g transform="translate(11)">
-  <rect transform="scale(1,-1)" x="25" y="-60" width="4" height="9.6429" fill="#ececec"/>
-  <rect transform="scale(1,-1)" x="23" y="-56" width="8" height="5.7857" fill="#ccc"/>
- </g>
- <g transform="translate(22)">
-  <rect transform="scale(1,-1)" x="25" y="-60" width="4" height="9.6429" fill="#ececec"/>
-  <rect transform="scale(1,-1)" x="23" y="-56" width="8" height="5.7857" fill="#ccc"/>
- </g>
- <g transform="matrix(1.9286 0 0 1.9286 -271.07 -462.79)">
-  <rect x="153" y="241" width="2.0741" height="5.1852" fill="#ececec"/>
-  <rect x="151.96" y="243.07" width="4.1481" height="3" fill="#ccc"/>
- </g>
- <g transform="matrix(1.9286 0 0 1.9286 -259.07 -462.79)">
-  <rect x="153" y="241" width="2.0741" height="5.1852" fill="#ececec"/>
-  <rect x="151.96" y="243.07" width="4.1481" height="3" fill="#ccc"/>
- </g>
- <g transform="matrix(1.9286 0 0 1.9286 -248.07 -462.79)">
-  <rect x="153" y="241" width="2.0741" height="5.1852" fill="#ececec"/>
-  <rect x="151.96" y="243.07" width="4.1481" height="3" fill="#ccc"/>
- </g>
- <g>
-  <rect transform="scale(1,-1)" x="13" y="-60" width="4" height="9.6429" fill="#ececec"/>
-  <rect transform="scale(1,-1)" x="11" y="-56" width="8" height="5.7857" fill="#ccc"/>
- </g>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-56" y="-59" width="46" height="54" rx="5.75" ry="5.7857" enable-background="new" opacity=".15"/>
- <g transform="matrix(1.9286 0 0 1.9286 -282.07 -462.79)">
-  <rect x="153" y="241" width="2.0741" height="5.1852" fill="#ececec"/>
-  <rect x="151.96" y="243.07" width="4.1481" height="3" fill="#ccc"/>
- </g>
- <g>
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-55" y="-59" width="46" height="54" rx="5.75" ry="5.7857" enable-background="new" fill="#666"/>
-  <rect x="13" y="40" width="38" height="2" enable-background="new" fill="#808080"/>
-  <rect x="13" y="44" width="27" height="2" enable-background="new" fill="#808080"/>
-  <path d="m10.785 9c-3.2053 0-5.7852 2.5645-5.7852 5.75v0.875c0-3.1162 2.5799-5.625 5.7852-5.625h42.43c3.2053 0 5.7852 2.5088 5.7852 5.625v-0.875c0-3.1855-2.5799-5.75-5.7852-5.75h-42.43z" enable-background="new" fill="#fff" opacity=".15"/>
- </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_165)"/>
+<path d="M10.75 21.0625H9.5V18.0491H10.75V21.0625Z" fill="#B3B3B3"/>
+<path d="M11.375 19.8125H8.875V18.0045H11.375V19.8125Z" fill="#B3B3B3"/>
+<path d="M14.5 21.0625H13.25V18.0491H14.5V21.0625Z" fill="#B3B3B3"/>
+<path d="M15.125 19.8125H12.625V18.0045H15.125V19.8125Z" fill="#B3B3B3"/>
+<path d="M17.9375 21.0625H16.6875V18.0491H17.9375V21.0625Z" fill="#B3B3B3"/>
+<path d="M18.5625 19.8125H16.0625V18.0045H18.5625V19.8125Z" fill="#B3B3B3"/>
+<path d="M7.3125 21.0625H6.0625V18.0491H7.3125V21.0625Z" fill="#B3B3B3"/>
+<path d="M7.9375 19.8125H5.4375V18.0045H7.9375V19.8125Z" fill="#B3B3B3"/>
+<path d="M10.75 20.75H9.5V17.7366H10.75V20.75Z" fill="#ECECEC"/>
+<path d="M11.375 19.5H8.875V17.692H11.375V19.5Z" fill="#CCCCCC"/>
+<path d="M14.5 20.75H13.25V17.7366H14.5V20.75Z" fill="#ECECEC"/>
+<path d="M15.125 19.5H12.625V17.692H15.125V19.5Z" fill="#CCCCCC"/>
+<path d="M17.9375 20.75H16.6875V17.7366H17.9375V20.75Z" fill="#ECECEC"/>
+<path d="M18.5625 19.5H16.0625V17.692H18.5625V19.5Z" fill="#CCCCCC"/>
+<path d="M10.7518 2.62581H9.50181V5.75086H10.7518V2.62581Z" fill="#ECECEC"/>
+<path d="M11.375 3.87338H8.87502V5.68144H11.375V3.87338Z" fill="#CCCCCC"/>
+<path d="M14.5018 2.62581H13.2518V5.75086H14.5018V2.62581Z" fill="#ECECEC"/>
+<path d="M15.125 3.87338H12.625V5.68144H15.125V3.87338Z" fill="#CCCCCC"/>
+<path d="M17.9393 2.62581H16.6893V5.75086H17.9393V2.62581Z" fill="#ECECEC"/>
+<path d="M18.5625 3.87338H16.0625V5.68144H18.5625V3.87338Z" fill="#CCCCCC"/>
+<path d="M7.3125 20.75H6.0625V17.7366H7.3125V20.75Z" fill="#ECECEC"/>
+<path d="M7.9375 19.5H5.4375V17.692H7.9375V19.5Z" fill="#CCCCCC"/>
+<path opacity="0.15" d="M20.4375 6.92188V17.7031C20.4375 18.6955 19.628 19.5 18.6295 19.5H5.37053C4.37198 19.5 3.5625 18.6955 3.5625 17.7031V6.92188C3.5625 5.92949 4.37198 5.125 5.37053 5.125H18.6295C19.628 5.125 20.4375 5.92949 20.4375 6.92188Z" fill="black"/>
+<path d="M7.31434 2.62581H6.06431V5.75086H7.31434V2.62581Z" fill="#ECECEC"/>
+<path d="M7.93752 3.87338H5.43752V5.68144H7.93752V3.87338Z" fill="#CCCCCC"/>
+<path d="M20.4375 6.60938V17.3906C20.4375 18.383 19.628 19.1875 18.6295 19.1875H5.37053C4.37198 19.1875 3.5625 18.383 3.5625 17.3906V6.60938C3.5625 5.61699 4.37198 4.8125 5.37053 4.8125H18.6295C19.628 4.8125 20.4375 5.61699 20.4375 6.60938Z" fill="#666666"/>
+<path d="M17.9375 14.5H6.0625V15.125H17.9375V14.5Z" fill="#808080"/>
+<path d="M14.5 15.75H6.0625V16.375H14.5V15.75Z" fill="#808080"/>
+<path opacity="0.15" d="M5.37031 4.8125C4.36866 4.8125 3.56244 5.61391 3.56244 6.60938V6.88281C3.56244 5.909 4.36866 5.125 5.37031 5.125H18.6297C19.6313 5.125 20.4376 5.909 20.4376 6.88281V6.60938C20.4376 5.61391 19.6313 4.8125 18.6297 4.8125H5.37031Z" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial_21_165" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#629F60"/>
+<stop offset="1" stop-color="#274F33"/>
+</radialGradient>
+</defs>
 </svg>
