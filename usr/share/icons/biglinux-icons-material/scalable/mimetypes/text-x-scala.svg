@@ -1,15 +1,11 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <path transform="scale(3.7796)" d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
- <g transform="scale(3.7796)" fill-rule="evenodd">
-  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m43.998 11v0.58399c0 3.0009 2.23 5.4162 5 5.4162h6.9998l5.37e-4 -1.0002-7.0006 1.89e-4c-2.77 7.5e-5 -5-2.23-5-5z" opacity=".1" stroke-width="3.9338" style="paint-order:stroke fill markers"/>
- <path id="d" d="m43 32c-11.921 4.372-16.851 4.113-22 4v7c7.357-0.629 14.73-0.779 22-4v-6zm-1 1.369v4.924c-6.515 2.732-13.189 3.061-20 3.609v-4.895c4.615 0.097 9.78-0.051 20-3.639" color="#4d4d4d" color-rendering="auto" fill="#892a1f" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
- <use y="-11" width="100%" height="100%" color="#4d4d4d" color-rendering="auto" fill="#892a1f" image-rendering="auto" shape-rendering="auto" solid-color="#000000" text-rendering="auto" style="isolation:auto;mix-blend-mode:normal" xlink:href="#d"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_2322)"/>
+<path d="M20 12C11.3302 15.1796 7.74473 14.9913 4 14.9091V20C9.35055 19.5425 14.7127 19.4335 20 17.0909V12.7273V12ZM19.2727 12.9956V16.5767C14.5345 18.5636 9.68073 18.8029 4.72727 19.2015V15.6415C8.08364 15.712 11.84 15.6051 19.2727 12.9956Z" fill="#892A1F"/>
+<path d="M20 4C11.3302 7.17964 7.74473 6.99127 4 6.90909V12C9.35055 11.5425 14.7127 11.4335 20 9.09091V4.72727V4ZM19.2727 4.99564V8.57673C14.5345 10.5636 9.68073 10.8029 4.72727 11.2015V7.64145C8.08364 7.712 11.84 7.60509 19.2727 4.99564Z" fill="#892A1F"/>
+<defs>
+<radialGradient id="paint0_radial_21_2322" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#BBBBBB"/>
+</radialGradient>
+</defs>
 </svg>

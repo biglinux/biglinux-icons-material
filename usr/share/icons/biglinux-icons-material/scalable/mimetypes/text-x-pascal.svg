@@ -1,15 +1,11 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <path transform="scale(3.7796)" d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
- <g transform="scale(3.7796)" fill-rule="evenodd">
-  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m43.998 11v0.58399c0 3.0009 2.23 5.4162 5 5.4162h6.9998l5.37e-4 -1.0002-7.0006 1.89e-4c-2.77 7.5e-5 -5-2.23-5-5z" opacity=".1" stroke-width="3.9338" style="paint-order:stroke fill markers"/>
- <text x="25.768921" y="44" fill="#e6446d" font-family="sans-serif" font-size="32.922px" letter-spacing="0px" stroke-width=".82304" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="25.768921" y="44" fill="#e6446d" stroke-width=".82304">P</tspan></text>
- <circle cx="23.5" cy="30.5" r="1.5" fill="#e6446d" style="paint-order:normal"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_2092)"/>
+<path d="M8.88145 17V7.42269H12.1175C12.8689 7.42269 13.483 7.55831 13.96 7.82954C14.4402 8.09765 14.7956 8.46086 15.0263 8.91915C15.257 9.37743 15.3723 9.88872 15.3723 10.453C15.3723 11.0173 15.257 11.5301 15.0263 11.9916C14.7987 12.453 14.4464 12.8208 13.9694 13.0952C13.4924 13.3664 12.8813 13.502 12.1362 13.502H9.81673V12.4732H12.0988C12.6132 12.4732 13.0263 12.3844 13.3381 12.2067C13.6498 12.029 13.8759 11.7889 14.0162 11.4865C14.1596 11.181 14.2313 10.8365 14.2313 10.453C14.2313 10.0695 14.1596 9.72661 14.0162 9.4242C13.8759 9.12179 13.6483 8.88485 13.3334 8.71338C13.0185 8.5388 12.6008 8.4515 12.0801 8.4515H10.0412V17H8.88145Z" fill="#E6446D"/>
+<path d="M6.68522 12.3688C7.06366 12.3688 7.37044 12.1002 7.37044 11.7688C7.37044 11.4374 7.06366 11.1688 6.68522 11.1688C6.30678 11.1688 6 11.4374 6 11.7688C6 12.1002 6.30678 12.3688 6.68522 12.3688Z" fill="#E6446D"/>
+<defs>
+<radialGradient id="paint0_radial_21_2092" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#BBBBBB"/>
+</radialGradient>
+</defs>
 </svg>
