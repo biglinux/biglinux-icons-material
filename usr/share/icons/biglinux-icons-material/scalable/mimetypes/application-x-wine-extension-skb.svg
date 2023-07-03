@@ -1,24 +1,18 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <clipPath id="a">
-   <path d="m302 290a8 8 0 1 1-16 0 8 8 0 1 1 16 0z" color="#bebebe" fill="#ddd" opacity=".5" overflow="visible"/>
-  </clipPath>
-  <filter id="b" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <g fill-rule="evenodd">
-  <path transform="scale(3.7796)" d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#b)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
-  <path d="m13 4.0015c-2.77 0-5 2.2299-5 5v46.002c0 2.7699 2.23 5 5 5h38c2.77 0 5-2.2299 5-5v-39.002l-12-11.999z" fill="#37a7e5" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
-  <path d="m55.999 16-12-12v6.9998c0 2.77 2.23 5 5 5z" fill="#fff" opacity=".35" stroke-width="3.7796" style="paint-order:stroke fill markers"/>
- </g>
- <g transform="translate(0,1.992)" stroke-width=".839">
-  <path d="m35.546 20.589-14.517 1.84 1.037 2.287 10.511-1.553 3.801 3.912 6.125-1.073zm-2.846 6.913-9.999 1.698 0.974 2.555 5.44-1.027 1.394 2.41 5.762-1.241zm-3.273 8.075-4.945 1.083 0.948 2.767 5.338-1.349z" fill="#fff"/>
- </g>
- <g transform="translate(-.2267 .99882)" stroke-width=".839">
-  <path transform="matrix(1.7399 0 0 2.0851 -462.12 -572.14)" d="m293 295.5c0 1.38-1.343 2.5-3 2.5s-3-1.12-3-2.5 1.343-2.5 3-2.5 3 1.12 3 2.5z" color="#bebebe" fill="none" opacity=".2" overflow="visible" stroke="#fff" stroke-linecap="round" stroke-width=".656"/>
-  <path transform="matrix(1.7399 0 0 2.0851 -462.12 -572.14)" d="m287 295.51c-7e-3 -1.38 1.33-2.504 2.987-2.51s3.006 1.109 3.013 2.49c7e-3 1.377-1.324 2.5-2.977 2.51" color="#bebebe" fill="none" overflow="visible" stroke="#fff" stroke-linecap="round" stroke-width=".656"/>
-  <path transform="matrix(.74566 0 0 .74467 -176.78 -171.96)" d="m287 294-3.057-5.029h6.057z" clip-path="url(#a)" fill="#fff"/>
- </g>
- <path d="m43.998 11v0.58399c0 3.0009 2.23 5.4162 5 5.4162h6.9998l5.37e-4 -1.0002-7.0006 1.89e-4c-2.77 7.5e-5 -5-2.23-5-5z" fill-rule="evenodd" opacity=".1" stroke-width="3.9338" style="paint-order:stroke fill markers"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_469)"/>
+<path d="M15.33 4L3 5.5628L3.88077 7.50525L12.8083 6.18622L16.0366 9.50887L21.2389 8.59752L15.33 4ZM12.9127 9.87154L4.42011 11.3137L5.24737 13.4838L9.86782 12.6115L11.0518 14.6585L15.9458 13.6044L12.9127 9.87154ZM10.1328 16.73L5.9328 17.6499L6.73798 20L11.2718 18.8542L10.1328 16.73Z" fill="white"/>
+<path opacity="0.2" d="M20.6285 17.0064C20.6285 18.4554 19.4534 19.6314 18.0035 19.6314C16.5536 19.6314 15.3785 18.4554 15.3785 17.0064C15.3785 15.5574 16.5536 14.3814 18.0035 14.3814C19.4534 14.3814 20.6285 15.5574 20.6285 17.0064Z" stroke="white" stroke-width="0.629212" stroke-linecap="round"/>
+<path d="M15.3785 17.0169C15.3723 15.5679 16.5422 14.3877 17.9921 14.3814C19.442 14.3751 20.6224 15.5458 20.6285 16.9959C20.6347 18.4418 19.47 19.6209 18.0236 19.6314" stroke="white" stroke-width="0.629212" stroke-linecap="round"/>
+<mask id="mask0_21_469" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="15" y="14" width="6" height="6">
+<path d="M21 17C21 17.7956 20.6839 18.5587 20.1213 19.1213C19.5587 19.6839 18.7956 20 18 20C17.2044 20 16.4413 19.6839 15.8787 19.1213C15.3161 18.5587 15 17.7956 15 17C15 16.2044 15.3161 15.4413 15.8787 14.8787C16.4413 14.3161 17.2044 14 18 14C18.7956 14 19.5587 14.3161 20.1213 14.8787C20.6839 15.4413 21 16.2044 21 17Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_21_469)">
+<path d="M15.375 18.5L14.2286 16.6141H16.5L15.375 18.5Z" fill="white"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_21_469" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#7DC6EE"/>
+<stop offset="1" stop-color="#3297CF"/>
+</radialGradient>
+</defs>
 </svg>

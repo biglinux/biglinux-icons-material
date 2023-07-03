@@ -1,20 +1,14 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a-6" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <g fill-rule="evenodd">
-  <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a-6)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
-  <path d="m3.4395 1.0588c-0.73289 0-1.3229 0.58999-1.3229 1.3229v12.171c0 0.73286 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.58999 1.3229-1.3229v-10.319l-3.175-3.1749z" fill="#567dd2" stroke-width=".26458" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#fff" opacity=".35" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m6.9643 6.9697 2.9935 2.9935-1.4968 1.4136v-5.8207l1.4968 1.4136-2.9935 2.6609" fill="none" stroke="#fff" stroke-linecap="square" stroke-width=".33261"/>
- <g fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52916">
-  <circle cx="5.2916" cy="8.4665" r=".26458" style="paint-order:stroke fill markers"/>
-  <circle cx="6.3499" cy="8.4665" r=".26458" style="paint-order:stroke fill markers"/>
-  <circle cx="10.583" cy="8.4665" r=".26458" style="paint-order:stroke fill markers"/>
-  <circle cx="11.641" cy="8.4665" r=".26458" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" fill-rule="evenodd" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_62)"/>
+<path d="M8.32521 7.88572L16.5538 16.1143L12.4394 20V4L16.5538 7.88572L8.32521 15.2" stroke="white" stroke-width="0.914282" stroke-linecap="square"/>
+<path d="M3.72728 12.7274C4.12895 12.7274 4.45456 12.4018 4.45456 12.0001C4.45456 11.5985 4.12895 11.2729 3.72728 11.2729C3.32562 11.2729 3 11.5985 3 12.0001C3 12.4018 3.32562 12.7274 3.72728 12.7274Z" fill="white"/>
+<path d="M6.63634 12.7274C7.03801 12.7274 7.36363 12.4018 7.36363 12.0001C7.36363 11.5985 7.03801 11.2729 6.63634 11.2729C6.23468 11.2729 5.90907 11.5985 5.90907 12.0001C5.90907 12.4018 6.23468 12.7274 6.63634 12.7274Z" fill="white"/>
+<path d="M18.2723 12.7274C18.674 12.7274 18.9996 12.4018 18.9996 12.0001C18.9996 11.5985 18.674 11.2729 18.2723 11.2729C17.8707 11.2729 17.5451 11.5985 17.5451 12.0001C17.5451 12.4018 17.8707 12.7274 18.2723 12.7274Z" fill="white"/>
+<path d="M21.1806 12.7274C21.5822 12.7274 21.9079 12.4018 21.9079 12.0001C21.9079 11.5985 21.5822 11.2729 21.1806 11.2729C20.7789 11.2729 20.4533 11.5985 20.4533 12.0001C20.4533 12.4018 20.7789 12.7274 21.1806 12.7274Z" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial_21_62" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#91AAE2"/>
+<stop offset="1" stop-color="#4E71BD"/>
+</radialGradient>
+</defs>
 </svg>
