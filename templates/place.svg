@@ -24,8 +24,8 @@
      inkscape:deskcolor="#ffffff"
      showgrid="true"
      inkscape:zoom="32"
-     inkscape:cx="7.5"
-     inkscape:cy="12.453125"
+     inkscape:cx="11.328125"
+     inkscape:cy="12.171875"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
      inkscape:window-x="0"
@@ -50,48 +50,134 @@
        visible="true"
        dotted="false" />
     <sodipodi:guide
-       position="4.003125,23.042969"
-       orientation="1,0"
+       position="4,12"
+       orientation="-1,0"
        id="guide764"
-       inkscape:locked="true" />
+       inkscape:locked="true"
+       inkscape:label="left-circle"
+       inkscape:color="rgb(255,0,0)" />
     <sodipodi:guide
-       position="5.0007813,21.049219"
-       orientation="1,0"
+       position="5,12"
+       orientation="-1,0"
        id="guide2218"
-       inkscape:locked="true" />
+       inkscape:locked="true"
+       inkscape:label="left-square"
+       inkscape:color="rgb(255,0,0)" />
     <sodipodi:guide
-       position="3.6445312,20"
-       orientation="0,-1"
+       position="12,20"
+       orientation="0,1"
        id="guide2220"
-       inkscape:locked="true" />
+       inkscape:locked="true"
+       inkscape:label="top-circle"
+       inkscape:color="rgb(255,0,0)" />
     <sodipodi:guide
-       position="3.796875,5"
-       orientation="0,-1"
+       position="12,5"
+       orientation="0,1"
        id="guide2222"
-       inkscape:locked="true" />
+       inkscape:locked="true"
+       inkscape:label="bottom-square"
+       inkscape:color="rgb(255,0,0)" />
     <sodipodi:guide
-       position="3.625,4"
-       orientation="0,-1"
+       position="12,4"
+       orientation="0,1"
        id="guide2224"
-       inkscape:locked="true" />
+       inkscape:locked="true"
+       inkscape:label="bottom-circle"
+       inkscape:color="rgb(255,0,0)" />
     <sodipodi:guide
-       position="19,4.8984375"
-       orientation="1,0"
+       position="19,12"
+       orientation="-1,0"
        id="guide2226"
-       inkscape:locked="true" />
+       inkscape:locked="true"
+       inkscape:label="right-square"
+       inkscape:color="rgb(255,0,0)" />
     <sodipodi:guide
-       position="20,3.3312502"
-       orientation="1,0"
+       position="20,12"
+       orientation="-1,0"
        id="guide2228"
+       inkscape:locked="true"
+       inkscape:label="right-circle"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,19"
+       orientation="0,1"
+       id="guide2230"
+       inkscape:locked="true"
+       inkscape:label="top-square"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,12"
+       orientation="1,0"
+       id="guide40899"
        inkscape:locked="true" />
     <sodipodi:guide
-       position="22.875,19"
+       position="12,12"
        orientation="0,-1"
-       id="guide2230"
+       id="guide40901"
        inkscape:locked="true" />
+    <sodipodi:guide
+       position="12,12"
+       orientation="0.70710678,0.70710678"
+       id="guide40903"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,12"
+       orientation="-0.70710678,0.70710678"
+       id="guide40905"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,21"
+       orientation="0,1"
+       id="guide143017"
+       inkscape:locked="true"
+       inkscape:label="top-vertical"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="3,12"
+       orientation="-1,0"
+       id="guide143019"
+       inkscape:locked="true"
+       inkscape:label="left-horizontal"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="21,12"
+       orientation="-1,0"
+       id="guide143021"
+       inkscape:locked="true"
+       inkscape:label="right-horizontal"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,3"
+       orientation="0,1"
+       id="guide143023"
+       inkscape:locked="true"
+       inkscape:label="bottom-vertical"
+       inkscape:color="rgb(255,0,0)" />
   </sodipodi:namedview>
   <defs
      id="defs152">
+    <radialGradient
+       id="radialGradient51098"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(12 1) rotate(90) scale(22)">
+      <stop
+         stop-color="#8FC8FF"
+         id="stop51094"
+         offset="0"
+         style="stop-color:#f2f2f2;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#0056A8"
+         id="stop51096"
+         style="stop-color:#cccccc;stop-opacity:1;" />
+    </radialGradient>
     <radialGradient
        id="paint0_radial_29_23"
        cx="0"
@@ -112,7 +198,7 @@
     </radialGradient>
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#paint0_radial_29_23"
+       xlink:href="#radialGradient51098"
        id="radialGradient1161"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(3.9045581e-8,90.059469,-90.006811,0,-107.36954,-11.19048)"
@@ -193,122 +279,4 @@
      inkscape:label="Shape"
      style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#radialGradient1161);fill-opacity:1;stroke-width:1.11627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
      sodipodi:insensitive="true" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="Colors References"
-     style="display:inline"
-     sodipodi:insensitive="true"
-     inkscape:highlight-color="#cc5ecc">
-    <rect
-       style="display:inline;fill:#3947be;fill-opacity:1;stroke-width:22.6872;paint-order:markers stroke fill"
-       id="rect7816"
-       width="1.9999923"
-       height="2"
-       x="12"
-       y="-2.9999964"
-       rx="0"
-       ry="0"
-       inkscape:label="Dark Blue" />
-    <rect
-       style="display:inline;fill:#6c7ad8;fill-opacity:1;stroke-width:22.6873;paint-order:markers stroke fill"
-       id="rect7820"
-       width="2"
-       height="2.0000076"
-       x="9"
-       y="-3.0000041"
-       rx="0"
-       ry="0"
-       inkscape:label="Blue" />
-    <rect
-       style="display:inline;fill:#33cc33;fill-opacity:1;stroke-width:22.6873;paint-order:markers stroke fill"
-       id="rect7814"
-       width="2"
-       height="2.0000076"
-       x="6"
-       y="-3.0000041"
-       rx="0"
-       ry="0"
-       inkscape:label="Green" />
-    <rect
-       style="display:inline;fill:#ffc328;fill-opacity:1;stroke-width:22.6872;paint-order:markers stroke fill"
-       id="rect7824"
-       width="1.9999926"
-       height="2.0000002"
-       x="3"
-       y="-2.9999964"
-       rx="0"
-       ry="0"
-       inkscape:label="Yellow" />
-    <rect
-       style="display:inline;fill:#cc5e55;fill-opacity:1;stroke-width:22.6873;paint-order:markers stroke fill"
-       id="rect7822"
-       width="2"
-       height="2.0000076"
-       x="0"
-       y="-3.0000038"
-       rx="0"
-       ry="0"
-       inkscape:label="Red" />
-    <rect
-       style="display:inline;fill:#0bb1cb;fill-opacity:1;stroke-width:22.6872;paint-order:markers stroke fill"
-       id="rect3087"
-       width="1.9999919"
-       height="1.9999996"
-       x="-3"
-       y="12.000004"
-       rx="0"
-       ry="0"
-       inkscape:label="Blue 4" />
-    <rect
-       style="display:inline;fill:#2a92c9;fill-opacity:1;stroke-width:22.6873;paint-order:markers stroke fill"
-       id="rect3085"
-       width="2"
-       height="2.0000079"
-       x="-3"
-       y="8.9999962"
-       rx="0"
-       ry="0"
-       inkscape:label="Blue 3" />
-    <rect
-       style="display:inline;fill:#006699;fill-opacity:1;stroke-width:22.6873;paint-order:markers stroke fill"
-       id="rect3089"
-       width="2"
-       height="2.0000076"
-       x="-3"
-       y="6.0000038"
-       rx="0"
-       ry="0"
-       inkscape:label="Blue 2" />
-    <rect
-       style="display:inline;fill:#002a44;fill-opacity:1;stroke-width:22.6873;paint-order:markers stroke fill"
-       id="rect3083"
-       width="2"
-       height="2.0000076"
-       x="-3"
-       y="2.9999962"
-       rx="0"
-       ry="0"
-       inkscape:label="Blue 1" />
-    <rect
-       style="display:inline;fill:#2c2d3d;fill-opacity:1;stroke-width:22.6873;paint-order:markers stroke fill"
-       id="rect3456"
-       width="2"
-       height="2.0000076"
-       x="-3"
-       y="-3.8146973e-06"
-       rx="0"
-       ry="0"
-       inkscape:label="Gray" />
-    <rect
-       style="display:inline;fill:#16171c;fill-opacity:1;stroke-width:22.6872;paint-order:markers stroke fill"
-       id="rect3091"
-       width="1.9999924"
-       height="2"
-       x="-3"
-       y="-3"
-       rx="0"
-       ry="0"
-       inkscape:label="Black" />
-  </g>
 </svg>
