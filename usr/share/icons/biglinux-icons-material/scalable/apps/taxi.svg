@@ -1,1 +1,338 @@
-<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="a" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="translate(-826.36 -1107.5) scale(2.1429)" gradientUnits="userSpaceOnUse"><stop stop-color="#3889e9" offset="0"/><stop stop-color="#5ea5fb" offset="1"/></linearGradient><linearGradient id="c" x2="0" y1="28" y2="20" gradientTransform="matrix(1.5 0 0 1.5 -4 -4)" gradientUnits="userSpaceOnUse"><stop stop-color="#5c431c" offset="0"/><stop stop-color="#6b4e21" offset="1"/></linearGradient><filter id="b" x="-.069" y="-.243" width="1.139" height="1.486" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="1.215"/></filter></defs><image x="5" y="5" width="54" height="54" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,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"/><rect x="4" y="4" width="56" height="56" rx="28" ry="28" fill="#e6e6e6" opacity=".35"/><rect width="64" height="64" rx="0" ry="0" fill="none" style="paint-order:stroke fill markers"/><circle cx="32.02" cy="32.044" r="30.001" fill="none"/><path d="M11 28v6h6v-6zm6 6v6h6v-6zm6 0h6v-6h-6zm6 0v6h6v-6zm6 0h6v-6h-6zm6 0v6h6v-6zm6 0h6v-6h-6z" fill="#784421" filter="url(#b)" opacity=".15"/><path d="M11 26v6h6v-6zm6 6v6h6v-6zm6 0h6v-6h-6zm6 0v6h6v-6zm6 0h6v-6h-6zm6 0v6h6v-6zm6 0h6v-6h-6z" fill="url(#c)"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg154"
+   sodipodi:docname="taxi.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+  <sodipodi:namedview
+     id="namedview156"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#ffffff"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="3.0714951"
+     inkscape:cy="8.1096309"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg154"
+     showguides="true"
+     guidecolor="#ff0000"
+     guideopacity="1"
+     inkscape:lockguides="true"
+     showborder="true"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid356"
+       color="#000000"
+       opacity="0.10196078"
+       empcolor="#000000"
+       empopacity="0.10196078"
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+    <sodipodi:guide
+       position="4,12"
+       orientation="-1,0"
+       id="guide764"
+       inkscape:locked="true"
+       inkscape:label="left-circle"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="5,12"
+       orientation="-1,0"
+       id="guide2218"
+       inkscape:locked="true"
+       inkscape:label="left-square"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,20"
+       orientation="0,1"
+       id="guide2220"
+       inkscape:locked="true"
+       inkscape:label="top-circle"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,5"
+       orientation="0,1"
+       id="guide2222"
+       inkscape:locked="true"
+       inkscape:label="bottom-square"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,4"
+       orientation="0,1"
+       id="guide2224"
+       inkscape:locked="true"
+       inkscape:label="bottom-circle"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="19,12"
+       orientation="-1,0"
+       id="guide2226"
+       inkscape:locked="true"
+       inkscape:label="right-square"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="20,12"
+       orientation="-1,0"
+       id="guide2228"
+       inkscape:locked="true"
+       inkscape:label="right-circle"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,19"
+       orientation="0,1"
+       id="guide2230"
+       inkscape:locked="true"
+       inkscape:label="top-square"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,12"
+       orientation="1,0"
+       id="guide765"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="12,12"
+       orientation="0,-1"
+       id="guide767"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="12,12"
+       orientation="0.70710678,0.70710678"
+       id="guide2266"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,12"
+       orientation="-0.70710678,0.70710678"
+       id="guide2994"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="3,12"
+       orientation="-1,0"
+       id="guide131543"
+       inkscape:locked="true"
+       inkscape:label="left-horizontal"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,21"
+       orientation="0,1"
+       id="guide131545"
+       inkscape:locked="true"
+       inkscape:label="top-vertical"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="21,12"
+       orientation="-1,0"
+       id="guide131547"
+       inkscape:locked="true"
+       inkscape:label="right-horizontal"
+       inkscape:color="rgb(255,0,0)" />
+    <sodipodi:guide
+       position="12,3"
+       orientation="0,1"
+       id="guide131549"
+       inkscape:locked="true"
+       inkscape:label="bottom-vertical"
+       inkscape:color="rgb(255,0,0)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs152">
+    <radialGradient
+       id="radialGradient66380"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(12 1) rotate(90) scale(22)">
+      <stop
+         stop-color="#8FC8FF"
+         id="stop66376"
+         offset="0"
+         style="stop-color:#68a8f5;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#0056A8"
+         id="stop66378"
+         style="stop-color:#cccccc;stop-opacity:1;" />
+    </radialGradient>
+    <radialGradient
+       id="paint0_radial_29_23"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(12 1) rotate(90) scale(22)">
+      <stop
+         stop-color="#8FC8FF"
+         id="stop147"
+         offset="0"
+         style="stop-color:#f6f6f6;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#0056A8"
+         id="stop149"
+         style="stop-color:#cfcfcf;stop-opacity:1;" />
+    </radialGradient>
+    <radialGradient
+       id="paint0_radial_10_2"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-10.999959,21.999967,-21.999967,-10.999959,17.5,1)"
+       xlink:href="#paint0_radial_29_23">
+      <stop
+         stop-color="#777777"
+         id="stop2847" />
+      <stop
+         offset="1"
+         stop-color="#222222"
+         id="stop2849" />
+    </radialGradient>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,16.5,-16.5,0,8.999996,0.750012)"
+       spreadMethod="pad"
+       id="radialGradient3666-6">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3662-7" />
+      <stop
+         style="stop-color:#6a7cf1;stop-opacity:1;"
+         offset="1"
+         id="stop3664-5" />
+    </radialGradient>
+    <linearGradient
+       id="a"
+       x2="0"
+       y1="1"
+       y2="47"
+       gradientTransform="matrix(1.1739,0,0,1.1739,3.826,3.826)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#9584f4"
+         offset="0"
+         id="stop76422" />
+      <stop
+         stop-color="#8471f2"
+         offset="1"
+         id="stop76424" />
+    </linearGradient>
+    <linearGradient
+       id="a-5"
+       x1="7.9000001"
+       x2="56.169998"
+       y1="19.867001"
+       y2="19.867001"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         stop-opacity=".454"
+         offset="0"
+         id="stop101157" />
+      <stop
+         stop-color="#fff"
+         stop-opacity=".276"
+         offset="1"
+         id="stop101159" />
+    </linearGradient>
+    <clipPath
+       id="a-3">
+      <circle
+         cx="8.467"
+         cy="288.53"
+         r="6.8790002"
+         fill="#d86eb0"
+         stroke-opacity="0.039"
+         stroke-width="0.491"
+         style="paint-order:stroke markers fill"
+         id="circle105957" />
+    </clipPath>
+    <filter
+       id="a-6"
+       x="-0.10481395"
+       y="-0.11112434"
+       width="1.2096279"
+       height="1.2222487"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation=".392"
+         id="feGaussianBlur146622" />
+    </filter>
+    <filter
+       id="b"
+       x="-0.069428573"
+       y="-0.24300001"
+       width="1.1388571"
+       height="1.486"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.215"
+         id="feGaussianBlur163335" />
+    </filter>
+    <linearGradient
+       id="c"
+       x2="0"
+       y1="28"
+       y2="20"
+       gradientTransform="matrix(3.4116249,0,0,3.4116249,-49.878996,-49.878996)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#5c431c"
+         offset="0"
+         id="stop163330"
+         style="stop-color:#010100;stop-opacity:1;" />
+      <stop
+         stop-color="#6b4e21"
+         offset="1"
+         id="stop163332" />
+    </linearGradient>
+  </defs>
+  <path
+     d="M 50,5 C 9.0909092,5 5,25.454546 5,50 5,82.727274 17.272728,95 50,95 82.727274,95 95,82.727274 95,50 95,25.454546 90.909093,5 50,5 Z"
+     sketch:type="MSShapeGroup"
+     id="path6"
+     style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#ffe511;fill-opacity:1;stroke-width:4.56656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     sodipodi:nodetypes="sssss"
+     inkscape:label="Shape"
+     transform="matrix(0.24444444,0,0,0.24444444,-0.22222222,-0.22222222)" />
+  <g
+     id="g163842"
+     transform="matrix(0.16749455,0,0,0.16749455,6.6401744,6.6401744)">
+    <path
+       d="M -15.762748,18.353501 V 32 H -2.1162486 V 18.353501 Z M -2.1162486,32 V 45.646499 H 11.530251 V 32 Z M 11.530251,32 H 25.17675 V 18.353501 H 11.530251 Z m 13.646499,0 v 13.646499 h 13.6465 V 32 Z m 13.6465,0 H 52.469749 V 18.353501 H 38.82325 Z m 13.646499,0 v 13.646499 h 13.6465 V 32 Z m 13.6465,0 H 79.762748 V 18.353501 H 66.116249 Z"
+       fill="url(#c)"
+       id="path163350"
+       style="fill:#000000;stroke-width:2.27442;fill-opacity:1" />
+  </g>
+</svg>
