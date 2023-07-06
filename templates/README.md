@@ -13,6 +13,6 @@ This template aims to simplify the process of creating project icons.
   </tr>
 </table>
 
-## Referências
+## References
 - [The Noun Project](https://thenounproject.com/icon/squircle-202668)
 - [IBM Design Iconnography](https://www.ibm.com/design/language/iconography/ui-icons/design/)
