@@ -1,14 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#dedede;
-      }
-      </style>
-  </defs>
- <path 
-    style="fill:currentColor;fill-opacity:1;stroke:none" 
-	d="m3.707031 1044.3622l-.707031-.707 6.125-6.125 1.875001-1.875 1.875 1.875 6.125 6.125-.707032.707-6.125-6.125-1.167968-1.168-1.167969 1.168-6.125 6.125" transform="translate(0-1030.3622)"
-    class="ColorScheme-Text"
-    />  
+<svg width="22" height="17" viewBox="0 0 22 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10.1614 2.12701C10.5557 1.51995 11.4443 1.51995 11.8386 2.12701L19.8461 14.4553C20.2782 15.1206 19.8007 16 19.0075 16H2.99254C2.19926 16 1.72181 15.1206 2.15391 14.4553L10.1614 2.12701Z" stroke="url(#paint0_linear_2_14)" stroke-width="2"/>
+<defs>
+<linearGradient id="paint0_linear_2_14" x1="11" y1="17" x2="11" y2="0.499999" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F9C235"/>
+<stop offset="1" stop-color="#F4EA37"/>
+</linearGradient>
+</defs>
 </svg>
