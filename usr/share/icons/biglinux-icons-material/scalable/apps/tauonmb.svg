@@ -1,1 +1,82 @@
-<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#474747" style="paint-order:fill markers stroke"/><circle cx="32" cy="32" r="17.999" fill="#a663e5" style="paint-order:normal"/><path d="M25.055 17.105a16.435 16.435 0 0 0-9.49 14.894h7.044a9.391 9.391 0 0 1 5.426-8.502zm16.336 14.894a9.391 9.391 0 0 1-5.427 8.504l2.98 6.392a16.435 16.435 0 0 0 9.49-14.896z" fill="#e5baf4" style="paint-order:normal"/><circle cx="32" cy="32" r="6" fill="#313131" style="paint-order:normal"/><circle cx="32" cy="32" r="2" fill="#f9f9f9" style="paint-order:normal"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="tauonmb.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <radialGradient
+       id="paint0_radial_1_42"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,11,-11,0,11.999988,0.99999999)">
+      <stop
+         stop-color="#777777"
+         id="stop2-2" />
+      <stop
+         offset="1"
+         stop-color="#444444"
+         id="stop3" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.6875"
+     inkscape:cx="31.948387"
+     inkscape:cy="31.948387"
+     inkscape:window-width="2560"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M 9.5960274,1.11359 C 9.7158672,1.11486 9.8304156,1.099602 9.9396763,1.06779 11.375487,0.9737361 12.811087,0.9775509 14.246687,1.079238 c 1.3017,0.10142 2.5618,0.38384 3.7802,0.84726 2.0256,0.83394 3.4117,2.2804002 4.1581,4.3393603 0.4269,1.2396297 0.6789,2.51435 0.7561,3.8241397 0.106698,1.644701 0.0685,3.2858 -0.114601,4.9233 -0.137,1.150902 -0.434898,2.257702 -0.893498,3.320302 -0.8506,1.8425 -2.229,3.1134 -4.1352,3.8127 -1.5447,0.5219 -3.1331,0.7967 -4.7653,0.8243 -1.8359,0.0955 -3.6533709,-0.0419 -5.4525306,-0.4121 -3.3115803,-0.7377 -5.3543801,-2.7567 -6.1283901,-6.0568 -0.32847,-1.4856 -0.47738089,-2.9893 -0.44675,-4.5111 -0.0366539,-1.6182 0.13517,-3.2135103 0.51548,-4.7858905 0.8114,-3.08563 2.7701901,-4.9976998 5.87638,-5.7361898 0.72379,-0.17695 1.45691,-0.29526 2.1993501,-0.3549297 z"
+     fill="url(#paint0_radial_1_42)"
+     id="path1-6"
+     style="fill:url(#paint0_radial_1_42);stroke-width:1" />
+  <circle
+     cx="12"
+     cy="12"
+     r="7"
+     fill="#a663e5"
+     style="stroke-width:0.388911;paint-order:normal"
+     id="circle4" />
+  <path
+     d="M 9.2992108,6.2071783 A 6.3917438,6.3917438 0 0 0 5.6084501,11.999612 H 8.3479356 A 3.6522584,3.6522584 0 0 1 10.458165,8.6930937 Z m 6.3532412,5.7924337 a 3.6522584,3.6522584 0 0 1 -2.110617,3.307295 l 1.158953,2.485915 a 6.3917438,6.3917438 0 0 0 3.690762,-5.79321 z"
+     fill="#e5baf4"
+     style="stroke-width:0.388911;paint-order:normal"
+     id="path4" />
+  <circle
+     cx="12"
+     cy="12"
+     r="2.333463"
+     fill="#313131"
+     style="stroke-width:0.388911;paint-order:normal"
+     id="circle5" />
+  <circle
+     cx="12"
+     cy="12"
+     r="0.77782094"
+     fill="#f9f9f9"
+     style="stroke-width:0.388911;paint-order:normal"
+     id="circle6" />
+</svg>
