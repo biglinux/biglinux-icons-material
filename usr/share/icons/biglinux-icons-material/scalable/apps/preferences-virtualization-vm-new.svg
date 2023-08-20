@@ -5,7 +5,7 @@
    version="1.1"
    id="svg55665"
    sodipodi:docname="yast-create-new-vm.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -44,10 +44,10 @@
      showgrid="false"
      inkscape:zoom="6.828125"
      inkscape:cx="-26.06865"
-     inkscape:cy="25.629291"
+     inkscape:cy="25.702517"
      inkscape:window-width="2560"
      inkscape:window-height="998"
-     inkscape:window-x="1680"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg55665" />
@@ -65,10 +65,6 @@
       </g>
     </g>
   </g>
-  <path
-     id="circle1009-2"
-     style="fill:#ececec;fill-opacity:0.4;stroke-width:2.00803;paint-order:markers stroke fill"
-     d="m 18.453125,11.390624 a 8.4999999,8.4999999 0 0 0 -8.500002,8.5 8.4999999,8.4999999 0 0 0 0.57422,3.064452 c 0.830976,0.05397 1.664298,0.05874 2.501953,0.01361 1.635997,-0.02684 3.224911,-0.302898 4.767579,-0.82423 1.90533,-0.697332 3.28543,-1.966549 4.13476,-3.810545 0.45867,-1.062666 0.75648,-2.167696 0.89649,-3.318362 0.0859,-0.771806 0.13648,-1.542403 0.15822,-2.314451 a 8.4999999,8.4999999 0 0 0 -4.53321,-1.310471 z" />
   <g
      stroke-width="0.58"
      id="g52483-6"
@@ -94,6 +90,10 @@
        fill="#535353"
        id="path52481-5" />
   </g>
+  <path
+     id="circle1009-2"
+     style="fill:#ececec;fill-opacity:1;stroke-width:2.00803;paint-order:markers stroke fill"
+     d="m 18.453125,11.390624 a 8.4999999,8.4999999 0 0 0 -8.500002,8.5 8.4999999,8.4999999 0 0 0 0.57422,3.064452 c 0.830976,0.05397 1.664298,0.05874 2.501953,0.01361 1.635997,-0.02684 3.224911,-0.302898 4.767579,-0.82423 1.90533,-0.697332 3.28543,-1.966549 4.13476,-3.810545 0.45867,-1.062666 0.75648,-2.167696 0.89649,-3.318362 0.0859,-0.771806 0.13648,-1.542403 0.15822,-2.314451 a 8.4999999,8.4999999 0 0 0 -4.53321,-1.310471 z" />
   <path
      d="m 15.792317,18.214657 h 2.351749 v -2.351749 h 0.783917 v 2.351749 h 2.351749 v 0.783917 h -2.351749 v 2.351749 h -0.783917 v -2.351749 h -2.351749 z"
      fill="#4d4d4d"

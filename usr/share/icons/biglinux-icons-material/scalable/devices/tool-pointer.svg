@@ -1,1 +1,108 @@
-<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient id="b" x1="14" x2="6" y1="8" y2="16" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" offset="0"/><stop stop-color="#fff" stop-opacity="0" offset=".125"/><stop stop-color="#fff" stop-opacity="0" offset="1"/></linearGradient><clipPath id="a"><path d="M8 2.686v14l3.133-3.82 2.066 4.986a1 1 0 1 0 1.848-.766l-2.111-5.096 4.378.01z" fill="#333" fill-rule="evenodd" stroke-width="2"/></clipPath></defs><circle cx="28" cy="32" r="26" fill="#4d4d4d" paint-order="markers stroke fill"/><path transform="matrix(2.645 -.70874 .69113 2.5793 9.91 16.984)" d="M8 2.686v14l3.133-3.82 2.066 4.986a1 1 0 1 0 1.848-.766l-2.111-5.096 4.378.01z" clip-path="url(#a)" fill="#f9f9f9" fill-rule="evenodd" stroke="url(#b)" stroke-width="1.3"/><image x="32.926" y="18.242" width="27" height="36" image-rendering="optimizeQuality" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAkCAYAAAB4+EEtAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAA/ZJREFUSIm9l9FO40YUhv8ztnFo s6iIgvBKtDSAE8hFItGX4CIILlL1CXgOXoAXyCv4BikSqFzlrldUWql1FTVQtG3pKlttFTBLbM/M 6cXGUQJxCCzbI1mO5TPznX/mzMkxdnZ2lqvVqoH/wUQURRyGYXV7ezsPgD4lzCiXy5GUch2AU/hg 181m8+pTwAgAKpXKdwD6S8nMARH9WK/X/3lOmAEAhUJhGsBcPwKiKQAr+Xz+5crKyttWqxU+G2xj Y0NqrXMj3n8mhHBd131RKpXavu+rj4YtLi6Gtm0X05yI6Asp5cbq6qpZLpff+r7PT4ZdXFxo13W/ 6S1fqgkh5pVSG/l8Pm42m++eBAOAQqFAAJwJxhAAZ319fXV5eblzdnYWPBqWy+ViIYQ76UBmNk3T /Np13aVSqfTO9/3bSaLs/65UKt9PCgMAImJm1gAUEb2xbfsnz/NSoUNlKp/PzwF48QgYmBlEpJl5 Skq5uLa2RuVy+WpUEomhByHOJwWNCeDLMAxXt7a2Zu6+G1LmOE5k2/b6IybuKwOgDMOQzBwCiAzD 4KWlJbG5uSkTlUPKGo1Gl5njp2kClFLcC4IBYHZ2FkEQmMm/irg7gIg+aikTkGmaHATB4L7RPRiA 10+ZnIg4uSzL0t1uly3LGkqSe7BMJvPvY2CDIGbWzKzjOGbbtrVt25zNZrlYLDJwJ0EAwPd9dl33 KyLKTAABEWmttQYQ95KjC6CrtQ5vbm5ix3HUwcGBBsBmyjy/Afj2ITVaawbASTaapqm01tI0zav5 +fmrWq0mAfSXciRsenr67263+5CwZL/6VSSO4/dHR0e/pPmPShB4nneTbPxDsIFyJQ3DELu7u3Np /iNhvWj/HAfRWrPWmolIE5EkIimEiMMwzO7t7VmPgYGZf08DJXfDMN4TkQQgmTli5kgIIdvt9ucY 0amlwpRSqc1OT5Gcmpr6QQjxF4CImSOlVGxZVqy1VtVq9Z66VNjx8XEIILqrSmvNvbP0yvM8dXh4 +EoI0SGiUGsdRVEU27Ytz8/PeX9/f7jQp8EAgJlbg6DkbpqmzGazF4lbp9P51TCMbiaTiQzDkEEQ 6Fwup/f398dXkEGL4/iPQVCSeUqpnz3P63dajUZDWpZ1ycyRbduy3W7rpGpMDJuZmekMgnowGQTB veTxPC9aWFi4AaAGVA0Bx35Q9ErXSwA2PpwlBaB5cnLSHuV/enqqi8UiPM8beUbHKgMArXULgEIv va+vr1vj/HvLe0/VRDAhxBsiigFERHTeaDTkQ2NGgSaC1ev1W2buMvOt4zhnE4BSLa3qDxoDeG2a Zlyr1Z7cMkwKg5Ty8vLy8sEm9LnsWb5I/wMAyAw2fBpmeQAAAABJRU5ErkJggg=="/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="tool-pointer.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.3359375"
+     inkscape:cx="26.673243"
+     inkscape:cy="44.11344"
+     inkscape:window-width="2560"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <defs
+     id="defs3">
+    <linearGradient
+       id="b"
+       x1="14"
+       x2="6"
+       y1="8"
+       y2="16"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop1" />
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset=".125"
+         id="stop2" />
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <clipPath
+       id="a">
+      <path
+         d="m 8,2.686 v 14 l 3.133,-3.82 2.066,4.986 a 1.0002325,1.0002325 0 1 0 1.848,-0.766 L 12.936,11.99 17.314,12 Z"
+         fill="#333333"
+         fill-rule="evenodd"
+         stroke-width="2"
+         id="path3" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,16.500002,-16.500002,0,8.999659,0.749973)"
+       spreadMethod="pad"
+       id="radialGradient40514-1">
+      <stop
+         style="stop-opacity:1;stop-color:#a4a4a4"
+         offset="0"
+         id="stop40510-7" />
+      <stop
+         style="stop-opacity:1;stop-color:#626262"
+         offset="1"
+         id="stop40512-2" />
+    </radialGradient>
+  </defs>
+  <g
+     id="g40500"
+     transform="matrix(1.3333333,0,0,1.3333333,-4.52e-4,-3.5e-5)">
+    <g
+       id="g40502">
+      <g
+         id="g40508">
+        <path
+           d="m 7.195,0.836 c 0.09,0 0.176,-0.012 0.258,-0.035 1.078,-0.071 2.156,-0.067 3.231,0.008 0.976,0.078 1.921,0.289 2.836,0.636 1.519,0.625 2.558,1.711 3.121,3.254 0.316,0.93 0.507,1.887 0.566,2.867 0.078,1.235 0.051,2.465 -0.086,3.696 -0.105,0.863 -0.328,1.691 -0.672,2.488 -0.637,1.383 -1.672,2.336 -3.101,2.859 C 12.191,17 11,17.207 9.773,17.227 8.398,17.301 7.035,17.195 5.684,16.918 3.203,16.367 1.668,14.852 1.09,12.375 0.844,11.262 0.73,10.133 0.754,8.992 0.727,7.777 0.855,6.582 1.141,5.402 1.75,3.09 3.219,1.656 5.547,1.102 6.09,0.969 6.641,0.879 7.195,0.836 Z"
+           style="fill:url(#radialGradient40514-1);fill-rule:evenodd;stroke:none"
+           id="path40516" />
+      </g>
+    </g>
+  </g>
+  <path
+     transform="matrix(0.91089194,-0.24407771,0.23801314,0.888266,0.372479,6.13084)"
+     d="m 8,2.686 v 14 l 3.133,-3.82 2.066,4.986 a 1.0002325,1.0002325 0 1 0 1.848,-0.766 L 12.936,11.99 17.314,12 Z"
+     clip-path="url(#a)"
+     fill="#f9f9f9"
+     fill-rule="evenodd"
+     stroke="url(#b)"
+     stroke-width="1.3"
+     id="path6"
+     style="fill:#ededeb;fill-opacity:1;stroke:none" />
+</svg>
