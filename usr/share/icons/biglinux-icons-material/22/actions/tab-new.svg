@@ -1,9 +1,9 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M7.11639 14.1964L8.89314 14.2063C9.50305 14.2097 9.99929 13.7162 9.99929 13.1063V9.98887H13.1167C13.7266 9.98887 14.2201 9.49264 14.2167 8.88273L14.2068 7.10598C14.2034 6.502 13.7137 6.01371 13.1097 6.01213L9.99667 6.00396L9.9885 2.89041C9.98692 2.28879 9.50231 1.80005 8.90073 1.79336L7.11293 1.7735C6.50068 1.76669 6.00071 2.26114 6.00071 2.87343L6.00071 5.9903L2.88384 5.9903C2.27155 5.9903 1.77711 6.49027 1.78391 7.10252L1.80377 8.89031C1.81046 9.4919 2.2992 9.97651 2.90082 9.97809L6.01437 9.98626L6.02254 13.0993C6.02412 13.7032 6.51241 14.193 7.11639 14.1964Z" stroke="url(#paint0_linear_1_8)" stroke-width="2"/>
-<defs>
-<linearGradient id="paint0_linear_1_8" x1="2" y1="14" x2="14" y2="2" gradientUnits="userSpaceOnUse">
-<stop stop-color="#CCCCCC"/>
-<stop offset="1" stop-color="#F9F9F9"/>
-</linearGradient>
-</defs>
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dedede;
+      }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m17.5 12c-1.933 0-3.5 1.567-3.5 3.5s1.567 3.5 3.5 3.5 3.5-1.567 3.5-3.5-1.567-3.5-3.5-3.5zm-0.5 1h1v2h2v1h-2v2h-1v-2h-2v-1h2v-2z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m5 4c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h8v-1h-8c-1.108 0-2-0.892-2-2v-7h8v1h8v2h1v-4c0-1.662-1.338-3-3-3zm0 1h12c1.108 0 2 0.892 2 2h-16c0-1.108 0.892-2 2-2z" fill="currentColor"/>
 </svg>

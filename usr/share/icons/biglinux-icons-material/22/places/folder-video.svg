@@ -1,10 +1,6 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="24" height="24" fill="#A4A4A4" fill-opacity="0.01"/>
-<path d="M15.7645 14.9198C15.7645 16.1832 14.7404 17.2074 13.477 17.2074H6.28755C5.02417 17.2074 4 16.1832 4 14.9198V9.03755C4 7.77417 5.02417 6.75 6.28755 6.75H13.477C14.7404 6.75 15.7645 7.77417 15.7645 9.03755V14.9198ZM18.9379 7.72775C19.5043 7.72775 19.9671 8.17103 19.9983 8.72956L20 8.78983V15.2144C20 15.4645 19.9118 15.7065 19.7508 15.8979C19.3873 16.3303 18.7526 16.4 18.3052 16.0675L18.2544 16.0273L16.8022 14.8062C16.5587 14.6014 16.4181 14.2996 16.4181 13.9815V10.0418C16.4181 9.72659 16.5562 9.42717 16.7959 9.22246L18.2481 7.98223C18.4212 7.83441 18.6366 7.74654 18.8623 7.73044L18.9379 7.72775Z" fill="url(#paint0_linear_4_19)"/>
-<defs>
-<linearGradient id="paint0_linear_4_19" x1="19.9729" y1="6.75" x2="4.11206" y2="17.094" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FAFAFA"/>
-<stop offset="1" stop-color="#CCCCCC"/>
-</linearGradient>
-</defs>
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m19 6.9375-4 2v-0.9375c0-0.554-0.446-1-1-1h-10c-0.554 0-1 0.446-1 1v6c0 0.554 0.446 1 1 1h10c0.554 0 1-0.446 1-1v-0.9375l4 2zm-15 1.0625h10v6h-10zm14 0.55469v4.8906l-3-1.5078v-1.875z" fill="currentColor"/>
 </svg>
