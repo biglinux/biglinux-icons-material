@@ -2,12 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="128mm"
-   height="127.99948mm"
-   viewBox="0 0 128 127.99948"
+   width="24"
+   height="24"
+   viewBox="0 0 6.35 6.3500001"
    version="1.1"
    id="svg5"
    xml:space="preserve"
+   sodipodi:docname="appflowy.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,7 +24,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     showgrid="false" /><defs
+     showgrid="false"
+     inkscape:zoom="13.411122"
+     inkscape:cx="15.770493"
+     inkscape:cy="20.020696"
+     inkscape:window-width="2560"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" /><defs
      id="defs2"><linearGradient
        inkscape:collect="always"
        id="linearGradient1129"><stop
@@ -49,409 +60,27 @@
          offset="1"
          id="stop1301" /></linearGradient><style
        type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-9">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-9">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-2">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-2">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-3">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-3">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-97">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-97">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-7">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-7">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-9-0">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-9-0">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-2-9">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-2-9">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-3-3">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-3-3">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-97-6">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-97-6">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-6">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1303"
-       id="linearGradient1305"
-       x1="241.02426"
-       y1="427.24963"
-       x2="249.80139"
-       y2="-246.39604"
-       gradientUnits="userSpaceOnUse" /><linearGradient
+       id="current-color-scheme-6">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1303"
        id="linearGradient981"
@@ -484,32 +113,26 @@
        y1="456.61313"
        x2="207.13647"
        y2="-132.99263" /></defs><g
-     id="g244"
-     transform="matrix(0.28676179,0,0,0.28676182,-90.610191,8.809256)"
-     style="fill:url(#linearGradient1305);fill-opacity:1"
-     inkscape:export-filename="corectrl.svg"
-     inkscape:export-xdpi="25.400002"
-     inkscape:export-ydpi="25.400002"><g
-       id="g246"
-       style="fill:url(#linearGradient1119);fill-opacity:1"
-       transform="translate(315.97713,-30.720002)"><g
-         id="g252"
-         style="fill:url(#linearGradient1123);fill-opacity:1"><path
-           d="m 174.406,2.305 c 2.434,0.027 4.758,-0.285 6.973,-0.93 29.133,-1.906 58.258,-1.832 87.387,0.234 26.41,2.055 51.976,7.786 76.699,17.188 41.097,16.922 69.219,46.269 84.363,88.043 8.66,25.152 13.774,51.015 15.34,77.59 2.164,33.371 1.391,66.668 -2.324,99.89 -2.782,23.352 -8.824,45.805 -18.129,67.368 -17.258,37.382 -45.223,63.167 -83.899,77.355 -31.343,10.59 -63.57,16.164 -96.687,16.723 -37.246,1.937 -74.121,-0.848 -110.625,-8.36 C 66.312,422.438 24.867,381.477 9.164,314.52 2.496,284.375 -0.523,253.867 0.098,222.992 -0.645,190.16 2.84,157.793 10.559,125.891 27.02,63.285 66.762,24.488 129.785,9.508 144.469,5.914 159.344,3.516 174.406,2.305 Z"
-           style="fill:url(#linearGradient1121);fill-opacity:1;fill-rule:evenodd;stroke:none"
-           id="path260" /></g></g><g
-       id="g888"
-       transform="matrix(3.0109823,0,0,3.010982,1909.4265,-900.33194)"
-       style="fill:url(#linearGradient981)"><path
-         style="fill:#03c4fe;stroke-width:1.14048"
-         d="m -422.90454,358.70742 c -6.66254,-3.18417 -8.7757,-5.28731 -15.86944,-15.79419 -7.38721,-10.94155 -11.46178,-18.65692 -12.57638,-23.81387 -0.62249,-2.88011 -0.26773,-4.14959 1.71322,-6.13054 2.20427,-2.20427 3.38738,-2.43401 10.05351,-1.95221 25.97723,1.87752 47.67434,33.76946 31.96655,46.98669 -4.1964,3.53104 -8.91747,3.74848 -15.28746,0.70412 z"
-         id="path870" /><path
-         style="fill:#fcc107;stroke-width:1.14048"
-         d="m -444.66671,413.43544 c -3.33283,-1.34827 -8.46059,-7.73641 -8.46059,-10.54016 0,-4.36174 2.5866,-11.0156 5.79551,-14.90856 3.45529,-4.19186 18.52205,-14.63747 28.0959,-19.47856 3.27229,-1.65466 7.74488,-3.00847 9.93909,-3.00847 6.25186,0 6.77413,2.06123 6.50198,25.66084 -0.20274,17.57966 -0.50768,20.73346 -2.12272,21.95427 -2.1825,1.64974 -35.79351,1.92087 -39.74917,0.32064 z"
-         id="path868" /><path
-         style="fill:#9329f5;stroke-width:1.14048"
-         d="m -505.73493,359.04839 c -0.95774,-1.15607 -1.55378,-4.58659 -1.53571,-8.83874 0.0349,-8.19678 4.55325,-18.85267 11.25571,-26.54471 5.79709,-6.65301 16.38766,-11.76789 24.36589,-11.76789 5.5355,0 6.62266,0.41813 10.08217,3.87764 3.16098,3.16098 3.87764,4.75024 3.87764,8.59905 0,5.51015 -3.01036,11.93341 -7.5938,16.20304 -1.78243,1.66038 -7.69592,5.90362 -13.14111,9.42941 -16.43478,10.64163 -23.92993,13.12316 -27.31079,9.0422 z"
-         id="path866" /><path
-         style="fill:#f6006c;stroke-width:1.14048"
-         d="m -476.81493,413.96275 c -8.34813,-2.31706 -12.27132,-4.5358 -18.85629,-10.66405 -6.58101,-6.12457 -12.19696,-16.85829 -12.1983,-23.31451 -0.002,-12.10865 10.32272,-17.99159 21.53654,-12.27073 7.02229,3.58251 17.47504,17.0794 24.14296,31.17409 3.61768,7.64706 4.2364,12.3655 1.87812,14.3227 -2.56943,2.13244 -10.26672,2.48341 -16.50303,0.7525 z"
-         id="path864" /></g></g></svg>
+     id="g246"
+     style="fill:url(#linearGradient1119);fill-opacity:1;stroke-width:21.9899"
+     transform="matrix(0.01304062,0,0,0.01304062,0.26457054,0.26458043)"><g
+       id="g252"
+       style="fill:url(#linearGradient1123);fill-opacity:1;stroke-width:21.9899"><path
+         d="m 174.406,2.305 c 2.434,0.027 4.758,-0.285 6.973,-0.93 29.133,-1.906 58.258,-1.832 87.387,0.234 26.41,2.055 51.976,7.786 76.699,17.188 41.097,16.922 69.219,46.269 84.363,88.043 8.66,25.152 13.774,51.015 15.34,77.59 2.164,33.371 1.391,66.668 -2.324,99.89 -2.782,23.352 -8.824,45.805 -18.129,67.368 -17.258,37.382 -45.223,63.167 -83.899,77.355 -31.343,10.59 -63.57,16.164 -96.687,16.723 -37.246,1.937 -74.121,-0.848 -110.625,-8.36 C 66.312,422.438 24.867,381.477 9.164,314.52 2.496,284.375 -0.523,253.867 0.098,222.992 -0.645,190.16 2.84,157.793 10.559,125.891 27.02,63.285 66.762,24.488 129.785,9.508 144.469,5.914 159.344,3.516 174.406,2.305 Z"
+         style="fill:url(#linearGradient1121);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21.9899"
+         id="path260" /></g></g><g
+     id="g888"
+     transform="matrix(0.03759735,0,0,0.03759734,20.285173,-10.470419)"
+     style="fill:url(#linearGradient981);fill-opacity:1;stroke-width:22.9653"><path
+       style="fill:#03c4fe;stroke-width:26.1914"
+       d="m -422.90454,358.70742 c -6.66254,-3.18417 -8.7757,-5.28731 -15.86944,-15.79419 -7.38721,-10.94155 -11.46178,-18.65692 -12.57638,-23.81387 -0.62249,-2.88011 -0.26773,-4.14959 1.71322,-6.13054 2.20427,-2.20427 3.38738,-2.43401 10.05351,-1.95221 25.97723,1.87752 47.67434,33.76946 31.96655,46.98669 -4.1964,3.53104 -8.91747,3.74848 -15.28746,0.70412 z"
+       id="path870" /><path
+       style="fill:#fcc107;stroke-width:26.1914"
+       d="m -444.66671,413.43544 c -3.33283,-1.34827 -8.46059,-7.73641 -8.46059,-10.54016 0,-4.36174 2.5866,-11.0156 5.79551,-14.90856 3.45529,-4.19186 18.52205,-14.63747 28.0959,-19.47856 3.27229,-1.65466 7.74488,-3.00847 9.93909,-3.00847 6.25186,0 6.77413,2.06123 6.50198,25.66084 -0.20274,17.57966 -0.50768,20.73346 -2.12272,21.95427 -2.1825,1.64974 -35.79351,1.92087 -39.74917,0.32064 z"
+       id="path868" /><path
+       style="fill:#9329f5;stroke-width:26.1914"
+       d="m -505.73493,359.04839 c -0.95774,-1.15607 -1.55378,-4.58659 -1.53571,-8.83874 0.0349,-8.19678 4.55325,-18.85267 11.25571,-26.54471 5.79709,-6.65301 16.38766,-11.76789 24.36589,-11.76789 5.5355,0 6.62266,0.41813 10.08217,3.87764 3.16098,3.16098 3.87764,4.75024 3.87764,8.59905 0,5.51015 -3.01036,11.93341 -7.5938,16.20304 -1.78243,1.66038 -7.69592,5.90362 -13.14111,9.42941 -16.43478,10.64163 -23.92993,13.12316 -27.31079,9.0422 z"
+       id="path866" /><path
+       style="fill:#f6006c;stroke-width:26.1914"
+       d="m -476.81493,413.96275 c -8.34813,-2.31706 -12.27132,-4.5358 -18.85629,-10.66405 -6.58101,-6.12457 -12.19696,-16.85829 -12.1983,-23.31451 -0.002,-12.10865 10.32272,-17.99159 21.53654,-12.27073 7.02229,3.58251 17.47504,17.0794 24.14296,31.17409 3.61768,7.64706 4.2364,12.3655 1.87812,14.3227 -2.56943,2.13244 -10.26672,2.48341 -16.50303,0.7525 z"
+       id="path864" /></g></svg>

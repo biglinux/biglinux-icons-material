@@ -1,1 +1,176 @@
-<svg width="64" height="64" image-rendering="optimizeSpeed" xmlns="http://www.w3.org/2000/svg"><rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#f2f2f2"/><g transform="translate(0 -1)"><rect x="19" y="15.001" width="8" height="36" rx="2" ry="2" fill="#eb6447" style="paint-order:stroke fill markers"/><rect x="37" y="15.001" width="8" height="36" rx="2" ry="2" fill="#68d65c" style="paint-order:stroke fill markers"/><rect x="19" y="25.001" width="8" height="18" rx="0" ry="0" opacity=".35" style="paint-order:stroke fill markers"/><rect x="37" y="25.001" width="8" height="18" rx="0" ry="0" opacity=".15" style="paint-order:stroke fill markers"/><rect x="37" y="25.001" width="8" height="18" rx="0" ry="0" opacity=".35" style="paint-order:stroke fill markers"/><rect x="13" y="15.001" width="2" height="36" rx="1" ry="1" opacity=".15" style="paint-order:stroke fill markers"/><rect x="31" y="15.001" width="2" height="36" rx="1" ry="1" opacity=".15" style="paint-order:stroke fill markers"/><rect x="49" y="15.001" width="2" height="36" rx="1" ry="1" opacity=".15" style="paint-order:stroke fill markers"/><rect x="12" y="34.001" width="4" height="8" rx="1" ry=".889" fill="gray" style="paint-order:stroke fill markers"/><rect x="30" y="23.001" width="4" height="8" rx="1" ry=".889" fill="gray" style="paint-order:stroke fill markers"/><rect x="48" y="30.001" width="4" height="8" rx="1" ry=".889" fill="gray" style="paint-order:stroke fill markers"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   image-rendering="optimizeSpeed"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="mudita24.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12">
+    <radialGradient
+       id="paint0_radial_2_129"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,22,-22,0,11.999985,1.0000546)">
+      <stop
+         stop-color="#FAFAFA"
+         id="stop8838"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#B0B0B0"
+         id="stop8840"
+         style="stop-color:#f2f2f2;stop-opacity:1;" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.9603687"
+     inkscape:cx="55.075858"
+     inkscape:cy="33.536566"
+     inkscape:window-width="2560"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M 9.9396846,1.0678345 C 9.8304353,1.0996588 9.7158869,1.1149133 9.5960432,1.1136433 8.8535933,1.1733232 8.1204734,1.2916134 7.3966834,1.4685744 4.2904832,2.2070644 2.3316932,4.1191342 1.5203026,7.2047643 1.1399763,8.7771543 0.96815941,10.372414 1.0048253,11.990714 c -0.0306147,1.5218 0.1182638,3.0255 0.446749,4.5111 0.773999,3.3001 2.8168089,5.319099 6.128399,6.056802 1.7991601,0.370212 3.6166097,0.507597 5.4525097,0.411897 1.6322,-0.02759 3.2206,-0.302406 4.7653,-0.824297 1.9062,-0.699302 3.2846,-1.970202 4.1352,-3.812702 0.4586,-1.0626 0.7565,-2.1694 0.8935,-3.3203 0.183099,-1.6375 0.2213,-3.2786 0.114602,-4.9233 -0.0772,-1.3097598 -0.3292,-2.5844896 -0.7561,-3.8241299 -0.7464,-2.0589597 -2.1325,-3.5054094 -4.1581,-4.3393597 -1.2184,-0.46342 -2.4785,-0.74585 -3.7802,-0.8472499 -1.4356,-0.10159949 -2.8712,-0.10541689 -4.3070004,-0.01134 z"
+     fill="url(#paint0_radial_2_129)"
+     id="path8836"
+     style="fill:url(#paint0_radial_2_129);stroke-width:1"
+     sodipodi:nodetypes="cccccccccccccccc" />
+  <g
+     transform="matrix(0.375,0,0,0.375,0,-0.37537515)"
+     id="g23"
+     style="stroke-width:2.66667">
+    <rect
+       x="19"
+       y="15.001"
+       width="8"
+       height="36"
+       rx="2"
+       ry="2"
+       fill="#eb6447"
+       style="stroke-width:2.66667;paint-order:stroke fill markers"
+       id="rect13" />
+    <rect
+       x="37"
+       y="15.001"
+       width="8"
+       height="36"
+       rx="2"
+       ry="2"
+       fill="#68d65c"
+       style="stroke-width:2.66667;paint-order:stroke fill markers"
+       id="rect14" />
+    <rect
+       x="19"
+       y="25.000999"
+       width="8"
+       height="18"
+       rx="0"
+       ry="0"
+       opacity="0.35"
+       style="stroke-width:2.66667;paint-order:stroke fill markers"
+       id="rect15" />
+    <rect
+       x="37"
+       y="25.000999"
+       width="8"
+       height="18"
+       rx="0"
+       ry="0"
+       opacity="0.15"
+       style="stroke-width:2.66667;paint-order:stroke fill markers"
+       id="rect16" />
+    <rect
+       x="37"
+       y="25.000999"
+       width="8"
+       height="18"
+       rx="0"
+       ry="0"
+       opacity="0.35"
+       style="stroke-width:2.66667;paint-order:stroke fill markers"
+       id="rect17" />
+    <rect
+       x="13"
+       y="15.001"
+       width="2"
+       height="36"
+       rx="1"
+       ry="1"
+       opacity="0.15"
+       style="stroke-width:2.66667;paint-order:stroke fill markers"
+       id="rect18" />
+    <rect
+       x="31"
+       y="15.001"
+       width="2"
+       height="36"
+       rx="1"
+       ry="1"
+       opacity="0.15"
+       style="stroke-width:2.66667;paint-order:stroke fill markers"
+       id="rect19" />
+    <rect
+       x="49"
+       y="15.001"
+       width="2"
+       height="36"
+       rx="1"
+       ry="1"
+       opacity="0.15"
+       style="stroke-width:2.66667;paint-order:stroke fill markers"
+       id="rect20" />
+    <rect
+       x="12"
+       y="34.000999"
+       width="4"
+       height="8"
+       rx="1"
+       ry="0.889"
+       fill="#808080"
+       style="stroke-width:2.66667;paint-order:stroke fill markers"
+       id="rect21" />
+    <rect
+       x="30"
+       y="23.000999"
+       width="4"
+       height="8"
+       rx="1"
+       ry="0.889"
+       fill="#808080"
+       style="stroke-width:2.66667;paint-order:stroke fill markers"
+       id="rect22" />
+    <rect
+       x="48"
+       y="30.000999"
+       width="4"
+       height="8"
+       rx="1"
+       ry="0.889"
+       fill="#808080"
+       style="stroke-width:2.66667;paint-order:stroke fill markers"
+       id="rect23" />
+  </g>
+</svg>
