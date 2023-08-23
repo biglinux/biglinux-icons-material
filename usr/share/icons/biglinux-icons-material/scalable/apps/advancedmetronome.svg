@@ -6,10 +6,10 @@
    fill="none"
    version="1.1"
    id="svg154"
-   sodipodi:docname="app.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="advancedmetronome.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xml:space="preserve"
-   inkscape:export-filename="../../../../svg/advancedmetronome.svg"
+   inkscape:export-filename="../../../../../../../../../Imagens/Big Icons/advancedmetronome.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,17 +27,30 @@
      inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#888888"
      showgrid="true"
-     inkscape:zoom="32.000001"
-     inkscape:cx="1.3125"
-     inkscape:cy="10.296875"
-     inkscape:window-width="952"
-     inkscape:window-height="1044"
-     inkscape:window-x="960"
+     inkscape:zoom="11.313709"
+     inkscape:cx="11.711456"
+     inkscape:cy="13.302446"
+     inkscape:window-width="2560"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg154"><inkscape:grid
        type="xygrid"
-       id="grid356" /></sodipodi:namedview><defs
+       id="grid356"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" /><inkscape:page
+       x="0"
+       y="0"
+       width="24"
+       height="24"
+       id="page1"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
      id="defs152"><linearGradient
        inkscape:collect="always"
        id="linearGradient449"><stop
@@ -48,401 +61,27 @@
          offset="1"
          id="stop447" /></linearGradient><style
        type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-9">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-9">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-2">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-2">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-3">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-3">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-97">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-97">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-7">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-7">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-9-0">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-9-0">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-2-9">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-2-9">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-3-3">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-3-3">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-97-6">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><style
+       id="current-color-scheme-97-6">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><style
        type="text/css"
-       id="current-color-scheme-6">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style><linearGradient
+       id="current-color-scheme-6">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style><linearGradient
        id="a"
        x1="7.9000001"
        x2="56.169998"
@@ -467,40 +106,71 @@
        y2="-2.1874998"
        gradientUnits="userSpaceOnUse" /><linearGradient
        inkscape:collect="always"
-       xlink:href="#a"
-       id="linearGradient2473"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1160451,0,0,2.1160451,375.1947,70.77275)"
-       x1="7.9000001"
-       y1="19.867001"
-       x2="56.169998"
-       y2="19.867001" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#a"
-       id="linearGradient2901"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1160451,0,0,2.1160451,375.1947,70.77275)"
-       x1="7.9000001"
-       y1="19.867001"
-       x2="56.169998"
-       y2="19.867001" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#a"
-       id="linearGradient3836"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1160451,0,0,2.1160451,375.1947,70.77275)"
-       x1="7.9000001"
-       y1="19.867001"
-       x2="56.169998"
-       y2="19.867001" /><linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient449"
        id="linearGradient4158"
        gradientUnits="userSpaceOnUse"
        x1="12"
        y1="66.125"
        x2="12.4375"
-       y2="-2.1874998" /></defs><g
+       y2="-2.1874998" /><linearGradient
+       x1="12"
+       y1="66.125"
+       x2="12.4375"
+       y2="-2.1875"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.24444399,0,0,0.24444399,33.777777,-0.22222266)"
+       spreadMethod="pad"
+       id="linearGradient2"><stop
+         style="stop-opacity:1;stop-color:#ef8e30"
+         offset="0"
+         id="stop1" /><stop
+         style="stop-opacity:1;stop-color:#fab680"
+         offset="1"
+         id="stop2" /></linearGradient><linearGradient
+       x1="7.9000001"
+       y1="19.867001"
+       x2="56.169998"
+       y2="19.867001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.239754,0,0,0.239754,1.31939,1.831497)"
+       spreadMethod="pad"
+       id="linearGradient6"><stop
+         style="stop-opacity:0.45400168;stop-color:#ffffff"
+         offset="0"
+         id="stop5" /><stop
+         style="stop-opacity:0.27598993;stop-color:#ffffff"
+         offset="1"
+         id="stop6" /></linearGradient><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.31967199,0,0,0.31967199,35.759187,2.4419959)"
+       x1="7.9000001"
+       y1="19.867001"
+       x2="56.169998"
+       y2="19.867001"
+       spreadMethod="pad" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.31967199,0,0,0.31967199,35.759187,2.4419959)"
+       x1="7.9000001"
+       y1="19.867001"
+       x2="56.169998"
+       y2="19.867001"
+       spreadMethod="pad" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.31967199,0,0,0.31967199,35.759187,2.4419959)"
+       x1="7.9000001"
+       y1="19.867001"
+       x2="56.169998"
+       y2="19.867001"
+       spreadMethod="pad" /></defs><g
      id="g2267"
      inkscape:label="Shape"
      inkscape:highlight-color="#00dcff"
@@ -529,62 +199,40 @@
        height="14"
        x="5"
        y="5"
-       inkscape:label="Square Guide" /></g><path
-     d="m 1.2778666,-4.4952906 v -0.029258 h -2.7951155 v 0.029258 c 0,1.6510708 -0.584772,3.061795 -1.753479,4.22924904 h -3.438e-4 l -8.594e-4,3.4375e-4 v 8.5937e-4 c -1.167454,1.16745406 -2.5765059,1.75180674 -4.2279943,1.75180674 -1.6527432,0 -3.0630496,-0.58435268 -4.2305016,-1.75180674 l -8.6e-4,-8.5937e-4 h 8.6e-4 v 8.5937e-4 C -12.898299,-1.4339631 -13.482652,-2.843852 -13.482652,-4.4953405 v -0.029258 h -2.795115 v 0.029258 c 0,2.4231024 0.856884,4.49132925 2.569816,6.2067707 v -8.594e-4 h 8.6e-4 l 3.43e-4,8.594e-4 c 1.713769,1.713769 3.7828316,2.5706535 6.2071887,2.5706535 2.4226846,0 4.4913292,-0.8568845 6.2055159,-2.5706535 v -8.594e-4 l -8.594e-4,8.594e-4 h 8.594e-4 c 1.71502374,-1.71502379 2.5719083,-3.7836683 2.5719083,-6.2071883 z"
-     opacity="0.35"
-     id="path3227-5-2"
-     style="stroke-width:0.417993;image-rendering:optimizeSpeed" /><g
-     id="g3672-7"
-     transform="matrix(0.15107072,0,0,0.15107072,-54.921747,-8.2496948)"><path
-       d="m 494.05413,138.4322 v -0.17023 h -16.26249 v 0.17023 c 0,9.60623 -3.40231,17.81408 -10.20206,24.60654 h -0.002 l -0.005,0.002 v 0.005 c -6.79246,6.79246 -14.99058,10.19233 -24.59924,10.19233 -9.61596,0 -17.82138,-3.39987 -24.61383,-10.19233 l -0.005,-0.005 h 0.005 v 0.005 c -6.79489,-6.80218 -10.19476,-15.00517 -10.19476,-24.61383 v -0.17023 h -16.26249 v 0.17023 c 0,14.09805 4.98551,26.13137 14.95166,36.11212 v -0.005 h 0.005 l 0.002,0.005 c 9.97102,9.97102 22.0092,14.95653 36.11455,14.95653 14.09562,0 26.13137,-4.98551 36.10482,-14.95653 v -0.005 l -0.005,0.005 h 0.005 c 9.97832,-9.97832 14.96383,-22.01407 14.96383,-36.11455 z"
-       opacity="0.35"
-       id="path3227-5"
-       style="stroke-width:2.43196;image-rendering:optimizeSpeed" /><path
-       d="m 442.84678,87.362544 c -14.04419,0.03386 -26.03794,5.015026 -35.977,14.951976 h -0.004 v 0.004 c -0.0466,0.0423 -0.0868,0.091 -0.12697,0.13754 -9.84595,9.90309 -14.7848,21.83759 -14.82712,35.80772 h 16.26392 c 0.0423,-9.47565 3.39414,-17.57799 10.05968,-24.30913 l 0.13119,-0.13754 c 6.76711,-6.765 14.92447,-10.15702 24.47841,-10.19087 V 87.362544 Z m 0.004,0 v 16.263926 h 0.13331 c 9.47988,0 17.59703,3.30949 24.34087,9.92425 l 0.26239,0.26239 v 0.004 h 0.004 c 6.75865,6.76076 10.15702,14.91177 10.19934,24.44667 h 16.2618 c -0.0402,-14.02938 -5.0256,-26.01043 -14.96467,-35.94738 h -0.004 l -0.26027,-0.26027 C 468.90587,92.261188 456.95868,87.362544 442.9822,87.362544 h -0.13331 z"
-       fill="url(#a)"
-       id="path3229-3"
-       style="fill:url(#linearGradient2473);stroke-width:2.11604;image-rendering:optimizeSpeed" /><path
-       d="m 463.43094,78.581761 -28.38093,61.440939 6.51764,7.80415 10.365,-1.67805 z"
-       fill="#e6e6e6"
-       id="path3231-5"
-       style="stroke-width:2.43196;image-rendering:optimizeSpeed" /><path
-       d="m 442.80308,126.04868 c -2.06959,0 -3.9884,0.37209 -5.75644,1.1187 a 14.623353,14.623353 0 0 0 -4.7034,3.21262 c -2.00636,2.00879 -3.31719,4.29969 -3.92761,6.8873 a 15.391851,15.391851 0 0 0 -0.4037,3.57254 c 0,1.94556 0.33074,3.75737 0.98737,5.43299 a 14.599033,14.599033 0 0 0 3.34394,5.02199 c 2.88916,2.88916 6.37416,4.33131 10.45984,4.33131 4.08569,0 7.56582,-1.44215 10.45498,-4.33131 2.88917,-2.88916 4.33132,-6.36929 4.33132,-10.45498 0,-3.96166 -1.35947,-7.36883 -4.08569,-10.21422 l -0.24563,-0.24319 a 15.309164,15.309164 0 0 0 -3.37312,-2.57058 17.478469,17.478469 0 0 0 -1.00683,-0.50341 c -1.84585,-0.84146 -3.86681,-1.25976 -6.06043,-1.25976 z"
-       fill="#ffffff"
-       id="path3233-6"
-       style="stroke-width:2.43196;image-rendering:optimizeSpeed" /></g><g
-     id="g3672-7-0"
-     transform="matrix(0.15107072,0,0,0.15107072,-54.921747,-8.2496948)"><path
-       d="m 494.05413,138.4322 v -0.17023 h -16.26249 v 0.17023 c 0,9.60623 -3.40231,17.81408 -10.20206,24.60654 h -0.002 l -0.005,0.002 v 0.005 c -6.79246,6.79246 -14.99058,10.19233 -24.59924,10.19233 -9.61596,0 -17.82138,-3.39987 -24.61383,-10.19233 l -0.005,-0.005 h 0.005 v 0.005 c -6.79489,-6.80218 -10.19476,-15.00517 -10.19476,-24.61383 v -0.17023 h -16.26249 v 0.17023 c 0,14.09805 4.98551,26.13137 14.95166,36.11212 v -0.005 h 0.005 l 0.002,0.005 c 9.97102,9.97102 22.0092,14.95653 36.11455,14.95653 14.09562,0 26.13137,-4.98551 36.10482,-14.95653 v -0.005 l -0.005,0.005 h 0.005 c 9.97832,-9.97832 14.96383,-22.01407 14.96383,-36.11455 z"
-       opacity="0.35"
-       id="path3227-5-6"
-       style="stroke-width:2.43196;image-rendering:optimizeSpeed" /><path
-       d="m 442.84678,87.362544 c -14.04419,0.03386 -26.03794,5.015026 -35.977,14.951976 h -0.004 v 0.004 c -0.0466,0.0423 -0.0868,0.091 -0.12697,0.13754 -9.84595,9.90309 -14.7848,21.83759 -14.82712,35.80772 h 16.26392 c 0.0423,-9.47565 3.39414,-17.57799 10.05968,-24.30913 l 0.13119,-0.13754 c 6.76711,-6.765 14.92447,-10.15702 24.47841,-10.19087 V 87.362544 Z m 0.004,0 v 16.263926 h 0.13331 c 9.47988,0 17.59703,3.30949 24.34087,9.92425 l 0.26239,0.26239 v 0.004 h 0.004 c 6.75865,6.76076 10.15702,14.91177 10.19934,24.44667 h 16.2618 c -0.0402,-14.02938 -5.0256,-26.01043 -14.96467,-35.94738 h -0.004 l -0.26027,-0.26027 C 468.90587,92.261188 456.95868,87.362544 442.9822,87.362544 h -0.13331 z"
-       fill="url(#a)"
-       id="path3229-3-2"
-       style="fill:url(#linearGradient2901);stroke-width:2.11604;image-rendering:optimizeSpeed" /><path
-       d="m 463.43094,78.581761 -28.38093,61.440939 6.51764,7.80415 10.365,-1.67805 z"
-       fill="#e6e6e6"
-       id="path3231-5-6"
-       style="stroke-width:2.43196;image-rendering:optimizeSpeed" /><path
-       d="m 442.80308,126.04868 c -2.06959,0 -3.9884,0.37209 -5.75644,1.1187 a 14.623353,14.623353 0 0 0 -4.7034,3.21262 c -2.00636,2.00879 -3.31719,4.29969 -3.92761,6.8873 a 15.391851,15.391851 0 0 0 -0.4037,3.57254 c 0,1.94556 0.33074,3.75737 0.98737,5.43299 a 14.599033,14.599033 0 0 0 3.34394,5.02199 c 2.88916,2.88916 6.37416,4.33131 10.45984,4.33131 4.08569,0 7.56582,-1.44215 10.45498,-4.33131 2.88917,-2.88916 4.33132,-6.36929 4.33132,-10.45498 0,-3.96166 -1.35947,-7.36883 -4.08569,-10.21422 l -0.24563,-0.24319 a 15.309164,15.309164 0 0 0 -3.37312,-2.57058 17.478469,17.478469 0 0 0 -1.00683,-0.50341 c -1.84585,-0.84146 -3.86681,-1.25976 -6.06043,-1.25976 z"
-       fill="#ffffff"
-       id="path3233-6-1"
-       style="stroke-width:2.43196;image-rendering:optimizeSpeed" /></g><g
-     id="g3672-7-0-8"
-     transform="matrix(0.15107072,0,0,0.15107072,-54.921747,-8.2496948)"><path
-       d="m 494.05413,138.4322 v -0.17023 h -16.26249 v 0.17023 c 0,9.60623 -3.40231,17.81408 -10.20206,24.60654 h -0.002 l -0.005,0.002 v 0.005 c -6.79246,6.79246 -14.99058,10.19233 -24.59924,10.19233 -9.61596,0 -17.82138,-3.39987 -24.61383,-10.19233 l -0.005,-0.005 h 0.005 v 0.005 c -6.79489,-6.80218 -10.19476,-15.00517 -10.19476,-24.61383 v -0.17023 h -16.26249 v 0.17023 c 0,14.09805 4.98551,26.13137 14.95166,36.11212 v -0.005 h 0.005 l 0.002,0.005 c 9.97102,9.97102 22.0092,14.95653 36.11455,14.95653 14.09562,0 26.13137,-4.98551 36.10482,-14.95653 v -0.005 l -0.005,0.005 h 0.005 c 9.97832,-9.97832 14.96383,-22.01407 14.96383,-36.11455 z"
-       opacity="0.35"
-       id="path3227-5-6-9"
-       style="stroke-width:2.43196;image-rendering:optimizeSpeed" /><path
-       d="m 442.84678,87.362544 c -14.04419,0.03386 -26.03794,5.015026 -35.977,14.951976 h -0.004 v 0.004 c -0.0466,0.0423 -0.0868,0.091 -0.12697,0.13754 -9.84595,9.90309 -14.7848,21.83759 -14.82712,35.80772 h 16.26392 c 0.0423,-9.47565 3.39414,-17.57799 10.05968,-24.30913 l 0.13119,-0.13754 c 6.76711,-6.765 14.92447,-10.15702 24.47841,-10.19087 V 87.362544 Z m 0.004,0 v 16.263926 h 0.13331 c 9.47988,0 17.59703,3.30949 24.34087,9.92425 l 0.26239,0.26239 v 0.004 h 0.004 c 6.75865,6.76076 10.15702,14.91177 10.19934,24.44667 h 16.2618 c -0.0402,-14.02938 -5.0256,-26.01043 -14.96467,-35.94738 h -0.004 l -0.26027,-0.26027 C 468.90587,92.261188 456.95868,87.362544 442.9822,87.362544 h -0.13331 z"
-       fill="url(#a)"
-       id="path3229-3-2-7"
-       style="fill:url(#linearGradient3836);stroke-width:2.11604;image-rendering:optimizeSpeed" /><path
-       d="m 463.43094,78.581761 -28.38093,61.440939 6.51764,7.80415 10.365,-1.67805 z"
-       fill="#e6e6e6"
-       id="path3231-5-6-3"
-       style="stroke-width:2.43196;image-rendering:optimizeSpeed" /><path
-       d="m 442.80308,126.04868 c -2.06959,0 -3.9884,0.37209 -5.75644,1.1187 a 14.623353,14.623353 0 0 0 -4.7034,3.21262 c -2.00636,2.00879 -3.31719,4.29969 -3.92761,6.8873 a 15.391851,15.391851 0 0 0 -0.4037,3.57254 c 0,1.94556 0.33074,3.75737 0.98737,5.43299 a 14.599033,14.599033 0 0 0 3.34394,5.02199 c 2.88916,2.88916 6.37416,4.33131 10.45984,4.33131 4.08569,0 7.56582,-1.44215 10.45498,-4.33131 2.88917,-2.88916 4.33132,-6.36929 4.33132,-10.45498 0,-3.96166 -1.35947,-7.36883 -4.08569,-10.21422 l -0.24563,-0.24319 a 15.309164,15.309164 0 0 0 -3.37312,-2.57058 17.478469,17.478469 0 0 0 -1.00683,-0.50341 c -1.84585,-0.84146 -3.86681,-1.25976 -6.06043,-1.25976 z"
-       fill="#ffffff"
-       id="path3233-6-1-6"
-       style="stroke-width:2.43196;image-rendering:optimizeSpeed" /></g></svg>
+       inkscape:label="Square Guide" /></g><g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1"
+     transform="translate(34)" /><g
+     id="g4"
+     transform="translate(-34)"><path
+       d="m 45.978666,4.9479999 c -2.118666,0.00533 -3.932,0.76 -5.431999,2.2599999 h -0.0053 c -0.0053,0.00533 -0.01067,0.016 -0.01467,0.021333 C 39.036,8.7239998 38.292,10.526666 38.286667,12.636 H 40.74 c 0.0093,-1.428 0.514666,-2.6520002 1.52,-3.6720002 l 0.02133,-0.021333 C 43.302666,7.9213331 44.536,7.4119998 45.978666,7.4066665 Z m 0,0 V 7.4066665 H 46 c 1.432,0 2.656,0.5 3.677333,1.4999999 l 0.04133,0.036 C 50.74,9.9639998 51.250666,11.197333 51.26,12.636 h 2.453333 c -0.0053,-2.114667 -0.754667,-3.9280002 -2.26,-5.4280002 L 51.416,7.1666665 C 49.917333,5.6879999 48.109333,4.9479999 46,4.9479999 Z"
+       style="fill:url(#linearGradient3);stroke:none;stroke-width:1.33333"
+       opacity="1"
+       id="path6-4" /><path
+       id="path7"
+       d="m 49.088,3.6199999 -4.285334,9.2813331 0.984,1.181333 1.568,-0.254666 z"
+       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" /><path
+       id="path8"
+       d="m 45.973333,10.792 c -0.312,0 -0.604,0.05733 -0.869333,0.172 -0.265334,0.109333 -0.510667,0.276 -0.713334,0.484 -0.302666,0.301333 -0.5,0.650666 -0.593333,1.041333 C 43.76,12.666666 43.74,12.844 43.74,13.026666 c 0,0.296 0.04667,0.566667 0.145333,0.822667 C 44,14.136 44.172,14.390666 44.390666,14.604 c 0.437334,0.437333 0.964,0.656 1.582667,0.656 0.614667,0 1.141333,-0.218667 1.578667,-0.656 0.437333,-0.432 0.656,-0.958667 0.656,-1.577334 0,-0.6 -0.208,-1.114666 -0.62,-1.542666 l -0.036,-0.036 c -0.150667,-0.150667 -0.322667,-0.281334 -0.510667,-0.390667 -0.04667,-0.02667 -0.09867,-0.052 -0.150667,-0.07333 -0.281333,-0.129334 -0.584,-0.192 -0.917333,-0.192 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" /><path
+       d="m 45.978666,4.9479999 c -2.118666,0.00533 -3.932,0.76 -5.431999,2.2599999 h -0.0053 c -0.0053,0.00533 -0.01067,0.016 -0.01467,0.021333 C 39.036,8.7239998 38.292,10.526666 38.286667,12.636 H 40.74 c 0.0093,-1.428 0.514666,-2.6520002 1.52,-3.6720002 l 0.02133,-0.021333 C 43.302666,7.9213331 44.536,7.4119998 45.978666,7.4066665 Z m 0,0 V 7.4066665 H 46 c 1.432,0 2.656,0.5 3.677333,1.4999999 l 0.04133,0.036 C 50.74,9.9639998 51.250666,11.197333 51.26,12.636 h 2.453333 c -0.0053,-2.114667 -0.754667,-3.9280002 -2.26,-5.4280002 L 51.416,7.1666665 C 49.917333,5.6879999 48.109333,4.9479999 46,4.9479999 Z"
+       style="fill:url(#linearGradient4);stroke:none;stroke-width:1.33333"
+       opacity="1"
+       id="path11" /><path
+       id="path12"
+       d="m 49.088,3.6199999 -4.285334,9.2813331 0.984,1.181333 1.568,-0.254666 z"
+       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" /><path
+       id="path13"
+       d="m 45.973333,10.792 c -0.312,0 -0.604,0.05733 -0.869333,0.172 -0.265334,0.109333 -0.510667,0.276 -0.713334,0.484 -0.302666,0.301333 -0.5,0.650666 -0.593333,1.041333 C 43.76,12.666666 43.74,12.844 43.74,13.026666 c 0,0.296 0.04667,0.566667 0.145333,0.822667 C 44,14.136 44.172,14.390666 44.390666,14.604 c 0.437334,0.437333 0.964,0.656 1.582667,0.656 0.614667,0 1.141333,-0.218667 1.578667,-0.656 0.437333,-0.432 0.656,-0.958667 0.656,-1.577334 0,-0.6 -0.208,-1.114666 -0.62,-1.542666 l -0.036,-0.036 c -0.150667,-0.150667 -0.322667,-0.281334 -0.510667,-0.390667 -0.04667,-0.02667 -0.09867,-0.052 -0.150667,-0.07333 -0.281333,-0.129334 -0.584,-0.192 -0.917333,-0.192 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" /><path
+       d="m 45.978666,4.9479999 c -2.118666,0.00533 -3.932,0.76 -5.431999,2.2599999 h -0.0053 c -0.0053,0.00533 -0.01067,0.016 -0.01467,0.021333 C 39.036,8.7239998 38.292,10.526666 38.286667,12.636 H 40.74 c 0.0093,-1.428 0.514666,-2.6520002 1.52,-3.6720002 l 0.02133,-0.021333 C 43.302666,7.9213331 44.536,7.4119998 45.978666,7.4066665 Z m 0,0 V 7.4066665 H 46 c 1.432,0 2.656,0.5 3.677333,1.4999999 l 0.04133,0.036 C 50.74,9.9639998 51.250666,11.197333 51.26,12.636 h 2.453333 c -0.0053,-2.114667 -0.754667,-3.9280002 -2.26,-5.4280002 L 51.416,7.1666665 C 49.917333,5.6879999 48.109333,4.9479999 46,4.9479999 Z"
+       style="fill:url(#linearGradient9);stroke:none;stroke-width:1.33333"
+       opacity="1"
+       id="path16" /><path
+       id="path17"
+       d="m 49.088,3.6199999 -4.285334,9.2813331 0.984,1.181333 1.568,-0.254666 z"
+       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" /><path
+       id="path18"
+       d="m 45.973333,10.792 c -0.312,0 -0.604,0.05733 -0.869333,0.172 -0.265334,0.109333 -0.510667,0.276 -0.713334,0.484 -0.302666,0.301333 -0.5,0.650666 -0.593333,1.041333 C 43.76,12.666666 43.74,12.844 43.74,13.026666 c 0,0.296 0.04667,0.566667 0.145333,0.822667 C 44,14.136 44.172,14.390666 44.390666,14.604 c 0.437334,0.437333 0.964,0.656 1.582667,0.656 0.614667,0 1.141333,-0.218667 1.578667,-0.656 0.437333,-0.432 0.656,-0.958667 0.656,-1.577334 0,-0.6 -0.208,-1.114666 -0.62,-1.542666 l -0.036,-0.036 c -0.150667,-0.150667 -0.322667,-0.281334 -0.510667,-0.390667 -0.04667,-0.02667 -0.09867,-0.052 -0.150667,-0.07333 -0.281333,-0.129334 -0.584,-0.192 -0.917333,-0.192 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" /></g></svg>
