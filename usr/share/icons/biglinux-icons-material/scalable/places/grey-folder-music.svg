@@ -6,7 +6,7 @@
    fill="none"
    version="1.1"
    id="svg17"
-   sodipodi:docname="folder_color_grey_music.svg"
+   sodipodi:docname="grey-folder-music.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,7 +26,7 @@
      inkscape:cy="12.103576"
      inkscape:window-width="1280"
      inkscape:window-height="998"
-     inkscape:window-x="0"
+     inkscape:window-x="640"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg17" />
@@ -258,23 +258,49 @@
          stop-color="#BC546F"
          id="stop21" />
     </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28-9">
+      <path
+         d="M 0,0 H 19 V 19 H 0 Z"
+         id="path28-3" />
+    </clipPath>
+    <linearGradient
+       x1="18.439199"
+       y1="8.1073503"
+       x2="9.3879299"
+       y2="21.114599"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.93303731,0,0,0.93303731,34.840383,0.86511865)"
+       spreadMethod="pad"
+       id="linearGradient30">
+      <stop
+         style="stop-opacity:1;stop-color:#e996b1"
+         offset="0"
+         id="stop29" />
+      <stop
+         style="stop-opacity:1;stop-color:#bc546f"
+         offset="1"
+         id="stop30-4" />
+    </linearGradient>
   </defs>
   <g
-     id="g21"
-     transform="translate(0,0.29593095)">
+     id="g2"
+     transform="translate(-33.768)">
+    <g
+       opacity="0.15"
+       id="g29"
+       transform="translate(34)">
+      <path
+         d="m 8.781,7.352 2,-0.372 c 0.27,-0.05 0.524,0.157 0.524,0.434 v 1.32 c 0,0.211 -0.153,0.395 -0.364,0.434 L 9.211,9.496 C 9.008,9.531 8.973,9.57 8.973,9.777 v 3.774 c 0,1.215 -1.004,1.672 -1.672,1.672 C 6.543,15.223 6,14.77 6,14.125 6,13.492 6.426,13.059 7.344,12.887 L 8.059,12.746 C 8.242,12.715 8.336,12.59 8.336,12.398 L 8.309,7.812 c 0,-0.25 0.168,-0.398 0.472,-0.46 z"
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         transform="scale(1.3333333)"
+         clip-path="url(#clipPath28-9)"
+         id="path29" />
+    </g>
     <path
-       fill-rule="evenodd"
-       clip-rule="evenodd"
-       d="m 11.706675,9.5085493 2.66683,-0.4983444 C 14.736058,8.9424569 15.071,9.2206329 15.071,9.5894623 v 1.7607247 c 0,0.283363 -0.201804,0.526698 -0.480301,0.579137 l -2.309125,0.434512 c -0.269442,0.04954 -0.3174,0.099 -0.3174,0.374149 v 5.03383 c 0,1.617513 -1.341342,2.228184 -2.227581,2.228184 C 8.7245614,19.999999 8,19.394834 8,18.536531 8,17.694838 8.568866,17.117197 9.790426,16.886081 l 0.952199,-0.187072 c 0.245465,-0.04395 0.371233,-0.209002 0.371233,-0.462041 l -0.03593,-6.117735 c 0,-0.3301008 0.221584,-0.528147 0.628738,-0.6106837 z"
-       fill="url(#paint6_linear_207_44)"
-       id="path21"
-       style="opacity:0.15;fill:#1a1a1a;stroke-width:0.933006" />
-    <path
-       fill-rule="evenodd"
-       clip-rule="evenodd"
-       d="m 12.171184,9.008592 2.666993,-0.4983444 c 0.362578,-0.067748 0.697539,0.2104279 0.697539,0.5792574 v 1.760725 c 0,0.283363 -0.201816,0.526699 -0.480328,0.579136 l -2.309267,0.434515 c -0.269461,0.04954 -0.317419,0.099 -0.317419,0.374148 v 5.033828 c 0,1.617513 -1.341427,2.228186 -2.227719,2.228186 -1.0120931,0 -1.736699,-0.605168 -1.736699,-1.463469 0,-0.841692 0.5689007,-1.419336 1.790535,-1.650449 l 0.952258,-0.187074 c 0.245482,-0.04395 0.371255,-0.209 0.371255,-0.46204 l -0.03592,-6.1177369 c 0,-0.3300992 0.221597,-0.5281456 0.628774,-0.6106821 z"
-       fill="url(#paint6_linear_207_44)"
-       id="path7"
-       style="fill:url(#paint6_linear_207_44);stroke-width:0.933037" />
+       id="path30"
+       d="m 46.172,9.3026664 2.666666,-0.496 c 0.364,-0.066667 0.697334,0.2093334 0.697334,0.5786667 v 1.7599999 c 0,0.281333 -0.202667,0.526667 -0.478667,0.578667 l -2.312,0.437333 C 46.478666,12.208 46.426666,12.26 46.426666,12.536 v 5.032 c 0,1.62 -1.338666,2.229333 -2.224,2.229333 -1.014666,0 -1.738666,-0.604 -1.738666,-1.464 0,-0.844 0.566666,-1.421333 1.790666,-1.650667 l 0.953334,-0.188 c 0.245333,-0.04133 0.370666,-0.208 0.370666,-0.464 l -0.03733,-6.1133329 c 0,-0.3333333 0.224,-0.532 0.630667,-0.6146667 z"
+       style="fill:url(#linearGradient30);fill-rule:evenodd;stroke:none;stroke-width:1.33333" />
   </g>
 </svg>
