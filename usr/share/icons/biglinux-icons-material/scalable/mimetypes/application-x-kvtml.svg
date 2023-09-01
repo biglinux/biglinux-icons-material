@@ -1,10 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_1_903)"/>
-<path opacity="0.9" d="M5 5V19H19V5H5ZM5.63636 5.63636H18.3636V18.3636H5.63636V5.63636ZM6.90909 7.54545V8.81818H17.0909V7.54545H6.90909ZM6.90909 10.0909V10.7273H11.3636V10.0909H6.90909ZM12.6364 10.0909V10.7273H17.0909V10.0909H12.6364ZM6.90909 12V12.6364H11.3636V12H6.90909ZM12.6364 12V12.6364H17.0909V12H12.6364ZM6.90909 13.9091V14.5455H11.3636V13.9091H6.90909ZM12.6364 13.9091V14.5455H17.0909V13.9091H12.6364ZM6.90909 15.8182V16.4545H11.3636V15.8182H6.90909ZM12.6364 15.8182V16.4545H17.0909V15.8182H12.6364Z" fill="white"/>
-<defs>
-<radialGradient id="paint0_radial_1_903" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#979FA8"/>
-<stop offset="1" stop-color="#56616D"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#fff" d="M5 5v14h14V5H5Zm.636.636h12.728v12.728H5.636V5.636Zm1.273 1.91v1.272h10.182V7.545H6.909Zm0 2.545v.636h4.455v-.636H6.909Zm5.727 0v.636h4.455v-.636h-4.455ZM6.91 12v.636h4.455V12H6.909Zm5.727 0v.636h4.455V12h-4.455ZM6.91 13.91v.636h4.455v-.637H6.909Zm5.727 0v.636h4.455v-.637h-4.455ZM6.91 15.817v.636h4.455v-.636H6.909Zm5.727 0v.636h4.455v-.636h-4.455Z" opacity=".9"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#979FA8"/><stop offset="1" stop-color="#56616D"/></radialGradient></defs></svg>

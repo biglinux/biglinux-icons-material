@@ -1,16 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_2496)"/>
-<path d="M4 4V4.51613H14.2857V4H4ZM4 5.54839V6.06452H20V5.54839H4ZM4 7.09677V7.6129H12V7.09677H4Z" fill="#5884F4"/>
-<path d="M4 17.9355V18.4516H20V17.9355H4ZM4 19.4839V20H12V19.4839H4Z" fill="#B3B3B3"/>
-<path d="M9.71429 8.64516V9.16129H19.1429V8.64516H9.71429ZM9.71429 10.1935V10.7097H20V10.1935H9.71429ZM9.71429 11.7419V12.2581H17.7143V11.7419H9.71429Z" fill="#C43AC4"/>
-<path d="M4 8.64516V9.16129H8.57143V8.64516H4ZM4 10.1935V10.7097H8.57143V10.1935H4ZM4 11.7419V12.2581H8.57143V11.7419H4Z" fill="#8C59D9"/>
-<path d="M9.71429 13.2903V13.8065H20V13.2903H9.71429ZM9.71429 14.8387V15.3548H17.7143V14.8387H9.71429Z" fill="#76C22B"/>
-<path d="M4 13.2903V13.8065H8.57143V13.2903H4ZM4 14.8387V15.3548H8.57143V14.8387H4ZM4 16.3871V16.9032H8.57143V16.3871H4Z" fill="#F22C42"/>
-<path d="M9.71429 16.3871V16.9032H20V16.3871H9.71429Z" fill="#B3B3B3"/>
-<defs>
-<radialGradient id="paint0_radial_21_2496" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#BBBBBB"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#5884F4" d="M4 4v.516h10.286V4H4Zm0 1.548v.517h16v-.517H4Zm0 1.549v.516h8v-.516H4Z"/><path fill="#B3B3B3" d="M4 17.936v.516h16v-.517H4Zm0 1.548V20h8v-.516H4Z"/><path fill="#C43AC4" d="M9.714 8.645v.516h9.429v-.516H9.714Zm0 1.549v.516H20v-.517H9.714Zm0 1.548v.516h8v-.516h-8Z"/><path fill="#8C59D9" d="M4 8.645v.516h4.571v-.516H4Zm0 1.549v.516h4.571v-.517H4Zm0 1.548v.516h4.571v-.516H4Z"/><path fill="#76C22B" d="M9.714 13.29v.517H20v-.517H9.714Zm0 1.549v.516h8v-.516h-8Z"/><path fill="#F22C42" d="M4 13.29v.517h4.571v-.517H4Zm0 1.549v.516h4.571v-.516H4Zm0 1.548v.516h4.571v-.516H4Z"/><path fill="#B3B3B3" d="M9.714 16.387v.516H20v-.516H9.714Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>

@@ -1,10 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_539)"/>
-<path opacity="0.6" d="M4 4V20H20.7273V4H4ZM4.72727 4.72727H6.90909V12H7.63636V19.2727H4.72727V4.72727ZM9.09091 4.72727H11.2727V12H12V19.2727H8.36364V12H9.09091V4.72727ZM13.4545 4.72727H15.6364V12H16.3636V19.2727H12.7273V12H13.4545V4.72727ZM17.8182 4.72727H20V19.2727H17.0909V12H17.8182V4.72727Z" fill="#5252C5"/>
-<defs>
-<radialGradient id="paint0_radial_21_539" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#BBBBBB"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#5252C5" d="M4 4v16h16.727V4H4Zm.727.727H6.91V12h.727v7.273H4.727V4.727Zm4.364 0h2.182V12H12v7.273H8.364V12h.727V4.727Zm4.364 0h2.181V12h.728v7.273h-3.637V12h.727V4.727Zm4.363 0H20v14.546h-2.91V12h.728V4.727Z" opacity=".6"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>

@@ -1,8 +1,1 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; }</style>
- </defs>
- <path class="ColorScheme-Text" d="m2 1c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-9c0-1.108-0.892-2-2-2h-12zm0 1h12c0.554 0 1 0.446 1 1v9c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-9c0-0.554 0.446-1 1-1z" fill="currentColor"/>
- <rect x="9" y="9" width="4" height="1" rx="0" ry="0" fill="#dedede" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2247" style="paint-order:stroke fill markers"/>
- <path d="m5.8281 4.1719-2.8281 2.8281 2.8281 2.8281 0.70703-0.70703-2.1211-2.1211 2.1211-2.1211z" fill="#dedede" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2247" style="paint-order:stroke fill markers"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path fill="currentColor" d="M2 1C.892 1 0 1.892 0 3v9c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V3c0-1.108-.892-2-2-2H2zm0 1h12c.554 0 1 .446 1 1v9c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V3c0-.554.446-1 1-1z" style="color:#dedede"/><rect width="4" height="1" x="9" y="9" fill="#dedede" rx="0" ry="0" style="paint-order:stroke fill markers"/><path fill="#dedede" d="M5.828 4.172 3 7l2.828 2.828.707-.707L4.414 7l2.121-2.121z" style="paint-order:stroke fill markers"/></svg>

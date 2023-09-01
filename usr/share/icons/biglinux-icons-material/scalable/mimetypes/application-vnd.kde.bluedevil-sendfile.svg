@@ -1,14 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_62)"/>
-<path d="M8.32521 7.88572L16.5538 16.1143L12.4394 20V4L16.5538 7.88572L8.32521 15.2" stroke="white" stroke-width="0.914282" stroke-linecap="square"/>
-<path d="M3.72728 12.7274C4.12895 12.7274 4.45456 12.4018 4.45456 12.0001C4.45456 11.5985 4.12895 11.2729 3.72728 11.2729C3.32562 11.2729 3 11.5985 3 12.0001C3 12.4018 3.32562 12.7274 3.72728 12.7274Z" fill="white"/>
-<path d="M6.63634 12.7274C7.03801 12.7274 7.36363 12.4018 7.36363 12.0001C7.36363 11.5985 7.03801 11.2729 6.63634 11.2729C6.23468 11.2729 5.90907 11.5985 5.90907 12.0001C5.90907 12.4018 6.23468 12.7274 6.63634 12.7274Z" fill="white"/>
-<path d="M18.2723 12.7274C18.674 12.7274 18.9996 12.4018 18.9996 12.0001C18.9996 11.5985 18.674 11.2729 18.2723 11.2729C17.8707 11.2729 17.5451 11.5985 17.5451 12.0001C17.5451 12.4018 17.8707 12.7274 18.2723 12.7274Z" fill="white"/>
-<path d="M21.1806 12.7274C21.5822 12.7274 21.9079 12.4018 21.9079 12.0001C21.9079 11.5985 21.5822 11.2729 21.1806 11.2729C20.7789 11.2729 20.4533 11.5985 20.4533 12.0001C20.4533 12.4018 20.7789 12.7274 21.1806 12.7274Z" fill="white"/>
-<defs>
-<radialGradient id="paint0_radial_21_62" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#91AAE2"/>
-<stop offset="1" stop-color="#4E71BD"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path stroke="#fff" stroke-linecap="square" stroke-width=".914" d="m8.325 7.886 8.229 8.228L12.439 20V4l4.115 3.886L8.325 15.2"/><path fill="#fff" d="M3.727 12.727a.727.727 0 1 0 0-1.454.727.727 0 0 0 0 1.454ZM6.636 12.727a.727.727 0 1 0 0-1.454.727.727 0 0 0 0 1.454ZM18.272 12.727a.727.727 0 1 0 0-1.454.727.727 0 0 0 0 1.454ZM21.18 12.727a.727.727 0 1 0 0-1.454.727.727 0 0 0 0 1.454Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#91AAE2"/><stop offset="1" stop-color="#4E71BD"/></radialGradient></defs></svg>

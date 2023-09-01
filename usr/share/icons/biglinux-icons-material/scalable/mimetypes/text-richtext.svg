@@ -1,11 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_1373)"/>
-<path d="M13.1434 4.55257V5.10427H19.9997V4.55257H13.1434ZM13.1434 6.20765V6.75935H19.9997V6.20765H13.1434ZM13.1434 7.86274V8.41444H19.9997V7.86274H13.1434ZM13.1434 9.51782V10.0695H19.9997V9.51782H13.1434ZM13.1434 11.1729V11.7246H19.9997V11.1729H13.1434ZM4.00154 12.828V13.3797H19.9999V12.828H4.00154ZM4.00154 14.4831V15.0348H19.9999V14.4831H4.00154ZM4.00154 16.1381V16.6898H19.9999V16.1381H4.00154ZM4.00154 17.7932V18.3449H19.9999V17.7932H4.00154ZM4.00154 19.4483V20H13.1434V19.4483H4.00154Z" fill="#999999"/>
-<path d="M7.5113 4L4.69244 11.172H4V11.7237H5.99977V11.172H5.35952L6.02743 9.51575H9.3417L10.0088 11.172H9.14386V11.7237H12.0124V11.172H11.221L8.40154 4H7.5113ZM7.68461 5.24167L9.14386 8.96643H6.24984L7.68461 5.24167Z" fill="#999999"/>
-<defs>
-<radialGradient id="paint0_radial_21_1373" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#BBBBBB"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#999" d="M13.143 4.553v.551H20v-.551h-6.857Zm0 1.655v.551H20v-.551h-6.857Zm0 1.655v.551H20v-.551h-6.857Zm0 1.655v.551H20v-.551h-6.857Zm0 1.655v.552H20v-.552h-6.857Zm-9.141 1.655v.552H20v-.552H4.002Zm0 1.655v.552H20v-.552H4.002Zm0 1.655v.552H20v-.552H4.002Zm0 1.655v.552H20v-.552H4.002Zm0 1.655V20h9.141v-.552H4.002ZM7.511 4l-2.819 7.172H4v.552h2v-.552h-.64l.667-1.656h3.315l.667 1.656h-.865v.552h2.868v-.552h-.791L8.401 4h-.89Zm.174 1.242 1.459 3.724H6.25l1.435-3.724Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>

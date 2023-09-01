@@ -1,10 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_1_800)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M19 7L5 17.2667H7.8V16.3333H8.73333V17.2667H9.66667V16.3333H10.6V17.2667H11.5333V16.3333H12.4667V17.2667H13.4V16.3333H14.3333V17.2667H15.2667V16.3333H16.2V17.2667H17.1333V16.3333H18.0667V17.2667H19M18.0667 8.65713V14.4671H10.6" fill="white"/>
-<defs>
-<radialGradient id="paint0_radial_1_800" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#B7E285"/>
-<stop offset="1" stop-color="#82BE3D"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#fff" fill-rule="evenodd" d="M19 7 5 17.267h2.8v-.934h.933v.934h.934v-.934h.933v.934h.933v-.934h.934v.934h.933v-.934h.933v.934h.934v-.934h.933v.934h.933v-.934h.934v.934H19m-.933-8.61v5.81H10.6" clip-rule="evenodd"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#B7E285"/><stop offset="1" stop-color="#82BE3D"/></radialGradient></defs></svg>

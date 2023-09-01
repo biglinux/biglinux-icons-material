@@ -1,17 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_1_915)"/>
-<path d="M5.58334 11.7159C9.69175 11.7159 10.4521 16.9435 12.2643 16.9597C14.0766 16.9742 14.893 11.7034 19 11.7034" stroke="#1D99F3" stroke-width="0.583333"/>
-<path d="M5.58334 11.1513C9.69175 11.1513 10.5273 7.59245 12.2829 7.59624C14.0273 7.59998 14.8933 11.7038 19 11.7038" stroke="#DA4453" stroke-width="0.583333"/>
-<path d="M5.58334 11.1513C9.69175 11.1513 9.94066 5.30975 12.2742 5.30975C14.6077 5.30975 14.8934 11.7037 19 11.7037" stroke="#D6D6D6" stroke-width="0.583333"/>
-<path d="M5.58333 5H5V18.4167H5.58333V5Z" fill="#D6D6D6"/>
-<path d="M19 11.4167H5V12H19V11.4167Z" fill="#D6D6D6"/>
-<path d="M9.08333 10.8333H8.5V12.5833H9.08333V10.8333Z" fill="#D6D6D6"/>
-<path d="M12.5833 10.8333H12V12.5833H12.5833V10.8333Z" fill="#D6D6D6"/>
-<path d="M16.0833 10.8333H15.5V12.5833H16.0833V10.8333Z" fill="#D6D6D6"/>
-<defs>
-<radialGradient id="paint0_radial_1_915" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#8B8B8B"/>
-<stop offset="1" stop-color="#454545"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path stroke="#1D99F3" stroke-width=".583" d="M5.583 11.716c4.109 0 4.87 5.228 6.681 5.244 1.813.014 2.629-5.257 6.736-5.257"/><path stroke="#DA4453" stroke-width=".583" d="M5.583 11.151c4.109 0 4.944-3.559 6.7-3.555 1.744.004 2.61 4.108 6.717 4.108"/><path stroke="#D6D6D6" stroke-width=".583" d="M5.583 11.151c4.109 0 4.358-5.841 6.691-5.841 2.334 0 2.62 6.394 6.726 6.394"/><path fill="#D6D6D6" d="M5.583 5H5v13.417h.583V5Z"/><path fill="#D6D6D6" d="M19 11.417H5V12h14v-.583Z"/><path fill="#D6D6D6" d="M9.083 10.833H8.5v1.75h.583v-1.75ZM12.583 10.833H12v1.75h.583v-1.75ZM16.083 10.833H15.5v1.75h.583v-1.75Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#8B8B8B"/><stop offset="1" stop-color="#454545"/></radialGradient></defs></svg>

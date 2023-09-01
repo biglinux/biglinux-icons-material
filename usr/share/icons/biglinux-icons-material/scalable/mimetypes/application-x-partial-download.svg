@@ -1,12 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_3_1037)"/>
-<path opacity="0.2" d="M11.0976 5V6.36585H12.4634V5H11.0976ZM12.4634 6.36585V7.73171H13.8293V6.36585H12.4634ZM12.4634 7.73171H11.0976V9.09756H12.4634V7.73171ZM11.0976 7.73171V6.36585H9.7317V7.73171H11.0976ZM11.0976 13.1845V13.1951H12.4634V13.1845H11.0976Z" fill="#99E159"/>
-<path opacity="0.6" d="M9.7317 7.73171V9.09756H11.0976V7.73171H9.7317ZM11.0976 9.09756V10.4634H13.8293V7.73171H12.4634V9.09756H11.0976ZM11.0976 10.4634H9.7317V11.8293H11.0976V10.4634Z" fill="#99E159"/>
-<path d="M11.0976 10.4634V11.8293H12.4634V10.4634H11.0976ZM12.4634 11.8293V13.1951H11.0976V11.8293H9.73171V13.0961H7L11.7805 19L16.561 13.0961L13.8293 13.0971V11.8293H12.4634Z" fill="#99E159"/>
-<defs>
-<radialGradient id="paint0_radial_3_1037" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#BBBBBB"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#99E159" d="M11.098 5v1.366h1.365V5h-1.365Zm1.365 1.366v1.366h1.366V6.366h-1.366Zm0 1.366h-1.365v1.366h1.365V7.732Zm-1.365 0V6.366H9.732v1.366h1.366Zm0 5.452v.011h1.365v-.01h-1.365Z" opacity=".2"/><path fill="#99E159" d="M9.732 7.732v1.366h1.366V7.732H9.732Zm1.366 1.366v1.365h2.731V7.732h-1.366v1.366h-1.365Zm0 1.365H9.732v1.366h1.366v-1.366Z" opacity=".6"/><path fill="#99E159" d="M11.098 10.463v1.366h1.365v-1.366h-1.365Zm1.365 1.366v1.366h-1.365V11.83H9.732v1.267H7L11.78 19l4.781-5.904-2.732.001V11.83h-1.366Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>

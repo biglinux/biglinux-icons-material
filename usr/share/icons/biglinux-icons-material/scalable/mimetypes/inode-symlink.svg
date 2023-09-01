@@ -1,10 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_932)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M5.88202 4L4 5.88202L10.118 12L4 18.118L5.88202 20L12 13.882L18.1165 20L19.9985 18.118L13.8805 12L19.9985 5.88202L18.1165 4L12 10.118L5.88202 4Z" fill="#F46062"/>
-<defs>
-<radialGradient id="paint0_radial_21_932" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#BBBBBB"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#F46062" fill-rule="evenodd" d="M5.882 4 4 5.882 10.118 12 4 18.118 5.882 20 12 13.882 18.116 20 20 18.118 13.88 12l6.117-6.118L18.116 4 12 10.118 5.882 4Z" clip-rule="evenodd"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>

@@ -1,12 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_6_290)"/>
-<path d="M6.0248 11.8153L9.55661 13.2679L9.29793 14.034L5 12.2133V11.4174L9.29793 9.59678L9.55661 10.3629L6.0248 11.8153Z" fill="#D85ECA"/>
-<path d="M10.7955 16.6307H9.85036L13.2231 7H14.1483L10.7955 16.6307Z" fill="#D85ECA"/>
-<path d="M14.4434 10.3628L14.7021 9.59674L19 11.4174V12.2133L14.7021 14.0339L14.4434 13.2679L17.9752 11.8153L14.4434 10.3628Z" fill="#D85ECA"/>
-<defs>
-<radialGradient id="paint0_radial_6_290" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#BBBBBB"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#D85ECA" d="m6.025 11.815 3.532 1.453-.26.766L5 12.214v-.797l4.298-1.82.259.766-3.532 1.452ZM10.796 16.63H9.85L13.223 7h.925l-3.352 9.63ZM14.443 10.363l.26-.766L19 11.417v.796l-4.298 1.82-.259-.765 3.532-1.453-3.532-1.452Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>

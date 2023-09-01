@@ -1,10 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_3_975)"/>
-<path d="M12 5L8.65219 8.34781L12 11.6956L15.3478 8.34781L12 5ZM15.6522 8.65219L12.3044 12L15.6522 15.3478L19 12L15.6522 8.65219ZM8.34781 8.65219L5 12L8.34781 15.3478L11.6956 12L8.34781 8.65219ZM12 12.3044L8.65219 15.6522L12 19L15.3478 15.6522L12 12.3044Z" fill="#37A6E6"/>
-<defs>
-<radialGradient id="paint0_radial_3_975" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#BBBBBB"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#37A6E6" d="M12 5 8.652 8.348 12 11.696l3.348-3.348L12 5Zm3.652 3.652L12.304 12l3.348 3.348L19 12l-3.348-3.348Zm-7.304 0L5 12l3.348 3.348L11.696 12 8.348 8.652ZM12 12.304l-3.348 3.348L12 19l3.348-3.348L12 12.304Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>

@@ -1,7 +1,1 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; }</style>
- </defs>
- <rect x="2" y="14" width="11" height="1" rx="0" ry="0" style="fill:currentColor" class="ColorScheme-Text"/>
- <path d="m7 1v10.088l-3.7441-3.7441-0.70703 0.70703 4.2441 4.2422 0.70703 0.70703 4.9492-4.9492-0.70703-0.70703-3.7422 3.7402v-10.084h-1z" style="fill:currentColor" class="ColorScheme-Text"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#dedede}</style></defs><rect width="11" height="1" x="2" y="14" class="ColorScheme-Text" rx="0" ry="0" style="fill:currentColor"/><path d="M7 1v10.088L3.256 7.344l-.707.707 4.244 4.242L7.5 13l4.95-4.949-.708-.707L8 11.084V1H7z" class="ColorScheme-Text" style="fill:currentColor"/></svg>

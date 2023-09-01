@@ -1,11 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_1_753)"/>
-<path d="M11 13.9941V17.2427C11 17.3812 11.1114 17.4926 11.2499 17.4926H12.7492C12.8877 17.4926 12.9991 17.3812 12.9991 17.2427V13.9941H11ZM11.4998 15.9932H12.4993V16.9927H11.4998V15.9932Z" fill="#FAFAFA"/>
-<path d="M12.0004 1V1.99955H13V1H12.0004ZM12.0004 1.99955H11.0009V2.99911H12.0004V1.99955ZM12.0004 2.99911V3.99866H13V2.99911H12.0004ZM12.0004 3.99866H11.0009V4.99821H12.0004V3.99866ZM12.0004 4.99821V5.99777H13V4.99821H12.0004ZM12.0004 5.99777H11.0009V6.99732H12.0004V5.99777ZM12.0004 6.99732V7.99687H13V6.99732H12.0004ZM12.0004 7.99687H11.0009V8.99643H12.0004V7.99687ZM12.0004 8.99643V9.99598H13V8.99643H12.0004ZM12.0004 9.99598H11.0009V10.9955H12.0004V9.99598ZM12.0004 10.9955V11.9951H13V10.9955H12.0004ZM12.0004 11.9951H11.0009V12.9946H12.0004V11.9951ZM12.0004 12.9946V13.9942H13V12.9946H12.0004Z" fill="#FAFAFA"/>
-<defs>
-<radialGradient id="paint0_radial_1_753" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#EF7C71"/>
-<stop offset="1" stop-color="#D03121"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#FAFAFA" d="M11 13.994v3.249c0 .138.111.25.25.25h1.5a.25.25 0 0 0 .25-.25v-3.249h-2Zm.5 2h1v.999h-1v-1Z"/><path fill="#FAFAFA" d="M12 1v1h1V1h-1Zm0 1h-1v1h1V2Zm0 1v.999h1v-1h-1Zm0 .999h-1v1h1v-1Zm0 1v.999h1v-1h-1Zm0 .999h-1v1h1v-1Zm0 1v.999h1v-1h-1Zm0 .999h-1v1h1v-1Zm0 1v.999h1v-1h-1Zm0 .999h-1v1h1v-1Zm0 1v1h1v-1h-1Zm0 1h-1v.999h1v-1Zm0 .999v1h1v-1h-1Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#EF7C71"/><stop offset="1" stop-color="#D03121"/></radialGradient></defs></svg>

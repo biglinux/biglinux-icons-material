@@ -1,12 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_1_556)"/>
-<path d="M13.2222 3.5C10.9992 3.5 8.94504 4.68601 7.83359 6.61113C6.72214 8.53625 6.72214 10.9083 7.83359 12.8334C8.94504 14.7585 10.9993 15.9445 13.2222 15.9445H23" stroke="#8F76E4" stroke-width="0.888894"/>
-<path d="M14.9144 5.61223C13.2533 4.92802 11.3435 5.31116 10.0748 6.58319C8.80615 7.85522 8.42804 9.76599 9.11666 11.4253C9.80529 13.0847 11.4251 14.1662 13.2217 14.1662H22.9995" stroke="#8F76E4" stroke-width="0.888894"/>
-<path d="M15.1077 7.83669C14.2543 6.98324 12.9341 6.80943 11.8887 7.41291C10.8434 8.01639 10.3338 9.2467 10.6463 10.4125C10.9587 11.5783 12.0152 12.3889 13.2221 12.3889H22.9999" stroke="#8F76E4" stroke-width="0.888894"/>
-<defs>
-<radialGradient id="paint0_radial_1_556" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#BBBBBB"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path stroke="#8F76E4" stroke-width=".889" d="M13.222 3.5a6.222 6.222 0 0 0 0 12.444H23"/><path stroke="#8F76E4" stroke-width=".889" d="M14.914 5.612a4.445 4.445 0 1 0-1.692 8.554H23"/><path stroke="#8F76E4" stroke-width=".889" d="M15.108 7.837a2.667 2.667 0 1 0-1.886 4.552H23"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>

@@ -1,4 +1,1 @@
-<svg width="16" height="16.001" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m12 2v5h1v-4h1v4h1v-5h-3zm-4 3v2h1v-1h1v1h1v-2h-3zm-8 6v3h3v-3h-3zm4 0v3h3v-3h-1v2h-1v-2h-1zm4 0v3h3v-3h-1v2h-1v-2h-1zm4 0v3h3v-3h-1v2h-1v-2h-1zm-11 1h1v1h-1v-1z" fill="#dedede"/>
- <rect y="8" width="16" height="2" rx="0" ry="0" fill="#dedede" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5261" style="paint-order:stroke fill markers"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.001"><path fill="#dedede" d="M12 2v5h1V3h1v4h1V2h-3zM8 5v2h1V6h1v1h1V5H8zm-8 6v3h3v-3H0zm4 0v3h3v-3H6v2H5v-2H4zm4 0v3h3v-3h-1v2H9v-2H8zm4 0v3h3v-3h-1v2h-1v-2h-1zM1 12h1v1H1v-1z"/><rect width="16" height="2" y="8" fill="#dedede" rx="0" ry="0" style="paint-order:stroke fill markers"/></svg>

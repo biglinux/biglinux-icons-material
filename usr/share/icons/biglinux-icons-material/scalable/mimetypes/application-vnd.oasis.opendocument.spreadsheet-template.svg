@@ -1,10 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_1_271)"/>
-<path d="M5 17.6667H19V6H5V17.6667ZM6.16667 7.16667H8.5V9.5H6.16667V7.16667ZM9.66672 7.16667H17.8334V9.5H9.66672V7.16667ZM6.16667 10.6667H8.5V13.0001H6.16667V10.6667ZM9.66672 10.6667H17.8334V13.0001H9.66672V10.6667ZM6.16667 14.1668H8.5V16.5001H6.16667V14.1668ZM9.66672 14.1668H17.8334V16.5001H9.66672V14.1668Z" fill="white"/>
-<defs>
-<radialGradient id="paint0_radial_1_271" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#709370"/>
-<stop offset="1" stop-color="#225222"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#fff" d="M5 17.667h14V6H5v11.667Zm1.167-10.5H8.5V9.5H6.167V7.167Zm3.5 0h8.166V9.5H9.667V7.167Zm-3.5 3.5H8.5V13H6.167v-2.333Zm3.5 0h8.166V13H9.667v-2.333Zm-3.5 3.5H8.5V16.5H6.167v-2.333Zm3.5 0h8.166V16.5H9.667v-2.333Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#709370"/><stop offset="1" stop-color="#225222"/></radialGradient></defs></svg>

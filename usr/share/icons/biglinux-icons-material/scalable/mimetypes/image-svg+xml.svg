@@ -1,17 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_21_586)"/>
-<path d="M7.03871 9.16387L16.9556 14.6359" stroke="#F34F17" stroke-width="0.516129"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M7.87097 19.1458C14.5806 22.2426 17.6774 15.0168 12 11.92C6.32258 8.82322 9.41935 1.59741 16.129 4.69419" fill="#8F76E4" fill-opacity="0.25098"/>
-<path d="M7.87097 19.1458C14.5806 22.2426 17.6774 15.0168 12 11.92C6.32258 8.82322 9.41935 1.59741 16.129 4.69419" stroke="#8C59D9" stroke-width="0.516129"/>
-<path d="M6.32258 9.59742C6.75015 9.59742 7.09677 9.2508 7.09677 8.82322C7.09677 8.39565 6.75015 8.04903 6.32258 8.04903C5.895 8.04903 5.54839 8.39565 5.54839 8.82322C5.54839 9.2508 5.895 9.59742 6.32258 9.59742Z" stroke="#F34F17" stroke-width="0.516129" stroke-linejoin="round"/>
-<path d="M17.6774 15.791C18.105 15.791 18.4516 15.4443 18.4516 15.0168C18.4516 14.5892 18.105 14.2426 17.6774 14.2426C17.2498 14.2426 16.9032 14.5892 16.9032 15.0168C16.9032 15.4443 17.2498 15.791 17.6774 15.791Z" stroke="#F34F17" stroke-width="0.516129" stroke-linejoin="round"/>
-<path d="M16.9032 3.92H15.3548V5.46838H16.9032V3.92Z" fill="white" stroke="#8F76E4" stroke-width="0.516129"/>
-<path d="M12.7742 11.1458H11.2258V12.6942H12.7742V11.1458Z" fill="white" stroke="#8F76E4" stroke-width="0.516129"/>
-<path d="M8.64516 18.3716H7.09677V19.92H8.64516V18.3716Z" fill="white" stroke="#8F76E4" stroke-width="0.516129"/>
-<defs>
-<radialGradient id="paint0_radial_21_586" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#BBBBBB"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path stroke="#F34F17" stroke-width=".516" d="m7.039 9.164 9.917 5.472"/><path fill="#8F76E4" fill-opacity=".251" fill-rule="evenodd" d="M7.871 19.146c6.71 3.097 9.806-4.13 4.129-7.226-5.677-3.097-2.58-10.323 4.129-7.226" clip-rule="evenodd"/><path stroke="#8C59D9" stroke-width=".516" d="M7.871 19.146c6.71 3.097 9.806-4.13 4.129-7.226-5.677-3.097-2.58-10.323 4.129-7.226"/><path stroke="#F34F17" stroke-linejoin="round" stroke-width=".516" d="M6.323 9.597a.774.774 0 1 0 0-1.548.774.774 0 0 0 0 1.548ZM17.677 15.791a.774.774 0 1 0 0-1.548.774.774 0 0 0 0 1.548Z"/><path fill="#fff" stroke="#8F76E4" stroke-width=".516" d="M16.903 3.92h-1.548v1.548h1.548V3.92ZM12.774 11.146h-1.548v1.548h1.548v-1.548ZM8.645 18.372H7.097v1.548h1.548v-1.548Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
