@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 6h2v4h4v3h1V9l-4-4h-4l1 1ZM8 19h5v-1H9v-1H8v2Zm7.707-5-.707.707 1.793 1.793L15 18.293l.707.707 1.793-1.793L19.293 19l.707-.707-1.793-1.793L20 14.707 19.293 14 17.5 15.793 15.707 14Z" style="fill:currentColor;fill-opacity:1;stroke:none;color:#da4453" transform="translate(1 1)"/><path d="M13 16H3V4h6v4h4v8Zm1-5V7l-4-4H2v14h12v-6Z" style="fill:currentColor;fill-opacity:1;stroke:none;color:#dedede" transform="translate(1 1)"/></svg>
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+                color:#363636;
+            }
+            .ColorScheme-NegativeText {
+                color:#da4453;
+            }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m12 6v1h4v2c0 1.108 0.892 2 2 2h2v3h1v-4l-4-4h-5zm-3 11c0 1.662 1.338 3 3 3h3v-1h-3c-1.108 0-2-0.892-2-2h-1z" fill="currentColor"/>
+ <path class="ColorScheme-NegativeText" d="M 16.707,15 16,15.707 17.793,17.5 16,19.293 16.707,20 18.5,18.207 20.293,20 21,19.293 19.207,17.5 21,15.707 20.293,15 18.5,16.793 Z" fill="currentColor"/>
+ <path class="ColorScheme-Text" d="m6 4c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h6c1.662 0 3-1.338 3-3v-7l-4-4zm0 1h4v2c0 1.108 0.892 2 2 2h2v6c0 1.108-0.892 2-2 2h-6c-1.108 0-2-0.892-2-2v-8c0-1.108 0.892-2 2-2z" fill="currentColor"/>
+</svg>
