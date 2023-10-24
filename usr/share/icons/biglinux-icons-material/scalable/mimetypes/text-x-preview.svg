@@ -5,7 +5,7 @@
    fill="none"
    version="1.1"
    id="svg2"
-   sodipodi:docname="application-x-generic.svg"
+   sodipodi:docname="text-x-preview.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -29,27 +29,15 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
-  <g
-     id="g2"
-     transform="translate(-31,5)">
-    <rect
-       width="22"
-       height="22"
-       x="32"
-       y="-4"
-       fill="url(#a)"
-       rx="6.5999999"
-       id="rect1-7"
-       style="fill:url(#a-3)" />
-    <path
-       fill="#fafafa"
-       d="m 42,8.994 v 3.249 c 0,0.138 0.111,0.25 0.25,0.25 h 1.5 A 0.25,0.25 0 0 0 44,12.243 V 8.994 Z m 0.5,2 h 1 v 0.999 h -1 v -1 z"
-       id="path1" />
-    <path
-       fill="#fafafa"
-       d="m 43,-4 v 1 h 1 v -1 z m 0,1 h -1 v 1 h 1 z m 0,1 v 0.999 h 1 v -1 h -1 z m 0,0.999 h -1 v 1 h 1 z m 0,1 v 0.999 h 1 v -1 h -1 z m 0,0.999 h -1 v 1 h 1 z m 0,1 v 0.999 h 1 v -1 h -1 z m 0,0.999 h -1 v 1 h 1 z m 0,1 v 0.999 h 1 v -1 h -1 z m 0,0.999 h -1 v 1 h 1 z m 0,1 v 1 h 1 v -1 z m 0,1 h -1 v 0.999 h 1 v -1 z m 0,0.999 v 1 h 1 v -1 z"
-       id="path2" />
-  </g>
+  <rect
+     width="22"
+     height="22"
+     x="1"
+     y="1"
+     fill="url(#a)"
+     rx="6.5999999"
+     id="rect1-7"
+     style="fill:url(#a-3)" />
   <defs
      id="defs2">
     <radialGradient
@@ -72,15 +60,18 @@
        cx="0"
        cy="0"
        r="1"
-       gradientTransform="matrix(-10.999959,21.999967,-21.999967,-10.999959,48.500201,-3.9997301)"
+       gradientTransform="matrix(-10.999959,21.999967,-21.999967,-10.999959,17.500201,1.0002699)"
        gradientUnits="userSpaceOnUse">
       <stop
          stop-color="#C49DE6"
-         id="stop2-6" />
+         id="stop2-6"
+         offset="0"
+         style="stop-color:#e7e7e7;stop-opacity:1;" />
       <stop
          offset="1"
          stop-color="#945FC3"
-         id="stop3" />
+         id="stop3"
+         style="stop-color:#c3c3c3;stop-opacity:1;" />
     </radialGradient>
   </defs>
 </svg>
