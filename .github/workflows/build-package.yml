@@ -17,6 +17,7 @@ jobs:
         run: |
           
           size=(
+          8
           12
           16
           22
@@ -27,6 +28,28 @@ jobs:
           96
           128
           256
+          8@2x
+          12@2x
+          16@2x
+          22@2x
+          24@2x
+          32@2x
+          48@2x
+          64@2x
+          96@2x
+          128@2x
+          256@2x
+          8@3x
+          12@3x
+          16@3x
+          22@3x
+          24@3x
+          32@3x
+          48@3x
+          64@3x
+          96@3x
+          128@3x
+          256@3x
           )
           
           type=(
@@ -44,7 +67,7 @@ jobs:
           )
           
           for m in ${mode[@]};do
-            for t in ${type[@]}; do
+            for t in ${type[@]};do
               # Define pasta do light ou dark
               if [ "$m" = "light" ];then
                 materialFolder=biglinux-icons-material
@@ -61,7 +84,7 @@ jobs:
               cp base/$m/$t/* usr/share/icons/$materialFolder/scalable/$t/
               
               # Criar link simbolico da pasta scalable para a pasta do size
-              for s in ${size[@]}; do
+              for s in ${size[@]};do
                 # verificia se diretorio de size existe, se não existir criar
                 if [ ! -d "usr/share/icons/$materialFolder/$t/$s" ];then
                   mkdir -p usr/share/icons/$materialFolder/$t/$s
