@@ -79,8 +79,8 @@ jobs:
             done
           done
       
-      - name: Setup TMATE Session
-        uses: mxschmitt/action-tmate@v3
+      # - name: Setup TMATE Session
+      #   uses: mxschmitt/action-tmate@v3
       
       - name: Update github
         run: |

@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 22 22"
+   viewBox="0 0 24 24"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -59,10 +59,11 @@
         color:#3daee9;
       }
       </style>
-  </defs>
+  </defs><g transform="translate(1,1)">
   <path
      sodipodi:type="star"
-     style="opacity:1;fill:#363636;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     class="ColorScheme-Text"
      id="path4136"
      sodipodi:sides="4"
      sodipodi:cx="11"
@@ -75,4 +76,4 @@
      inkscape:rounded="0"
      inkscape:randomized="0"
      d="M 20,11 13,13 11,20 9,13 2,11 9,9 11,2 13,9 Z" />
-</svg>
+</g></svg>
