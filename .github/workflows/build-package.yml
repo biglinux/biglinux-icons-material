@@ -31,17 +31,17 @@ jobs:
           
           type=(
           actions
-          devices
-          mimetypes
-          panel
-          places
-          status
           )
+          # devices
+          # mimetypes
+          # panel
+          # places
+          # status
           
           mode=(
           light
-          dark
           )
+          # dark
           
           for m in ${mode[@]};do
             for t in ${type[@]}; do
