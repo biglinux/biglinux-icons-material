@@ -1,4 +1,4 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg">
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
     <style
         type="text/css"
         id="current-color-scheme">
@@ -6,5 +6,5 @@
             color:#363636;
         }
     </style>
-    <path d="M13 2.293L2.293 13l.353.354L9 19.707 19.707 9zm0 1.414L18.293 9 9 18.293 3.707 13zm-2.127-.701a8 8 0 0 0-7.87 7.869L4.12 9.76a7 7 0 0 1 5.643-5.643zm8.123 8.119l-1.115 1.115a7 7 0 0 1-5.643 5.643l-1.111 1.111a8 8 0 0 0 7.87-7.869z" class="ColorScheme-Text" fill="currentColor"/>
+    <path d="M19 1.293l-.354.353L1.293 19 13 30.707 30.707 13zm-3.564.736A14 14 0 0 0 2.02 15.445l1.101-1.101A13 13 0 0 1 14.34 3.125zM19 2.707L29.293 13 13 29.293 2.707 19zm10.98 13.848l-1.101 1.101a13 13 0 0 1-11.22 11.221l-1.095 1.094A14 14 0 0 0 29.98 16.555z" class="ColorScheme-Text" fill="currentColor"/>
 </svg>
