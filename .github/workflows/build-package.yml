@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       
       - name: copy icons to folders
-        shell: bash
+        shell: bash -O extglob {0}
         run: |
           
           size=(
@@ -81,6 +81,20 @@ jobs:
       
       # - name: Setup TMATE Session
       #   uses: mxschmitt/action-tmate@v3
+      
+      - name: Update github
+        run: |
+          git add --all
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add --all
+          if [ -n "$(git commit -m "update $(date +%y-%m-%d_%H:%M)" -a | grep "nothing to commit")" ];then exit 0; fi
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
       
       - name: Send Hooks BigLinux Build Package
         shell: bash
