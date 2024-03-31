@@ -70,7 +70,7 @@ jobs:
                 # Criar pasta no sistema de arquivos para criar um links simbolicos
                 sudo mkdir -p /usr/share/icons/$materialFolder/scalable/$t/
                 # Copiar pasta para sistema para criar um links simbolicos
-                sudo cp usr/share/icons/$materialFolder/$t /usr/share/icons/$materialFolder/scalable/$t
+                sudo cp -r usr/share/icons/$materialFolder/$t /usr/share/icons/$materialFolder/scalable/$t
                 
                 # Criar link simbolico
                 ln -sf /usr/share/icons/$materialFolder/scalable/$t/* usr/share/icons/$materialFolder/$t/$s/
