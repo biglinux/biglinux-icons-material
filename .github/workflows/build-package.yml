@@ -31,17 +31,17 @@ jobs:
           
           type=(
           actions
+          devices
+          mimetypes
+          panel
+          places
+          status
           )
-          # devices
-          # mimetypes
-          # panel
-          # places
-          # status
           
           mode=(
           light
+          dark
           )
-          # dark
           
           for m in ${mode[@]};do
             for t in ${type[@]}; do
@@ -79,8 +79,8 @@ jobs:
             done
           done
       
-      - name: Setup TMATE Session
-        uses: mxschmitt/action-tmate@v3
+      # - name: Setup TMATE Session
+      #   uses: mxschmitt/action-tmate@v3
       
       - name: Send Hooks BigLinux Build Package
         shell: bash
