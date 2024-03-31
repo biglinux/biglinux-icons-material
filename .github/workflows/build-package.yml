@@ -13,7 +13,8 @@ jobs:
       - uses: actions/checkout@v3
       
       - name: copy icons to folders
-        shell: |
+        shell: bash
+        run: |
           
           size=(
           12
