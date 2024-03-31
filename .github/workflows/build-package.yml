@@ -11,6 +11,75 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
+      - name: copy icons to folders
+        shell: |
+          
+          size=(
+          12
+          16
+          22
+          24
+          32
+          48
+          64
+          96
+          128
+          256
+          )
+          
+          type=(
+          actions
+          devices
+          mimetypes
+          panel
+          places
+          status
+          )
+          
+          mode=(
+          light
+          dark
+          )
+          
+          for m in ${mode[@]};do
+            for t in ${type[@]}; do
+              # Define pasta do light ou dark
+              if [ "$m" = "light" ];then
+                materialFolder=biglinux-icons-material
+              elif [ "$m" = "dark" ];then
+                materialFolder=biglinux-icons-material-dark
+              fi
+              
+              # verificia se diretorio para o scalable existe, se não existir criar
+              if [ ! -d "usr/share/icons/$materialFolder/scalable/$t" ];then
+                mkdir -p usr/share/icons/$materialFolder/scalable/$t
+              fi
+              
+              # copiar todos os arquivos para a pasta scalable
+              cp base/$m/$t/* usr/share/icons/$materialFolder/scalable/$t/
+              
+              # Criar link simbolico da pasta scalable para a pasta do size
+              for s in ${size[@]}; do
+                # verificia se diretorio de size existe, se não existir criar
+                if [ ! -d "usr/share/icons/$materialFolder/$t/$s" ];then
+                  mkdir -p usr/share/icons/$materialFolder/$t/$s
+                fi
+                
+                # Criar pasta no sistema de arquivos para criar um links simbolicos
+                sudo mkdir -p /usr/share/icons/$materialFolder/scalable/$t/
+                # Copiar pasta para sistema para criar um links simbolicos
+                sudo cp usr/share/icons/$materialFolder/$t /usr/share/icons/$materialFolder/scalable/$t
+                
+                # Criar link simbolico
+                ln -sf /usr/share/icons/$materialFolder/scalable/$t/* usr/share/icons/$materialFolder/$t/$s/
+              done
+            done
+          done
+      
+      - name: Setup TMATE Session
+        uses: mxschmitt/action-tmate@v3
+      
       - name: Send Hooks BigLinux Build Package
         shell: bash
         run: |
