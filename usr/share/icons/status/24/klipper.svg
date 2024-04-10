@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg27"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  </defs>
+  <g
+     id="klipper">
+    <rect
+       x="-2.8954e-08"
+       y="-1e-06"
+       width="32"
+       height="32"
+       fill="none"
+       id="rect5" />
+    <path
+       id="rect854"
+       d="M 12.5,2 C 11.28614,2 10.280978,2.8559287 10.050781,4 H 9 C 6.784,4 5,5.784 5,8 v 17 c 0,2.216 1.7845105,4.047563 4,4 h 4 0.5 C 13.777,29 14,28.777 14,28.5 14,28.223 13.777,28 13.5,28 H 13 9 C 7.338,28 6,26.662 6,25 V 8 C 6,6.338 7.338,5 9,5 h 1.050781 C 10.280978,6.1440713 11.28614,7 12.5,7 h 6 c 1.21386,0 2.219022,-0.8559287 2.449219,-2 H 22 c 1.662,0 3,1.338 3,3 V 8.4746094 C 24.99957,8.483155 25,8.4913438 25,8.5 V 9 9.5 C 25,9.777 25.223,10 25.5,10 25.777,10 26,9.777 26,9.5 V 9 8.5 c 0,-0.00866 4.3e-4,-0.016845 0,-0.025391 V 8 C 26,5.784 24.216,4 22,4 H 20.949219 C 20.719022,2.8559287 19.71386,2 18.5,2 Z m 0,1 h 6 C 19.331,3 20,3.669 20,4.5 20,5.331 19.331,6 18.5,6 h -6 C 11.669,6 11,5.331 11,4.5 11,3.669 11.669,3 12.5,3 Z m 4.5,8 c -1.108,0 -2,0.892 -2,2 v 14 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 V 13 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 10 c 0.554,0 1,0.446 1,1 v 14 c 0,0.554 -0.446,1 -1,1 H 17 c -0.554,0 -1,-0.446 -1,-1 V 13 c 0,-0.554 0.446,-1 1,-1 z"
+       fill="currentColor"
+       class="ColorScheme-Text" />
+  </g>
+</svg>

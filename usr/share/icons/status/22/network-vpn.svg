@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg4153"
+   width="32"
+   height="32"
+   version="1.1"
+   viewBox="0 0 32 32"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata870">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4157">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3498db;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText{
+        color:#e74c3c;
+      }</style>
+  </defs>
+  <g
+     id="network-vpn"
+     transform="translate(-274,-53.999996)">
+    <rect
+       id="rect1601"
+       x="274"
+       y="53.999996"
+       width="32"
+       height="32"
+       fill="none"
+       style="stroke-width:1.45455" />
+    <path
+       id="path1899"
+       d="M 289.81641,58.617188 A 1.0001,1.0001 0 0 0 289.47266,58.75 l -0.60157,0.373047 c -2.51331,1.509579 -5.18664,2.503658 -8.03906,2.988281 A 1.0001,1.0001 0 0 0 280,63.095703 v 6.109375 c 0,2.737389 0.81744,5.193496 2.45117,7.230469 1.63374,2.036973 4.04341,3.648196 7.17969,4.892578 a 1.0001,1.0001 0 0 0 0.73828,0 c 3.13631,-1.244382 5.54596,-2.855603 7.17969,-4.892578 C 299.18255,74.398571 300,71.942463 300,69.205078 v -6.109375 a 1.0001,1.0001 0 0 0 -0.83203,-0.984375 c -2.85672,-0.485357 -5.53411,-1.480697 -8.05078,-2.99414 L 290.52734,58.75 a 1.0001,1.0001 0 0 0 -0.71093,-0.132812 z M 290,59.599609 l 0.60156,0.373047 c 2.61961,1.575345 5.42034,2.617067 8.39844,3.123047 v 6.109375 c 0,5.088002 -2.95185,8.795613 -9,11.195313 -6.04808,-2.3997 -9,-6.107311 -9,-11.195313 v -6.109375 c 2.97812,-0.50598 5.77886,-1.547702 8.39844,-3.123047 z"
+       class="ColorScheme-Text"
+       fill="currentColor" />
+  </g>
+</svg>
