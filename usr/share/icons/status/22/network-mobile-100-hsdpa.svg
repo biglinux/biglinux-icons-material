@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg4153"
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata870">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4157">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3498db;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText{
+        color:#e74c3c;
+      }</style>
+  </defs>
+  <g
+     id="network-mobile-100-hsdpa"
+     transform="translate(22,286)">
+    <rect
+       id="rect5661"
+       x="-22"
+       y="-286"
+       width="22"
+       height="22"
+       fill="none"
+       opacity="0.55" />
+    <path
+       id="path5663"
+       class="ColorScheme-Text"
+       d="m -19,-267 16,-16 v 16 z"
+       fill="currentColor"
+       fill-rule="evenodd" />
+    <path
+       id="path5037"
+       class="ColorScheme-Text"
+       d="m -19,-283 v 5 h 1 v -2 h 2 v 2 h 1 v -5 h -1 v 2 h -2 v -2 z m 5,0 1,2 1,-2 z"
+       fill="currentColor" />
+  </g>
+</svg>
