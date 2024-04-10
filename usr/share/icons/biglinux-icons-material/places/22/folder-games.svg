@@ -1,12 +1,13 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
- </defs>
- <path d="m2 1c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-9c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v9c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-9c0-0.554 0.446-1 1-1z" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9215" style="paint-order:stroke fill markers"/>
- <rect x="2" y="7" width="5" height="1" rx=".5" ry=".5" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
- <rect x="4" y="5" width="1" height="5" rx=".5" ry=".5" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
- <circle cx="11.5" cy="5.5" r=".5" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
- <circle cx="11.5" cy="9.5" r=".5" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
- <circle cx="9.5" cy="7.5" r=".5" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
- <circle cx="13.5" cy="7.5" r=".5" fill="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629
+      }
+      </style>
+  </defs>
+    <path
+       style="fill:currentColor"
+       d="M 6 6 C 4.343 6 3 8.2 3 11 L 3 14.5 A 1.5 1.5 0 0 0 5.6 15.6 L 8.1 13 A 1.5 1.5 0 0 0 11 12.5 A 1.5 1.5 0 0 0 13.9 13 L 16.4 15.6 A 1.5 1.5 0 0 0 19 14.5 L 19 11 C 19 8.2 17.6 6 16 6 L 6 6 z M 6 7 L 16 7 C 17.1 7 18 8.8 18 11 L 18 14.5 A 0.5 0.5 0 0 1 17.1 14.9 L 14.3 12 L 13 12 L 13 12.5 A 0.5 0.5 0 0 1 12 12.5 L 12 12 L 10 12 L 10 12.5 A 0.5 0.5 0 0 1 9 12.5 L 9 12 L 7.7 12 L 4.9 14.9 A 0.5 0.5 0 0 1 4 14.5 L 4 11 C 4 8.8 4.9 7 6 7 z M 14.5 7.9 A 0.6 0.6 0 0 0 13.9 8.5 A 0.6 0.6 0 0 0 14.5 9.1 A 0.6 0.6 0 0 0 15.1 8.5 A 0.6 0.6 0 0 0 14.5 7.9 z M 7 8 L 7 9 L 6 9 L 6 10 L 7 10 L 7 11 L 8 11 L 8 10 L 9 10 L 9 9 L 8 9 L 8 8 L 7 8 z M 13.5 8.9 A 0.6 0.6 0 0 0 12.9 9.5 A 0.6 0.6 0 0 0 13.5 10.1 A 0.6 0.6 0 0 0 14.1 9.5 A 0.6 0.6 0 0 0 13.5 8.9 z M 15.5 8.9 A 0.6 0.6 0 0 0 14.9 9.5 A 0.6 0.6 0 0 0 15.5 10.1 A 0.6 0.6 0 0 0 16.1 9.5 A 0.6 0.6 0 0 0 15.5 8.9 z M 14.5 9.9 A 0.6 0.6 0 0 0 13.9 10.5 A 0.6 0.6 0 0 0 14.5 11.1 A 0.6 0.6 0 0 0 15.1 10.5 A 0.6 0.6 0 0 0 14.5 9.9 z "
+       class="ColorScheme-Text" />
 </svg>

@@ -1,24 +1,10 @@
-<svg width="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" height="64" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <linearGradient id="a" y1="17" x1="40" y2="31" gradientUnits="userSpaceOnUse" x2="54">
-   <stop stop-color="#060606"/>
-   <stop offset="1" stop-opacity="0"/>
-  </linearGradient>
-  <linearGradient id="b" y1="392.36" y2="336.36" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="translate(-48-332.36)">
-   <stop stop-color="#ffffff" stop-opacity="0"/>
-   <stop offset="1" stop-color="#ffffff" stop-opacity=".2"/>
-  </linearGradient>
-  <path id="c" d="m10 61v-58h30l14 14v44h-14z"/>
- </defs>
- <use fill="#eeeeee" xlink:href="#c"/>
- <g transform="scale(1-1)">
-  <rect width="30" x="10" opacity=".6" y="-4" fill="#ffffff" height="1"/>
-  <rect width="44" x="10" opacity=".15" y="-61" height="1"/>
- </g>
- <g fill-rule="evenodd">
-  <path opacity=".5" d="m54 17l-14-14v14z"/>
-  <path opacity=".1" fill="url(#a)" d="m40 17l14 14v-14z"/>
- </g>
- <path opacity=".6" color-interpolation-filters="linearRGB" color="#000000" image-rendering="auto" color-rendering="auto" d="m21 22v1h22v-1zm0 3v1h22v-1zm0 3v1h11v-1zm0 4v1h22v-1zm0 3v1h19v-1zm0 2v1h11v-1zm0 3v1h22v-1zm0 3v1h16v-1z" color-interpolation="sRGB" text-rendering="auto" shape-rendering="auto"/>
- <use fill="url(#b)" xlink:href="#c"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#paint0_radial_3_136)"/>
+<path d="M5 17.0002V16.0002H15.0001V17.0002H5ZM5 14.0001V13.0001H19V14.0001H5ZM5 11.0001V10.0001H19V11.0001H5ZM5 8.00001V7H19V8.00001H5Z" fill="#006699"/>
+<defs>
+<radialGradient id="paint0_radial_3_136" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(17.5 1) rotate(116.565) scale(24.5967)">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#BBBBBB"/>
+</radialGradient>
+</defs>
 </svg>

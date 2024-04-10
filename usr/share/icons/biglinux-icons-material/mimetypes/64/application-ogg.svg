@@ -1,18 +1,1 @@
-<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <linearGradient id="a" x2="0" y1="392.36" y2="336.36" gradientTransform="translate(-6,-332.36)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#fff" stop-opacity="0" offset="0"/>
-            <stop stop-color="#fff" stop-opacity=".2" offset="1"/>
-        </linearGradient>
-    </defs>
-    <g transform="translate(0,-4)" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto">
-        <circle cx="37" cy="36" r="24" fill="#fbeaab"/>
-        <path d="m5 11v50h50v-20h-4.096c-2.717 0-4.904-2.187-4.904-4.904v-0.191c0-2.717 2.187-4.904 4.904-4.904h4.096v-20z" fill="#f9d24c"/>
-        <rect x="5" y="60" width="50" height="1" opacity=".25"/>
-        <g fill="#fff">
-            <rect x="5" y="11" width="50" height="1" opacity=".5"/>
-            <path d="m21 25v16.05c-0.635-0.648-1.517-1.053-2.5-1.053-1.939 0-3.5 1.561-3.5 3.5s1.561 3.5 3.5 3.5c1.905 0 3.437-1.509 3.49-3.4h0.01v-13.6h14v8.05c-0.635-0.648-1.517-1.053-2.5-1.053-1.939 0-3.5 1.561-3.5 3.5s1.561 3.5 3.5 3.5 3.5-1.561 3.5-3.5v-15.5h-15zm1 2h14v2h-14z" opacity=".75" stroke-width="2"/>
-        </g>
-        <path d="m5 11v50h50v-9.158a24 24 0 0 0 6-15.841797 24 24 0 0 0-6-15.830078v-9.17z" fill="url(#a)"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#F1CB49" d="M16.532 5a4.96 4.96 0 0 0-.728.073l-5.228.8c-1.262.268-1.257.352-1.262 1.418v8.652c-.052-.037-.104-.075-.159-.11-.4-.27-.828-.46-1.402-.46-.719 0-1.148.275-1.407.637-.26.363-.346.82-.346 1.173 0 .427.145.881.461 1.228.316.346.8.589 1.498.589.788 0 1.342-.22 1.656-.65.246-.338.383-.79.431-1.347V17a5.03 5.03 0 0 0 .016-.208c.007-.11.005-.317.005-.317V9.852c0-.946 0-1.003 1.263-1.219l3.717-.583c1.265-.165 1.265-.05 1.265.66v6.08c-.05-.036-.102-.072-.155-.107-.4-.27-.828-.46-1.402-.46-.719 0-1.148.275-1.407.638-.26.362-.346.82-.346 1.173 0 .426.146.88.461 1.227.316.347.801.59 1.499.59.787 0 1.342-.22 1.655-.65.247-.338.383-.79.431-1.348v-.001c.007-.068.012-.137.017-.209.006-.11.005-.316.005-.316V6.11c0-.83-.006-1.105-.538-1.11Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
