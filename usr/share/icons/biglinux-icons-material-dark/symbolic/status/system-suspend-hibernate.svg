@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   version="1.1"
+   viewBox="0 0 22 22"
+   width="22"
+   height="22"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata96">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs94" />
+  <style
+     id="current-color-scheme"
+     type="text/css">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+    </style>
+  <g
+     id="22-22-system-suspend-hibernate"
+     transform="translate(0,-10)">
+    <path
+       id="path49-1"
+       d="M 0,10 V 32 H 22 V 10 Z"
+       fill="none" />
+    <g
+       id="g39"
+       class="ColorScheme-Text"
+       fill="currentColor">
+      <path
+         id="path1248"
+         transform="translate(0,-64)"
+         d="m 6.7890625,77.707031 -0.8671875,0.5 1.6464844,2.84961 L 5.3203125,80.455078 5.0605469,81.421875 8.2753906,82.283203 9.8457031,85 H 6.7070312 L 4.3535156,82.646484 3.6464844,83.353516 5.2929688,85 H 2 v 1 H 5.2929688 L 3.6464844,87.646484 4.3535156,88.353516 6.7070312,86 h 3.1328126 l -1.5664063,2.712891 -3.2148437,0.861328 0.2578124,0.966797 2.25,-0.603516 -1.6464843,2.851562 0.8652343,0.5 1.6464844,-2.851562 0.6035156,2.25 L 10,92.427734 9.1386719,89.210938 10.994141,86 H 11 l 1.857422,3.21875 -0.861328,3.214844 0.966797,0.257812 0.601562,-2.248047 1.646485,2.851563 0.867187,-0.5 -1.646484,-2.851563 2.248047,0.601563 0.259765,-0.964844 L 13.724609,88.71875 12.154297,86 h 3.138672 l 2.353515,2.353516 0.707032,-0.707032 L 16.707031,86 H 20 v -1 h -3.292969 l 1.646485,-1.646484 -0.05078,-0.05859 H 17 L 15.292969,85 H 14 12.15625 11 V 84.998 L 10.9961,84.996 9.1425841,81.783109 10.003912,78.568265 9.0371154,78.3085 l -0.6015625,2.25 z" />
+      <g
+         id="g37">
+        <path
+           id="rect887-61"
+           d="m 16,13 v 1 h 2.292969 l -2,2 L 16,16.29297 V 17 h 4 v -1 h -2.292969 l 2,-2 L 20,13.70703 V 13 h -0.707031 z" />
+        <path
+           id="rect887-8"
+           d="m 11,15 v 1 h 2.292969 l -2,2 L 11,18.29297 V 19 h 4 v -1 h -2.292969 l 2,-2 L 15,15.70703 V 15 h -0.707031 z" />
+      </g>
+    </g>
+  </g>
+</svg>

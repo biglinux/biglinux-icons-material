@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg"
+   version="1.1"
+   viewBox="0 0 22 22"
+   width="22"
+   height="22"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs81">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+            color:#232629;
+        }
+        .ColorScheme-Highlight {
+          color:#3daee9;
+        }
+        .ColorScheme-Background {
+            color:#eff0f1;
+        }
+        .ColorScheme-ViewBackground {
+            color:#fcfcfc;
+        }
+        .ColorScheme-ButtonFocus {
+            color:#3daee9;
+        }
+        .ColorScheme-PositiveText {
+            color:#27ae60;
+        }
+        .ColorScheme-NeutralText {
+            color:#f67400;
+        }
+        .ColorScheme-NegativeText {
+            color:#da4453;
+        }</style>
+  </defs>
+  <g
+     id="22-22-preferences-system-bluetooth-inactive"
+     transform="translate(-66)">
+    <rect
+       id="rect4162"
+       x="66"
+       width="22"
+       height="22"
+       fill="none"
+       y="0" />
+    <path
+       id="path4164"
+       class="ColorScheme-Text"
+       d="m 76.998047,3 v 7.041013 l -3.292969,-3.2929692 -0.002,0.00195 C 73.347329,6.39404 72.707031,5.7539062 72.707031,5.7539062 L 72,6.4609375 76.544922,11.001953 72,15.542969 72.707031,16.25 c 0,0 0.640351,-0.640094 0.996094,-0.996094 h 0.002 L 77,11.960938 V 19 h 1 L 82,15 78,11 82,7 78,3 Z M 78,4.4160156 80.585938,7.0019531 78,9.5878906 Z m 0,8.0000004 2.585938,2.585937 L 78,17.587891 Z"
+       fill="currentColor"
+       opacity="0.5" />
+  </g>
+</svg>
