@@ -69,6 +69,6 @@
   <path d="m73.441 77.984c-3.5234-0.085937-7.125 1.375-10.066 4.3164l-11.75 11.75h-5.0586c-1.3828 0-2.5 1.1172-2.5 2.5 0 1.3789 1.1172 2.5 2.5 2.5h7.1289l13.215-13.215c2.1172-2.1211 4.2969-2.9023 6.4062-2.8516 2.1133 0.054687 4.2539 0.99219 6.1094 2.8516l13.219 13.219h14.922c1.3789 0 2.5-1.1172 2.5-2.5 0-1.3789-1.1211-2.5-2.5-2.5h-12.848l-11.758-11.754c-2.6328-2.6367-5.9922-4.2266-9.5195-4.3164z" fill="#ffffff" fill-opacity=".2489"/>
  </g>
  <image transform="translate(-160)" width="192" height="152" mask="url(#m)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAACYCAYAAACyAeadAAAABmJLR0QA/wD/AP+gvaeTAAAAiElEQVR4nO3BMQEAAADCoPVP7WsIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAPIpwABWLk4FQAAAABJRU5ErkJggg=="/>
- <rect x="2" y="1" width="2" height="12" rx="1" ry="1" fill="#363636" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
- <path d="m3 2v11h3l3-3 3 3h2" fill="none" stroke="#363636" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <rect x="2" y="1" width="2" height="12" rx="1" ry="1" fill="#dedede" fill-rule="evenodd" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers"/>
+ <path d="m3 2v11h3l3-3 3 3h2" fill="none" stroke="#dedede" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
 </svg>
