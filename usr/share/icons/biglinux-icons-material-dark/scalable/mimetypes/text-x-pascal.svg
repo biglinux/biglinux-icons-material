@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#E6446D" d="M8.881 17V7.423h3.236c.752 0 1.366.135 1.843.407.48.268.836.63 1.066 1.09.231.457.346.969.346 1.533s-.115 1.077-.346 1.539c-.227.461-.58.829-1.057 1.103-.477.271-1.088.407-1.833.407h-2.32v-1.029H12.1c.514 0 .927-.089 1.24-.266a1.59 1.59 0 0 0 .677-.72c.144-.306.215-.65.215-1.034 0-.383-.071-.726-.215-1.029a1.535 1.535 0 0 0-.683-.71c-.315-.175-.732-.263-1.253-.263h-2.039V17h-1.16ZM6.685 12.369c.379 0 .685-.269.685-.6 0-.332-.306-.6-.685-.6-.378 0-.685.268-.685.6 0 .331.307.6.685.6Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity="0.9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
+ <text id="labelText" x="12" y="18" text-anchor="middle" alignment-baseline="middle" style="font-size:15px;font-family:Sans;letter-spacing:0.5px;text-anchor:middle;fill:#E6446D"><tspan>P</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop  style="stop-color:#E6446D" offset="0.2"/>
+   <stop  style="stop-color:#fff" offset="0.205"/>
+   <stop  style="stop-color:#dadada" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

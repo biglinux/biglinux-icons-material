@@ -1,93 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="22"
-   height="22"
-   id="svg3869"
-   version="1.1"
-   viewBox="0 0 22 22"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <defs
-     id="defs3871">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style>
-  </defs>
-  <metadata
-     id="metadata3874">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(-355,-534.36215)">
-    <g
-       id="22-22-phone"
-       transform="translate(321,529.36216)">
-      <rect
-         x="34"
-         y="4.9999852"
-         width="22"
-         height="22"
-         fill="none"
-         id="rect14" />
-      <g
-         transform="translate(-335,-529.36)"
-         class="ColorScheme-Text"
-         fill="currentColor"
-         id="g20">
-        <path
-           id="rect18"
-           d="m 42,8 c -1.108,0 -2,0.892 -2,2 v 12 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 10 C 50,8.892 49.108,8 48,8 Z m 0,1 h 6 c 0.554,0 1,0.446 1,1 v 12 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 V 10 c 0,-0.554 0.446,-1 1,-1 z m 1.5,12 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 h 3 C 46.777,22 47,21.777 47,21.5 47,21.223 46.777,21 46.5,21 Z"
-           transform="translate(335,529.36)"
-           fill="currentColor"
-           class="ColorScheme-Text" />
-      </g>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg3869" width="32" height="32" version="1.1">
+<defs id="defs3871">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#31363b}
+</style>
+</defs>
+<g id="layer1" transform="translate(-321 -529.362)">
+<g id="phone" transform="translate(0 .002)">
+<g id="g11" fill="currentColor" class="ColorScheme-Contrast" transform="translate(-46)">
+<g id="g941">
+<path id="rect5" fill="none" d="M321 529.36h32v32h-32z" transform="translate(46)"/>
+<path id="path1877" fill="currentColor" d="M11 2C9.338 2 8 3.338 8 5v22c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3V5c0-1.662-1.338-3-3-3Zm0 1h10c1.108 0 2 .892 2 2v22c0 1.108-.892 2-2 2H11c-1.108 0-2-.892-2-2V5c0-1.108.892-2 2-2m2.5 23a.499.499 0 1 0 0 1h5a.499.499 0 1 0 0-1Z" class="ColorScheme-Contrast" transform="translate(367 529.36)"/>
+</g>
+</g>
+</g>
+</g>
 </svg>

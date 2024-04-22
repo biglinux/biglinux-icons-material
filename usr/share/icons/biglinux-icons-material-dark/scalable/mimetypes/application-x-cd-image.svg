@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#fff" d="M20 12a7.98 7.98 0 0 0-8-8 7.98 7.98 0 0 0-8 8 7.98 7.98 0 0 0 8 8 7.98 7.98 0 0 0 8-8Zm-5.074 0A2.913 2.913 0 0 1 12 14.928 2.913 2.913 0 0 1 9.07 12c0-1.61 1.188-2.926 2.928-2.926s2.928 1.348 2.928 2.926Z" opacity=".75"/><path fill="#fff" d="M12 7.998A4.002 4.002 0 1 0 12 16.003 4.002 4.002 0 0 0 12 7.998Zm0 2a2.002 2.002 0 1 1 0 4.004 2.002 2.002 0 0 1-.003-4.004H12Z" opacity=".35"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#9A9A9A"/><stop offset="1" stop-color="#5D5D5D"/></radialGradient></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24">
+<defs>
+<linearGradient id="a">
+<stop offset="0" style="stop-color:#707070;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#4d4d4d;stop-opacity:1"/>
+</linearGradient>
+<linearGradient xlink:href="#a" id="b" x1="12" x2="12" y1=".855" y2="23.145" gradientUnits="userSpaceOnUse"/>
+</defs>
+<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#b)" rx="6.6" style="opacity:1"/>
+<path fill="#fff" d="M20 12a7.98 7.98 0 0 0-8-8 7.98 7.98 0 0 0-8 8 7.98 7.98 0 0 0 8 8 7.98 7.98 0 0 0 8-8m-5.074 0A2.913 2.913 0 0 1 12 14.928 2.913 2.913 0 0 1 9.07 12c0-1.61 1.188-2.926 2.928-2.926s2.928 1.348 2.928 2.926" opacity=".75" style="opacity:1;fill:#e1fdfd;fill-opacity:1;stroke:#7e7e7e;stroke-opacity:1;vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;paint-order:normal"/>
+<path fill="#fff" d="M12 7.998a4.002 4.002 0 1 0 0 8.005 4.002 4.002 0 0 0 0-8.005m0 2a2.002 2.002 0 1 1 0 4.004 2.002 2.002 0 0 1-.003-4.004z" opacity=".35" style="opacity:.72248624"/>
+</svg>

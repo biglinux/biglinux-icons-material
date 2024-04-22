@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#dedede}
+</style>
+<defs>
+<linearGradient id="a" x1="19.514" x2="15" y1="15.555" y2="11" gradientTransform="translate(-11.93 -6.197)scale(1.43312)" gradientUnits="userSpaceOnUse" class="ColorScheme-Contrast" style="fill:currentColor">
+<stop offset="0" stop-color="currentColor" stop-opacity="0.8" class="ColorScheme-Contrast"/>
+<stop offset="1" stop-color="currentColor" stop-opacity="0" class="ColorScheme-Contrast"/>
+</linearGradient>
+<linearGradient id="b" x1="16" x2="16" y1="18" y2="6" gradientTransform="translate(-11.93 -6.197)scale(1.43312)" gradientUnits="userSpaceOnUse" class="ColorScheme-Contrast" style="fill:currentColor">
+<stop offset="0" stop-color="currentColor" stop-opacity="0.8" class="ColorScheme-Contrast"/>
+<stop offset="1" stop-color="currentColor" stop-opacity="0" class="ColorScheme-Contrast"/>
+</linearGradient>
+</defs>
+<path fill="url(#a)" d="M11 2.401A8.6 8.6 0 0 0 2.401 11 8.6 8.6 0 0 0 11 19.599 8.6 8.6 0 0 0 19.599 11 8.6 8.6 0 0 0 11 2.401m0 1.433A7.166 7.166 0 0 1 18.166 11 7.166 7.166 0 0 1 11 18.166 7.166 7.166 0 0 1 3.834 11 7.166 7.166 0 0 1 11 3.834" style="fill:url(#a);stroke-width:1.43312"/>
+<path fill="url(#b)" d="M11 2.401A8.6 8.6 0 0 0 2.401 11 8.6 8.6 0 0 0 11 19.599a8.6 8.6 0 0 0 6.04-2.489l-1.004-1.016A7.17 7.17 0 0 1 11 18.166 7.166 7.166 0 0 1 3.834 11 7.166 7.166 0 0 1 11 3.834Z" style="fill:url(#b);stroke-width:1.43312"/>
+</svg>

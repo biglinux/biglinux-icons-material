@@ -1,31 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="svg"
-   viewBox="0 0 22 22"
-   version="1.1"
-   width="22"
-   height="22"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs18" />
-  <style
-     type="text/css"
-     id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#232629;
-        }
-    </style>
-  <g
-     id="22-22-list-add">
-    <path
-       id="rect2991"
-       d="m 10,3 v 7 H 3 v 2.1 h 7 V 19 h 2 v -6.9 h 7 V 10 H 12 V 3 Z"
-       class="ColorScheme-Text"
-       fill="currentColor" />
-    <path
-       id="rect3763"
-       d="M 0,0 H 22 V 22 H 0 Z"
-       fill="none" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg" width="32" height="32" version="1.1">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#232629}
+</style>
+<g id="list-add" transform="translate(0 32)">
+<path id="path837" fill="none" d="M0-32h32V0H0Z" style="stroke-width:1.45455"/>
+<path id="rect867" fill="currentColor" d="M16-22c-.554 0-1 .446-1 1v4h-4c-.554 0-1 .446-1 1s.446 1 1 1h4v4c0 .554.446 1 1 1s1-.446 1-1v-4h4c.554 0 1-.446 1-1s-.446-1-1-1h-4v-4c0-.554-.446-1-1-1" class="ColorScheme-Contrast"/>
+</g>
 </svg>

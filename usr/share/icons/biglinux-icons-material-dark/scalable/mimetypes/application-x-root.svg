@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#fff" d="m12.703 6-1.563 9.198-1.58-3.342L5 14.47c.038.122.08.242.124.362l3.972-1.836L11.516 18l1.848-11.467L19 6.426a8.224 8.224 0 0 0-.287-.329L12.703 6Z" opacity=".9"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#7A98BB"/><stop offset="1" stop-color="#2D5788"/></radialGradient></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
+<path fill="#fff" d="m12.703 6-1.563 9.198-1.58-3.342L5 14.47q.058.182.124.362l3.972-1.836L11.516 18l1.848-11.467L19 6.426a8 8 0 0 0-.287-.329z" opacity=".9"/>
+<defs>
+<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7A98BB"/>
+<stop offset="1" stop-color="#2D5788"/>
+</linearGradient>
+</defs>
+</svg>

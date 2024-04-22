@@ -1,48 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   version="1.1"
-   id="svg2"
-   viewBox="0 0 22 22"
-   width="22"
-   height="22"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata
-     id="metadata18">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3051">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      </style>
-  </defs>
-  <g
-     id="22-22-akonadi"
-     transform="translate(0,-10)">
-    <path
-       id="path7"
-       class="ColorScheme-Text"
-       d="M 11,13 C 6.5817084,13 2.9999808,13.895432 3,15 V 18.994141 19 22.994141 23 27 c -1.92e-5,1.104568 3.5817084,2 8,2 4.418292,0 8.000019,-0.895432 8,-2 v -4 -4 -4 c 1.9e-5,-1.104568 -3.581708,-2 -8,-2 z m 0,1 c 3.865993,0 7,0.447715 7,1 0,0.552285 -3.134007,1 -7,1 -3.8659932,0 -7,-0.447715 -7,-1 0,-0.552285 3.1340068,-1 7,-1 z m 7,1.962891 V 18.033203 19 c 0,0.552285 -3.134007,1 -7,1 -3.8659932,0 -7,-0.447715 -7,-1 v -0.962891 -2.070312 c 1.4074293,0.63719 4.0884558,1.032911 7,1.033203 2.91485,-0.0011 5.596667,-0.398411 7,-1.037109 z m 0,4 V 22.033203 23 c 0,0.552285 -3.134007,1 -7,1 -3.8659932,0 -7,-0.447715 -7,-1 v -0.962891 -2.070312 c 2.0449242,0.798646 4.2553846,0.965255 6.433594,1.027344 0.188469,0.0036 0.377388,0.0056 0.566406,0.0059 0.266763,6.5e-5 0.533372,-0.0032 0.798828,-0.0098 2.032567,-0.108528 4.300048,-0.190368 6.19336,-1.023437 z m 0,4 V 27 c 0,0.552285 -3.134007,1 -7,1 -3.8659932,0 -7,-0.447715 -7,-1 v -3.033203 c 0.1292021,0.05836 0.2700031,0.115076 0.421875,0.169922 1.9342135,0.643058 3.9856215,0.799669 6.011719,0.857422 0.188469,0.0036 0.377388,0.0056 0.566406,0.0059 0.266763,6.5e-5 0.533372,-0.0032 0.798828,-0.0098 2.032564,-0.108531 4.30006,-0.190321 6.19336,-1.023437 z"
-       style="fill:currentColor;fill-opacity:1;stroke:none" />
-    <path
-       id="path9"
-       d="M 0,10 V 32 H 22 V 10 Z"
-       style="opacity:1;fill:none" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="32" height="32" version="1.1">
+<defs id="defs3051">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#31363b}
+</style>
+</defs>
+<g id="akonadi" transform="translate(-22)">
+<path id="path12" d="M38 4a12 3 0 0 0-12 3v18a12 3 0 0 0 12 3 12 3 0 0 0 12-3V7a12 3 0 0 0-12-3m0 1a11 2 0 0 1 11 2 11 2 0 0 1-11 2 11 2 0 0 1-11-2 11 2 0 0 1 11-2m11 3.191V13a11 2 0 0 1-11 2 11 2 0 0 1-11-2V8.195A12 3 0 0 0 38 10a12 3 0 0 0 11-1.809m0 6V19a11 2 0 0 1-11 2 11 2 0 0 1-11-2v-4.805A12 3 0 0 0 38 16a12 3 0 0 0 11-1.809m0 6V25a11 2 0 0 1-11 2 11 2 0 0 1-11-2v-4.805A12 3 0 0 0 38 22a12 3 0 0 0 11-1.809" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path id="path14" d="M22 0v32h32V0Z" style="opacity:1;fill:none"/>
+</g>
 </svg>

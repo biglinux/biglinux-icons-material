@@ -1,59 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="svg"
-   version="1.1"
-   viewBox="0 0 22 22"
-   width="22"
-   height="22"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs81">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {
-            color:#232629;
-        }
-        .ColorScheme-Highlight {
-          color:#3daee9;
-        }
-        .ColorScheme-Background {
-            color:#eff0f1;
-        }
-        .ColorScheme-ViewBackground {
-            color:#fcfcfc;
-        }
-        .ColorScheme-ButtonFocus {
-            color:#3daee9;
-        }
-        .ColorScheme-PositiveText {
-            color:#27ae60;
-        }
-        .ColorScheme-NeutralText {
-            color:#f67400;
-        }
-        .ColorScheme-NegativeText {
-            color:#da4453;
-        }</style>
-  </defs>
-  <g
-     id="22-22-preferences-desktop-notification"
-     transform="translate(-4,-38)">
-    <path
-       d="M 4,38 H 26 V 60 H 4 Z"
-       fill="none"
-       id="path61" />
-    <path
-       id="rect3560"
-       d="m 9,42 c -1.108,0 -2,0.892 -2,2 v 9 c 0,1.108 0.892,2 2,2 h 3 l 3,3 3,-3 h 3 c 1.108,0 2,-0.892 2,-2 v -9 c 0,-1.108 -0.892,-2 -2,-2 z m 1.5,3 h 9 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -9 C 10.223,46 10,45.777 10,45.5 10,45.223 10.223,45 10.5,45 Z m 0,3 h 9 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -9 C 10.223,49 10,48.777 10,48.5 10,48.223 10.223,48 10.5,48 Z m 0,3 h 5 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -5 C 10.223,52 10,51.777 10,51.5 10,51.223 10.223,51 10.5,51 Z"
-       class="ColorScheme-Text"
-       fill="currentColor" />
-    <circle
-       cx="22.5"
-       cy="42.5"
-       r="2.5"
-       id="circle63"
-       class="ColorScheme-Highlight"
-       fill="currentColor" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg" width="22" height="22" version="1.1">
+<defs id="defs81">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#232629}.ColorScheme-Highlight{color:#3daee9}
+</style>
+</defs>
+<g id="22-22-preferences-desktop-notification" transform="translate(-4 -38)">
+<path id="path61" fill="none" d="M4 38h22v22H4Z"/>
+<path id="rect3560" fill="currentColor" d="M9 42c-1.108 0-2 .892-2 2v9c0 1.108.892 2 2 2h3l3 3 3-3h3c1.108 0 2-.892 2-2v-9c0-1.108-.892-2-2-2zm1.5 3h9a.499.499 0 1 1 0 1h-9a.499.499 0 1 1 0-1m0 3h9a.499.499 0 1 1 0 1h-9a.499.499 0 1 1 0-1m0 3h5a.499.499 0 1 1 0 1h-5a.499.499 0 1 1 0-1" class="ColorScheme-Contrast"/>
+<circle id="circle63" cx="22.5" cy="42.5" r="2.5" fill="currentColor" class="ColorScheme-Highlight"/>
+</g>
 </svg>

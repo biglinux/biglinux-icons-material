@@ -1,85 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="22"
-   height="22"
-   version="1.1"
-   viewBox="0 0 22 22"
-   id="svg34"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata
-     id="metadata38">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }</style>
-  </defs>
-  <g
-     id="22-22-kdeconnect"
-     transform="translate(-34,-4.9999852)">
-    <rect
-       x="34"
-       y="4.9999852"
-       width="22"
-       height="22"
-       fill="none"
-       id="rect14" />
-    <g
-       transform="translate(-335,-529.36)"
-       class="ColorScheme-Text"
-       fill="currentColor"
-       id="g20">
-      <path
-         id="rect18"
-         d="m 42,8 c -1.108,0 -2,0.892 -2,2 v 12 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 10 C 50,8.892 49.108,8 48,8 Z m 0,1 h 6 c 0.554,0 1,0.446 1,1 v 12 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 V 10 c 0,-0.554 0.446,-1 1,-1 z m 1.5,12 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 h 3 C 46.777,22 47,21.777 47,21.5 47,21.223 46.777,21 46.5,21 Z"
-         transform="translate(335,529.36)"
-         fill="currentColor"
-         class="ColorScheme-Text" />
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg34" width="22" height="22" version="1.1">
+<defs id="defs3">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#31363b}
+</style>
+</defs>
+<g id="22-22-kdeconnect" transform="translate(-34 -5)">
+<path id="rect14" fill="none" d="M34 5h22v22H34z"/>
+<g id="g20" fill="currentColor" class="ColorScheme-Contrast" transform="translate(-335 -529.36)">
+<path id="rect18" fill="currentColor" d="M42 8c-1.108 0-2 .892-2 2v12c0 1.108.892 2 2 2h6c1.108 0 2-.892 2-2V10c0-1.108-.892-2-2-2Zm0 1h6c.554 0 1 .446 1 1v12c0 .554-.446 1-1 1h-6c-.554 0-1-.446-1-1V10c0-.554.446-1 1-1m1.5 12a.499.499 0 1 0 0 1h3a.499.499 0 1 0 0-1Z" class="ColorScheme-Contrast" transform="translate(335 529.36)"/>
+</g>
+</g>
 </svg>

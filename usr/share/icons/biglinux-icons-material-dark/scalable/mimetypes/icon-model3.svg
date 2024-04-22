@@ -1,0 +1,12 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {color:#3584e4;}</style></defs>
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity="0.9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
+ <text id="labelText" x="12" y="14.6" text-anchor="middle" alignment-baseline="middle" class="ColorScheme-Highlight" style="font-size:5.65665px;font-family:Sans;letter-spacing:0.5px;text-anchor:middle;fill:currentColor"><tspan>&lt;css&gt;</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop  style="stop-color:currentColor" offset="0.2" class="ColorScheme-Highlight"/>
+   <stop  style="stop-color:#fff" offset="0.205"/>
+   <stop  style="stop-color:#dadada" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

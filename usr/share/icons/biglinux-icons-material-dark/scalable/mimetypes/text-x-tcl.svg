@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#F37F53" d="M3.608 6 3 7.83l6.177 2.478L3 12.786l.608 1.83 7.947-3.365V9.365L3.608 6Zm7.936 11.13v1.868H21V17.13h-9.456Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
+<path fill="#F37F53" d="M3.608 6 3 7.83l6.177 2.478L3 12.786l.608 1.83 7.947-3.365V9.365zm7.936 11.13v1.868H21V17.13z"/>
+<defs>
+<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#DDD"/>
+</linearGradient>
+</defs>
+</svg>

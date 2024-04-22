@@ -1,1 +1,9 @@
-tag-new.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<defs>
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#dedede}
+</style>
+</defs>
+<path d="m7.994 1-5.969.031a1 1 0 0 0-.994.994L1 7.995a1 1 0 0 0 .322.74l6.5 6a.99.99 0 0 0 .908.22 4.5 4.5 0 0 1-.57-1.27L2 8l.031-5.969L8 2.001l5.691 6.165a4.5 4.5 0 0 1 1.264.566.99.99 0 0 0-.22-.91l-6-6.5A1 1 0 0 0 7.994 1M5.5 4a1.5 1.5 0 1 0 .001 3.001A1.5 1.5 0 0 0 5.5 4" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path d="M12.5 9a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7m-.5 1h1v2h2v1h-2v2h-1v-2h-2v-1h2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+</svg>

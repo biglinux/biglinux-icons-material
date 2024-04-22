@@ -1,42 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style>
-    <g transform="translate(0,22.000008) translate(0,-22)" id="ime-libpinyin-pinyin">
-    <path style="fill:currentColor;fill-opacity:1;stroke:none" d="M 3,3 3,19 19,19 19,3 3,3 Z m 7.900391,1.7011719 1.5,2 L 12.001953,7 l 1.996094,0 -0.398438,-0.2988281 1.5,-2 0.800782,0.5996093 L 14.625,7 17,7 l 0,1 -2,0 0,3 2,0 0,1 -2,0 0,5 -1,0 0,-5 -2.041016,0 c -0.09614,1.118701 -0.477091,2.02943 -0.925781,2.806641 -0.620717,1.075 -1.6914061,2.058593 -1.6914061,2.058593 L 8.6582031,16.136719 c 0,0 1.0124506,-0.968778 1.5097659,-1.830078 C 10.569285,13.61152 10.872261,12.895032 10.960938,12 L 9,12 l 0,-0.941406 -1,0.5 L 8,17 5,17 5,16 7,16 7,12.058594 5.2226562,12.947266 4.7773438,12.052734 7,10.941406 7,8 5,8 5,7 7,7 7,5 8,5 8,7 9,7 9,8 8,8 8,10.441406 8.7773438,10.052734 9.2226562,10.947266 9.1171875,11 11,11 11,8 10,8 10,7 11.375,7 10.099609,5.3007812 10.900391,4.7011719 Z M 12,8 l 0,3 2,0 0,-3 -2,0 z" class="ColorScheme-Text" id="path6-4"/>
-    <rect style="fill:none;fill-opacity:1;stroke:none" id="rect4138-2" width="22" height="22" x="0" y="0"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#31363b}
+</style>
+<g id="ime-libpinyin-pinyin">
+<path id="path6-4" d="M3 3v16h16V3zm7.9 1.701 1.5 2-.398.299h1.996l-.398-.299 1.5-2 .8.6L14.625 7H17v1h-2v3h2v1h-2v5h-1v-5h-2.041c-.096 1.119-.477 2.03-.926 2.807-.62 1.075-1.691 2.058-1.691 2.058l-.684-.728s1.013-.97 1.51-1.83c.401-.695.704-1.412.793-2.307H9v-.941l-1 .5V17H5v-1h2v-3.941l-1.777.888-.446-.894L7 10.94V8H5V7h2V5h1v2h1v1H8v2.441l.777-.388.446.894-.106.053H11V8h-1V7h1.375L10.1 5.3zM12 8v3h2V8z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path id="rect4138-2" d="M0 0h22v22H0z" style="fill:none;fill-opacity:1;stroke:none"/>
+</g>
 </svg>

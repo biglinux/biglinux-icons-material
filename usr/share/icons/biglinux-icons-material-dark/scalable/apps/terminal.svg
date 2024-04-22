@@ -1,1 +1,12 @@
-org.gnome.Console.svg
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x=".61042" y=".61042" width="22.779" height="22.779" rx="6.8337" fill="url(#a)" opacity=".85" style="-inkscape-stroke:hairline;fill:url(#a);paint-order:stroke markers fill;stroke-opacity:.35066;stroke-width:1.0354;stroke:#808080;vector-effect:non-scaling-stroke"/>
+ <path d="m5.1332 6.7397-0.49763 1.4981 5.0541 2.0273-5.0541 2.0273 0.49763 1.4971 6.5028-2.7533v-1.5434l-6.5018-2.7533zm6.4934 9.1077v1.5276h7.738v-1.5276z" fill="#ededed" style="stroke-width:1.0521"/>
+ <defs>
+  <linearGradient id="a" x2="1" gradientTransform="matrix(23.145 0 0 23.145 -.62481 -.62481)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#7a7a7a" offset=".10057"/>
+   <stop style="stop-color:#414141" offset=".17536"/>
+   <stop style="stop-color:#414141" offset=".91933"/>
+   <stop style="stop-color:#787878" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

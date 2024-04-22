@@ -1,42 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      </style>
-    <g transform="translate(0,-81.999992) translate(2.47097e-09,-88)" id="ime-hangul">
-    <rect y="170" x="-2.4709701e-09" height="22" width="22" id="rect4504" style="fill:none;fill-opacity:1;stroke:none"/>
-    <path id="path4506" transform="translate(0,70)" d="m 3,103 0,0.5 0,15.5 16,0 0,-16 -16,0 z m 1,1 14,0 0,14 -14,0 0,-14 z m 4,1 0,1 2,0 0,-1 -2,0 z m 6,1 0,8 1,0 0,-4 2,0 0,-1 -2,0 0,-3 -1,0 z m -8,1 0,1 6,0 0,-1 -6,0 z m 3,2 c -1.5968879,0 -3,1.05766 -3,2.5 0,1.44234 1.4031121,2.5 3,2.5 1.596888,0 3,-1.05766 3,-2.5 0,-1.44234 -1.403112,-2.5 -3,-2.5 z m 0,1 c 1.164536,0 2,0.73321 2,1.5 0,0.76679 -0.835464,1.5 -2,1.5 -1.1645358,0 -2,-0.73321 -2,-1.5 0,-0.76679 0.8354642,-1.5 2,-1.5 z m -1,5 0,2 8,0 0,-1 -7,0 0,-1 -1,0 z" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#31363b}
+</style>
+<g id="ime-hangul" transform="translate(0 -170)">
+<path id="rect4504" d="M0 170h22v22H0z" style="fill:none;fill-opacity:1;stroke:none"/>
+<path id="path4506" d="M3 103v16h16v-16zm1 1h14v14H4zm4 1v1h2v-1zm6 1v8h1v-4h2v-1h-2v-3zm-8 1v1h6v-1zm3 2c-1.597 0-3 1.058-3 2.5s1.403 2.5 3 2.5 3-1.058 3-2.5-1.403-2.5-3-2.5m0 1c1.165 0 2 .733 2 1.5s-.835 1.5-2 1.5-2-.733-2-1.5.835-1.5 2-1.5m-1 5v2h8v-1H9v-1z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none" transform="translate(0 70)"/>
+</g>
 </svg>

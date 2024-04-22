@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="svg154" width="24" height="24" fill="none" version="1.1"><defs id="defs152"><linearGradient id="linearGradient12034"><stop id="stop12030" offset="0" style="stop-color:#9393ac;stop-opacity:1"/><stop id="stop12032" offset="1" style="stop-color:#f2f2f2;stop-opacity:1"/></linearGradient><linearGradient xlink:href="#linearGradient12034" id="linearGradient12036" x1="15.645" x2="14.231" y1="44.415" y2="-15.512" gradientUnits="userSpaceOnUse"/><linearGradient xlink:href="#linearGradient12034" id="linearGradient12570" x1="15.645" x2="14.231" y1="44.415" y2="-15.512" gradientUnits="userSpaceOnUse"/><path id="a-9" d="m39.821 11.402 3 5.196c2 3.464-32.641 23.464-34.641 20l-3-5.196c-2-3.464 32.641-23.464 34.641-20" color="#000"/><path id="b-1" d="M21 4h6c4 0 4 40 0 40h-6c-4 0-4-40 0-40" color="#000"/><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#31363b}.ColorScheme-Background{color:#eff0f1}.ColorScheme-Highlight{color:#3daee9}.ColorScheme-ViewText{color:#31363b}.ColorScheme-ViewBackground{color:#fcfcfc}.ColorScheme-ViewHover{color:#93cee9}.ColorScheme-ViewFocus{color:#3daee9}.ColorScheme-ButtonText{color:#31363b}.ColorScheme-ButtonBackground{color:#eff0f1}.ColorScheme-ButtonHover{color:#93cee9}.ColorScheme-ButtonFocus{color:#3daee9}</style></defs><g id="g2267" style="display:inline;fill:url(#linearGradient12036);fill-opacity:1" transform="translate(0 .044)"><path id="path6" d="M50 5C9.09 5 5 25.455 5 50c0 32.727 12.273 45 45 45 32.727 0 45-12.273 45-45 0-24.545-4.09-45-45-45Z" style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#linearGradient12570);fill-opacity:1;stroke-width:4.56656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000;stop-opacity:1" transform="matrix(.24444 0 0 .24444 -.222 -.222)"/></g><g id="g3781" stroke-width=".769" transform="translate(2.48 -3.866) scale(.39664)"><path id="path3775" fill="#158f76" d="m8.179 27.402-3 5.196c-2 3.464 32.641 23.464 34.641 20l3-5.196c2-3.464-32.641-23.464-34.641-20" color="#000"/><use xlink:href="#a-9" id="use3777" width="100%" height="100%" fill="#4d0e93" transform="translate(0 16)"/><use xlink:href="#b-1" id="use3779" width="100%" height="100%" fill="#1b8cf4" transform="translate(0 16)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" fill="none">
+<defs>
+<linearGradient id="a">
+<stop offset="0" style="stop-color:#9393ac;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#f2f2f2;stop-opacity:1"/>
+</linearGradient>
+<linearGradient xlink:href="#a" id="b" x1="15.645" x2="14.231" y1="44.415" y2="-15.512" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#a" id="c" x1="15.645" x2="14.231" y1="44.415" y2="-15.512" gradientUnits="userSpaceOnUse"/>
+<path id="d" d="m39.821 11.402 3 5.196c2 3.464-32.641 23.464-34.641 20l-3-5.196c-2-3.464 32.641-23.464 34.641-20" color="#000"/>
+<path id="e" d="M21 4h6c4 0 4 40 0 40h-6c-4 0-4-40 0-40" color="#000"/>
+</defs>
+<g style="display:inline;fill:url(#b);fill-opacity:1" transform="translate(0 .044)">
+<path d="M50 5C9.09 5 5 25.455 5 50c0 32.727 12.273 45 45 45s45-12.273 45-45c0-24.545-4.09-45-45-45" style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#c);fill-opacity:1;stroke-width:4.56656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000;stop-opacity:1" transform="translate(-1 -1)scale(.26)"/>
+</g>
+<g stroke-width=".769" transform="translate(2.48 -3.866)scale(.39664)">
+<path fill="#158f76" d="m8.179 27.402-3 5.196c-2 3.464 32.641 23.464 34.641 20l3-5.196c2-3.464-32.641-23.464-34.641-20" color="#000"/>
+<use xlink:href="#d" width="100%" height="100%" fill="#4d0e93" transform="translate(0 16)"/>
+<use xlink:href="#e" width="100%" height="100%" fill="#1b8cf4" transform="translate(0 16)"/>
+</g>
+</svg>

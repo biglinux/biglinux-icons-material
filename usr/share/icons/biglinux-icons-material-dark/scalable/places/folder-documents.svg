@@ -1,1 +1,9 @@
-default-folder-documents.svg
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {color:#3584e4;}</style></defs>
+<rect class="ColorScheme-Highlight" x="1.0201" y=".94865" width="22.013" height="22.048" rx="6.4695" ry="6.4695" style="fill:currentColor;opacity:.7;vector-effect:non-scaling-stroke"/>
+<rect x="3" y="2" width="18" height="18" rx="4.4" fill="url(#b)" fill-opacity=".875" opacity=".125" style="fill-opacity:1;fill:#000000;opacity:.06"/>
+<rect x="2.9362" y="2.9362" width="18.071" height="18.072" rx="4.1205" ry="4.1205" opacity="0.8" style="fill:#e6e6e6;vector-effect:non-scaling-stroke"/>
+<path d="m1 8.2626c-0.056293-1.7083 1.5647-3.2161 3.2943-3.0368 1.4979 0.019558 2.9995-0.042974 4.4947 0.038983 2.0349 0.15394 3.2592 2.337 5.4127 2.072 2.0315 0.00992 4.0643-0.020192 6.095 0.015701 1.6547 0.13326 2.8782 1.7631 2.7033 3.3574-0.01887 2.0964 0.0401 4.1953-0.03405 6.2899-0.24582 3.0703-2.9158 5.769-6.057 5.9551-3.1588 0.04264-6.3197 0.01021-9.4793 0.01722-3.1473-0.021784-5.9533-2.5852-6.3526-5.6391-0.14767-1.6399-0.046179-3.2922-0.076487-4.9378-1.71e-4 -1.3775-3.42e-4 -2.755-5.13e-4 -4.1326z" fill="url(#c)" fill-opacity=".75" opacity=".25" style="fill-opacity:1;fill:#000000;opacity:.1"/>
+<path class="ColorScheme-Highlight" d="M23 11.032a3.01 3.01 0 0 0-3.008-3.008h-5.929a4.74 4.74 0 0 1-2.922-1.012A4.74 4.74 0 0 0 8.218 6h-4.21A3.01 3.01 0 0 0 1 9.008V16.4C1 20.056 3.944 23 7.6 23h8.8a6.585 6.585 0 0 0 6.6-6.594z" style="fill:currentColor;opacity:.65"/>
+<path d="M7 0C5.892 0 5 .892 5 2v1H3c-1.108 0-2 .892-2 2v9c0 1.108.892 2 2 2h6c1.108 0 2-.892 2-2v-1h2c1.108 0 2-.892 2-2V5l-5-5zm0 1h2v5h5v5c0 .554-.446 1-1 1h-2V8L6 3V2q.002-.208.078-.39A1 1 0 0 1 7 1m3 .414L13.586 5H10zM3 4h2v5h5v5c0 .554-.446 1-1 1H3c-.554 0-1-.446-1-1V5q.002-.21.078-.39A1 1 0 0 1 3 4m3 .414L9.586 8H6z" class="ColorScheme-Text" style="fill:currentColor;opacity:0.8" id="icon" transform="translate(8, 11) scale(0.5)" />
+</svg>

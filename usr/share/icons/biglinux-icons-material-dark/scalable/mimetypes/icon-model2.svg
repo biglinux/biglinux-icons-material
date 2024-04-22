@@ -1,0 +1,12 @@
+<svg width="24" height="24">
+  <defs id="defs1">
+    <linearGradient id="linearGradient1" inkscape:collect="always">
+ <stop style="stop-color:#8394C2;stop-opacity:1;" offset="0" id="stop1" />
+ <stop style="stop-color:#3B5192;stop-opacity:1;" offset="1" id="stop2" />
+    </linearGradient>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient1" id="linearGradient2" x1="11.999999" y1="0.8552472" x2="11.999999" y2="23.144743" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect id="backgroundRect" width="22" height="22" x="1" y="1" fill="url(#linearGradient2)" rx="6.6" opacity="0.9" />
+  <path id="iconPath" fill="#fafafa" d="m 5.596,15.377 v 3.575 c 0,0.152 0.123,0.275 0.275,0.275 h 1.65 a 0.274,0.274 0 0 0 0.275,-0.275 v -3.575 z m 0.55,2.2 h 1.1 v 1.1 h -1.1 z m 0.55,-16.5 v 1.1 h 1.1 v -1.1 z m 0,1.1 h -1.1 v 1.1 h 1.1 z m 0,1.1 v 1.1 h 1.1 v -1.1 z m 0,1.1 h -1.1 v 1.1 h 1.1 z m 0,1.1 v 1.1 h 1.1 v -1.1 z m 0,1.1 h -1.1 v 1.1 h 1.1 z m 0,1.1 v 1.1 h 1.1 v -1.1 z m 0,1.1 h -1.1 v 1.1 h 1.1 z m 0,1.1 v 1.1 h 1.1 v -1.1 z m 0,1.1 h -1.1 v 1.1 h 1.1 z m 0,1.1 v 1.1 h 1.1 v -1.1 z m 0,1.1 h -1.1 v 1.1 h 1.1 z m 0,1.1 v 1.1 h 1.1 v -1.1 z" />
+  <text id="labelText" x="15.298" y="13.786668" text-anchor="middle" alignment-baseline="middle" style="font-size:5.65665px;font-family:Sans;letter-spacing:0.5px;text-anchor:middle;fill:#fefefe"><tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66667px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.5px" id="tspan2">big</tspan></text>
+</svg>

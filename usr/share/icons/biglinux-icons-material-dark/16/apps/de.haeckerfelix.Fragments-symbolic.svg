@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#dedede}
+</style>
+<g class="ColorScheme-Contrast" style="fill:currentColor">
+<path d="M8 .02c-.27 0-.54.101-.746.305L.309 7.157A1.02 1.02 0 0 0 0 7.891v.258c0 .265.102.531.309.734l6.945 6.832a1.064 1.064 0 0 0 1.492 0l6.945-6.832A1.02 1.02 0 0 0 16 8.149V7.89c0-.265-.102-.531-.309-.734L8.746.325A1.06 1.06 0 0 0 8 .02M7.998 1l7 7-7 7-7-7z"/>
+<path d="M8 8.02V15l6.98-6.98z" opacity=".35"/>
+<path d="M1 8h7v7z"/>
+</g>
+</svg>

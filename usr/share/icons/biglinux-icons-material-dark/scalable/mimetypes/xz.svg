@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+<defs>
+<linearGradient id="a" x1="12" x2="12" y1=".855" y2="23.145" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#f3c7a4"/>
+<stop offset="1" style="stop-color:#d59868"/>
+</linearGradient>
+</defs>
+<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="-inkscape-stroke:hairline;stroke-opacity:.20281;stroke:gray;vector-effect:non-scaling-stroke"/>
+<path fill="#2f2216" d="M5.596 15.377v3.575c0 .152.123.275.275.275h1.65a.274.274 0 0 0 .275-.275v-3.575zm.55 2.2h1.1v1.1h-1.1zm.55-16.5v1.1h1.1v-1.1zm0 1.1h-1.1v1.1h1.1zm0 1.1v1.1h1.1v-1.1zm0 1.1h-1.1v1.1h1.1zm0 1.1v1.1h1.1v-1.1zm0 1.1h-1.1v1.1h1.1zm0 1.1v1.1h1.1v-1.1zm0 1.1h-1.1v1.1h1.1zm0 1.1v1.1h1.1v-1.1zm0 1.1h-1.1v1.1h1.1zm0 1.1v1.1h1.1v-1.1zm0 1.1h-1.1v1.1h1.1zm0 1.1v1.1h1.1v-1.1z"/>
+<text x="15.298" y="13.787" alignment-baseline="middle" style="fill:#2f2216;font-family:Sans;font-size:5.6566px;letter-spacing:.5px;text-anchor:middle" text-anchor="middle"><tspan style="font-family:Sans;font-size:6.6667px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;letter-spacing:.5px">xz</tspan></text>
+</svg>

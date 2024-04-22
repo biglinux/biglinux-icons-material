@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#5884F4" d="m6.025 11.815 3.532 1.453-.26.766L5 12.214v-.797l4.298-1.82.259.766-3.532 1.452ZM10.794 16.63h-.945L13.22 7h.926l-3.353 9.63ZM14.443 10.363l.26-.767L19 11.417v.796l-4.298 1.82-.259-.765 3.532-1.453-3.532-1.452Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity="0.9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
+ <text id="labelText" x="12" y="15" text-anchor="middle" alignment-baseline="middle" style="font-size:7px;font-family:Sans;letter-spacing:0.5px;text-anchor:middle;fill:#e64b2f"><tspan>html</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop  style="stop-color:#e64b2f" offset="0.2"/>
+   <stop  style="stop-color:#fff" offset="0.205"/>
+   <stop  style="stop-color:#dadada" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

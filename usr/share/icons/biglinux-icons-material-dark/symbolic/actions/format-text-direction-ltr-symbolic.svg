@@ -1,9 +1,3 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g color='#dedede' transform='translate(-533 -57)'>
-        <rect fill='#dedede' height='1' overflow='visible' style='marker:none' width='14' x='534' y='58'/>
-        <rect fill='#dedede' height='1' overflow='visible' style='marker:none' width='14' x='534' y='61'/>
-        <path d='M534 67h10v1h-10zM546 68v2h-10v1h10v2l3-2.5z' fill='#dedede' overflow='visible' style='marker:none'/>
-        <rect fill='#dedede' height='1' overflow='visible' style='marker:none' width='14' x='534' y='64'/>
-        
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+<path fill="#dedede" d="M534 58h14v1h-14zm0 3h14v1h-14zm0 6h10v1h-10zm12 1v2h-10v1h10v2l3-2.5zm-12-4h14v1h-14z" color="#dedede" overflow="visible" style="marker:none" transform="translate(-533 -57)"/>
 </svg>

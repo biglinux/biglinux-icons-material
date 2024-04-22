@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#8A92A2" fill-rule="evenodd" d="m14.438 5-3.73.009c.406.256.944.831 1.389 1.49.494.734.889 1.581 1.186 2.32l-1.054.608 3.358-.007 1.568-2.936-.836.555-.53-1c-.354-.565-.68-.977-1.35-1.039Zm-5.357.26L7.454 7.654l2.866 1.908 1.537-2.884c-.426-.624-1.05-1.537-2.037-1.559h-.036c-.241.002-.48.05-.703.141Zm5.723 5.777 1.336 2.877 1.15.008c.654.007 1.697-.926 1.71-1.631v-.05l-1.307-3.048-2.889 1.844ZM5 10.08l.999.542-.335.706c-1.085 2.301.286 3.424 1.909 5.663a2.368 2.368 0 0 1-.013-1.728L9 12.201l.903.467L8.117 9.91 5 10.08Zm7.708 6.043L14.244 19l.01-1.186h.751c2.432 0 2.77-1.795 3.94-4.33a2.083 2.083 0 0 1-1.455.778l-3.237.009-.009-1.06-1.536 2.912ZM8.47 14.27l-.522 1.074c-.309.632.044 2.096.661 2.374h3.188l.022-3.56-3.349.112Z" clip-rule="evenodd"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
+<path fill="#8A92A2" fill-rule="evenodd" d="m14.438 5-3.73.009c.406.256.944.831 1.389 1.49.494.734.889 1.581 1.186 2.32l-1.054.608 3.358-.007 1.568-2.936-.836.555-.53-1c-.354-.565-.68-.977-1.35-1.039Zm-5.357.26L7.454 7.654l2.866 1.908 1.537-2.884c-.426-.624-1.05-1.537-2.037-1.559h-.036c-.241.002-.48.05-.703.141m5.723 5.777 1.336 2.877 1.15.008c.654.007 1.697-.926 1.71-1.631v-.05l-1.307-3.048zM5 10.08l.999.542-.335.706c-1.085 2.301.286 3.424 1.909 5.663a2.37 2.37 0 0 1-.013-1.728L9 12.201l.903.467L8.117 9.91zm7.708 6.043L14.244 19l.01-1.186h.751c2.432 0 2.77-1.795 3.94-4.33a2.08 2.08 0 0 1-1.455.778l-3.237.009-.009-1.06zM8.47 14.27l-.522 1.074c-.309.632.044 2.096.661 2.374h3.188l.022-3.56z" clip-rule="evenodd"/>
+<defs>
+<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#DDD"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"><defs><linearGradient xlink:href="#a" id="b" x1="52.978" x2="50.989" y1="96.007" y2="9.226" gradientTransform="matrix(.24444 0 0 .24444 -.222 -.222)" gradientUnits="userSpaceOnUse"/><linearGradient id="a"><stop offset="0" style="stop-color:#2a3838;stop-opacity:1"/><stop offset="1" style="stop-color:#4c5f64;stop-opacity:1"/></linearGradient></defs><path d="M12 1C2 1 1 6 1 12c0 8 3 11 11 11s11-3 11-11c0-6-1-11-11-11Z" style="font-variation-settings:normal;display:inline;vector-effect:none;fill:url(#b);fill-opacity:1;stroke-width:1.11627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000"/><g fill="#2ecbff"><path d="m25.998 28.59-6.868-4.865 2.296-3.502 6.868 4.864z" opacity=".6" style="stroke-width:.71747" transform="matrix(.84615 0 0 .84615 -10.38 -10.612)"/><path d="M26.368 24.594h5.27l2.128 2.129-2.128 2.128h-4.04l-6.172 4.372-2.296-3.502 4.233-2.998Z" style="stroke-width:.71747" transform="matrix(.84615 0 0 .84615 -10.38 -10.612)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24">
+<defs>
+<linearGradient xlink:href="#a" id="b" x1="52.978" x2="50.989" y1="96.007" y2="9.226" gradientTransform="translate(-.222 -.222)scale(.24444)" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="a">
+<stop offset="0" style="stop-color:#2a3838;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#4c5f64;stop-opacity:1"/>
+</linearGradient>
+</defs>
+<path d="M12 1C2 1 1 6 1 12c0 8 3 11 11 11s11-3 11-11c0-6-1-11-11-11" style="font-variation-settings:normal;display:inline;vector-effect:none;fill:url(#b);fill-opacity:1;stroke-width:1.11627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000"/>
+<g fill="#2ecbff">
+<path d="m25.998 28.59-6.868-4.865 2.296-3.502 6.868 4.864z" opacity=".6" style="stroke-width:.71747" transform="translate(-10.38 -10.612)scale(.84615)"/>
+<path d="M26.368 24.594h5.27l2.128 2.129-2.128 2.128h-4.04l-6.172 4.372-2.296-3.502 4.233-2.998Z" style="stroke-width:.71747" transform="translate(-10.38 -10.612)scale(.84615)"/>
+</g>
+</svg>

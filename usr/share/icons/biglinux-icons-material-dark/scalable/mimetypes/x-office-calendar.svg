@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#3F51B5" fill-rule="evenodd" d="M16.4 1H7.6a6.6 6.6 0 0 0-6.573 6h21.946A6.6 6.6 0 0 0 16.4 1Z" clip-rule="evenodd"/><path fill="#fff" d="M5 5a1 1 0 1 0 0-2 1 1 0 0 0 0 2ZM19 5a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
+<path fill="#3F51B5" fill-rule="evenodd" d="M16.4 1H7.6a6.6 6.6 0 0 0-6.573 6h21.946A6.6 6.6 0 0 0 16.4 1" clip-rule="evenodd"/>
+<path fill="#fff" d="M5 5a1 1 0 1 0 0-2 1 1 0 0 0 0 2m14 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2"/>
+<defs>
+<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#DDD"/>
+</linearGradient>
+</defs>
+</svg>

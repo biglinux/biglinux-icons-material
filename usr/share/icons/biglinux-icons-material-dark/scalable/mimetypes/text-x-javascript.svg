@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#EAB305" d="M13.677 13.956c.428.699.984 1.213 1.969 1.213.827 0 1.355-.414 1.355-.985 0-.685-.543-.927-1.453-1.325l-.499-.214c-1.44-.614-2.397-1.383-2.397-3.008C12.652 8.14 13.792 7 15.575 7c1.27 0 2.182.442 2.84 1.598l-1.555.998c-.342-.613-.712-.855-1.285-.855-.584 0-.955.37-.955.855 0 .6.37.842 1.227 1.213l.5.213c1.695.728 2.653 1.47 2.653 3.136 0 1.798-1.412 2.782-3.308 2.782-1.854 0-3.052-.883-3.638-2.041l1.623-.943Zm-7.052.173c.313.557.599 1.027 1.285 1.027.655 0 1.07-.257 1.07-1.254V7.114h1.995v6.814c0 2.068-1.212 3.008-2.98 3.008-1.599 0-2.524-.827-2.995-1.823l1.625-.984Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
+ <text id="labelText" x="12.624999" y="15.638556" alignment-baseline="middle" text-anchor="middle" style="fill:#c5883d;font-family:Sans;font-size:10px;letter-spacing:.5px;text-anchor:middle"><tspan>JS</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#f7ab4d" offset=".2"/>
+   <stop style="stop-color:#fff" offset=".205"/>
+   <stop style="stop-color:#dadada" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

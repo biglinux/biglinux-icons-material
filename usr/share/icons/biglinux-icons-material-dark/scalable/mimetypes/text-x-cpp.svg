@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#2B898F" d="M6.75 9H8.5v.875H6.75s-.875 0-.875.875v2.625c0 .875.875.875.875.875H8.5v.875H6.75s-1.75 0-1.75-1.75V10.75C5 9 6.75 9 6.75 9Zm4.375.875H12v1.75h1.75v.875H12v1.75h-.875V12.5h-1.75v-.875h1.75v-1.75Zm5.25 0h.875v1.75H19v.875h-1.75v1.75h-.875V12.5h-1.75v-.875h1.75v-1.75Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity="0.9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
+ <text id="labelText" x="12" y="16.5" text-anchor="middle" alignment-baseline="middle" style="font-size:10px;font-family:Sans;letter-spacing:0.5px;text-anchor:middle;fill:#2B898F"><tspan>C++</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop  style="stop-color:#2B898F" offset="0.2"/>
+   <stop  style="stop-color:#fff" offset="0.205"/>
+   <stop  style="stop-color:#dadada" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

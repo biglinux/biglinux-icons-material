@@ -1,1 +1,15 @@
-cs-user.svg
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" fill="none">
+<path d="M12 1C2 1 1 6 1 12c0 8 3 11 11 11s11-3 11-11c0-6-1-11-11-11" style="font-variation-settings:normal;display:inline;vector-effect:none;fill:url(#a);fill-opacity:1;stroke-width:1.11627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000"/>
+<path d="M12.015 5.5c-1.093 0-1.98.885-1.98 1.975v.331l-.862-.915-.33.399 1.199 1.196.346.346.314-.4 1.108-1.196-.346-.345-.918.915v-.33c0-.78.688-1.411 1.469-1.411.78 0 1.059.278 1.059 1.057h.538c0-1.128-.6-1.601-1.597-1.622m1.059 2.258c-.69 0-1.297.331-1.69.837q.266.09.506.224c.295-.32.714-.526 1.184-.526a1.61 1.61 0 0 1 .4 3.168l.002.057q-.002.255-.044.499a2.144 2.144 0 0 0-.358-4.26m-2.686 1.61a2.15 2.15 0 1 0 .003 4.299 2.15 2.15 0 0 0-.003-4.3m0 .538a1.61 1.61 0 1 1 .003 3.222 1.61 1.61 0 0 1-.003-3.222m3.358 2.686q-.206 0-.407.022a3 3 0 0 1-.265.59q.332-.075.672-.076c1.694 0 3.066 1.322 3.066 2.954q.002.134-.012.268h-2.435c.058.172.11.35.146.53l2.757.008q.099-.398.102-.806c0-1.928-1.622-3.49-3.624-3.49m-3.358 1.61c-2.085 0-3.758 1.446-3.758 3.458q.001.426.105.84h7.338c.069-.275.073-.557.075-.84 0-2.012-1.676-3.458-3.76-3.458m-.015.533h.03c2.048 0 3.21 1.222 3.21 2.925q-.002.14-.018.28H7.183a3 3 0 0 1-.017-.28c0-1.703 1.17-2.925 3.207-2.925" style="fill:url(#b);stroke-width:.999996"/>
+<defs>
+<linearGradient xlink:href="#c" id="a" x1="57.159" x2="58.182" y1="115.199" y2="-26.193" gradientTransform="translate(-.222 -.222)scale(.24444)" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="c">
+<stop offset="0" style="stop-color:#d9d9d9;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:1"/>
+</linearGradient>
+<radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="rotate(90 6.858 5.142)scale(27.4316)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C2E5FF"/>
+<stop offset="1" stop-color="#3276AA"/>
+</radialGradient>
+</defs>
+</svg>

@@ -1,31 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="svg4153"
-   viewBox="0 0 22 22"
-   version="1.1"
-   width="22"
-   height="22"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1" />
-  <style
-     type="text/css"
-     id="current-color-scheme">
-        .ColorScheme-NegativeText {
-            color:#da4453;
-        }
-    </style>
-  <g
-     id="22-22-plasmavault_error">
-    <path
-       id="rect4148"
-       d="M 0,0 H 22 V 22 H 0 Z"
-       fill="none" />
-    <path
-       id="path829"
-       d="m 3,3.000001 v 16 h 16 v -14 h -6.992 l -2,-2 -0.008,0.008 v -0.008 z m 1,1 h 5.586 l 1.004,1.004 -4.02,3.996 H 4 Z m 10,5 a 3,3 0 0 1 3,3.000001 v 0.999999 h 1 v 5 h -8 v -5 h 1 v -0.999999 a 3,3 0 0 1 3,-3.000001 z m 0,1.000001 a 2,2 0 0 0 -2,2 v 0.999999 h 4 v -0.999999 a 2,2 0 0 0 -2,-2 z"
-       class="ColorScheme-NegativeText"
-       fill="currentColor" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg4153" width="22" height="22" version="1.1">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-NegativeText{color:#da4453}
+</style>
+<g id="22-22-plasmavault_error">
+<path id="rect4148" fill="none" d="M0 0h22v22H0Z"/>
+<path id="path829" fill="currentColor" d="M3 3v16h16V5h-6.992l-2-2-.008.008V3zm1 1h5.586l1.004 1.004L6.57 9H4Zm10 5a3 3 0 0 1 3 3v1h1v5h-8v-5h1v-1a3 3 0 0 1 3-3m0 1a2 2 0 0 0-2 2v1h4v-1a2 2 0 0 0-2-2" class="ColorScheme-NegativeText"/>
+</g>
 </svg>

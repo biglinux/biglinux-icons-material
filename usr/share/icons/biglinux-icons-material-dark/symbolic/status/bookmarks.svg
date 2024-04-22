@@ -1,78 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="22"
-   height="22"
-   id="svg3613"
-   version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata
-     id="metadata13">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3615">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#E9E8E8;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#ffffff;
-      }
-      .ColorScheme-ViewHover {
-        color:#000000;
-      }
-      .ColorScheme-ViewFocus{
-        color:#5a5a5a;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#E9E8E8;
-      }
-      .ColorScheme-ButtonHover {
-        color:#1489ff;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#2B74C7;
-      }
+<svg xmlns="http://www.w3.org/2000/svg" id="svg3613" width="32" height="32" version="1.1">
+<defs id="defs3615">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#31363b}
 </style>
-  </defs>
-  <g
-     transform="matrix(1.0000029,0,0,1.000001,-420.71555,-526.79125)"
-     id="22-22-bookmarks">
-    <rect
-       style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none"
-       id="rect3028"
-       width="22"
-       height="22"
-       x="-7.1556997e-08"
-       y="2.0000052"
-       transform="matrix(0.99999706,0,0,0.99999899,420.71433,524.79072)" />
-    <path
-       style="fill:currentColor;fill-opacity:1;stroke:none"
-       d="m 426.71431,529.79072 v 1 13.99999 1 l 4.99999,-2 4.99998,2 v -1 -13.99999 -1 h -9.99997 m 1,1 h 7.99997 v 13.5996 l -3.99998,-1.59961 -3.99999,1.59961 v -13.5996"
-       id="rect4298"
-       class="ColorScheme-Text" />
-  </g>
+</defs>
+<g id="bookmarks" transform="translate(-420.716 -516.791)">
+<path id="rect2994" d="M0-8h32v32H0z" style="opacity:.01;fill:#000;fill-opacity:.00392157;stroke:none" transform="translate(420.714 524.79)"/>
+<path id="path2996" d="M428.714 520.79v24l8-4 8 4v-24zm1 1h14v21.558l-7-3.557-7 3.557z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+</g>
 </svg>

@@ -1,1 +1,26 @@
-user-desktop.svg
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {color:#3584e4;}</style>
+  <linearGradient id="a" x1="1.0201" x2="23.033" y1="11.973" y2="11.973" gradientTransform="translate(-.05395 -23.999)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#66bcff" class="ColorScheme-Highlight" style="stop-color:currentColor;stop-opacity:0" offset="0"/>
+   <stop stop-color="#be98ff" offset="1" style="stop-color:currentColor;stop-opacity:0.3"/>
+  </linearGradient>
+ </defs>
+ <rect class="ColorScheme-Highlight" style="fill:currentColor" transform="rotate(90)" x=".96615" y="-23.051" width="22.013" height="22.048" rx="6.4695" ry="6.4695" fill="url(#a)" opacity=".9" vector-effect="non-scaling-stroke"/>
+ <rect class="ColorScheme-Highlight" transform="rotate(90)" x=".96615" y="-23.051" width="22.013" height="22.048" rx="6.4695" ry="6.4695" fill="url(#a)" opacity=".9" vector-effect="non-scaling-stroke"/>
+ <path class="ColorScheme-Highlight" d="m2.0602 20.078c1.1557 1.749 3.1364 2.9004 5.3984 2.9004h9.1094c2.2621 0 4.2428-1.1514 5.3984-2.9004z" color="#3584e4" fill="#fff" opacity=".5" vector-effect="non-scaling-stroke"/>
+ <g fill="#000" stroke-width="1.4084">
+  <rect x="5.9816" y="2.01" width="1.4885" height=".74578" ry=".37389" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="10.135" y="2.01" width="3.7222" height=".74578" ry=".37389" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="17.255" y="2.01" width=".74424" height=".74578" ry=".37389" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="15.767" y="2.01" width="1.1174" height=".74578" ry=".37389" opacity=".35" style="paint-order:stroke markers fill"/>
+  <rect x="14.649" y="2.01" width=".74424" height=".74578" ry=".37389" opacity=".35" style="paint-order:stroke markers fill"/>
+ </g>
+ <g transform="matrix(.36826 0 0 .36902 .21878 1.2442)" fill="#ccdfff" stroke-width="3.78">
+  <rect x="17.001" y="48.001" width="5" height="5" ry=".499" style="paint-order:stroke markers fill"/>
+  <rect x="25.335" y="48.001" width="5" height="5" ry=".499" style="paint-order:stroke markers fill"/>
+  <rect x="33.669" y="48.001" width="5" height="5" ry=".499" style="paint-order:stroke markers fill"/>
+  <rect x="42.003" y="48.001" width="5" height="5" ry=".499" style="paint-order:stroke markers fill"/>
+ </g>
+ <path class="ColorScheme-Highlight" d="m7.4847 0.97029c-2.0785 0-3.9175 0.97403-5.0996 2.4883h19.307c-1.1821-1.5141-3.0193-2.4883-5.0977-2.4883z" color="#3584e4" fill="#aaa" opacity=".3" vector-effect="non-scaling-stroke"/>
+</svg>

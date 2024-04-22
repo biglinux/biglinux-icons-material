@@ -1,48 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3498db;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-NegativeText{
-        color:#e74c3c;
-      }
-      </style>
-    <g transform="translate(0,-308) translate(-22,374)" id="network-mobile-60-5g">
-    <rect y="-66" x="22" height="22" width="22" id="rect4828-2" style="opacity:0.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737041px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-    <path style="opacity:0.35;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 25,-47 16,-16 v 16 z" id="path4830-7" class="ColorScheme-Text"/>
-    <path id="path4832-0" d="M 37,-59 25,-47 H 37 Z" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" class="ColorScheme-Text"/>
-    <path inkscape:connector-curvature="0" class="ColorScheme-Text" id="path5060-9" d="m 30,-63 v 4 1 h 4 v -1 -1 -1 h -2 v 1 h 1 v 1 h -2 v -3 h 3 v -1 h -3 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"/>
-    <path style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 25,-63 v 3 h 3 v 1 h -3 v 1 h 3 1 v -3 h -3 v -1 h 3 v -1 z" id="rect1642-3-6" class="ColorScheme-Text"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#31363b}
+</style>
+<g id="network-mobile-60-5g" transform="translate(-22 66)">
+<path id="rect4828-2" d="M22-66h22v22H22z" style="opacity:.55;fill:none;fill-opacity:1;stroke:none;stroke-width:3.56737041px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+<path id="path4830-7" d="m25-47 16-16v16z" class="ColorScheme-Contrast" style="opacity:.35;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path id="path4832-0" d="M37-59 25-47h12Z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path id="path5060-9" d="M30-63v5h4v-3h-2v1h1v1h-2v-3h3v-1h-3z" class="ColorScheme-Contrast" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"/>
+<path id="rect1642-3-6" d="M25-63v3h3v1h-3v1h4v-3h-3v-1h3v-1z" class="ColorScheme-Contrast" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+</g>
 </svg>

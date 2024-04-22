@@ -1,1 +1,27 @@
-cgoban_32x32.svg
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" viewBox="0 0 6.35 6.35">
+<defs>
+<linearGradient id="a">
+<stop offset="0" style="stop-color:#4d4d4d;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#ccc;stop-opacity:1"/>
+</linearGradient>
+<linearGradient xlink:href="#a" id="b" x1="236.059" x2="222.894" y1="-.636" y2="515.021" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#a" id="e" x1="236.059" x2="222.894" y1="-.636" y2="515.021" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#a" id="d" x1="236.059" x2="222.894" y1="-.636" y2="515.021" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#a" id="c" x1="236.059" x2="222.894" y1="-.636" y2="515.021" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g style="stroke-width:21.9899">
+<g style="fill:url(#b);fill-opacity:1;stroke-width:21.9899" transform="rotate(180 3.043 3.043)scale(.01304)">
+<g style="fill:url(#c);fill-opacity:1;stroke-width:21.9899">
+<g style="fill:url(#d);fill-opacity:1;stroke-width:21.9899">
+<path d="M174.406 2.305q3.65.039 6.973-.93a642 642 0 0 1 87.387.234q39.615 3.084 76.699 17.188 61.646 25.383 84.363 88.043 12.99 37.728 15.34 77.59a567 567 0 0 1-2.324 99.89c-2.782 23.352-8.824 45.805-18.129 67.368q-25.886 56.073-83.899 77.355-47.013 15.885-96.687 16.723-55.869 2.907-110.625-8.36Q32.717 414.955 9.164 314.52a386.3 386.3 0 0 1-9.066-91.528q-1.116-49.248 10.461-97.101C27.02 63.285 66.762 24.488 129.785 9.508a283 283 0 0 1 44.621-7.203" style="fill:url(#e);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21.9899"/>
+</g>
+</g>
+</g>
+<g style="stroke-width:21.9899" transform="translate(-15.14 -3.695)scale(.04548)">
+<circle cx="377.819" cy="126.2" r="22.516" fill="#fff" style="stroke-width:52.1189"/>
+<circle cx="427.589" cy="126.179" r="22.516" fill="#333" style="stroke-width:52.1189"/>
+<circle cx="377.819" cy="175.96" r="22.516" fill="#333" style="stroke-width:52.1189"/>
+<circle cx="427.594" cy="175.961" r="22.516" fill="#fff" style="stroke-width:52.1189"/>
+</g>
+</g>
+</svg>

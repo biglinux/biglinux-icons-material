@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="matrix(0 22 -22 0 12 1)" gradientUnits="userSpaceOnUse"><stop stop-color="#FAFAFA"/><stop offset="1" stop-color="#B0B0B0"/></radialGradient></defs><path fill="url(#a)" fill-rule="evenodd" d="M9.94 1.068c-.11.032-.224.047-.344.046-.742.06-1.476.178-2.2.355-3.106.738-5.064 2.65-5.876 5.736a18.49 18.49 0 0 0-.515 4.786c-.03 1.522.118 3.025.447 4.51.774 3.3 2.816 5.32 6.128 6.058 1.8.37 3.617.507 5.452.412a15.624 15.624 0 0 0 4.766-.825c1.906-.7 3.284-1.97 4.135-3.812a11.88 11.88 0 0 0 .893-3.32c.184-1.638.222-3.28.115-4.924a14.269 14.269 0 0 0-.756-3.824c-.746-2.06-2.133-3.506-4.158-4.34a13.536 13.536 0 0 0-3.78-.847 31.637 31.637 0 0 0-4.307-.011z" clip-rule="evenodd" style="fill:url(#a);stroke-width:1"/><path fill="#483c8f" d="M19.955 18.117 12 23.686l6.064 4.244.478-2.474-2.53-1.77 3.318-2.324z" style="stroke-width:.401123" transform="matrix(.9091 0 0 .9091 -6.202 -9.47)"/><path fill="#4b8adf" d="m22.13 19.546-.477 2.474 2.38 1.666-3.122 2.186-.625 3.245 7.759-5.431Z" style="stroke-width:.401123" transform="matrix(.9091 0 0 .9091 -6.202 -9.47)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+<defs>
+<radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="matrix(0 22 -22 0 12 1)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FAFAFA"/>
+<stop offset="1" stop-color="#B0B0B0"/>
+</radialGradient>
+</defs>
+<path fill="url(#a)" fill-rule="evenodd" d="M9.94 1.068q-.164.048-.344.046-1.114.09-2.2.355Q2.738 2.576 1.52 7.205a18.5 18.5 0 0 0-.515 4.786q-.046 2.283.447 4.51 1.16 4.95 6.128 6.058 2.7.555 5.452.412a15.6 15.6 0 0 0 4.766-.825q2.859-1.05 4.135-3.812a11.9 11.9 0 0 0 .893-3.32q.276-2.457.115-4.924a14.3 14.3 0 0 0-.756-3.824q-1.12-3.09-4.158-4.34a13.5 13.5 0 0 0-3.78-.847 32 32 0 0 0-4.307-.011" clip-rule="evenodd" style="fill:url(#a);stroke-width:1"/>
+<path fill="#483c8f" d="M19.955 18.117 12 23.686l6.064 4.244.478-2.474-2.53-1.77 3.318-2.324z" style="stroke-width:.401123" transform="translate(-6.202 -9.47)scale(.9091)"/>
+<path fill="#4b8adf" d="m22.13 19.546-.477 2.474 2.38 1.666-3.122 2.186-.625 3.245 7.759-5.431Z" style="stroke-width:.401123" transform="translate(-6.202 -9.47)scale(.9091)"/>
+</svg>

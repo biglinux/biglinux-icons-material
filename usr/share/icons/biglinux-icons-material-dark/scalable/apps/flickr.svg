@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" fill="none"><defs><linearGradient id="a"><stop offset="0" style="stop-color:#d9d9d9;stop-opacity:1"/><stop offset="1" style="stop-color:#fff;stop-opacity:1"/></linearGradient><linearGradient xlink:href="#a" id="b" x1="57.159" x2="58.182" y1="115.199" y2="-26.193" gradientTransform="matrix(.24444 0 0 .24444 -.222 -.222)" gradientUnits="userSpaceOnUse"/></defs><path d="M12 1C2 1 1 6 1 12c0 8 3 11 11 11s11-3 11-11c0-6-1-11-11-11Z" style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#b);fill-opacity:1;stroke-width:1.11627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000;stop-opacity:1"/><path fill="#0083dc" d="M696.872 186.874a21.472 21.472 0 1 1-42.933 0 21.472 21.472 0 0 1 42.933 0" style="stroke-width:11.5878" transform="matrix(.16422 0 0 .16422 -103.45 -18.771)"/><path fill="#f5348d" d="M752.065 186.874a21.472 21.472 0 1 1-42.933 0 21.472 21.472 0 0 1 42.933 0" style="stroke-width:11.5878" transform="matrix(.16422 0 0 .16422 -103.45 -18.771)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" fill="none">
+<defs>
+<linearGradient id="a">
+<stop offset="0" style="stop-color:#d9d9d9;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:1"/>
+</linearGradient>
+<linearGradient xlink:href="#a" id="b" x1="57.159" x2="58.182" y1="115.199" y2="-26.193" gradientTransform="translate(-.222 -.222)scale(.24444)" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path d="M12 1C2 1 1 6 1 12c0 8 3 11 11 11s11-3 11-11c0-6-1-11-11-11" style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#b);fill-opacity:1;stroke-width:1.11627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000;stop-opacity:1"/>
+<path fill="#0083dc" d="M696.872 186.874a21.472 21.472 0 1 1-42.933 0 21.472 21.472 0 0 1 42.933 0" style="stroke-width:11.5878" transform="translate(-103.45 -18.771)scale(.16422)"/>
+<path fill="#f5348d" d="M752.065 186.874a21.472 21.472 0 1 1-42.933 0 21.472 21.472 0 0 1 42.933 0" style="stroke-width:11.5878" transform="translate(-103.45 -18.771)scale(.16422)"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#dedede}
+</style>
+<path d="M5.314 0h6v1h-6z" class="ColorScheme-Contrast" style="fill:#dedede;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000" transform="rotate(45)"/>
+<path d="M-6-11.314h6v1h-6z" style="fill:#dedede;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000" transform="scale(1 -1)rotate(45)"/>
+<path d="M-6 11.314h6v1h-6z" style="fill:#dedede;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000" transform="scale(-1 1)rotate(45)"/>
+<path d="M-17.314 0h6v1h-6z" style="fill:#dedede;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000" transform="rotate(-135)"/>
+<path d="M0 7.5h7v1H0zm9 0h7v1H9z" style="fill:#dedede;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000"/>
+</svg>

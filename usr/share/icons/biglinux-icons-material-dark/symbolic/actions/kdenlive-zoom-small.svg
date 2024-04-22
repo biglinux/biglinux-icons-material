@@ -1,1 +1,8 @@
-zoom-out-y.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<defs>
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#dedede}
+</style>
+</defs>
+<path fill="currentColor" d="M3 1a2 2 0 1 0 0 4 2 2 0 0 0 0-4m4 0v1h6c.554 0 1 .446 1 1v3h1V3c0-1.108-.892-2-2-2zM3 2a1 1 0 1 1 0 2 1 1 0 0 1 0-2M1 7v6c0 1.108.892 2 2 2h4v-1H3c-.554 0-1-.446-1-1V7zm9 0v5.086l-1.621-1.621-.707.707L10.5 14l2.828-2.828-.707-.707L11 12.085V7z" class="ColorScheme-Contrast"/>
+</svg>

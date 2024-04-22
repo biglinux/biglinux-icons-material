@@ -1,8 +1,6 @@
-<svg width="16px" height="16px" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <rect transform="scale(-1,1)" x="-8.0003" y="5" width="1" height="6" rx="0" ry="0" fill="#dedede" fill-rule="evenodd" stroke-width=".86602" style="paint-order:stroke fill markers"/>
- <rect transform="scale(-1,1)" x="-5.0003" y="3" width="1" height="10" rx="0" ry="0" fill="#dedede" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
- <rect transform="scale(-1,1)" x="-2.0003" y="1" width="1" height="14" rx="0" ry="0" fill="#dedede" fill-rule="evenodd" stroke-width="1.0801" style="paint-order:stroke fill markers"/>
- <g transform="matrix(-1 0 0 1 16 0)" fill="#dedede" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.001" style="paint-order:stroke fill markers" aria-label="">
-  <path d="m5.292 1.997h0.71128v12.006h-0.71128l-3.0015-3.0015h-2.2902v-6.0029h2.2902zm-0.2892 1.7118-2.2902 2.2902h-1.7118v4.0019h1.7118l2.2902 2.2902z" fill="#dedede" stroke-width="2.001"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+<rect width="1" height="6" x="-8" y="5" fill="#363636" fill-rule="evenodd" rx="0" ry="0" style="paint-order:stroke fill markers" transform="scale(-1 1)"/>
+<rect width="1" height="10" x="-5" y="3" fill="#363636" fill-rule="evenodd" rx="0" ry="0" style="paint-order:stroke fill markers" transform="scale(-1 1)"/>
+<rect width="1" height="14" x="-2" y="1" fill="#363636" fill-rule="evenodd" rx="0" ry="0" style="paint-order:stroke fill markers" transform="scale(-1 1)"/>
+<path fill="#363636" d="M5.292 1.997h.711v12.006h-.711l-3.001-3.001H0V4.999h2.29zm-.29 1.712-2.29 2.29h-1.71v4.002h1.712l2.29 2.29z" aria-label="" style="paint-order:stroke fill markers" transform="matrix(-1 0 0 1 16 0)"/>
 </svg>

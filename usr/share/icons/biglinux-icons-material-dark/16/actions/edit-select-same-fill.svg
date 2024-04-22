@@ -1,5 +1,6 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <g id="edit-select-all" transform="translate(-45 -707.36)" fill="#dedede">
-  <path transform="translate(45 707.36)" d="m0 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm-14 2v1h1v-1h-1zm14 0v1h1v-1h-1zm-11 1v9h9v-9h-9zm-3 1v1h1v-1h-1zm14 0v1h1v-1h-1zm-14 2v1h1v-1h-1zm14 0v1h1v-1h-1zm-14 2v1h1v-1h-1zm14 0v1h1v-1h-1zm-14 2v1h1v-1h-1zm14 0v1h1v-1h-1zm-14 2v1h1v-1h-1zm14 0v1h1v-1h-1zm-14 2v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1zm2 0v1h1v-1h-1z" fill="#dedede"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Text{color:#dedede}
+</style>
+<path d="M0 0v1h1V0zm2 0v1h1V0zm2 0v1h1V0zm2 0v1h1V0zm2 0v1h1V0zm2 0v1h1V0zm2 0v1h1V0zm2 0v1h1V0zM0 2v1h1V2zm14 0v1h1V2zM3 3v9h9V3zM0 4v1h1V4zm14 0v1h1V4zM0 6v1h1V6zm14 0v1h1V6zM0 8v1h1V8zm14 0v1h1V8zM0 10v1h1v-1zm14 0v1h1v-1zM0 12v1h1v-1zm14 0v1h1v-1zM0 14v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1z" class="ColorScheme-Text" style="fill:currentColor"/>
 </svg>

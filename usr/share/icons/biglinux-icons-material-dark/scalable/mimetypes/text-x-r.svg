@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#3F51B5" fill-rule="evenodd" d="M15.399 12.928c-.197.074-.202.422-.005.495.17.063.342.132.483.2.162.078.44.235.642.44a1.686 1.686 0 0 1 .297.411l3.011 5.224a.2.2 0 0 1-.173.3L14.308 20a.2.2 0 0 1-.174-.101l-2.321-4.095-.003-.005c-.03-.049-.496-.81-.786-1.035-.25-.195-.357-.264-.605-.264H9.41a.2.2 0 0 0-.2.2v5.097a.2.2 0 0 1-.2.2H4.2a.2.2 0 0 1-.2-.2V4.2c0-.11.09-.2.2-.2h7.872c2.867 0 6.647.823 6.647 4.587 0 2.711-2.129 3.892-3.32 4.34ZM9.409 7a.2.2 0 0 0-.201.2v3.599c0 .11.09.2.2.2h2.272s1.916 0 2.043-1.957c.133-2.04-2.04-2.04-2.045-2.04L9.408 7Z" clip-rule="evenodd"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity="0.9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
+ <text id="labelText" x="12" y="18" text-anchor="middle" alignment-baseline="middle" style="font-size:15px;font-family:Sans;letter-spacing:0.5px;text-anchor:middle;fill:#3F51B5"><tspan>R</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop  style="stop-color:#3F51B5" offset="0.2"/>
+   <stop  style="stop-color:#fff" offset="0.205"/>
+   <stop  style="stop-color:#dadada" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

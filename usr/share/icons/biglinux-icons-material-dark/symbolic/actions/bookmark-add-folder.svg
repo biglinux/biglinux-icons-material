@@ -1,1 +1,8 @@
-bookmark-new.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<defs>
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#dedede}
+</style>
+</defs>
+<path fill="currentColor" d="M5 0C3.892 0 3 .892 3 2v13l5-1.594L13 15V2c0-1.108-.892-2-2-2zm0 1h6c.554 0 1 .446 1 1v11.594l-4-1.188-4 1.188V2c0-.554.446-1 1-1" class="ColorScheme-Contrast"/>
+</svg>

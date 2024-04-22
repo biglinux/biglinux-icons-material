@@ -1,144 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="22"
-   height="22"
-   version="1.1"
-   viewBox="0 0 22 22"
-   id="svg89"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata
-     id="metadata93">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs5">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-      }
-      .ColorScheme-NegativeText {
-        color:#da4453;
-      }</style>
-    <style
-       type="text/css"
-       id="style3" />
-  </defs>
-  <g
-     id="22-22-touchpad_disabled"
-     transform="translate(22,55)">
-    <g
-       transform="translate(0,-65)"
-       id="g80">
-      <path
-         d="M -22,10 V 32 H 0 V 10 Z"
-         fill="none"
-         id="path64" />
-      <g
-         transform="translate(32,27)"
-         fill="currentColor"
-         class="ColorScheme-Text"
-         id="g78">
-        <path
-           d="m -51,-14 c -0.554,0 -1,0.446 -1,1 v 10 c 0,0.554 0.446,1 1,1 h 7 v -1 h -7 v -10 h 14 v 7 h 1 v -7 c 0,-0.554 -0.446,-1 -1,-1 z"
-           opacity="0.5"
-           id="path66" />
-        <path
-           d="m -44,-5 v 3 c 0,2.216 1.784,4 4,4 h 2 c 2.216,0 4,-1.784 4,-4 v -3 h -1 v 3 c 0,1.662 -1.338,3 -3,3 h -2 c -1.662,0 -3,-1.338 -3,-3 v -3 z"
-           opacity="0.5"
-           id="path68" />
-        <path
-           d="m -40.5,-11 c -0.831,0 -1.5,0.669 -1.5,1.5 V -5 h 1 v -5 h 1 v 5 h 1 v -4.5 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z"
-           opacity="0.5"
-           id="path70" />
-        <rect
-           x="-44"
-           y="-6"
-           width="2"
-           height="1"
-           ry="0"
-           opacity="0.5"
-           id="rect72" />
-        <rect
-           x="-42"
-           y="-5"
-           width="1"
-           height="2"
-           ry="0"
-           opacity="0.5"
-           id="rect74" />
-        <rect
-           x="-39"
-           y="-6"
-           width="5"
-           height="1"
-           ry="0"
-           opacity="0.5"
-           id="rect76" />
-      </g>
-    </g>
-    <g
-       transform="translate(-1.0503)"
-       fill="#ff3232"
-       id="g86">
-      <rect
-         transform="rotate(45)"
-         x="-46.835999"
-         y="-23.875"
-         width="6.0609002"
-         height="1.0102"
-         ry="0"
-         id="rect82" />
-      <rect
-         transform="matrix(-0.70711,0.70711,0.70711,0.70711,0,0)"
-         x="-26.400999"
-         y="-44.310001"
-         width="6.0609002"
-         height="1.0102"
-         ry="0"
-         id="rect84" />
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg89" width="32" height="32" version="1.1">
+<defs id="defs5">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Contrast{color:#31363b}.ColorScheme-NegativeText{color:#da4453}
+</style>
+</defs>
+<g id="touchpad_disabled" transform="translate(0 65)">
+<path id="path43" fill="#ff3232" d="M7-55.293 10.293-52 7-48.707c.013.025.707.707.707.707L11-51.293 14.293-48l.707-.707L11.707-52 15-55.293 14.293-56 11-52.707 7.707-56Z" class="ColorScheme-NegativeText"/>
+<path id="path45" fill="none" d="M0-65v32h32v-32z"/>
+<g id="g61" fill="currentColor" class="ColorScheme-Contrast" transform="translate(0 -65)">
+<g id="g57" transform="translate(-44 1)">
+<path id="path47" d="M74 17h-1v6c0 2.216-1.784 4-4 4h-3c-2.216 0-4-1.784-4-4v-6h-1v6c0 2.77 2.23 5 5 5h3c2.77 0 5-2.23 5-5z" opacity=".5"/>
+<path id="path49" d="M64.5 9c-.831 0-1.5.669-1.5 1.5V17h1v-7h1v7h1v-6.5c0-.831-.669-1.5-1.5-1.5" opacity=".5"/>
+<rect id="rect51" width="2" height="1" x="61" y="16" opacity=".5" ry="0"/>
+<rect id="rect53" width="1" height="4" x="63" y="17" opacity=".5" ry="0"/>
+<rect id="rect55" width="8" height="1" x="66" y="16" opacity=".5" ry="0"/>
+</g>
+<path id="path59" d="M4 5c-.554 0-1 .446-1 1v16c0 .554.446 1 1 1h13v-1H4V6h22v11h1V6c0-.554-.446-1-1-1Z" opacity=".5"/>
+</g>
+</g>
 </svg>

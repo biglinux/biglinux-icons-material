@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="21" height="21" x="1.5" y="1.5" fill="url(#a)" stroke="#5B5B5B" rx="6.1"/><path fill="#1C99E0" d="M20 6h-8.529v5.864H20V6Z"/><path fill="#C5EBFF" d="M19.466 6.533h-7.462v4.797h7.462V6.533Z"/><path fill="#DCDB46" d="M19.449 8.696c-.59 0-1.154-.23-1.57-.639a2.16 2.16 0 0 1-.651-1.542h2.22v2.18Z"/><path fill="#37B324" d="M16.375 10.158 14.2 7.574l-2.177 3.158v.574h7.463v-.574L17.93 9.01l-1.555 1.148Z"/><path fill="#1C99E0" d="M10.396 6.534H4v1.067h6.396V6.534ZM10.396 8.667H4v1.066h6.396V8.667ZM10.396 10.799H4v1.066h6.396v-1.066ZM19.991 12.931H4v1.066h15.991v-1.066ZM19.991 15.063H4v1.066h15.991v-1.066ZM16.793 17.196H4v1.066h12.793v-1.066Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+<rect width="21" height="21" x="1.5" y="1.5" opacity="0.9" fill="url(#a)" stroke="#5B5B5B" rx="6.1"/>
+<path fill="#1C99E0" d="M20 6h-8.529v5.864H20z"/>
+<path fill="#C5EBFF" d="M19.466 6.533h-7.462v4.797h7.462z"/>
+<path fill="#DCDB46" d="M19.449 8.696c-.59 0-1.154-.23-1.57-.639a2.16 2.16 0 0 1-.651-1.542h2.22v2.18Z"/>
+<path fill="#37B324" d="M16.375 10.158 14.2 7.574l-2.177 3.158v.574h7.463v-.574L17.93 9.01z"/>
+<path fill="#1C99E0" d="M10.396 6.534H4v1.067h6.396zm0 2.133H4v1.066h6.396zm0 2.132H4v1.066h6.396zm9.595 2.132H4v1.066h15.991zm0 2.132H4v1.066h15.991zm-3.198 2.133H4v1.066h12.793z"/>
+<defs>
+<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#DDD"/>
+</linearGradient>
+</defs>
+</svg>

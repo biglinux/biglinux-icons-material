@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 6.35 6.35"><defs><linearGradient xlink:href="#a" id="b" x1="50.511" x2="49.489" y1="90.526" y2="-7.273" gradientTransform="matrix(.06467 0 0 .06467 -.059 -.059)" gradientUnits="userSpaceOnUse"/><linearGradient id="a"><stop offset="0" style="stop-color:#aeaeae;stop-opacity:1"/><stop offset="1" style="stop-color:#fff;stop-opacity:1"/></linearGradient><clipPath id="c" clipPathUnits="userSpaceOnUse"><path d="M0 0h19v19H0Z"/></clipPath><clipPath id="d" clipPathUnits="userSpaceOnUse"><path d="M0 0h19v19H0Z"/></clipPath></defs><path d="M3.175.265C.529.265.265 1.587.265 3.175c0 2.117.793 2.91 2.91 2.91s2.91-.793 2.91-2.91c0-1.588-.264-2.91-2.91-2.91z" style="font-variation-settings:normal;display:inline;vector-effect:none;fill:url(#b);fill-opacity:1;stroke-width:.295341;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000"/><g style="stroke-width:1.17833"><g clip-path="url(#c)" opacity=".65" style="stroke-width:1.17833" transform="matrix(.29938 0 0 .29938 .48 .48)"><g style="stroke-width:1.17833"><path d="m6.543 8.105-2.66 5.321c-.156.312-.156.937.469.937h2.859c-.895 0-.895-.894-.668-1.34l1.227-2.457Z" style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17833"/></g></g></g><path d="M1.703 1.57a.334.334 0 0 0-.335.334V3.91c0 .185.15.334.335.334h.068l.668-1.338.368.736.77-1.538 1.07 2.14a.334.334 0 0 0 .335-.334V1.904a.334.334 0 0 0-.335-.335z" style="fill:#666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:.352771"/><path d="M3.91 2.238a.543.543 0 0 0-.238.056l.478.958a.535.535 0 0 0-.24-1.014z" style="fill:#9b9b9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:.352771"/><circle cx="3.914" cy="2.774" r=".535" style="fill:#9b9b9b;fill-opacity:1;stroke:none;stroke-width:.211663;paint-order:stroke markers fill"/><g style="stroke-width:1.17833"><g clip-path="url(#d)" opacity=".8" style="stroke-width:1.17833" transform="matrix(.29938 0 0 .29938 .48 .48)"><g style="stroke-width:1.17833"><path d="m10.34 5.426-3.797 7.597c-.227.446-.227 1.34.668 1.34h6.258c.894 0 .894-.894.672-1.34z" style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17833"/></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 6.35 6.35">
+<defs>
+<linearGradient xlink:href="#a" id="b" x1="50.511" x2="49.489" y1="90.526" y2="-7.273" gradientTransform="translate(-.059 -.059)scale(.06467)" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="a">
+<stop offset="0" style="stop-color:#aeaeae;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:1"/>
+</linearGradient>
+<clipPath id="c" clipPathUnits="userSpaceOnUse">
+<path d="M0 0h19v19H0Z"/>
+</clipPath>
+<clipPath id="d" clipPathUnits="userSpaceOnUse">
+<path d="M0 0h19v19H0Z"/>
+</clipPath>
+</defs>
+<path d="M3.175.265C.529.265.265 1.587.265 3.175c0 2.117.793 2.91 2.91 2.91s2.91-.793 2.91-2.91c0-1.588-.264-2.91-2.91-2.91" style="font-variation-settings:normal;display:inline;vector-effect:none;fill:url(#b);fill-opacity:1;stroke-width:.295341;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000"/>
+<g clip-path="url(#c)" opacity=".65" style="stroke-width:1.17833" transform="translate(.48 .48)scale(.29938)">
+<g style="stroke-width:1.17833">
+<path d="m6.543 8.105-2.66 5.321c-.156.312-.156.937.469.937h2.859c-.895 0-.895-.894-.668-1.34l1.227-2.457Z" style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17833"/>
+</g>
+</g>
+<path d="M1.703 1.57a.334.334 0 0 0-.335.334V3.91c0 .185.15.334.335.334h.068l.668-1.338.368.736.77-1.538 1.07 2.14a.334.334 0 0 0 .335-.334V1.904a.334.334 0 0 0-.335-.335z" style="fill:#666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:.352771"/>
+<path d="M3.91 2.238a.54.54 0 0 0-.238.056l.478.958a.535.535 0 0 0-.24-1.014" style="fill:#9b9b9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:.352771"/>
+<circle cx="3.914" cy="2.774" r=".535" style="fill:#9b9b9b;fill-opacity:1;stroke:none;stroke-width:.211663;paint-order:stroke markers fill"/>
+<g clip-path="url(#d)" opacity=".8" style="stroke-width:1.17833" transform="translate(.48 .48)scale(.29938)">
+<g style="stroke-width:1.17833">
+<path d="m10.34 5.426-3.797 7.597c-.227.446-.227 1.34.668 1.34h6.258c.894 0 .894-.894.672-1.34z" style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17833"/>
+</g>
+</g>
+</svg>

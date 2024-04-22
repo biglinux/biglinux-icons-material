@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#FAFAFA" d="M15 13.994v3.249c0 .138.111.25.25.25h1.5a.25.25 0 0 0 .25-.25v-3.249h-2Zm.5 2h1v.999h-1v-1Z"/><path fill="#FAFAFA" d="M16 1v1h1V1h-1Zm0 1h-1v1h1V2Zm0 1v.999h1v-1h-1Zm0 .999h-1v1h1v-1Zm0 1v.999h1v-1h-1Zm0 .999h-1v1h1v-1Zm0 1v.999h1v-1h-1Zm0 .999h-1v1h1v-1Zm0 1v.999h1v-1h-1Zm0 .999h-1v1h1v-1Zm0 1v1h1v-1h-1Zm0 1h-1v.999h1v-1Zm0 .999v1h1v-1h-1Z"/><path fill="#000" d="M4 11v.929h8V11H4Zm0 1.857v.929h6.667v-.929H4Zm0 1.857v.929h8v-.929H4Zm0 1.857v.929h5.333v-.929H4Z" opacity=".15"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#90BEFF"/><stop offset="1" stop-color="#4C8CE6"/></radialGradient></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
+<path fill="#FAFAFA" d="M15 13.994v3.249c0 .138.111.25.25.25h1.5a.25.25 0 0 0 .25-.25v-3.249zm.5 2h1v.999h-1v-1Z"/>
+<path fill="#FAFAFA" d="M16 1v1h1V1zm0 1h-1v1h1zm0 1v.999h1v-1zm0 .999h-1v1h1zm0 1v.999h1v-1zm0 .999h-1v1h1zm0 1v.999h1v-1h-1Zm0 .999h-1v1h1zm0 1v.999h1v-1zm0 .999h-1v1h1zm0 1v1h1v-1zm0 1h-1v.999h1zm0 .999v1h1v-1z"/>
+<path fill="#000" d="M4 11v.929h8V11zm0 1.857v.929h6.667v-.929zm0 1.857v.929h8v-.929zm0 1.857v.929h5.333v-.929z" opacity=".15"/>
+<defs>
+<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#90BEFF"/>
+<stop offset="1" stop-color="#4C8CE6"/>
+</linearGradient>
+</defs>
+</svg>

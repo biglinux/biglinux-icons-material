@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#000" d="M10.231 8v1.472h1.472V8h-1.472Zm1.889 0v1.472h1.472V8H12.12Zm4.023 1.212c-.495.339-.722.953-.568 1.533.156.579.66.997 1.258 1.044.2.565.734.943 1.333.944.6 0 1.134-.379 1.334-.944a1.417 1.417 0 0 0-1.334-.945c-.286.001-.565.089-.8.251a1.417 1.417 0 0 0-1.223-1.883Zm.69 2.577H5.5c0 3.13 2.537 4.722 5.666 4.722 3.13 0 5.667-1.593 5.667-4.722ZM7.806 9.896v1.472h1.472V9.896H7.806Zm1.888 0v1.472h1.472V9.896H9.694Zm1.89 0v1.472h1.471V9.896h-1.472Zm1.888 0v1.472h1.472V9.896h-1.472Zm-5.611 2.837a.472.472 0 1 1 0 .944.472.472 0 0 1 0-.944Z" opacity=".4"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#66D7FC"/><stop offset="1" stop-color="#3D87A0"/></radialGradient></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
+<path fill="#000" d="M10.231 8v1.472h1.472V8zm1.889 0v1.472h1.472V8zm4.023 1.212a1.42 1.42 0 0 0-.568 1.533c.156.579.66.997 1.258 1.044.2.565.734.943 1.333.944.6 0 1.134-.379 1.334-.944a1.42 1.42 0 0 0-1.334-.945 1.4 1.4 0 0 0-.8.251 1.417 1.417 0 0 0-1.223-1.883m.69 2.577H5.5c0 3.13 2.537 4.722 5.666 4.722s5.667-1.593 5.667-4.722M7.806 9.896v1.472h1.472V9.896zm1.888 0v1.472h1.472V9.896zm1.89 0v1.472h1.471V9.896zm1.888 0v1.472h1.472V9.896zm-5.611 2.837a.472.472 0 1 1 0 .944.472.472 0 0 1 0-.944" opacity=".4"/>
+<defs>
+<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#66D7FC"/>
+<stop offset="1" stop-color="#3D87A0"/>
+</linearGradient>
+</defs>
+</svg>

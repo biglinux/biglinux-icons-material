@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path stroke="#888" stroke-dasharray="1.09 1.09" stroke-width=".291" d="M19.128 8.37a8.002 8.002 0 0 1-2.597 10.225 7.996 7.996 0 0 1-10.475-1.242 8 8 0 0 1 10.3-12.062"/><path fill="#1A7FD4" d="M12 18.401a6.4 6.4 0 1 0 0-12.8 6.4 6.4 0 0 0 0 12.8Z"/><path fill="#fff" d="M14.618 10.838a1.455 1.455 0 1 0 0-2.91 1.455 1.455 0 0 0 0 2.91Z"/><path fill="#1A7FD4" d="M18.11 7.347a1.454 1.454 0 1 0 0-2.91 1.454 1.454 0 0 0 0 2.91Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
+<path stroke="#888" stroke-dasharray="1.09 1.09" stroke-width=".291" d="M19.128 8.37a8 8 0 0 1-2.597 10.225 7.996 7.996 0 0 1-10.475-1.242 8 8 0 0 1 10.3-12.062"/>
+<path fill="#1A7FD4" d="M12 18.401a6.4 6.4 0 1 0 0-12.8 6.4 6.4 0 0 0 0 12.8"/>
+<path fill="#fff" d="M14.618 10.838a1.455 1.455 0 1 0 0-2.91 1.455 1.455 0 0 0 0 2.91"/>
+<path fill="#1A7FD4" d="M18.11 7.347a1.454 1.454 0 1 0 0-2.91 1.454 1.454 0 0 0 0 2.91"/>
+<defs>
+<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F4F4F4"/>
+<stop offset="1" stop-color="#DDD"/>
+</linearGradient>
+</defs>
+</svg>

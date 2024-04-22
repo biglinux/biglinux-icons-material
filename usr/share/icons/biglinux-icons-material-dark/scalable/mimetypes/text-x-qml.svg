@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#fff" fill-rule="evenodd" d="M5.467 7A.466.466 0 0 0 5 7.467V16.8c0 .258.208.467.467.467h13.066A.466.466 0 0 0 19 16.8V7.467A.466.466 0 0 0 18.533 7H5.467Zm9.333.467a.467.467 0 1 1 0 .933.467.467 0 0 1 0-.933Zm1.4 0a.467.467 0 1 1 0 .933.467.467 0 0 1 0-.933Zm1.4 0a.467.467 0 1 1 0 .933.467.467 0 0 1 0-.933Zm-12.133 1.4h2.8V16.8h-2.8V8.867Zm3.266 0h9.8V16.8h-9.8V8.867Z" clip-rule="evenodd"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#B7E285"/><stop offset="1" stop-color="#82BE3D"/></radialGradient></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
+<path fill="#fff" fill-rule="evenodd" d="M5.467 7A.466.466 0 0 0 5 7.467V16.8c0 .258.208.467.467.467h13.066A.466.466 0 0 0 19 16.8V7.467A.466.466 0 0 0 18.533 7zm9.333.467a.467.467 0 1 1 0 .933.467.467 0 0 1 0-.933m1.4 0a.467.467 0 1 1 0 .933.467.467 0 0 1 0-.933m1.4 0a.467.467 0 1 1 0 .933.467.467 0 0 1 0-.933m-12.133 1.4h2.8V16.8h-2.8zm3.266 0h9.8V16.8h-9.8z" clip-rule="evenodd"/>
+<defs>
+<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B7E285"/>
+<stop offset="1" stop-color="#82BE3D"/>
+</linearGradient>
+</defs>
+</svg>

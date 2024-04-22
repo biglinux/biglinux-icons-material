@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#fff" d="M6.005 11.534 6 6.982l5.105-.76v5.31h-5.1Zm5.952-5.447L18.76 5v6.533h-6.803V6.087Zm6.805 6.38L18.76 19l-6.803-1.05v-5.483h6.805Zm-7.656 5.365-5.1-.767v-4.6h5.098v5.366l.002.001Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#6EBBF7"/><stop offset="1" stop-color="#1E87DB"/></radialGradient></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
+<path fill="#fff" d="M6.005 11.534 6 6.982l5.105-.76v5.31h-5.1Zm5.952-5.447L18.76 5v6.533h-6.803zm6.805 6.38L18.76 19l-6.803-1.05v-5.483zm-7.656 5.365-5.1-.767v-4.6h5.098v5.366z"/>
+<defs>
+<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6EBBF7"/>
+<stop offset="1" stop-color="#1E87DB"/>
+</linearGradient>
+</defs>
+</svg>

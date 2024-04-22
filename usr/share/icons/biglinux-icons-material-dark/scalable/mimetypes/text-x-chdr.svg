@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><rect width="22" height="22" x="1" y="1" fill="url(#a)" rx="6.6"/><path fill="#DA1636" d="M6 4v16h3.54c.013-2.085-.028-4.171.025-6.255.087-.98.157-2.227 1.35-2.763.656-.295 1.535-.367 2.258-.183 1.06.269 1.238 1.337 1.283 2.107.017 2.364.003 4.73.007 7.094h3.527c-.008-2.657.026-5.343 0-8-.037-1.335-.736-2.798-2.369-3.407-1.396-.52-3.048-.365-4.464.055-.669.198-1.591 1.163-1.591 1.163L9.54 4H6Z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(116.565 8.441 5.908) scale(24.5967)" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F4F4"/><stop offset="1" stop-color="#BBB"/></radialGradient></defs></svg>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity="0.9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
+ <text id="labelText" x="12" y="18" text-anchor="middle" alignment-baseline="middle" style="font-size:15px;font-family:Sans;letter-spacing:0.5px;text-anchor:middle;fill:#DA1636"><tspan>h</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop  style="stop-color:#DA1636" offset="0.2"/>
+   <stop  style="stop-color:#fff" offset="0.205"/>
+   <stop  style="stop-color:#dadada" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
