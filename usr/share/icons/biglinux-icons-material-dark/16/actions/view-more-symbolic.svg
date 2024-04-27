@@ -1,7 +1,8 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<g fill="#dedede" color="#000" transform="matrix(0 -1 -1 0 -413 -83.997)">
-<rect width="2" height="2" x="-92.997" y="-418" overflow="visible" rx="1" ry="1" style="marker:none"/>
-<rect width="2" height="2" x="-92.997" y="-422" overflow="visible" rx="1" ry="1" style="marker:none"/>
-<rect width="2" height="2" x="-92.997" y="-426" overflow="visible" rx="1" ry="1" style="marker:none"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" transform="matrix(0 -1 -1 0 -413 -83.997)" class="ColorScheme-Contrast" style="fill:currentColor">
+<rect width="2" height="2" x="-92.997" y="-418" overflow="visible" rx="1" ry="1" style="marker:none;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<rect width="2" height="2" x="-92.997" y="-422" overflow="visible" rx="1" ry="1" style="marker:none;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<rect width="2" height="2" x="-92.997" y="-426" overflow="visible" rx="1" ry="1" style="marker:none;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
 </g>
 </svg>

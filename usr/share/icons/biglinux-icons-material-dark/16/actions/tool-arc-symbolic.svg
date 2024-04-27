@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<path fill="#dedede" fill-rule="evenodd" d="M8 7a7 7 0 0 0-7 7h1a6 6 0 0 1 6-6zm0 1a7 7 0 0 0 7-7h-1a6 6 0 0 1-6 6z"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" fill-rule="evenodd" d="M8 7a7 7 0 0 0-7 7h1a6 6 0 0 1 6-6zm0 1a7 7 0 0 0 7-7h-1a6 6 0 0 1-6 6z" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

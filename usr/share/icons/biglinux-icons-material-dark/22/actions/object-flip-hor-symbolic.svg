@@ -1,10 +1,8 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
-</style>
-<path d="M10.263-4.95h6v1h-6z" class="ColorScheme-Contrast" style="fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="rotate(45)"/>
-<path d="M-1.05-16.263h6v1h-6z" style="fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="scale(1 -1)rotate(45)"/>
-<path d="M-1.05 6.364h6v1h-6z" style="fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="scale(-1 1)rotate(45)"/>
-<path d="M-12.364-4.95h6v1h-6z" style="fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="rotate(-135)"/>
-<path d="M2 7.5h12v1H2z" style="fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M10.263-4.95h6v1h-6z" class="ColorScheme-Contrast" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="rotate(45)" fill="currentColor"/>
+<path d="M-1.05-16.263h6v1h-6z" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="scale(1 -1)rotate(45)" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M-1.05 6.364h6v1h-6z" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="scale(-1 1)rotate(45)" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M-12.364-4.95h6v1h-6z" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="rotate(-135)" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M2 7.5h12v1H2z" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
 </svg>

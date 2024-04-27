@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<g fill="#dedede">
-<rect width="10" height="1" x="-4.874" y="6.187" rx="0" ry="0" transform="rotate(-45)"/>
-<rect width="10" height="1" x="-16.187" y="-5.126" rx="0" ry="0" transform="scale(-1 1)rotate(-45)"/>
-<path d="m1.994 7 .01.096c-.018-.186-.023-.168.002.049l.676 5.968c.08.705.311 1.372.744 1.92.432.548 1.131.967 1.918.967h5.312c.786 0 1.486-.419 1.918-.967.433-.548.665-1.215.744-1.92l.676-5.97c.024-.214.02-.232.002-.05L14.004 7H13v.031L12.324 13c-.124 1.101-.744 2-1.668 2H5.344c-.924 0-1.543-.899-1.668-2L3 7.031v-.03z" color="#000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-<path d="M7.95 7A3 3 0 0 0 5 10a3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm.001 1H8a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 1.951-2"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Contrast" style="fill:currentColor">
+<rect width="10" height="1" x="-4.874" y="6.187" rx="0" ry="0" transform="rotate(-45)" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
+<rect width="10" height="1" x="-16.187" y="-5.126" rx="0" ry="0" transform="scale(-1 1)rotate(-45)" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
+<path d="m1.994 7 .01.096c-.018-.186-.023-.168.002.049l.676 5.968c.08.705.311 1.372.744 1.92.432.548 1.131.967 1.918.967h5.312c.786 0 1.486-.419 1.918-.967.433-.548.665-1.215.744-1.92l.676-5.97c.024-.214.02-.232.002-.05L14.004 7H13v.031L12.324 13c-.124 1.101-.744 2-1.668 2H5.344c-.924 0-1.543-.899-1.668-2L3 7.031v-.03z" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M7.95 7A3 3 0 0 0 5 10a3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm.001 1H8a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 1.951-2" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
 </g>
 </svg>

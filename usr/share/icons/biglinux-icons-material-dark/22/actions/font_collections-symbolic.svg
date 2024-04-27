@@ -1,7 +1,8 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<g fill="#dedede">
-<path fill-rule="evenodd" d="m1 5 1 7h3.82l1.838-6.482 2.727.052 1.85 6.43H14l1-7z" opacity=".35" style="paint-order:stroke fill markers"/>
-<path d="M2.008 0c-.517 0-1 .518-1 1v3c-.554 0-1.079.452-1 1l1 7c.078.548.446 1 1 1h3.86l.26-1H2L1 5h14l-1 7h-2.127l.262 1h1.873c.554 0 .921-.452 1-1l1-7c.078-.548-.446-1-1-1V3c0-.486-.433-1-1-1h-6l-1-1c-.82-.82-1-1-2-1zM2 1h3s.663.014 1.006.42S7.582 3 7.582 3h6.426v1H2z"/>
-<path fill-rule="evenodd" d="m7.232 5-.199.742L4.287 16h3.104l.537-2h2.144l.537 2h3.104L10.768 5zM8 6h2l2.41 9h-1.033l-.537-2H7.16l-.537 2H5.59zm.768 1-1.34 5h3.144l-1.34-5zM9 10l.268 1h-.536z" color="#000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Contrast" style="fill:currentColor">
+<path fill-rule="evenodd" d="m1 5 1 7h3.82l1.838-6.482 2.727.052 1.85 6.43H14l1-7z" opacity=".35" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M2.008 0c-.517 0-1 .518-1 1v3c-.554 0-1.079.452-1 1l1 7c.078.548.446 1 1 1h3.86l.26-1H2L1 5h14l-1 7h-2.127l.262 1h1.873c.554 0 .921-.452 1-1l1-7c.078-.548-.446-1-1-1V3c0-.486-.433-1-1-1h-6l-1-1c-.82-.82-1-1-2-1zM2 1h3s.663.014 1.006.42S7.582 3 7.582 3h6.426v1H2z" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
+<path fill-rule="evenodd" d="m7.232 5-.199.742L4.287 16h3.104l.537-2h2.144l.537 2h3.104L10.768 5zM8 6h2l2.41 9h-1.033l-.537-2H7.16l-.537 2H5.59zm.768 1-1.34 5h3.144l-1.34-5zM9 10l.268 1h-.536z" style="-inkscape-stroke:none;paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
 </g>
 </svg>

@@ -1,6 +1,4 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-<path d="M5 4 2.008 7.01H2v.008L1 8.024 5 12V8.963c1.998-.013 4.001.004 6 .02V12l4-3.976-1-1.006V7h-.018L11 4v2.994c-2-.005-4-.009-6-.002z" class="ColorScheme-Text" style="fill:currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M5 4 2.008 7.01H2v.008L1 8.024 5 12V8.963c1.998-.013 4.001.004 6 .02V12l4-3.976-1-1.006V7h-.018L11 4v2.994c-2-.005-4-.009-6-.002z" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
 </svg>

@@ -1,11 +1,9 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-<g fill="currentColor" class="ColorScheme-Text">
-<path d="M1 2h1v12H1z"/>
-<path d="M6.293 6 1 11.293V12h.707L7 6.707V6z"/>
-<path d="M3.707 10 7 13.293V14h-.707L3 10.707V10zM9 6h1v8H9z"/>
-<path d="M15 6a6 6 0 0 0-6 6h1a5 5 0 0 1 5-5z"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Contrast" style="fill:currentColor">
+<path d="M1 2h1v12H1z" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
+<path d="M6.293 6 1 11.293V12h.707L7 6.707V6z" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
+<path d="M3.707 10 7 13.293V14h-.707L3 10.707V10zM9 6h1v8H9z" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
+<path d="M15 6a6 6 0 0 0-6 6h1a5 5 0 0 1 5-5z" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
 </g>
 </svg>

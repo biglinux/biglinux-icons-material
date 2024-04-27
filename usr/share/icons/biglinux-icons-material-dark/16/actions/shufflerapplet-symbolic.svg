@@ -1,6 +1,7 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<path fill="#dedede" d="M2 8c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h5c.554 0 1-.446 1-1V9c0-.554-.446-1-1-1zm0 1h5v5H2z"/>
-<rect width="7" height="7" x="1" fill="#dedede" rx="1" ry="1"/>
-<rect width="7" height="7" x="9" y="8" fill="#dedede" rx="1" ry="1"/>
-<path fill="#dedede" d="M10 0c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h5c.554 0 1-.446 1-1V1c0-.554-.446-1-1-1zm0 1h5v5h-5z"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" d="M2 8c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h5c.554 0 1-.446 1-1V9c0-.554-.446-1-1-1zm0 1h5v5H2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<rect width="7" height="7" x="1" fill="currentColor" rx="1" ry="1" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<rect width="7" height="7" x="9" y="8" fill="currentColor" rx="1" ry="1" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M10 0c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h5c.554 0 1-.446 1-1V1c0-.554-.446-1-1-1zm0 1h5v5h-5z" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

@@ -1,13 +1,4 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 22 22">
-<defs id="defs3051">
-<linearGradient id="linearGradient4469">
-<stop id="stop4471" offset="0" style="stop-color:currentColor;stop-opacity:.8"/>
-<stop id="stop4473" offset="1" style="stop-color:currentColor;stop-opacity:0"/>
-</linearGradient>
-<linearGradient xlink:href="#linearGradient4469" id="linearGradient5093" x1="555.571" x2="555.571" y1="745.934" y2="761.934" gradientUnits="userSpaceOnUse"/>
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-</defs>
-<path d="M547.571 745.934h16v16h-16z" class="ColorScheme-Text" style="opacity:1;fill:url(#linearGradient5093);fill-opacity:1;stroke:none" transform="translate(-544.571 -742.934)"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M547.571 745.934h16v16h-16z" class="ColorScheme-Contrast" style="opacity:1;fill-opacity:1;stroke:none;fill:currentColor" transform="translate(-544.571 -742.934)" fill="currentColor"/>
 </svg>

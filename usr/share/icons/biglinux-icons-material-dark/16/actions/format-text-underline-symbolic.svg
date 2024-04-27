@@ -1,4 +1,5 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<path fill="#dedede" d="M2 14v1h12v-1z" color="#000" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none"/>
-<path fill="#dedede" d="M4 2v1h6c1.108 0 2 .892 2 2v1H6C4.338 6 3 7.338 3 9s1.338 3 3 3h7V5c0-1.662-1.338-3-3-3zm2 5h6v4H6c-1.108 0-2-.892-2-2s.892-2 2-2"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" d="M2 14v1h12v-1z" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M4 2v1h6c1.108 0 2 .892 2 2v1H6C4.338 6 3 7.338 3 9s1.338 3 3 3h7V5c0-1.662-1.338-3-3-3zm2 5h6v4H6c-1.108 0-2-.892-2-2s.892-2 2-2" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

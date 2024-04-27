@@ -1,11 +1,9 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" id="svg15" version="1.1" viewBox="0 0 22 22">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-<path id="path3" fill="currentColor" d="M5.5 4A2.5 2.5 0 0 0 3 6.5 2.5 2.5 0 0 0 5.5 9 2.5 2.5 0 0 0 8 6.5 2.5 2.5 0 0 0 5.5 4m0 1A1.5 1.5 0 0 1 7 6.5 1.5 1.5 0 0 1 5.5 8 1.5 1.5 0 0 1 4 6.5 1.5 1.5 0 0 1 5.5 5" class="ColorScheme-Text"/>
-<path id="path5" fill="currentColor" d="M5 8v6a2 2 0 0 0 1.951 2H11v-1H7a1 1 0 0 1-1-1V8z" class="ColorScheme-Text"/>
-<path id="path7" fill="currentColor" d="m8.5 11.793-.707.707.353.354 2.647 2.646-2.647 2.646-.353.354.707.707.354-.353 3.353-3.354-3.353-3.354z" class="ColorScheme-Text"/>
-<path id="path9" fill="currentColor" d="M15.5 18a2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5 2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5m0-1a1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5" class="ColorScheme-Text"/>
-<path id="path11" fill="currentColor" d="M16 14V8a2 2 0 0 0-1.951-2H10v1h4a1 1 0 0 1 1 1v6z" class="ColorScheme-Text"/>
-<path id="path13" fill="currentColor" d="m12.5 2.793-.354.353L8.793 6.5l3.353 3.354.354.353.707-.707-.353-.354L10.207 6.5l2.647-2.646.353-.354z" class="ColorScheme-Text"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path id="path3" fill="currentColor" d="M5.5 4A2.5 2.5 0 0 0 3 6.5 2.5 2.5 0 0 0 5.5 9 2.5 2.5 0 0 0 8 6.5 2.5 2.5 0 0 0 5.5 4m0 1A1.5 1.5 0 0 1 7 6.5 1.5 1.5 0 0 1 5.5 8 1.5 1.5 0 0 1 4 6.5 1.5 1.5 0 0 1 5.5 5" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path id="path5" fill="currentColor" d="M5 8v6a2 2 0 0 0 1.951 2H11v-1H7a1 1 0 0 1-1-1V8z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path id="path7" fill="currentColor" d="m8.5 11.793-.707.707.353.354 2.647 2.646-2.647 2.646-.353.354.707.707.354-.353 3.353-3.354-3.353-3.354z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path id="path9" fill="currentColor" d="M15.5 18a2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5 2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5m0-1a1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path id="path11" fill="currentColor" d="M16 14V8a2 2 0 0 0-1.951-2H10v1h4a1 1 0 0 1 1 1v6z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path id="path13" fill="currentColor" d="m12.5 2.793-.354.353L8.793 6.5l3.353 3.354.354.353.707-.707-.353-.354L10.207 6.5l2.647-2.646.353-.354z" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

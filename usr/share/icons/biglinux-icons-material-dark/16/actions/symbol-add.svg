@@ -1,5 +1,6 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16.128" height="16">
-<path fill="#3daee9" fill-rule="evenodd" d="M12.495 9.197a4.367 4.443 0 0 1-4.367 4.443 4.367 4.443 0 0 1-4.367-4.443 4.367 4.443 0 0 1 4.367-4.444 4.367 4.443 0 0 1 4.367 4.444" color="#000" opacity=".35" style="-inkscape-stroke:none"/>
-<path fill="#dedede" fill-rule="evenodd" d="M8.127 4.254c-2.687 0-4.865 2.224-4.865 4.943 0 2.72 2.178 4.942 4.865 4.942s4.867-2.222 4.867-4.942-2.18-4.943-4.867-4.943m0 1c2.137 0 3.867 1.755 3.867 3.943s-1.73 3.942-3.867 3.942-3.865-1.753-3.865-3.942S5.99 5.254 8.127 5.254" color="#000" style="-inkscape-stroke:none"/>
-<path fill="#dedede" fill-rule="evenodd" d="M0 10.504V8.381h7.628V3h-2l2.874-3 2.874 3h-2v7.504z"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" fill-rule="evenodd" d="M12.495 9.197a4.367 4.443 0 0 1-4.367 4.443 4.367 4.443 0 0 1-4.367-4.443 4.367 4.443 0 0 1 4.367-4.444 4.367 4.443 0 0 1 4.367 4.444" opacity=".35" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" fill-rule="evenodd" d="M8.127 4.254c-2.687 0-4.865 2.224-4.865 4.943 0 2.72 2.178 4.942 4.865 4.942s4.867-2.222 4.867-4.942-2.18-4.943-4.867-4.943m0 1c2.137 0 3.867 1.755 3.867 3.943s-1.73 3.942-3.867 3.942-3.865-1.753-3.865-3.942S5.99 5.254 8.127 5.254" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" fill-rule="evenodd" d="M0 10.504V8.381h7.628V3h-2l2.874-3 2.874 3h-2v7.504z" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

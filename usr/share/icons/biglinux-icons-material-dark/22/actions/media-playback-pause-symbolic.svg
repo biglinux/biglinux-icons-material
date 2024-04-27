@@ -1,4 +1,5 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<rect width="2" height="10" x="4" y="3" fill="currentColor" rx="1" ry="1"/>
-<rect width="2" height="10" x="10" y="3" fill="currentColor" rx="1" ry="1"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><rect width="2" height="10" x="4" y="3" fill="currentColor" rx="1" ry="1" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<rect width="2" height="10" x="10" y="3" fill="currentColor" rx="1" ry="1" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

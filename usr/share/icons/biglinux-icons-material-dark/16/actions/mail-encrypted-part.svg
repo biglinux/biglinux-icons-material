@@ -1,9 +1,5 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<defs>
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-</defs>
-<path d="M12.5 8A3.5 3.5 0 0 0 9 11.5a3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5A3.5 3.5 0 0 0 12.5 8m0 1c.831 0 1.5.669 1.5 1.5v.5c.554 0 1 .446 1 1v1c0 .554-.446 1-1 1h-3c-.554 0-1-.446-1-1v-1c0-.554.446-1 1-1v-.5c0-.831.669-1.5 1.5-1.5m0 1c-.277 0-.5.223-.5.5v.5h1v-.5c0-.277-.223-.5-.5-.5" class="ColorScheme-Text" style="fill:currentColor"/>
-<path d="M2 2C.892 2 0 2.892 0 4v8c0 1.108.892 2 2 2h6.762a4.5 4.5 0 0 1-.498-1H2a.98.98 0 0 1-.963-.816l4.461-3.551 1.17.931c.433.346 1.033.48 1.601.416a4.5 4.5 0 0 1 1.088-1.7l-.818.652a.89.89 0 0 1-1.078 0L1.037 3.816A.98.98 0 0 1 2 3h12c.489 0 .874.354.963.816l-4.89 3.895A4.5 4.5 0 0 1 12.5 7l.047.002L15 5.049v2.71a4.5 4.5 0 0 1 1 .915V4c0-1.108-.892-2-2-2zM1 5.049 4.705 8 1 10.951zM20 8a1.5 1.5 0 0 0-1.5 1.5V11h-1v3h5v-3h-1V9.5A1.5 1.5 0 0 0 20 8m0 1a.5.5 0 0 1 .5.5V11h-1V9.5A.5.5 0 0 1 20 9m-1.5 3h3v1h-3z" class="ColorScheme-Text" style="fill:currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M12.5 8A3.5 3.5 0 0 0 9 11.5a3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5A3.5 3.5 0 0 0 12.5 8m0 1c.831 0 1.5.669 1.5 1.5v.5c.554 0 1 .446 1 1v1c0 .554-.446 1-1 1h-3c-.554 0-1-.446-1-1v-1c0-.554.446-1 1-1v-.5c0-.831.669-1.5 1.5-1.5m0 1c-.277 0-.5.223-.5.5v.5h1v-.5c0-.277-.223-.5-.5-.5" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
+<path d="M2 2C.892 2 0 2.892 0 4v8c0 1.108.892 2 2 2h6.762a4.5 4.5 0 0 1-.498-1H2a.98.98 0 0 1-.963-.816l4.461-3.551 1.17.931c.433.346 1.033.48 1.601.416a4.5 4.5 0 0 1 1.088-1.7l-.818.652a.89.89 0 0 1-1.078 0L1.037 3.816A.98.98 0 0 1 2 3h12c.489 0 .874.354.963.816l-4.89 3.895A4.5 4.5 0 0 1 12.5 7l.047.002L15 5.049v2.71a4.5 4.5 0 0 1 1 .915V4c0-1.108-.892-2-2-2zM1 5.049 4.705 8 1 10.951zM20 8a1.5 1.5 0 0 0-1.5 1.5V11h-1v3h5v-3h-1V9.5A1.5 1.5 0 0 0 20 8m0 1a.5.5 0 0 1 .5.5V11h-1V9.5A.5.5 0 0 1 20 9m-1.5 3h3v1h-3z" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
 </svg>

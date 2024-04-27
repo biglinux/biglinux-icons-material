@@ -1,21 +1,22 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<path fill="none" d="M0 0h16v16H0z"/>
-<path fill="#dedede" d="M1.5 1.5h3v3h-3z" color="#000" opacity=".35" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M1 1v4h4V1zm1 1h2v2H2z" color="#000" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M6.5 1.5h3v3h-3z" color="#000" opacity=".35" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M6 1v4h4V1zm1 1h2v2H7z" color="#000" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M11.5 1.5h3v3h-3z" color="#000" opacity=".35" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M11 1v4h4V1zm1 1h2v2h-2z" color="#000" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M1.5 6.5h3v3h-3z" color="#000" opacity=".35" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M1 6v4h4V6zm1 1h2v2H2z" color="#000" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M6.5 6.5h3v3h-3z" color="#000" opacity=".35" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M6 6v4h4V6zm1 1h2v2H7z" color="#000" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M11.5 6.5h3v3h-3z" color="#000" opacity=".35" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M11 6v4h4V6zm1 1h2v2h-2z" color="#000" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M1.5 11.5h3v3h-3z" color="#000" opacity=".35" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M1 11v4h4v-4zm1 1h2v2H2z" color="#000" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M6.5 11.5h3v3h-3z" color="#000" opacity=".35" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M6 11v4h4v-4zm1 1h2v2H7z" color="#000" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M11.5 11.5h3v3h-3z" color="#000" opacity=".35" style="-inkscape-stroke:none"/>
-<path fill="#dedede" d="M11 11v4h4v-4zm1 1h2v2h-2z" color="#000" style="-inkscape-stroke:none"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" d="M0 0h16v16H0z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M1.5 1.5h3v3h-3z" opacity=".35" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M1 1v4h4V1zm1 1h2v2H2z" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M6.5 1.5h3v3h-3z" opacity=".35" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M6 1v4h4V1zm1 1h2v2H7z" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M11.5 1.5h3v3h-3z" opacity=".35" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M11 1v4h4V1zm1 1h2v2h-2z" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M1.5 6.5h3v3h-3z" opacity=".35" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M1 6v4h4V6zm1 1h2v2H2z" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M6.5 6.5h3v3h-3z" opacity=".35" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M6 6v4h4V6zm1 1h2v2H7z" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M11.5 6.5h3v3h-3z" opacity=".35" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M11 6v4h4V6zm1 1h2v2h-2z" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M1.5 11.5h3v3h-3z" opacity=".35" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M1 11v4h4v-4zm1 1h2v2H2z" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M6.5 11.5h3v3h-3z" opacity=".35" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M6 11v4h4v-4zm1 1h2v2H7z" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M11.5 11.5h3v3h-3z" opacity=".35" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M11 11v4h4v-4zm1 1h2v2h-2z" style="-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast"/>
 </svg>

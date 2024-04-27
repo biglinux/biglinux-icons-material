@@ -3,5 +3,5 @@
 .ColorScheme-Contrast{color:#dedede}
 </style>
 <path d="M1.707 1 1 1.707l5.586 5.586.707-.707zm7.707 7.707-.707.707L13.293 14H10v1h5v-5h-1v3.293z" class="ColorScheme-Contrast" style="fill:currentColor"/>
-<path fill="currentColor" d="M1 14.293 13.293 2H10V1h5v5h-1V2.707L1.707 15z"/>
+<path fill="currentColor" d="M1 14.293 13.293 2H10V1h5v5h-1V2.707L1.707 15z" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

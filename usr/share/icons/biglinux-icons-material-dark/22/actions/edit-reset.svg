@@ -1,7 +1,5 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" id="svg6" version="1.1" viewBox="0 0 22 22">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-<path id="path4" fill="currentColor" d="M9.3 3 5.8 6.5 9.3 10l.708-.707L7.715 7H11.5c3.047 0 5.5 2.453 5.5 5.5S14.547 18 11.5 18H10v1h1.5c3.601 0 6.5-2.899 6.5-6.5S15.101 6 11.5 6H7.715l2.293-2.293z" class="ColorScheme-Text"/>
-<path id="rect837" fill="currentColor" fill-rule="evenodd" d="M4 3h1v7H4z" class="ColorScheme-Text"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path id="path4" fill="currentColor" d="M9.3 3 5.8 6.5 9.3 10l.708-.707L7.715 7H11.5c3.047 0 5.5 2.453 5.5 5.5S14.547 18 11.5 18H10v1h1.5c3.601 0 6.5-2.899 6.5-6.5S15.101 6 11.5 6H7.715l2.293-2.293z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path id="rect837" fill="currentColor" fill-rule="evenodd" d="M4 3h1v7H4z" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

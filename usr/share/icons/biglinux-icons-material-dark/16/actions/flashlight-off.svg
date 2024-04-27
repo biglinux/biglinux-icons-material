@@ -1,7 +1,5 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 4.233 4.233">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}.ColorScheme-NegativeText{color:#da4453}
-</style>
-<path d="m7.027 5 2.004 2H10v.969l1 .998V7a2 2 0 0 1 1.73-1H14v4h-1.27c-.333 0-.652-.09-.937-.242L13.037 11H15V5h-2.27a3 3 0 0 0-2.23 1H9V5zM1 6v4h6.982l-1-1H2V7h2.982l-1-1z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none" transform="scale(.26458)"/>
-<path d="m.53 293.483.186-.187 2.988 2.98-.187.195z" class="ColorScheme-NegativeText" style="fill:currentColor;fill-opacity:1;stroke:none" transform="translate(0 -292.767)"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="m7.027 5 2.004 2H10v.969l1 .998V7a2 2 0 0 1 1.73-1H14v4h-1.27c-.333 0-.652-.09-.937-.242L13.037 11H15V5h-2.27a3 3 0 0 0-2.23 1H9V5zM1 6v4h6.982l-1-1H2V7h2.982l-1-1z" class="ColorScheme-Contrast" style="fill-opacity:1;stroke:none;fill:currentColor" transform="scale(.26458)" fill="currentColor"/>
+<path d="m.53 293.483.186-.187 2.988 2.98-.187.195z" class="ColorScheme-Contrast" style="fill-opacity:1;stroke:none;fill:currentColor" transform="translate(0 -292.767)" fill="currentColor"/>
 </svg>

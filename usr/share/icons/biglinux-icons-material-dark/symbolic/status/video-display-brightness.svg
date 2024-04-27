@@ -1,13 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg" width="32" height="32" version="1.1">
 <defs id="defs81">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#7b7c7e}.ColorScheme-Background{color:#eff0f1}
+.ColorScheme-Contrast{color:#bebebe}.ColorScheme-Background{color:#eff0f1}
 </style>
 </defs>
 <g id="video-display-brightness" style="display:inline" transform="translate(0 32.39)">
 <path id="path4001-3" d="M19.79-20.188a3.964 3.964 0 1 1-7.539 2.45 3.964 3.964 0 1 1 7.54-2.45" class="ColorScheme-Background" style="fill:currentColor;fill-opacity:.5"/>
 <path id="path6938-4-8-9-6-9" d="M16-21.966a2.98 2.98 0 0 1 2.977 2.983A2.98 2.98 0 0 1 16-16v-2.983zm-1.92-2.997.223 2.052a4.3 4.3 0 0 0-1.483 1.075l-1.89-.84 1.384 1.544a4.3 4.3 0 0 0-.581 1.755l-2.015.433 2.027.432q.045.44.186.878c.094.29.21.572.358.828l-1.384 1.544 1.89-.84c.41.46.917.815 1.471 1.063l-.222 2.076 1.05-1.804a4.25 4.25 0 0 0 1.83.012l1.037 1.78-.21-2.052a4.3 4.3 0 0 0 1.459-1.05l1.915.84-1.396-1.557a4.4 4.4 0 0 0 .556-1.718l2.039-.433-2.027-.444c-.03-.3-.088-.604-.185-.903-.098-.3-.23-.578-.383-.84l1.384-1.545-1.903.84a4.3 4.3 0 0 0-1.471-1.05l.222-2.076-1.038 1.804a4.3 4.3 0 0 0-1.804-.012zm1.892 2.373a3.63 3.63 0 0 1 1.161 7.081 3.616 3.616 0 0 1-4.56-2.336 3.61 3.61 0 0 1 2.324-4.56q.537-.176 1.075-.185" class="ColorScheme-Contrast" style="fill:currentColor"/>
-<path id="rect3832-6" fill-opacity="0" d="M0-32.389h32v32H0z"/>
-<path id="rect884" fill="currentColor" d="M5-28.39c-1.662 0-3 1.339-3 3v13c0 1.663 1.338 3 3 3h9v3h-3.5a.499.499 0 1 0 0 1h11a.499.499 0 1 0 0-1H18v-3h9c1.662 0 3-1.337 3-3v-13c0-1.661-1.338-3-3-3zm0 1h22c1.108 0 2 .893 2 2v13c0 1.109-.892 2-2 2H5c-1.108 0-2-.891-2-2v-13c0-1.107.892-2 2-2m10 18h2v3h-2z" class="ColorScheme-Contrast"/>
+<path id="rect884" d="M5-28.39c-1.662 0-3 1.339-3 3v13c0 1.663 1.338 3 3 3h9v3h-3.5a.499.499 0 1 0 0 1h11a.499.499 0 1 0 0-1H18v-3h9c1.662 0 3-1.337 3-3v-13c0-1.661-1.338-3-3-3zm0 1h22c1.108 0 2 .893 2 2v13c0 1.109-.892 2-2 2H5c-1.108 0-2-.891-2-2v-13c0-1.107.892-2 2-2m10 18h2v3h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </g>
 </svg>

@@ -1,6 +1,7 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<path fill="#dedede" d="M8 2c-.554 0-1 .446-1 1v3.127A4 4 0 0 1 9.873 9H13c.554 0 1-.446 1-1V3c0-.554-.446-1-1-1z" opacity=".403" style="paint-order:stroke fill markers"/>
-<path fill="#dedede" d="M7 6.127V8c0 .554.446 1 1 1h1.873A4 4 0 0 0 7 6.127" opacity=".801" style="paint-order:stroke fill markers"/>
-<path fill="#dedede" d="M7.5 0A2.506 2.506 0 0 0 5 2.5v1.584C2.167 4.562 0 7.034 0 10c0 3.308 2.692 6 6 6 2.967 0 5.438-2.167 5.916-5H13.5c1.376 0 2.5-1.124 2.5-2.5v-6C16 1.124 14.876 0 13.5 0zm0 1h6c.84 0 1.5.66 1.5 1.5v6c0 .84-.66 1.5-1.5 1.5H11a5 5 0 0 1-.113 1h.013A4.99 4.99 0 0 1 6 15c-2.767 0-5-2.233-5-5a4.99 4.99 0 0 1 4-4.9v.013A5 5 0 0 1 6 5V2.5C6 1.66 6.66 1 7.5 1" color="#000" style="-inkscape-stroke:none;paint-order:stroke fill markers"/>
-<path fill="#dedede" d="M6 6a4 4 0 1 0 4 4H8c-1.1 0-2-.9-2-2z" style="paint-order:stroke fill markers"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" d="M8 2c-.554 0-1 .446-1 1v3.127A4 4 0 0 1 9.873 9H13c.554 0 1-.446 1-1V3c0-.554-.446-1-1-1z" opacity=".403" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M7 6.127V8c0 .554.446 1 1 1h1.873A4 4 0 0 0 7 6.127" opacity=".801" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M7.5 0A2.506 2.506 0 0 0 5 2.5v1.584C2.167 4.562 0 7.034 0 10c0 3.308 2.692 6 6 6 2.967 0 5.438-2.167 5.916-5H13.5c1.376 0 2.5-1.124 2.5-2.5v-6C16 1.124 14.876 0 13.5 0zm0 1h6c.84 0 1.5.66 1.5 1.5v6c0 .84-.66 1.5-1.5 1.5H11a5 5 0 0 1-.113 1h.013A4.99 4.99 0 0 1 6 15c-2.767 0-5-2.233-5-5a4.99 4.99 0 0 1 4-4.9v.013A5 5 0 0 1 6 5V2.5C6 1.66 6.66 1 7.5 1" style="-inkscape-stroke:none;paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M6 6a4 4 0 1 0 4 4H8c-1.1 0-2-.9-2-2z" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast"/>
 </svg>

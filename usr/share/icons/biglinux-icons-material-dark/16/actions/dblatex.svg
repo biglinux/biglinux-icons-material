@@ -1,8 +1,4 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<defs id="defs3051">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-</defs>
-<path d="M8 2a6 2 0 0 0-6 2v8a6 2 0 0 0 6 2 6 2 0 0 0 6-2V4a6 2 0 0 0-6-2m0 1a5 1 0 0 1 5 1 5 1 0 0 1-5 1 5 1 0 0 1-5-1 5 1 0 0 1 5-1M3 5.102A6 2 0 0 0 8 6a6 2 0 0 0 5-.896V8a5 1 0 0 1-5 1 5 1 0 0 1-5-1zm0 4A6 2 0 0 0 8 10a6 2 0 0 0 5-.896V12a5 1 0 0 1-5 1 5 1 0 0 1-5-1z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M8 2a6 2 0 0 0-6 2v8a6 2 0 0 0 6 2 6 2 0 0 0 6-2V4a6 2 0 0 0-6-2m0 1a5 1 0 0 1 5 1 5 1 0 0 1-5 1 5 1 0 0 1-5-1 5 1 0 0 1 5-1M3 5.102A6 2 0 0 0 8 6a6 2 0 0 0 5-.896V8a5 1 0 0 1-5 1 5 1 0 0 1-5-1zm0 4A6 2 0 0 0 8 10a6 2 0 0 0 5-.896V12a5 1 0 0 1-5 1 5 1 0 0 1-5-1z" class="ColorScheme-Contrast" style="fill-opacity:1;stroke:none;fill:currentColor" fill="currentColor"/>
 </svg>

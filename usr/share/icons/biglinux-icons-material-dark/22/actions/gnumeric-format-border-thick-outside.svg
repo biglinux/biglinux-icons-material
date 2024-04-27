@@ -1,12 +1,8 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" id="svg10" version="1.1" viewBox="0 0 22 22">
-<defs id="defs3051">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-</defs>
-<g fill="currentColor">
-<path id="path4" fill="currentColor" fill-opacity=".1" d="M11 2v8H3v1h8v8h1v-8h8v-1h-8V2z" class="ColorScheme-Text"/>
-<path id="path6" fill="currentColor" fill-opacity=".5" d="M4 3v7h7V3zm8 0v7h7V3zm-8 8v7h7v-7zm8 0v7h7v-7z" class="ColorScheme-Text"/>
-<path id="path8" fill="currentColor" d="M3 2v17h17V2H4zm2 2h13v13H5z" class="ColorScheme-Text"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Contrast" style="fill:currentColor">
+<path id="path4" fill="currentColor" fill-opacity=".1" d="M11 2v8H3v1h8v8h1v-8h8v-1h-8V2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path id="path6" fill="currentColor" fill-opacity=".5" d="M4 3v7h7V3zm8 0v7h7V3zm-8 8v7h7v-7zm8 0v7h7v-7z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path id="path8" fill="currentColor" d="M3 2v17h17V2H4zm2 2h13v13H5z" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </g>
 </svg>

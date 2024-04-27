@@ -3,5 +3,5 @@
 .ColorScheme-Contrast{color:#dedede}
 </style>
 <path d="m4.121 2 1 1H13l-2.535 2.535.707.707 3.535-3.535L14 2zm-1.133.281A1.99 1.99 0 0 0 2 4v3.04c.065-.012.123-.04.191-.04H3V4c0-.467.324-.84.756-.951zM14 8.961c-.065.01-.123.039-.191.039H13v1.879l1 1zm-9.172.797-3.535 3.535L2 14h10a1.99 1.99 0 0 0 1.719-.988l-.768-.768a.98.98 0 0 1-.95.756H3l2.534-2.535z" class="ColorScheme-Contrast" style="fill:currentColor"/>
-<rect width="20" height="1" x="1.314" y="-.5" fill="currentColor" ry="0" transform="rotate(45)"/>
+<rect width="20" height="1" x="1.314" y="-.5" fill="currentColor" ry="0" transform="rotate(45)" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

@@ -1,7 +1,5 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<rect width="6" height="12" x="-14" y="2" rx="0" ry="0" style="opacity:.5;fill:#dedede;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000" transform="rotate(-90)"/>
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
-</style>
-<path d="M1 13c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V3c0-1.108-.892-2-2-2H3c-1.108 0-2 .892-2 2Zm1 0V3c0-.554.446-1 1-1h10c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1H3c-.554 0-1-.446-1-1" class="ColorScheme-Contrast" style="fill:#dedede;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-color:#000"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><rect width="6" height="12" x="-14" y="2" rx="0" ry="0" style="opacity:.5;stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-fill:currentColor" transform="rotate(-90)" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M1 13c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V3c0-1.108-.892-2-2-2H3c-1.108 0-2 .892-2 2Zm1 0V3c0-.554.446-1 1-1h10c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1H3c-.554 0-1-.446-1-1" class="ColorScheme-Contrast" style="stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-fill:currentColor" fill="currentColor"/>
 </svg>

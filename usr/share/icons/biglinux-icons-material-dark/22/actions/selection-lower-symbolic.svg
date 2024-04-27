@@ -1,4 +1,5 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<path fill="currentColor" d="M7 3v1h7V3zm2 2v1h5V5zM8 7v1h6V7zm1 2v1h5V9zm-1 4v1h6v-1z" class="ColorScheme-Contrast" color="#dedede" opacity=".35"/>
-<path fill="currentColor" d="M4 2v6.031L2.656 6.594 2 7.28l2.312 2.5.188.22.187-.219L7 7.281l-.656-.687L5 8.03V2zm-2 9v1h12v-1z" class="ColorScheme-Contrast" color="#dedede"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" d="M7 3v1h7V3zm2 2v1h5V5zM8 7v1h6V7zm1 2v1h5V9zm-1 4v1h6v-1z" class="ColorScheme-Contrast" color="#dedede" opacity=".35" style="fill:currentColor"/>
+<path fill="currentColor" d="M4 2v6.031L2.656 6.594 2 7.28l2.312 2.5.188.22.187-.219L7 7.281l-.656-.687L5 8.03V2zm-2 9v1h12v-1z" class="ColorScheme-Contrast" color="#dedede" style="fill:currentColor"/>
 </svg>

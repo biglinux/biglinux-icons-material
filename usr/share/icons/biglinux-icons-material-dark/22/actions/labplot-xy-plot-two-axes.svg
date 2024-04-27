@@ -1,8 +1,4 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-<defs id="defs3051">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-</defs>
-<path d="M4 3v14H3v1h1v1h1v-1h14v-1h-.844l-.187-.187-.844-.813-1.281-1.312-.719-.688L13 16.094l-1.312-1.282-.813-.812-2-2H5v-2h3.875l2-2 .813-.844L13 5.875 15.125 8l2-2 .844-.844L19 4.125v-.219h-.219l-.5-.469L17.25 4.47l-.812.812-1.313 1.313L13 4.469 11.469 6 11 6.469l-.844.812L8.47 9H5V3zm1 10h3.469l1.687 1.688.844.843.469.469 1 1H5zm10.125 2.406 1.313 1.281.294.313h-3.2z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M4 3v14H3v1h1v1h1v-1h14v-1h-.844l-.187-.187-.844-.813-1.281-1.312-.719-.688L13 16.094l-1.312-1.282-.813-.812-2-2H5v-2h3.875l2-2 .813-.844L13 5.875 15.125 8l2-2 .844-.844L19 4.125v-.219h-.219l-.5-.469L17.25 4.47l-.812.812-1.313 1.313L13 4.469 11.469 6 11 6.469l-.844.812L8.47 9H5V3zm1 10h3.469l1.687 1.688.844.843.469.469 1 1H5zm10.125 2.406 1.313 1.281.294.313h-3.2z" class="ColorScheme-Contrast" style="fill-opacity:1;stroke:none;fill:currentColor" fill="currentColor"/>
 </svg>

@@ -1,7 +1,8 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg width="16" height="16" viewBox="-3 -3 22 22">
-<style id="current-color-scheme" type="text/css">
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><style id="current-color-scheme" type="text/css">
 .ColorScheme-Contrast{color:#dedede}
 </style>
 <path d="M3 0a5 5 0 0 0 5 5h3a1 1 0 0 1 .102.006l.035.004q.011 0 .023.004.052.007.102.021l.008.002h.002l.062.022q.029.008.057.02l.007.003.079.04.021.01.022.014.056.038.055.04.006.005.045.04.002.002.047.047.04.045.045.06.038.057.013.022.012.021.04.079.003.007.02.057.021.063v.001l.002.008q.013.05.021.102l.004.023.004.035A1 1 0 0 1 12 6v1h1V6a2 2 0 0 0-2-2H8a4 4 0 0 1-4-4zm2 0a3 3 0 0 0 3 3h3a3 3 0 0 1 3 3v1h1V6a4 4 0 0 0-4-4H8a2 2 0 0 1-2-2zm7 8v4h2c.554 0 1-.446 1-1V9c0-.554-.446-1-1-1h-1zM0 8.012v4h11V11H1V9h10v-.988z" class="ColorScheme-Contrast" opacity=".35" style="fill:currentColor"/>
-<rect width="22" height="1" x=".314" y="-.5" fill="currentColor" rx=".5" ry=".5" style="paint-order:stroke fill markers" transform="rotate(45)"/>
+<rect width="22" height="1" x=".314" y="-.5" class="ColorScheme-Contrast" style="fill:currentColor" rx=".5" ry=".5"  transform="rotate(45)"/>
 </svg>

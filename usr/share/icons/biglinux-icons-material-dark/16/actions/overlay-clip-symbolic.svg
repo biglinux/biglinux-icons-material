@@ -1,6 +1,4 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<style>
-@import &quot;../../highlights.css&quot;;
-</style>
-<path fill="currentColor" stroke-width=".438" d="M10.457 8.986c-.454.207-.602.657-.34 1.014l1.895 2.713-.494.582a1.531 1.531 0 1 0 .506.87l.534-.72.428.586a1.53 1.53 0 0 0 1.47 1.955 1.531 1.531 0 1 0-.929-2.746l-.422-.527L15 10c.262-.357.114-.807-.34-1.014l-2.102 2.983zm.063 4.813a.656.656 0 1 1 0 1.313.656.656 0 0 1 0-1.313m3.937 0a.656.656 0 1 1 0 1.313.656.656 0 0 1 0-1.313"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" stroke-width=".438" d="M10.457 8.986c-.454.207-.602.657-.34 1.014l1.895 2.713-.494.582a1.531 1.531 0 1 0 .506.87l.534-.72.428.586a1.53 1.53 0 0 0 1.47 1.955 1.531 1.531 0 1 0-.929-2.746l-.422-.527L15 10c.262-.357.114-.807-.34-1.014l-2.102 2.983zm.063 4.813a.656.656 0 1 1 0 1.313.656.656 0 0 1 0-1.313m3.937 0a.656.656 0 1 1 0 1.313.656.656 0 0 1 0-1.313" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

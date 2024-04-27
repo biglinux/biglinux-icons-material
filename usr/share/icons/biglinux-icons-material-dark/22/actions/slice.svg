@@ -1,7 +1,5 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-<path d="m12.649 3.28-1.562 2.18.728.52 1.56-2.18zm-2.082 2.907-1.56 2.18.725.52 1.562-2.18zm-2.08 2.906-1.561 2.18.726.52 1.56-2.18zM6.405 12l-1.56 2.178.725.52 1.56-2.178z" class="ColorScheme-Text" style="fill:currentColor"/>
-<path fill="currentColor" d="m12.844 6.04-.075.101-4.45 6.078 4.066 2.298-.871-4.885 3.45-3.393zm-4.78-4.739-.203.403-1.969 3.901-4.857.651 3.554 3.341-.585 4.219 6.12-8.261zm-.009 1.007 1.548 3.198-4.917 6.638.377-2.714-3.038-2.856 4.16-.557z"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="m12.649 3.28-1.562 2.18.728.52 1.56-2.18zm-2.082 2.907-1.56 2.18.725.52 1.562-2.18zm-2.08 2.906-1.561 2.18.726.52 1.56-2.18zM6.405 12l-1.56 2.178.725.52 1.56-2.178z" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
+<path fill="currentColor" d="m12.844 6.04-.075.101-4.45 6.078 4.066 2.298-.871-4.885 3.45-3.393zm-4.78-4.739-.203.403-1.969 3.901-4.857.651 3.554 3.341-.585 4.219 6.12-8.261zm-.009 1.007 1.548 3.198-4.917 6.638.377-2.714-3.038-2.856 4.16-.557z" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

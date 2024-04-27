@@ -1,8 +1,4 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<defs id="defs3051">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-</defs>
-<path d="M3 2v2.555l-.877.39L2 4.891v1.203l.127-.057L3 6.42v3.283l-.734.32-.063-.027L2 9.906v1.326l.264-.115.736.328V14h1v-2.111l2 .888v.684l-1.203.535-.008.004H7.25l.75-.334.75.334h2.46l-.007-.004L10 13.461v-.684l2-.888V14h1v-2.555l.736-.328.264.115V9.906l-.203.09-.063.027-.734-.32V6.42l.873-.383.127.057V4.89l-.123.054-.877-.39V2h-1v2.111l-2-.888v-.684l1.203-.535.008-.004H8.75L8 2.334 7.25 2H4.79l.007.004L6 2.539v.684L4 4.11V2zm5 1.428 1 .443v3.207l-1 .438-1-.438V3.871zm-2 .888v2.325l-2-.875v-.56zm4 0 2 .89v.56l-2 .875zM4 6.857l2 .875v.659l-2 .875zm8 0v2.409l-2-.875v-.659zm-4 1.75 1 .438v3.084l-1 .443-1-.443V9.045zm-2 .875v2.202l-2-.89v-.437zm4 0 2 .875v.438l-2 .889z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M3 2v2.555l-.877.39L2 4.891v1.203l.127-.057L3 6.42v3.283l-.734.32-.063-.027L2 9.906v1.326l.264-.115.736.328V14h1v-2.111l2 .888v.684l-1.203.535-.008.004H7.25l.75-.334.75.334h2.46l-.007-.004L10 13.461v-.684l2-.888V14h1v-2.555l.736-.328.264.115V9.906l-.203.09-.063.027-.734-.32V6.42l.873-.383.127.057V4.89l-.123.054-.877-.39V2h-1v2.111l-2-.888v-.684l1.203-.535.008-.004H8.75L8 2.334 7.25 2H4.79l.007.004L6 2.539v.684L4 4.11V2zm5 1.428 1 .443v3.207l-1 .438-1-.438V3.871zm-2 .888v2.325l-2-.875v-.56zm4 0 2 .89v.56l-2 .875zM4 6.857l2 .875v.659l-2 .875zm8 0v2.409l-2-.875v-.659zm-4 1.75 1 .438v3.084l-1 .443-1-.443V9.045zm-2 .875v2.202l-2-.89v-.437zm4 0 2 .875v.438l-2 .889z" class="ColorScheme-Contrast" style="fill-opacity:1;stroke:none;fill:currentColor" fill="currentColor"/>
 </svg>

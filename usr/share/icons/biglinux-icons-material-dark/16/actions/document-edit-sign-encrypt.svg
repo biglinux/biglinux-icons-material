@@ -1,9 +1,5 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<defs>
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-</defs>
-<path fill="currentColor" d="M11.5 9a1.5 1.5 0 0 0-1.5 1.5V12H9v3h5v-3h-1v-1.5A1.5 1.5 0 0 0 11.5 9m0 1a.5.5 0 0 1 .5.5V12h-1v-1.5a.5.5 0 0 1 .5-.5" class="ColorScheme-Text"/>
-<path fill="currentColor" d="M4 1c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h4v-1H4c-.554 0-1-.446-1-1V3c0-.554.446-1 1-1h4v5h5v1h1V6L9 1H8zm5 1.414L12.586 6H9z" class="ColorScheme-Text"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" d="M11.5 9a1.5 1.5 0 0 0-1.5 1.5V12H9v3h5v-3h-1v-1.5A1.5 1.5 0 0 0 11.5 9m0 1a.5.5 0 0 1 .5.5V12h-1v-1.5a.5.5 0 0 1 .5-.5" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M4 1c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h4v-1H4c-.554 0-1-.446-1-1V3c0-.554.446-1 1-1h4v5h5v1h1V6L9 1H8zm5 1.414L12.586 6H9z" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

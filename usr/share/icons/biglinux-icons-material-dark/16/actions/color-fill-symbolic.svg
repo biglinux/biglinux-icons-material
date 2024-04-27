@@ -1,11 +1,9 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
-</style>
-<path d="m2.07 7.07 4 6.929a1.996 1.996 0 0 0 2.732.732l5.196-3a1.996 1.996 0 0 0 .732-2.732l-4-6.928-.866.5 4 6.928a1 1 0 0 1-.366 1.366l-5.196 3a1 1 0 0 1-1.366-.366l-4-6.928Z" class="ColorScheme-Contrast" style="opacity:1;fill:#dedede;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000"/>
-<path d="M9.5 5A1.5 1.5 0 0 0 8 6.5 1.5 1.5 0 0 0 9.5 8 1.5 1.5 0 0 0 11 6.5 1.5 1.5 0 0 0 9.5 5m0 1a.5.5 0 0 1 .5.5.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .5-.5" style="opacity:1;fill:#dedede;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000"/>
-<rect width="1" height="6" x="9" rx=".5" ry=".5" style="opacity:1;fill:#dedede;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000"/>
-<path d="M3 6c-1.108 0-2 .892-2 2v6h1V8c0-.554.446-1 1-1h2V6z" style="opacity:1;fill:#dedede;stroke-width:2.82843;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000"/>
-<rect width="4" height="1" x="5" y="6" rx="0" ry="0" style="opacity:1;fill:#dedede;stroke-width:1.41421;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000"/>
-<rect width="3" height="1" x="10" y="6" rx="0" ry="0" style="opacity:1;fill:#dedede;stroke-width:1.22474;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="m2.07 7.07 4 6.929a1.996 1.996 0 0 0 2.732.732l5.196-3a1.996 1.996 0 0 0 .732-2.732l-4-6.928-.866.5 4 6.928a1 1 0 0 1-.366 1.366l-5.196 3a1 1 0 0 1-1.366-.366l-4-6.928Z" class="ColorScheme-Contrast" style="opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-fill:currentColor" fill="currentColor"/>
+<path d="M9.5 5A1.5 1.5 0 0 0 8 6.5 1.5 1.5 0 0 0 9.5 8 1.5 1.5 0 0 0 11 6.5 1.5 1.5 0 0 0 9.5 5m0 1a.5.5 0 0 1 .5.5.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .5-.5" style="opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<rect width="1" height="6" x="9" rx=".5" ry=".5" style="opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M3 6c-1.108 0-2 .892-2 2v6h1V8c0-.554.446-1 1-1h2V6z" style="opacity:1;stroke-width:2.82843;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<rect width="4" height="1" x="5" y="6" rx="0" ry="0" style="opacity:1;stroke-width:1.41421;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<rect width="3" height="1" x="10" y="6" rx="0" ry="0" style="opacity:1;stroke-width:1.22474;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
 </svg>

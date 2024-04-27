@@ -1,9 +1,7 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-<g fill="currentColor" stroke-linecap="square" class="ColorScheme-Text">
-<path d="M7 3h1v4H7zm0 7h1v4H7z"/>
-<path d="M7.5 6A2.5 2.5 0 0 0 5 8.5 2.5 2.5 0 0 0 7.5 11 2.5 2.5 0 0 0 10 8.5 2.5 2.5 0 0 0 7.5 6m0 1A1.5 1.5 0 0 1 9 8.5 1.5 1.5 0 0 1 7.5 10 1.5 1.5 0 0 1 6 8.5 1.5 1.5 0 0 1 7.5 7"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" stroke-linecap="square" class="ColorScheme-Contrast" style="fill:currentColor">
+<path d="M7 3h1v4H7zm0 7h1v4H7z" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
+<path d="M7.5 6A2.5 2.5 0 0 0 5 8.5 2.5 2.5 0 0 0 7.5 11 2.5 2.5 0 0 0 10 8.5 2.5 2.5 0 0 0 7.5 6m0 1A1.5 1.5 0 0 1 9 8.5 1.5 1.5 0 0 1 7.5 10 1.5 1.5 0 0 1 6 8.5 1.5 1.5 0 0 1 7.5 7" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
 </g>
 </svg>

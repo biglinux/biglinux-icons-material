@@ -1,9 +1,7 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
-</style>
-<path d="M0 14h3.992v1.004H0zm6 0h4v1H6zm8-8h1v4h-1zm0-6h1v4h-1zm-.293 10.172a1 1 0 0 0-1.414 0l-2.121 2.12a1 1 0 0 0 0 1.415l2.12 2.121a1 1 0 0 0 1.415 0l2.121-2.12a1 1 0 0 0 0-1.415zm-.707.707L15.121 13 13 15.121 10.879 13Z" class="ColorScheme-Contrast" style="fill:#dedede;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
-<path d="M16.885-1.5h3v3h-3z" style="opacity:.35;fill:#dedede;fill-rule:evenodd;stroke-width:.6;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="rotate(45)"/>
-<path d="M9 4h1v6H9z" style="fill:#dedede;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
-<path d="M4 9h6v1H4z" style="fill:#dedede;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M0 14h3.992v1.004H0zm6 0h4v1H6zm8-8h1v4h-1zm0-6h1v4h-1zm-.293 10.172a1 1 0 0 0-1.414 0l-2.121 2.12a1 1 0 0 0 0 1.415l2.12 2.121a1 1 0 0 0 1.415 0l2.121-2.12a1 1 0 0 0 0-1.415zm-.707.707L15.121 13 13 15.121 10.879 13Z" class="ColorScheme-Contrast" style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" fill="currentColor"/>
+<path d="M16.885-1.5h3v3h-3z" style="opacity:.35;fill-rule:evenodd;stroke-width:.6;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="rotate(45)" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M9 4h1v6H9z" style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M4 9h6v1H4z" style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
 </svg>

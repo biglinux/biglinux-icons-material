@@ -1,10 +1,8 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
-</style>
-<path d="M10.887 7A5 5 0 0 1 7 10.887V16h9V7z" class="ColorScheme-Contrast" style="opacity:.65;fill:#dedede;stroke-width:1.28571;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
-<path d="M10.898 5A5 5 0 0 1 11 6a5 5 0 0 1-.125 1.043L10.887 7H16V5zm-.173 2.59-.03.08zM7.67 10.695l-.08.03zm-.627.18A5 5 0 0 1 6 11a5 5 0 0 1-1-.113V16h2v-5.113z" style="opacity:.35;fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
-<path d="M10.58 4a5 5 0 0 1 .318 1H16V4ZM4 10.576V16h1v-5.113a5 5 0 0 1-1-.31ZM6 12h1v1H6zm0 2h1v1H6zm6-8h1v1h-1zm2 0h1v1h-1z" style="fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
-<circle cx="6" cy="6" r="5" style="opacity:.15;fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
-<path d="M6 0a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6m0 1a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5" style="fill:#dedede;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M10.887 7A5 5 0 0 1 7 10.887V16h9V7z" class="ColorScheme-Contrast" style="opacity:.65;stroke-width:1.28571;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" fill="currentColor"/>
+<path d="M10.898 5A5 5 0 0 1 11 6a5 5 0 0 1-.125 1.043L10.887 7H16V5zm-.173 2.59-.03.08zM7.67 10.695l-.08.03zm-.627.18A5 5 0 0 1 6 11a5 5 0 0 1-1-.113V16h2v-5.113z" style="opacity:.35;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M10.58 4a5 5 0 0 1 .318 1H16V4ZM4 10.576V16h1v-5.113a5 5 0 0 1-1-.31ZM6 12h1v1H6zm0 2h1v1H6zm6-8h1v1h-1zm2 0h1v1h-1z" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<circle cx="6" cy="6" r="5" style="opacity:.15;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M6 0a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6m0 1a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5" style="stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
 </svg>

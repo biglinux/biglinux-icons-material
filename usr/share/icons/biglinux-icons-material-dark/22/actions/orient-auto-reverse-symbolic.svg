@@ -1,11 +1,9 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<rect width="5" height="1" x="4" rx="0" ry="0" style="fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000"/>
-<rect width="5" height="1" y="4" rx="0" ry="0" style="fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="matrix(0 1 1 0 0 0)"/>
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
-</style>
-<path d="M3.828-3.328h14v1h-14z" class="ColorScheme-Contrast" style="fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="rotate(45)"/>
-<rect width="5" height="1" x="-16" y="-12" rx="0" ry="0" style="fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="scale(1 -1)rotate(90)"/>
-<rect width="5" height="1" x="-12" y="-16" rx="0" ry="0" style="fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="scale(-1)"/>
-<path d="M-18.799 2.328h14v1h-14z" style="fill:#dedede;stroke-linecap:round;stroke-linejoin:round;stop-color:#000" transform="scale(-1 1)rotate(-45)"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><rect width="5" height="1" x="4" rx="0" ry="0" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<rect width="5" height="1" y="4" rx="0" ry="0" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="matrix(0 1 1 0 0 0)" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M3.828-3.328h14v1h-14z" class="ColorScheme-Contrast" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="rotate(45)" fill="currentColor"/>
+<rect width="5" height="1" x="-16" y="-12" rx="0" ry="0" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="scale(1 -1)rotate(90)" class="ColorScheme-Contrast" fill="currentColor"/>
+<rect width="5" height="1" x="-12" y="-16" rx="0" ry="0" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="scale(-1)" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M-18.799 2.328h14v1h-14z" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="scale(-1 1)rotate(-45)" class="ColorScheme-Contrast" fill="currentColor"/>
 </svg>

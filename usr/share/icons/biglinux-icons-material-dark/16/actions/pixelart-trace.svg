@@ -1,39 +1,40 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<g color="#000">
-<path fill="#f47750" d="M4 4h2v2H4z"/>
-<path fill="#2ecc71" d="M2 8h2v2H2z"/>
-<path fill="#fdbc4b" d="M10 4h2v2h-2z"/>
-<path fill="#1d99f3" d="M2 4h2v2H2z"/>
-<path fill="#da4453" d="M8 4h2v2H8z"/>
-<path fill="#2ecc71" d="M6 4h2v2H6z"/>
-<path fill="#fdbc4b" d="M6 6h2v2H6z"/>
-<path fill="#1d99f3" d="M4 6h2v2H4z"/>
-<path fill="#da4453" d="M2 6h2v2H2z"/>
-<path fill="#2ecc71" d="M10 6h2v2h-2z"/>
-<path fill="#f47750" d="M8 6h2v2H8z"/>
-<path fill="#fdbc4b" d="M10 8h2v2h-2z"/>
-<path fill="#1d99f3" d="M8 8h2v2H8z"/>
-<path fill="#da4453" d="M6 8h2v2H6z"/>
-<path fill="#f47750" d="M4 8h2v2H4z"/>
-<path fill="#fdbc4b" d="M8 10h2v2H8z"/>
-<path fill="#1d99f3" d="M6 10h2v2H6z"/>
-<path fill="#da4453" d="M4 10h2v2H4z"/>
-<path fill="#2ecc71" d="M10 10h2v2h-2z"/>
-<path fill="#fdbc4b" d="M4 12h2v2H4z"/>
-<path fill="#1d99f3" d="M2 12h2v2H2z"/>
-<path fill="#da4453" d="M12 6h2v2h-2z"/>
-<path fill="#1d99f3" d="M12 8h2v2h-2z"/>
-<path fill="#f47750" d="M2 10h2v2H2z"/>
-<path fill="#2ecc71" d="M12 4h2v2h-2z"/>
-<path fill="#fdbc4b" d="M2 2h2v2H2z"/>
-<path fill="#1d99f3" d="M6 2h2v2H6z"/>
-<path fill="#da4453" d="M4 2h2v2H4z"/>
-<path fill="#2ecc71" d="M10 2h2v2h-2z"/>
-<path fill="#f47750" d="M12 2h2v2h-2z"/>
-<path fill="#fdbc4b" d="M8 2h2v2H8z"/>
-<path fill="#da4453" d="M12 10h2v2h-2z"/>
-<path fill="#fdbc4b" d="M10 12h2v2h-2z"/>
-<path fill="#da4453" d="M8 12h2v2H8z"/>
-<path fill="#2ecc71" d="M6 12h2v2H6zm6 0h2v2h-2z"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor">
+<path fill="currentColor" d="M4 4h2v2H4z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M2 8h2v2H2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M10 4h2v2h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M2 4h2v2H2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M8 4h2v2H8z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M6 4h2v2H6z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M6 6h2v2H6z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M4 6h2v2H4z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M2 6h2v2H2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M10 6h2v2h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M8 6h2v2H8z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M10 8h2v2h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M8 8h2v2H8z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M6 8h2v2H6z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M4 8h2v2H4z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M8 10h2v2H8z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M6 10h2v2H6z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M4 10h2v2H4z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M10 10h2v2h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M4 12h2v2H4z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M2 12h2v2H2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M12 6h2v2h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M12 8h2v2h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M2 10h2v2H2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M12 4h2v2h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M2 2h2v2H2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M6 2h2v2H6z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M4 2h2v2H4z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M10 2h2v2h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M12 2h2v2h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M8 2h2v2H8z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M12 10h2v2h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M10 12h2v2h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M8 12h2v2H8z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path fill="currentColor" d="M6 12h2v2H6zm6 0h2v2h-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </g>
 </svg>

@@ -1,7 +1,8 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg width="16" height="16" viewBox="-3 -3 22 22">
-<style id="current-color-scheme" type="text/css">
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><style id="current-color-scheme" type="text/css">
 .ColorScheme-Contrast{color:#dedede}
 </style>
 <path d="M8 1v2H5C3.338 3 2 4.338 2 6s1.338 3 3 3h3v4H3v1h5v2h1v-2h3c1.662 0 3-1.338 3-3s-1.338-3-3-3H9V4h5V3H9V1zM5 4h3v4H5c-1.108 0-2-.892-2-2s.892-2 2-2m4 5h3c1.108 0 2 .892 2 2s-.892 2-2 2H9z" class="ColorScheme-Contrast" opacity=".35" style="fill:currentColor"/>
-<rect width="22" height="1" x=".314" y="-.5" fill="currentColor" rx=".5" ry=".5" transform="rotate(45)"/>
+<rect width="22" height="1" x=".314" y="-.5" class="ColorScheme-Contrast" style="fill:currentColor" rx=".5" ry=".5" transform="rotate(45)"/>
 </svg>

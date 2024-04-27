@@ -1,8 +1,4 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-<defs id="defs3051">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
-</style>
-</defs>
-<path d="M3 2v9h16V2zm1 1h1v1H4zm2 0h10v7H6zm11 0h1v1h-1zM4 6h1v1H4zm13 0h1v1h-1zM4 9h1v1H4zm13 0h1v1h-1zM5 12v2H4v1H3v1h1v1h1v2h1v-1h1v-1h1v-1h1v1h1v2h1v-1h1v-2h1v1h1v1h1v1h1v-1h1v-1h1v-1h1v-1h-1v-1h-1v-1h-1v-1h-1v1h-1v1h-1v1h-1v-2h-1v-1h-1v2H9v1H8v-1H7v-1H6v-1z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M3 2v9h16V2zm1 1h1v1H4zm2 0h10v7H6zm11 0h1v1h-1zM4 6h1v1H4zm13 0h1v1h-1zM4 9h1v1H4zm13 0h1v1h-1zM5 12v2H4v1H3v1h1v1h1v2h1v-1h1v-1h1v-1h1v1h1v2h1v-1h1v-2h1v1h1v1h1v1h1v-1h1v-1h1v-1h1v-1h-1v-1h-1v-1h-1v-1h-1v1h-1v1h-1v1h-1v-2h-1v-1h-1v2H9v1H8v-1H7v-1H6v-1z" class="ColorScheme-Contrast" style="fill-opacity:1;stroke:none;fill:currentColor" fill="currentColor"/>
 </svg>

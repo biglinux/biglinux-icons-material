@@ -1,9 +1,10 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<g fill="currentColor">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Contrast" style="fill:currentColor">
+<style id="current-color-scheme" type="text/css" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor">
+.ColorScheme-Contrast{color:#dedede}
 </style>
-<path d="M1.629 1.265v1.667h.616v9.689H1.63v1.668h1.667v-.744l9.658-2.131v.358h1.668v-1.668h-.527V5.456h.527V3.788h-1.668v.386L3.296 2.042v-.777zm.476.476h.715v.715h-.715zm1.191.788L9.67 3.936l-1.619 2.4-5.328.185V2.932h.574zM9.85 3.976l3.105.685v.795h.664v1.59l-2.336-.475zm3.582.289h.714v.714h-.714zM2.723 6.683l4.019 2.47-.847 3.33-2.599.574v-.436h-.573zm10.896.595v2.826h-.664v.822l-.533.118-.383-2.247zm-3.863 2.815 2.41 1.007-5.8 1.28zm3.675.488h.715v.714h-.715zM2.105 13.097h.715v.715h-.715z" class="ColorScheme-Text" style="fill:currentColor"/>
-<path d="M3.093 2.022v.461h-.575v10.165h.575v.494l10.135-2.236v-.775h.663V5.006h-.663v-.748z" opacity=".2"/>
+<path d="M1.629 1.265v1.667h.616v9.689H1.63v1.668h1.667v-.744l9.658-2.131v.358h1.668v-1.668h-.527V5.456h.527V3.788h-1.668v.386L3.296 2.042v-.777zm.476.476h.715v.715h-.715zm1.191.788L9.67 3.936l-1.619 2.4-5.328.185V2.932h.574zM9.85 3.976l3.105.685v.795h.664v1.59l-2.336-.475zm3.582.289h.714v.714h-.714zM2.723 6.683l4.019 2.47-.847 3.33-2.599.574v-.436h-.573zm10.896.595v2.826h-.664v.822l-.533.118-.383-2.247zm-3.863 2.815 2.41 1.007-5.8 1.28zm3.675.488h.715v.714h-.715zM2.105 13.097h.715v.715h-.715z" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
+<path d="M3.093 2.022v.461h-.575v10.165h.575v.494l10.135-2.236v-.775h.663V5.006h-.663v-.748z" opacity=".2" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
 </g>
 </svg>

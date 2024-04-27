@@ -1,10 +1,8 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
-</style>
-<path d="M12 1.969V6H8V5h3V2z" class="ColorScheme-Contrast" style="fill:#dedede;fill-opacity:1"/>
-<path d="M11 0a5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 1a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4" style="opacity:1;fill:#dedede;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000"/>
-<rect width="6" height="1" x="-7.071" y="7.071" rx="0" ry="0" style="opacity:1;fill:#dedede;stroke-width:.866025;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000" transform="rotate(-45)"/>
-<rect width="6" height="1" x="7.071" y="-7.071" rx="0" ry="0" style="opacity:1;fill:#dedede;stroke-width:.866025;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000" transform="scale(1 -1)rotate(-45)"/>
-<path d="M1 9.5v1h7.623a6 6 0 0 1-1.588-1zm9 1.408V16.5h1V11a6 6 0 0 1-1-.092" style="opacity:1;fill:#dedede;fill-opacity:1;stroke-width:1.05409;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M12 1.969V6H8V5h3V2z" class="ColorScheme-Contrast" style="fill-opacity:1;fill:currentColor" fill="currentColor"/>
+<path d="M11 0a5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 1a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4" style="opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<rect width="6" height="1" x="-7.071" y="7.071" rx="0" ry="0" style="opacity:1;stroke-width:.866025;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-fill:currentColor" transform="rotate(-45)" class="ColorScheme-Contrast" fill="currentColor"/>
+<rect width="6" height="1" x="7.071" y="-7.071" rx="0" ry="0" style="opacity:1;stroke-width:.866025;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-fill:currentColor" transform="scale(1 -1)rotate(-45)" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M1 9.5v1h7.623a6 6 0 0 1-1.588-1zm9 1.408V16.5h1V11a6 6 0 0 1-1-.092" style="opacity:1;fill-opacity:1;stroke-width:1.05409;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
 </svg>

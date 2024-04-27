@@ -1,11 +1,12 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<g fill="currentColor" transform="translate(-112 -540)">
-<style id="current-color-scheme" type="text/css">
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" transform="translate(-112 -540)" class="ColorScheme-Contrast" style="fill:currentColor">
+<style id="current-color-scheme" type="text/css" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor">
 .ColorScheme-Contrast{color:#dedede}
 </style>
-<path d="M117 540c-1.104 0-2 1.096-2 2.45v.55l2.857 5-2.857 5v.55c0 1.354.896 2.45 2 2.45h5c1.104 0 2-1.096 2-2.45V553l-2.84-5 2.84-5v-.55c0-1.354-.896-2.45-2-2.45zm2.025 1.012c1.368 0 1.74.014 3.102.047.677.17.868 1.018.832 1.636-1.001 1.77-2.96 5.305-2.96 5.305s2.136 3.483 2.96 5.305c.036.618-.155 1.466-.832 1.636-2.725.066-2.486.054-5.18.012-.726-.13-.953-1.013-.926-1.65C116.984 551.509 119 548 119 548s-2.143-3.478-2.979-5.303c-.027-.637.2-1.52.926-1.65 1.347-.021.71-.035 2.078-.035" class="ColorScheme-Contrast" style="fill:currentColor"/>
-<path d="m117.75 544 1.746 3.438L121.25 544zm1.75 5-.395 3.025c-1.211.158-2.101.994-2.101 1.975h5v-.102c-.062-.946-.947-1.729-2.12-1.873z"/>
-<rect width="11" height="1" x="114" y="540" rx=".5" ry=".5"/>
-<rect width="11" height="1" x="114" y="555" rx=".5" ry=".5"/>
+<path d="M117 540c-1.104 0-2 1.096-2 2.45v.55l2.857 5-2.857 5v.55c0 1.354.896 2.45 2 2.45h5c1.104 0 2-1.096 2-2.45V553l-2.84-5 2.84-5v-.55c0-1.354-.896-2.45-2-2.45zm2.025 1.012c1.368 0 1.74.014 3.102.047.677.17.868 1.018.832 1.636-1.001 1.77-2.96 5.305-2.96 5.305s2.136 3.483 2.96 5.305c.036.618-.155 1.466-.832 1.636-2.725.066-2.486.054-5.18.012-.726-.13-.953-1.013-.926-1.65C116.984 551.509 119 548 119 548s-2.143-3.478-2.979-5.303c-.027-.637.2-1.52.926-1.65 1.347-.021.71-.035 2.078-.035" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
+<path d="m117.75 544 1.746 3.438L121.25 544zm1.75 5-.395 3.025c-1.211.158-2.101.994-2.101 1.975h5v-.102c-.062-.946-.947-1.729-2.12-1.873z" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
+<rect width="11" height="1" x="114" y="540" rx=".5" ry=".5" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
+<rect width="11" height="1" x="114" y="555" rx=".5" ry=".5" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
 </g>
 </svg>

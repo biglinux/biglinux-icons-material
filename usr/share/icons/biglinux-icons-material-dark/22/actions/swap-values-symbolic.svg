@@ -1,6 +1,7 @@
+<?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<g fill="#dedede" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-<path d="M550.79 422.14v1h3.293l-5.365 5.364.708.707 5.364-5.364v3.293h1v-5z" style="paint-order:stroke fill markers" transform="rotate(45 788.782 -441.276)"/>
-<path d="m87.035 693.96.707.707-2.328 2.328H93v1h-7.586l2.328 2.328-.707.707-3.535-3.535.707-.707z" style="paint-order:stroke fill markers" transform="translate(-81 -687)"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="ColorScheme-Contrast" style="fill:currentColor">
+<path d="M550.79 422.14v1h3.293l-5.365 5.364.708.707 5.364-5.364v3.293h1v-5z" style="paint-order:stroke fill markers;fill:currentColor" transform="rotate(45 788.782 -441.276)" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="m87.035 693.96.707.707-2.328 2.328H93v1h-7.586l2.328 2.328-.707.707-3.535-3.535.707-.707z" style="paint-order:stroke fill markers;fill:currentColor" transform="translate(-81 -687)" class="ColorScheme-Contrast" fill="currentColor"/>
 </g>
 </svg>
