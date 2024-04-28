@@ -1,11 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path stroke="#455A64" stroke-width="1.077" d="M18.462 8H5.538A.54.54 0 0 0 5 8.538V15c0 .297.241.539.538.539h12.924A.54.54 0 0 0 19 15V8.538A.54.54 0 0 0 18.462 8Z"/>
-<path fill="#455A64" d="M7.153 13.922V9.615H8.23l1.346 1.682 1.346-1.682H12v4.307h-1.077v-2.625L9.576 12.98 8.23 11.297v2.625zm8.077 0-1.614-2.154h1.076V9.615h1.077v2.153h1.077z"/>
+<rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity="0.9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
+<path stroke="#F4F4F4" stroke-width="1.077" d="M18.462 8H5.538A.54.54 0 0 0 5 8.538V15c0 .297.241.539.538.539h12.924A.54.54 0 0 0 19 15V8.538A.54.54 0 0 0 18.462 8Z"/>
+<path fill="#F4F4F4" d="M7.153 13.922V9.615H8.23l1.346 1.682 1.346-1.682H12v4.307h-1.077v-2.625L9.576 12.98 8.23 11.297v2.625zm8.077 0-1.614-2.154h1.076V9.615h1.077v2.153h1.077z"/>
 <defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#DDD"/>
-</linearGradient>
+  <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop  style="stop-color:#455A64" offset="0.2"/>
+   <stop  style="stop-color:#5a7582" offset="0.205"/>
+   <stop  style="stop-color:#455A64" offset="1"/>
+  </linearGradient>
 </defs>
 </svg>

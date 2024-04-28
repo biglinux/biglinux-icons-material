@@ -1,11 +1,11 @@
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity="0.9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
- <text id="labelText" x="12.0075" y="17.377501" alignment-baseline="middle" text-anchor="middle" style="fill:#666666;font-family:Sans;font-size:15px;letter-spacing:.5px;text-anchor:middle"><tspan>a</tspan></text>
+ <text id="labelText" x="12" y="15.5" alignment-baseline="middle" text-anchor="middle" style="fill:#eeeeee;font-family:Sans;font-size:7px;letter-spacing:.5px;text-anchor:middle"><tspan>font</tspan></text>
  <defs>
   <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
-   <stop  style="stop-color:#909090" offset="0.2"/>
-   <stop  style="stop-color:#fff" offset="0.205"/>
-   <stop  style="stop-color:#dadada" offset="1"/>
+   <stop  style="stop-color:#636363" offset="0.2"/>
+   <stop  style="stop-color:#888888" offset="0.205"/>
+   <stop  style="stop-color:#5f5f5f" offset="1"/>
   </linearGradient>
  </defs>
 </svg>

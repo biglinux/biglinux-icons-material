@@ -1,12 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path stroke="#8F76E4" stroke-width=".889" d="M13.222 3.5a6.222 6.222 0 0 0 0 12.444H23"/>
-<path stroke="#8F76E4" stroke-width=".889" d="M14.914 5.612a4.445 4.445 0 1 0-1.692 8.554H23"/>
-<path stroke="#8F76E4" stroke-width=".889" d="M15.108 7.837a2.667 2.667 0 1 0-1.886 4.552H23"/>
-<defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#DDD"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <path d="m12 4.7408c-2.7648 0-5.0132 2.2484-5.0132 5.0132 0 2.7648 2.2484 5.0132 5.0132 5.0132 2.7648 0 5.0132-2.2484 5.0132-5.0132 0-2.7648-2.2484-5.0132-5.0132-5.0132m0 0.62666c2.4264 0 4.3866 1.9602 4.3866 4.3866 0 2.4264-1.9602 4.3866-4.3866 4.3866-2.4264 0-4.3866-1.9602-4.3866-4.3866 0-2.4264 1.9602-4.3866 4.3866-4.3866m-0.95001 1.2533a0.31333 0.31333 0 0 0-0.25066 0.13974l-1.2533 1.88a0.31333 0.31333 0 1 0 0.52138 0.34717l0.67929-1.0183v3.6647a0.31333 0.31333 0 1 0 0.62666 0v-4.6999a0.31333 0.31333 0 0 0-0.32335-0.31333m1.885 0.93497a0.31333 0.31333 0 0 0-0.30832 0.31834v4.6999a0.31333 0.31333 0 0 0 0.57402 0.17358l1.2533-1.88a0.31333 0.31333 0 1 0-0.52138-0.34717l-0.6793 1.0183v-3.6647a0.31333 0.31333 0 0 0-0.31834-0.31834" fill="#fafafa" stroke-width=".62666"/>
+ <g transform="translate(0 .64658)" alignment-baseline="middle" fill="#fafafa" font-family="Lato" font-weight="bold" text-anchor="middle">
+  <text x="12" y="18.620001"><tspan font-size="5px">torrent</tspan></text>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#6b71e2" offset=".2"/>
+   <stop stop-color="#8c92ff" offset=".205"/>
+   <stop stop-color="#6b71e2" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>

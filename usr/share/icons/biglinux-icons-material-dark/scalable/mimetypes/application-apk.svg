@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path fill="#2d4a13" d="M7.05 15.3v3.575c0 .152.123.275.275.275h1.65a.274.274 0 0 0 .275-.275V15.3zm.55 2.2h1.1v1.1H7.6zM8.15 1v1.1h1.1V1zm0 1.1h-1.1v1.1h1.1zm0 1.1v1.1h1.1V3.2zm0 1.1h-1.1v1.1h1.1zm0 1.1v1.1h1.1V5.4zm0 1.1h-1.1v1.1h1.1zm0 1.1v1.1h1.1V7.6zm0 1.1h-1.1v1.1h1.1zm0 1.1v1.1h1.1V9.8zm0 1.1h-1.1V12h1.1zm0 1.1v1.1h1.1V12zm0 1.1h-1.1v1.1h1.1zm0 1.1v1.1h1.1v-1.1z"/>
-<path fill="#2d4a13" d="m18.353 15.44.867-.867a.33.33 0 0 0 0-.473.33.33 0 0 0-.473 0l-.987.987a3.9 3.9 0 0 0-1.76-.42c-.64 0-1.24.153-1.773.42l-.994-.987a.33.33 0 0 0-.473 0 .33.33 0 0 0 0 .473l.873.874A3.99 3.99 0 0 0 12 18.667h8c0-1.327-.647-2.5-1.647-3.227m-3.782 1.798H14v-.571h.571zm3.429 0h-.572v-.571H18z" opacity=".75"/>
-<defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#AFDB7C"/>
-<stop offset="1" stop-color="#77B430"/>
-</linearGradient>
-</defs>
-</svg>
+android-package-archive.svg

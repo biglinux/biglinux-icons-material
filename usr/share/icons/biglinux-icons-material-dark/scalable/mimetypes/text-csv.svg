@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
- <g transform="matrix(.69549 0 0 .69549 .94249 -2.8629)" fill-rule="evenodd" stroke-linecap="square" stroke-width=".99993">
-  <path d="m9 13c-0.554 0-1 0.446-1 1v7c0 0.554 0.446 1 1 1h6v-1h-2v-1h2v-1h-2v-1h8v-4c0-0.554-0.446-1-1-1zm0 1h3v1h-3zm4 0h3v1h-3zm4 0h3v1h-3zm-8 2h3v1h-3zm4 0h3v1h-3zm4 0h3v1h-3zm-8 2h3v1h-3zm0 2h3v1h-3z" fill="#fafafa"/>
-  <path d="m16 18c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h7c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1zm2 1h1v5h-1zm-2 1h1v4h-1zm6 1h1v3h-1zm-2 1h1v2h-1z" fill="#ffdac1"/>
- </g>
- <text id="labelText" x="12" y="19.472914" alignment-baseline="middle" fill="#ffdac1" font-family="Sans" font-size="5.5px" letter-spacing=".5px" text-anchor="middle"><tspan>csv</tspan></text>
+ <path d="m7.2918 13.643h9.4165v-7.8476h-9.4165zm0.78496-7.0626h1.5692v1.5692h-1.5692zm2.3542 0h5.4927v1.5692h-5.4927zm-2.3542 2.3542h1.5692v1.5692h-1.5692zm2.3542 0h5.4927v1.5692h-5.4927zm-2.3542 2.3542h1.5692v1.5692h-1.5692zm2.3542 0h5.4927v1.5692h-5.4927z" fill="#e6e6e6" stroke-width=".67263"/>
+ <text id="labelText" x="12" y="19.648609" alignment-baseline="middle" fill="#e6e6e6" font-family="Sans" font-size="5.5px" letter-spacing=".5px" text-anchor="middle"><tspan>csv</tspan></text>
  <defs>
   <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#3fa33c" offset=".2"/>
+   <stop stop-color="#e6e6e6" offset=".2"/>
    <stop stop-color="#6dd743" offset=".205"/>
    <stop stop-color="#006c34" offset="1"/>
   </linearGradient>

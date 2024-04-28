@@ -1,1 +1,15 @@
-/usr/share/icons/biglinux-icons-material-dark/scalable/mimetypes/application-epub+zip.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <g transform="translate(4 4)" fill="#fff">
+  <path d="m7.1373 4.5493h1.7254v1.7254h-1.7254zm0 2.588h1.7254v4.3134h-1.7254z" stroke-width=".86268"/>
+  <path d="m4.5307 3.143c-0.76879 0-1.3877 0.61891-1.3877 1.3877v6.9385c0 0.76879 0.61891 1.3877 1.3877 1.3877h6.9385c0.76879 0 1.3877-0.61892 1.3877-1.3877v-6.9385c0-0.76879-0.61892-1.3877-1.3877-1.3877zm0 0.69385h6.9385c0.38439 0 0.69385 0.30946 0.69385 0.69385v6.9385c0 0.38439-0.30946 0.69385-0.69385 0.69385h-6.9385c-0.38439 0-0.69385-0.30946-0.69385-0.69385v-6.9385c0-0.38439 0.30946-0.69385 0.69385-0.69385" stroke-width=".69385"/>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5e7f11" offset=".2"/>
+   <stop stop-color="#96b254" offset=".205"/>
+   <stop stop-color="#5e7f11" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

@@ -1,10 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path fill="#fff" fill-rule="evenodd" d="M12.268 5 6 8.375v7.25L12.268 19l6.267-3.375v-7.25zm0 1.017 4.876 2.625-4.876 2.626-4.876-2.626z" clip-rule="evenodd"/>
-<defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#83C9F0"/>
-<stop offset="1" stop-color="#3A9BD1"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <path d="m12.268 3.7758-4.9152 2.6466v5.6852l4.9152 2.6466 4.9144-2.6466v-5.6852zm0 0.7975 3.8236 2.0584-3.8236 2.0592-3.8236-2.0592z" clip-rule="evenodd" fill="#fff" fill-rule="evenodd" stroke-width=".78417"/>
+ <g transform="translate(0 .85741)" alignment-baseline="middle" fill="#fff" font-family="Lato" font-weight="bold" text-anchor="middle">
+  <text x="12" y="18.620001"><tspan font-size="5px">flatpak</tspan></text>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#68aed4" offset=".2"/>
+   <stop stop-color="#83C9F0" offset=".205"/>
+   <stop stop-color="#3A9BD1" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>
