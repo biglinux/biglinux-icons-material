@@ -1,10 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path fill="#555" d="m10.234 5-.155 1.844c-.59.216-1.139.53-1.622.93l-1.691-.79L5 10.016l1.535 1.056A5.5 5.5 0 0 0 6.45 12q0 .469.081.932L5 13.984l1.766 3.032 1.687-.787a5.6 5.6 0 0 0 1.626.923L10.233 19h3.532l.155-1.844a5.6 5.6 0 0 0 1.622-.93l1.691.79L19 13.984l-1.535-1.056A5.6 5.6 0 0 0 17.55 12a5.5 5.5 0 0 0-.081-.932L19 10.016l-1.766-3.032-1.687.787a5.6 5.6 0 0 0-1.626-.923L13.767 5zM12 9.667c.624 0 1.223.245 1.665.683a2.323 2.323 0 0 1 0 3.3 2.37 2.37 0 0 1-1.665.683 2.37 2.37 0 0 1-1.665-.683 2.32 2.32 0 0 1 0-3.3A2.37 2.37 0 0 1 12 9.667"/>
-<defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#DDD"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".5" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <path d="m10.465 5.9143-0.13476 1.6032c-0.51294 0.18779-0.99024 0.46078-1.4102 0.80853l-1.4701-0.68682-1.5353 2.636 1.3345 0.91808a4.7816 4.7816 0 0 0-0.073898 0.80679q0 0.40774 0.070421 0.81027l-1.331 0.9146 1.5353 2.636 1.4667-0.68421a4.8686 4.8686 0 0 0 1.4136 0.80245l0.13389 1.6066h3.0707l0.13476-1.6032a4.8686 4.8686 0 0 0 1.4102-0.80853l1.4701 0.68682 1.5362-2.636-1.3345-0.91808a4.8686 4.8686 0 0 0 0.073898-0.80679 4.7816 4.7816 0 0 0-0.07042-0.81027l1.331-0.9146-1.5353-2.636-1.4667 0.68421a4.8686 4.8686 0 0 0-1.4136-0.80245l-0.13389-1.6066zm1.5353 4.0574c0.5425 0 1.0633 0.213 1.4475 0.59379a2.0196 2.0196 0 0 1 0 2.869 2.0605 2.0605 0 0 1-1.4475 0.59379 2.0605 2.0605 0 0 1-1.4475-0.59379 2.017 2.017 0 0 1 0-2.869 2.0605 2.0605 0 0 1 1.4475-0.59379" fill="url(#linearGradient5)" stroke-width=".86939"/>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#565656" offset=".2"/>
+   <stop stop-color="#fff" offset=".205"/>
+   <stop stop-color="#dadada" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5" x1="5" x2="19" y1="12" y2="12" gradientTransform="matrix(.86939 0 0 .86939 1.5673 1.5673)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#565656" offset="0"/>
+   <stop stop-color="#262626" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>

@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path stroke="#F4F4F4" stroke-linejoin="round" stroke-width=".917" d="M12 10.165c3.29 0 5.958-1.026 5.958-2.291 0-1.266-2.667-2.292-5.958-2.292-3.29 0-5.958 1.026-5.958 2.292S8.71 10.166 12 10.166Z"/>
-<path stroke="#F4F4F4" stroke-width=".917" d="M6.042 7.76v8.364"/>
-<path stroke="#F4F4F4" stroke-linejoin="round" stroke-width=".917" d="M17.958 10.624c0 .402-.275.797-.798 1.146s-1.276.637-2.181.838c-.906.202-1.934.307-2.98.307a14 14 0 0 1-2.978-.306c-.906-.202-1.658-.491-2.181-.84-.523-.348-.799-.743-.799-1.145m11.917 2.75c0 .402-.275.797-.798 1.146s-1.276.637-2.181.838c-.906.201-1.934.307-2.98.307-1.045 0-2.073-.105-2.978-.307-.906-.2-1.658-.49-2.181-.838-.523-.349-.799-.744-.799-1.146m11.917 2.75c0 .402-.275.797-.798 1.146s-1.276.637-2.181.838c-.906.201-1.934.307-2.98.307-1.045 0-2.073-.105-2.978-.307-.906-.2-1.658-.49-2.181-.838-.523-.349-.799-.744-.799-1.146"/>
-<path stroke="#F4F4F4" stroke-width=".917" d="M17.958 7.76v8.364"/>
-<defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#D89BD9"/>
-<stop offset="1" stop-color="#B138B4"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <g transform="matrix(.83606 0 0 .83606 -1.3067 -3.1121)" fill-rule="evenodd" stroke-linecap="square">
+<g fill-rule="evenodd"><path d="m7 0c-2.216 0-4 1.784-4 4v24c0 2.216 1.784 4 4 4h18c2.216 0 4-1.784 4-4v-16l-12-12h-10zm13 0 9 9v-9h-9z" fill="url(#linearGradient3898)" stroke-linecap="square"/><g stroke-linecap="square"><path d="m3 27v1c0 2.216 1.784 4 4 4h18c2.216 0 4-1.784 4-4v-1c0 2.216-1.784 4-4 4h-18c-2.216 0-4-1.784-4-4z" fill-opacity=".19862"/><path d="m20 0h1.4l7.6 7.6v1.4z" fill-opacity=".20149"/></g><g><path d="m12 13a4 1 0 0 0-4 1v1a4 1 0 0 0 4 1 4 1 0 0 0 4-1v-1a4 1 0 0 0-4-1zm-4 3v2a4 1 0 0 0 4 1 4 1 0 0 0 4-1v-2a4 1 0 0 1-4 1 4 1 0 0 1-4-1zm0 3v2a4 1 0 0 0 4 1 4 1 0 0 0 4-1v-2a4 1 0 0 1-4 1 4 1 0 0 1-4-1zm0 3v2a4 1 0 0 0 4 1 4 1 0 0 0 4-1v-2a4 1 0 0 1-4 1 4 1 0 0 1-4-1z" fill="#fa9bfd"/><path d="m18 15c-0.554 0-1 0.446-1 1v8c0 0.554 0.446 1 1 1h5c0.554 0 1-0.446 1-1v-8c0-0.554-0.446-1-1-1h-5zm0 1h2v2h-2v-2zm3 0h2v2h-2v-2zm-3 3h2v2h-2v-2zm3 0h2v2h-2v-2zm-3 3h2v2h-2v-2zm3 0h2v2h-2v-2z" fill="#fafafa"/></g></g>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#9f36bc" offset=".2"/>
+   <stop stop-color="#eb4df0" offset=".205"/>
+   <stop stop-color="#7324a9" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>

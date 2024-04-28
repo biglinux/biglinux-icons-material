@@ -1,10 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path fill="#fff" d="M12.588 5C10.059 5.45 7.529 6.048 5 6.49q-.002 5.77 0 11.542c2.515.44 5.032 1.028 7.542 1.487h.754V5h-.71ZM10.9 9.526q-.659 1.354-1.33 2.703c.453.923.916 1.84 1.371 2.764a95 95 0 0 1-1.19-.076c-.28-.688-.622-1.352-.823-2.071-.225.67-.545 1.3-.802 1.957-.361-.005-.723-.02-1.084-.034.424-.83.833-1.666 1.27-2.49-.37-.85-.778-1.683-1.16-2.528L8.24 9.69c.246.645.514 1.281.717 1.943.218-.701.543-1.36.821-2.039q.56-.04 1.122-.067Zm2.915-2.452v1.037h1.555v1.037h-1.555v.519h1.555v1.039h-1.555v.516h1.555v1.037h-1.555v.519h1.555v1.037h-1.555v.519h1.555v1.037h-1.555v.518h1.555v1.037h-1.555v1.037H19V7.074zm2.074 1.037h2.074v1.037h-2.074zm0 1.556h2.074v1.039h-2.074zm0 1.555h2.074v1.037h-2.074zm0 1.556h2.074v1.037h-2.074zm0 1.556h2.074v1.037h-2.074zm0 1.555h2.074v1.037h-2.074V15.89Z"/>
-<defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#58B28C"/>
-<stop offset="1" stop-color="#017D49"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <g transform="matrix(.69549 0 0 .69549 .94249 -2.8629)" fill-rule="evenodd" stroke-linecap="square" stroke-width=".99993">
+  <path d="m9 13c-0.554 0-1 0.446-1 1v7c0 0.554 0.446 1 1 1h6v-1h-2v-1h2v-1h-2v-1h8v-4c0-0.554-0.446-1-1-1zm0 1h3v1h-3zm4 0h3v1h-3zm4 0h3v1h-3zm-8 2h3v1h-3zm4 0h3v1h-3zm4 0h3v1h-3zm-8 2h3v1h-3zm0 2h3v1h-3z" fill="#fafafa"/>
+  <path d="m16 18c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h7c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1zm2 1h1v5h-1zm-2 1h1v4h-1zm6 1h1v3h-1zm-2 1h1v2h-1z" fill="#aaff7f"/>
+ </g>
+ <text id="labelText" x="12" y="19.472914" alignment-baseline="middle" fill="#aaff7f" font-family="Sans" font-size="5.5px" letter-spacing=".5px" text-anchor="middle"><tspan>xls</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3fa33c" offset=".2"/>
+   <stop stop-color="#6dd743" offset=".205"/>
+   <stop stop-color="#006c34" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>

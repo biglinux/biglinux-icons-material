@@ -1,1 +1,24 @@
-/usr/share/icons/biglinux-icons-material-dark/scalable/mimetypes/libreoffice-oasis-presentation.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <g transform="matrix(.74078 0 0 .74078 25.293 -4.2572)" fill-rule="evenodd" stroke-linecap="square">
+  <g fill="#fafafa">
+   <rect x="-23.944" y="14.719" width="12" height="1" ry=".5"/>
+   <circle cx="-25.444" cy="19.219" r=".5"/>
+   <circle cx="-25.444" cy="21.219" r=".5"/>
+   <circle cx="-25.444" cy="23.219" r=".5"/>
+   <rect x="-23.944" y="18.719" width="5" height="1" ry=".5"/>
+   <rect x="-23.944" y="20.719" width="5" height="1" ry=".5"/>
+   <rect x="-23.944" y="22.719" width="5" height="1" ry=".5"/>
+  </g>
+  <path d="m-16.944 18.719c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm5.4219 1.0059a0.5 0.5 0 0 1 0.43164 0.14062 0.5 0.5 0 0 1 0 0.70703l-2.3535 2.3535-1-1-1.6465 1.6465a0.5 0.5 0 0 1-0.70703 0 0.5 0.5 0 0 1 0-0.70703l2.3535-2.3535 1 1 1.6465-1.6465a0.5 0.5 0 0 1 0.27539-0.14062z" fill="#f7ff99"/>
+ </g>
+ <text id="labelText" x="12" y="19.472914" alignment-baseline="middle" fill="#f7ff99" font-family="Sans" font-size="5.5px" letter-spacing=".5px" text-anchor="middle"><tspan>pptx</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d9622f" offset=".2"/>
+   <stop stop-color="#f09341" offset=".205"/>
+   <stop stop-color="#d0120d" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

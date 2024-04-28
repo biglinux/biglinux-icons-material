@@ -1,24 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<circle cx="9.53" cy="10.447" r="4.477" fill="url(#b)" stroke="#CC5E55" stroke-width=".772"/>
-<rect width="6.639" height="6.639" x="12.309" y="9.211" fill="url(#c)" stroke="#069" stroke-width=".772" rx=".849"/>
-<path fill="url(#d)" stroke="#FFC328" stroke-width=".772" d="m11.269 12.106 2.406 4.169a.85.85 0 0 1-.735 1.273H8.127a.85.85 0 0 1-.736-1.273l2.407-4.169a.85.85 0 0 1 1.47 0Z"/>
-<defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#DDD"/>
-</linearGradient>
-<linearGradient id="b" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#DDD"/>
-</linearGradient>
-<linearGradient id="c" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#DDD"/>
-</linearGradient>
-<linearGradient id="d" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#DDD"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <g transform="matrix(.76964 0 0 .76964 34.643 1.9206)" fill-rule="evenodd">
+  <circle cx="-33.421" cy="12.129" r="4" fill="#fafafa"/>
+  <path d="m-27.421 10.129c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h5c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1zm0 1h5v5h-5z" fill="#fafafa"/>
+  <path d="m-30.421 11.995 4.1962 7.268a0.57735 0.57735 0 0 1-0.5 0.86602h-8.3923a0.57735 0.57735 0 0 1-0.5-0.86603l4.1962-7.2679a0.57735 0.57735 0 0 1 1 0z" fill="#f9e186"/>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cfa841" offset=".2"/>
+   <stop stop-color="#ddd64b" offset=".205"/>
+   <stop stop-color="#ed7d38" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>

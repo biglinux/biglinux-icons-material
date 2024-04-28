@@ -1,1 +1,20 @@
-/usr/share/icons/biglinux-icons-material-dark/scalable/mimetypes/libreoffice-oasis-text.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <g transform="matrix(.73007 0 0 .73007 27.674 .10911)" fill-rule="evenodd" stroke-linecap="square">
+  <g fill="#fafafa">
+   <rect x="-29.469" y="10.913" width="7" height="1" ry=".5"/>
+   <rect x="-29.469" y="12.913" width="7" height="1" ry=".5"/>
+   <rect x="-29.469" y="14.913" width="7" height="1" ry=".5"/>
+  </g>
+  <path d="m-19.469 10.913c-0.554 0-1 0.446-1 1v3c0 0.554 0.446 1 1 1h5c0.554 0 1-0.446 1-1v-3c0-0.554-0.446-1-1-1zm4.5 1a0.5 0.5 0 0 1 0.5 0.5 0.5 0.5 0 0 1-0.5 0.5 0.5 0.5 0 0 1-0.5-0.5 0.5 0.5 0 0 1 0.5-0.5zm-3.1641 0.5293a0.61803 0.61803 0 0 1 0.37109 0.17773l2.293 2.293h-4l0.68359-2.0508a0.61803 0.61803 0 0 1 0.65234-0.41992z" fill="#f7ff99"/>
+   </g>
+  <text id="labelText" x="12" y="18" text-anchor="middle" alignment-baseline="middle" style="font-size:5.5px;font-family:Sans;letter-spacing:0.5px;text-anchor:middle;fill:#f7ff99"><tspan>docx</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2191d3" offset=".2"/>
+   <stop stop-color="#2ac2f0" offset=".205"/>
+   <stop stop-color="#0948bd" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

@@ -1,12 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
- <path d="m8.8832 7.3925a2.835 2.835 0 1 0 2.836 2.835h-2.836zm4.254 0.709v1.063h6.911v-1.063zm0.076 3.19-0.076 1.063h6.911v-1.063zm-6.456 4.253v1.063h10.633v-1.063z" fill="#ffffff"/>
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <g fill-rule="evenodd" stroke-linecap="square">
+  <path d="m-30.944 26.719v1c0 2.216 1.784 4 4 4h18c2.216 0 4-1.784 4-4v-1c0 2.216-1.784 4-4 4h-18c-2.216 0-4-1.784-4-4z" fill-opacity=".19862"/>
+  <path d="m-13.944-0.28089h1.4l7.6 7.6v1.4z" fill-opacity=".20149"/>
+  <g transform="matrix(.74078 0 0 .74078 25.293 -1.1639)">
+   <g fill="#fafafa">
+    <rect x="-25.944" y="12.719" width="16" height="1" ry=".5"/>
+    <rect x="-23.944" y="14.719" width="12" height="1" ry=".5"/>
+    <circle cx="-25.444" cy="19.219" r=".5"/>
+    <circle cx="-25.444" cy="21.219" r=".5"/>
+    <circle cx="-25.444" cy="23.219" r=".5"/>
+    <rect x="-23.944" y="18.719" width="5" height="1" ry=".5"/>
+    <rect x="-23.944" y="20.719" width="5" height="1" ry=".5"/>
+    <rect x="-23.944" y="22.719" width="5" height="1" ry=".5"/>
+   </g>
+   <path d="m-16.944 18.719c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm5.4219 1.0059a0.5 0.5 0 0 1 0.43164 0.14062 0.5 0.5 0 0 1 0 0.70703l-2.3535 2.3535-1-1-1.6465 1.6465a0.5 0.5 0 0 1-0.70703 0 0.5 0.5 0 0 1 0-0.70703l2.3535-2.3535 1 1 1.6465-1.6465a0.5 0.5 0 0 1 0.27539-0.14062z" fill="#fecfb5"/>
+  </g>
+ </g>
  <defs>
-  <linearGradient id="a" x2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#717100" offset=".2"/>
-   <stop style="stop-color:#adad00" offset=".2"/>
-   <stop style="stop-color:#a0a000" offset=".91933"/>
-   <stop style="stop-color:#d6d600" offset="1"/>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d9622f" offset=".2"/>
+   <stop stop-color="#f09341" offset=".205"/>
+   <stop stop-color="#d0120d" offset="1"/>
   </linearGradient>
  </defs>
 </svg>

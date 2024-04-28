@@ -1,10 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path fill="#fff" d="M6.005 11.534 6 6.982l5.105-.76v5.31h-5.1Zm5.952-5.447L18.76 5v6.533h-6.803zm6.805 6.38L18.76 19l-6.803-1.05v-5.483zm-7.656 5.365-5.1-.767v-4.6h5.098v5.366z"/>
-<defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#6EBBF7"/>
-<stop offset="1" stop-color="#1E87DB"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <path d="m6.5204 11.6-0.004297-3.912 4.3873-0.65315v4.5635h-4.383zm5.1152-4.6812 5.8465-0.93418v5.6145h-5.8465zm5.8483 5.483-0.0017 5.6145-5.8465-0.90238v-4.7121zm-6.5796 4.6107-4.383-0.65916v-3.9533h4.3813v4.6116z" fill="#fff" stroke-width=".85941"/>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4193d5" offset=".2"/>
+   <stop stop-color="#6EBBF7" offset=".205"/>
+   <stop stop-color="#1E87DB" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>

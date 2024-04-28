@@ -1,10 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path fill="#fff" d="M12.587 5C10.059 5.45 7.529 6.048 5 6.49q-.002 5.768 0 11.54c2.515.441 5.031 1.029 7.541 1.487h.754V5h-.71ZM8.783 9.571c.499-.01.977.062 1.366.413.745.904.548 2.566-.556 3.108-.393.2-.842.173-1.269.159q-.003 1.013-.002 2.027-.514-.045-1.028-.087c-.015-1.845-.019-3.607.002-5.453.486-.06.988-.156 1.487-.167m-.058 1.002c-.136-.004-.275.009-.403.014-.005.581-.008 1.16.028 1.739.344-.042.79-.007.987-.363.164-.349.174-.795-.023-1.134-.143-.2-.362-.25-.589-.256m5.091-3.499v1.723c.243-.052.507-.15.777-.166v2.331h2.318c-.083.708-.398 1.435-1.022 1.805-.612.411-1.39.416-2.073.204.001.338-.002 1.023 0 1.361h4.147v.519h-4.148v1.037h4.148v.518h-4.148v1.556H19V7.074zm1.295 1.242c1.103.114 2.014 1.028 2.134 2.128h-2.134z"/>
-<defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#EC8B74"/>
-<stop offset="1" stop-color="#CD4728"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <g transform="matrix(.74078 0 0 .74078 25.293 -4.2572)" fill-rule="evenodd" stroke-linecap="square">
+  <g fill="#fafafa">
+   <rect x="-23.944" y="14.719" width="12" height="1" ry=".5"/>
+   <circle cx="-25.444" cy="19.219" r=".5"/>
+   <circle cx="-25.444" cy="21.219" r=".5"/>
+   <circle cx="-25.444" cy="23.219" r=".5"/>
+   <rect x="-23.944" y="18.719" width="5" height="1" ry=".5"/>
+   <rect x="-23.944" y="20.719" width="5" height="1" ry=".5"/>
+   <rect x="-23.944" y="22.719" width="5" height="1" ry=".5"/>
+  </g>
+  <path d="m-16.944 18.719c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h6c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm5.4219 1.0059a0.5 0.5 0 0 1 0.43164 0.14062 0.5 0.5 0 0 1 0 0.70703l-2.3535 2.3535-1-1-1.6465 1.6465a0.5 0.5 0 0 1-0.70703 0 0.5 0.5 0 0 1 0-0.70703l2.3535-2.3535 1 1 1.6465-1.6465a0.5 0.5 0 0 1 0.27539-0.14062z" fill="#aaff7f"/>
+ </g>
+ <text id="labelText" x="12" y="19.472914" alignment-baseline="middle" fill="#aaff7f" font-family="Sans" font-size="5.5px" letter-spacing=".5px" text-anchor="middle"><tspan>ppt</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d9622f" offset=".2"/>
+   <stop stop-color="#f09341" offset=".205"/>
+   <stop stop-color="#d0120d" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>

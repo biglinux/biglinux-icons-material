@@ -1,19 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path fill="url(#b)" fill-rule="evenodd" d="M11.986 15.91c3.54 4.825 7.005-1.347 7-5.059-.007-4.388-4.455-6.841-7.002-6.841C7.894 4.01 4 7.39 4 12.014 4 17.154 8.464 20 11.984 20c-.797-.115-3.451-.683-3.487-6.797-.024-4.134 1.35-5.786 3.48-5.06.048.018 2.352.927 2.352 3.896 0 2.956-2.343 3.871-2.343 3.871" clip-rule="evenodd"/>
-<path fill="url(#c)" fill-rule="evenodd" d="M11.982 8.14c-2.339-.806-5.204 1.122-5.204 4.983 0 6.305 4.672 6.877 5.238 6.877C16.106 20 20 16.62 20 11.996c0-5.14-4.464-7.986-7.984-7.986.975-.135 5.254 1.055 5.254 6.904 0 3.814-3.195 5.89-5.273 5.003-.048-.018-2.351-.927-2.351-3.895 0-2.956 2.336-3.882 2.336-3.882" clip-rule="evenodd"/>
-<defs>
-<linearGradient id="b" x1="11.493" x2="11.493" y1="4.01" y2="20" gradientUnits="userSpaceOnUse">
-<stop/>
-<stop offset="1" stop-color="#B5B5B5"/>
-</linearGradient>
-<linearGradient id="c" x1="13.389" x2="13.389" y1="4" y2="20" gradientUnits="userSpaceOnUse">
-<stop stop-color="#B5B5B5"/>
-<stop offset="1"/>
-</linearGradient>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FAFAFA"/>
-<stop offset="1" stop-color="#DDD"/>
-</linearGradient>
-</defs>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity="0.9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
+ <text id="labelText" x="12.25" y="15" text-anchor="middle" alignment-baseline="middle" style="font-size:7px;font-family:Sans;letter-spacing:0.5px;text-anchor:middle;fill:#4a816a"><tspan>json</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop  style="stop-color:#4a816a" offset="0.2"/>
+   <stop  style="stop-color:#fff" offset="0.205"/>
+   <stop  style="stop-color:#dadada" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>
