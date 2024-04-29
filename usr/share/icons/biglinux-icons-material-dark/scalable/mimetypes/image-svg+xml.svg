@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
- <g transform="matrix(.65532 0 0 .65532 4.1361 2.1086)">
+ <g transform="matrix(.53497 0 0 .53497 5.5803 8.3484)">
   <path d="m7.039 9.164 9.917 5.472" stroke="#8c59d9" stroke-width=".516"/>
   <path d="m7.871 19.146c6.71 3.097 9.806-4.13 4.129-7.226s-2.58-10.323 4.129-7.226" clip-rule="evenodd" fill="#8f76e4" fill-opacity=".251" fill-rule="evenodd"/>
   <g stroke-width=".516">
@@ -10,8 +10,8 @@
    <path d="m16.903 3.92h-1.548v1.548h1.548zm-4.129 7.226h-1.548v1.548h1.548zm-4.129 7.226h-1.548v1.548h1.548z" fill="#fff" stroke="#8f76e4"/>
   </g>
  </g>
- <g transform="matrix(.88121 0 0 .88121 1.4138 2.6733)" alignment-baseline="middle" fill="#8c59d9" font-family="Lato" font-weight="bold" opacity=".9" text-anchor="middle">
-  <text x="12"  y="7"><tspan font-size="5.5px">svg</tspan></text>
+ <g transform="matrix(.88121 0 0 .88121 1.4138 2.0759)" alignment-baseline="middle" fill="#8c59d9" font-family="Lato" font-weight="bold" opacity=".9" text-anchor="middle">
+  <text x="12" y="7"><tspan font-size="5.5px">svg</tspan></text>
  </g>
  <defs>
   <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
