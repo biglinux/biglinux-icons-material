@@ -1,18 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path stroke="#1463A5" stroke-linecap="round" stroke-linejoin="round" stroke-width=".448" d="M8.864 9.414s-1.901 4.097-1.556 5.912c.24 1.262.81 2.128 2.004 2.6.709.281 2.689-.447 2.689-.447v-3.136s-1.793-.588-2.157-2.856c0 0 .193 1.938.557 1.994"/>
-<path stroke="#1463A5" stroke-width=".448" d="M8.08 5.83C6.708 4.598 5 5.102 5 5.102S5.896 7.93 7.576 7.65"/>
-<path stroke="#1463A5" stroke-linecap="round" stroke-width=".448" d="M8.415 17.48c-.448 1.791.896 2.24 3.585 1.343 2.688.896 4.032.448 3.584-1.344"/>
-<path stroke="#1463A5" stroke-linejoin="round" stroke-width=".448" d="M9.407 7.316c.849-.395 1.751.089 1.72.138 0 0-.292 1.216-.985 1.111-.65-.098-.735-.974-.735-1.25Z"/>
-<path stroke="#187dca" stroke-width=".448" d="M15.585 10.758s1.16-3.44.448-4.928C15.8 5.344 15.137 5 14.689 5c-.909 0-1.344.382-2.688.382S10.221 5 9.312 5c-.448 0-1.111.344-1.344.83-.711 1.488.448 4.928.448 4.928"/>
-<path stroke="#187dca" stroke-linecap="round" stroke-linejoin="round" stroke-width=".448" d="M15.136 9.414s1.901 4.097 1.556 5.912c-.24 1.262-.81 2.128-2.004 2.6-.709.281-2.689-.447-2.689-.447v-3.136s1.793-.588 2.157-2.856c0 0-.213 1.978-.577 2.034"/>
-<path stroke="#187dca" stroke-width=".448" d="M15.92 5.83C17.292 4.598 19 5.102 19 5.102s-.896 2.828-2.576 2.548"/>
-<path stroke="#187dca" stroke-linejoin="round" stroke-width=".448" d="M14.593 7.316c-.849-.395-1.751.089-1.72.138 0 0 .292 1.216.985 1.111.65-.098.734-.974.735-1.25Z"/>
-<defs>
-  <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
-   <stop  style="stop-color:#187dca" offset="0.2"/>
-   <stop  style="stop-color:#fff" offset="0.205"/>
-   <stop  style="stop-color:#dadada" offset="1"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".85" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <g transform="matrix(.68454 0 0 .68454 3.7856 1.5479)" stroke-width=".448">
+  <g stroke="#187dca">
+   <path d="m8.864 9.414s-1.901 4.097-1.556 5.912c0.24 1.262 0.81 2.128 2.004 2.6 0.709 0.281 2.689-0.447 2.689-0.447v-3.136s-1.793-0.588-2.157-2.856c0 0 0.193 1.938 0.557 1.994" stroke-linecap="round" stroke-linejoin="round"/>
+   <path d="m8.08 5.83c-1.372-1.232-3.08-0.728-3.08-0.728s0.896 2.828 2.576 2.548"/>
+   <path d="m8.415 17.48c-0.448 1.791 0.896 2.24 3.585 1.343 2.688 0.896 4.032 0.448 3.584-1.344" stroke-linecap="round"/>
+   <path d="m9.407 7.316c0.849-0.395 1.751 0.089 1.72 0.138 0 0-0.292 1.216-0.985 1.111-0.65-0.098-0.735-0.974-0.735-1.25z" stroke-linejoin="round"/>
+  </g>
+  <g stroke="#187dca">
+   <path d="m15.585 10.758s1.16-3.44 0.448-4.928c-0.233-0.486-0.896-0.83-1.344-0.83-0.909 0-1.344 0.382-2.688 0.382s-1.78-0.382-2.689-0.382c-0.448 0-1.111 0.344-1.344 0.83-0.711 1.488 0.448 4.928 0.448 4.928"/>
+   <path d="m15.136 9.414s1.901 4.097 1.556 5.912c-0.24 1.262-0.81 2.128-2.004 2.6-0.709 0.281-2.689-0.447-2.689-0.447v-3.136s1.793-0.588 2.157-2.856c0 0-0.213 1.978-0.577 2.034" stroke-linecap="round" stroke-linejoin="round"/>
+   <path d="m15.92 5.83c1.372-1.232 3.08-0.728 3.08-0.728s-0.896 2.828-2.576 2.548"/>
+   <path d="m14.593 7.316c-0.849-0.395-1.751 0.089-1.72 0.138 0 0 0.292 1.216 0.985 1.111 0.65-0.098 0.734-0.974 0.735-1.25z" stroke-linejoin="round"/>
+  </g>
+ </g>
+ <g transform="translate(0 .85741)" alignment-baseline="middle" fill="#187dca" font-family="Lato" font-weight="bold" text-anchor="middle">
+  <text x="12" y="18.620001"><tspan font-size="5px">perl</tspan></text>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#187dca" offset=".2"/>
+   <stop stop-color="#fff" offset=".205"/>
+   <stop stop-color="#dadada" offset="1"/>
   </linearGradient>
-</defs>
+ </defs>
 </svg>

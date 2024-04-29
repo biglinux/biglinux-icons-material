@@ -1,12 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path fill="#fff" d="M10 1H7v22h3z" opacity=".25"/>
-<path fill="#fff" d="M9.998 1H8.477v22h1.521z" opacity=".25"/>
-<path fill="#fff" d="M13.125 12c-.623 0-1.125.502-1.125 1.125v6.75c0 .623.502 1.125 1.125 1.125h6.75c.623 0 1.125-.502 1.125-1.125v-6.75c0-.623-.502-1.125-1.125-1.125zm0 1.125h6.75v1.125h-6.75zm0 2.25h5.063v1.688h-5.063zm5.625 0h1.125v1.688H18.75zm-5.625 2.813h5.063v1.687h-5.063zm5.625 0h1.125v1.687H18.75z" opacity=".5"/>
-<defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F97496"/>
-<stop offset="1" stop-color="#DE2655"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <text x="11.98832" y="11" fill="#ffffff" font-family="Lato" font-size="10px" font-weight="bold" opacity=".9" stroke-width=".88121" text-anchor="middle"><tspan font-size="5.5px" stroke-width=".88121">vdi</tspan></text>
+ <text x="11.98832" y="16.5" fill="#ffffff" font-family="Lato" font-weight="bold" opacity=".9" stroke-width=".88121" text-anchor="middle"><tspan font-size="4px" stroke-width=".88121">virtualbox</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f32a63" offset=".2"/>
+   <stop stop-color="#ff5373" offset=".205"/>
+   <stop stop-color="#bb214a" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>

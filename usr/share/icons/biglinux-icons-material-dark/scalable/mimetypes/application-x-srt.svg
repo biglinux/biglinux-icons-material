@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
- <path d="m6.8461 4.2326v6.0907h3.2792v-0.46836h-1.8728v-1.8741h1.8728v-0.46836h2.8115v-3.2798zm0.46836 0.46836h0.46901v0.93737h-0.46901zm0.93737 0h3.2792v1.8747h-3.2792zm3.7482 0h0.46836v0.93737h-0.46836zm-4.6856 1.4064h0.46901v0.93737h-0.46901v-0.93802zm4.6856 0h0.46836v0.93737h-0.46836v-0.93802zm-4.6856 1.8747h0.46901v0.93673h-0.46901zm3.2798 0v4.6849l1.8747 1.8735v-1.8747h4.6849v-4.6849h-6.5597zm0.46901 0.46772h5.6223v3.7488h-5.6223zm-3.7488 0.93673h0.46901v0.46836h-0.46901z" fill="#000" opacity=".7" stroke-width=".64424"/>
- <g transform="translate(0 1.6486)" alignment-baseline="middle" fill="#000" font-family="Lato" font-weight="bold" opacity=".8" text-anchor="middle">
-  <text x="12" y="18.620001"><tspan font-size="8px">srt</tspan></text>
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <path d="m7.3037 10.585v5.5499h2.988v-0.42677h-1.7065v-1.7077h1.7065v-0.42677h2.5619v-2.9886zm0.42677 0.42677h0.42736v0.85414h-0.42736zm0.85414 0h2.988v1.7082h-2.988zm3.4154 0h0.42677v0.85414h-0.42677zm-4.2695 1.2815h0.42736v0.85414h-0.42736v-0.85473zm4.2695 0h0.42677v0.85414h-0.42677v-0.85473zm-4.2695 1.7082h0.42736v0.85355h-0.42736zm2.9886 0v4.2689l1.7082 1.7071v-1.7082h4.2689v-4.2689h-5.9772zm0.42736 0.42619h5.1231v3.4159h-5.1231zm-3.4159 0.85355h0.42736v0.42677h-0.42736z" fill="#000" opacity=".7" stroke-width=".58703"/>
+ <g transform="translate(0 1.5432)" alignment-baseline="middle" fill="#000" font-family="Lato" font-weight="bold" opacity=".8" text-anchor="middle">
+  <text x="12" y="8"><tspan font-size="8px">srt</tspan></text>
  </g>
  <defs>
   <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">

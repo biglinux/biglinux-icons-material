@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".5" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <text x="11.98832" y="12" fill="#c0d1cd" font-family="Lato" font-size="10px" font-weight="bold" opacity=".9" stroke-width=".88121" text-anchor="middle"><tspan font-size="5.5px" stroke-width=".88121">qemu</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c0d1cd" offset=".2"/>
+   <stop offset=".205"/>
+   <stop stop-color="#454545" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient13" x1="-5" x2="10.969" y1="9.1142" y2="9.1142" gradientTransform="translate(8.9933 9.7716)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c0d1cd" offset="0"/>
+   <stop stop-color="#f5f6ec" offset="1"/>
+  </linearGradient>
+ </defs>
+  <path d="m12.132 14.774c-3.9877-0.09325-7.6954 3.2239-8.1387 7.1582 1.0352 0.67386 2.2711 1.0684 3.6035 1.0684h1.4707c-0.06596-1.2938 0.70862-2.638 2.0117-2.9863 1.4528-0.48358 3.2194 0.3092 3.6797 1.8027 0.10943 0.31808 0.1642 0.65592 0.16406 0.99219 0.0037 0.0648 0.0048 0.12813 0.0039 0.19141h1.4707c1.3161 0 2.5371-0.38619 3.5645-1.0449-0.33175-3.3573-2.9899-6.3578-6.3359-6.9824-0.49878-0.12245-0.99823-0.18762-1.4941-0.19922z" fill="url(#linearGradient13)" style="-inkscape-stroke:hairline"/>
+  <path d="m11.717 18.792c-2.1773 0.07328-3.7236 2.1613-3.6973 4.1973h2.0137c-0.08751-0.56504 0.06471-1.1548 0.57031-1.6055 0.3656-0.37634 0.89629-0.5883 1.418-0.58789 1.2814-0.07484 2.0251 1.1006 1.9668 2.1934h2.0391c0.13741-2.1956-1.7693-4.2525-4.0059-4.1934-0.10297-0.0054-0.2043-0.0073-0.30469-0.0039z" fill="#fff" opacity="1" style="-inkscape-stroke:hairline"/>
+ <text x="11.98832" y="18.5" fill="#e76b20" font-family="Lato" font-weight="bold" opacity=".4723" stroke-width=".881" text-anchor="middle"><tspan fill="#010101" font-size="4px" stroke-width=".881">disk</tspan></text>
+</svg>

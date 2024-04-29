@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
- <g transform="translate(0,-2)" fill="#fff" opacity=".9">
+ <g transform="matrix(.83468 0 0 .83468 1.9838 4.4406)" fill="#fff" opacity=".9">
   <path d="m12 6.683a5.317 5.317 0 1 0 0 10.634 5.317 5.317 0 0 0 0-10.634m0 0.665a4.652 4.652 0 1 1 0 9.304 4.652 4.652 0 0 1 0-9.304"/>
   <path d="m11.867 8.677a3.32 3.32 0 0 0-2.205 0.842l0.472 0.472a2.66 2.66 0 0 1 1.733-0.65 2.66 2.66 0 0 1 2.659 2.659h0.664a3.324 3.324 0 0 0-3.323-3.323m-3.007 1.92a3.3 3.3 0 0 0-0.315 1.403h0.663a2.7 2.7 0 0 1 0.159-0.896z"/>
   <path d="m12.76 10.116-1.426 3.309a0.8 0.8 0 0 0-0.185 0.388l-5e-3 0.01h4e-3c-0.059 0.372 0.148 0.721 0.478 0.805 0.331 0.083 0.68-0.126 0.803-0.484l5e-3 1e-3v-0.018l0.016-0.05a0.8 0.8 0 0 0 4e-3 -0.367z"/>
  </g>
- <g transform="translate(0 1.1737)" alignment-baseline="middle" fill="#fafafa" font-family="Lato" font-weight="bold" text-anchor="middle">
-  <text x="12" y="18.620001"><tspan font-size="5px">rpm</tspan></text>
+ <g transform="translate(0 1.0683)" alignment-baseline="middle" fill="#fafafa" font-family="Lato" font-weight="bold" text-anchor="middle">
+  <text x="12" y="7"><tspan font-size="5px">rpm</tspan></text>
  </g>
  <defs>
   <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">

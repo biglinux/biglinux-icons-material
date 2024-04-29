@@ -1,1 +1,15 @@
-/usr/share/icons/biglinux-icons-material-dark/scalable/mimetypes/font-x-generic.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <text id="labelText" x="12" y="11.781114" alignment-baseline="middle" fill="#eeeeee" font-family="Sans" font-size="7px" letter-spacing=".5px" text-anchor="middle"><tspan>font</tspan></text>
+ <g transform="matrix(.88121 0 0 .88121 1.4138 1.1623)" alignment-baseline="middle" fill="#eee" font-family="Lato" font-weight="bold" text-anchor="middle">
+  <text x="12" y="19"><tspan font-size="5.5px">package</tspan></text>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#636363" offset=".2"/>
+   <stop stop-color="#888" offset=".205"/>
+   <stop stop-color="#5f5f5f" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

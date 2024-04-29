@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="a" x1="12" x2="12" y1=".855" y2="23.145" gradientUnits="userSpaceOnUse">
+<stop offset="0" style="stop-color:#f3c7a4"/>
+<stop offset="1" style="stop-color:#d59868"/>
+</linearGradient>
+</defs>
+<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="-inkscape-stroke:hairline;stroke-opacity:.20281;stroke:gray;vector-effect:non-scaling-stroke"/>
+ <path d="m11 9.994v3.249c0 0.138 0.111 0.25 0.25 0.25h1.5a0.25 0.25 0 0 0 0.25-0.25v-3.249zm0.5 2h1v0.999h-1v-1z" fill="#2f2216" opacity="0.85"/>
+ <path d="m12 0.999c-12-2.999-12-2.999 0 0zm0 0v0.999h1v-1zm0 0.999h-1v1h1zm0 1v0.999h1v-1h-1zm0 0.999h-1v1h1zm0 1v0.999h1v-1zm0 0.999h-1v1h1zm0 1v1h1v-1zm0 1h-1v0.999h1zm0 0.999v1h1v-1z" fill="#2f2216" opacity="0.85"/>
+ <g transform="translate(0 -.79119)" alignment-baseline="middle" fill="#2f2216" font-family="Lato" font-weight="bold" text-anchor="middle">
+  <text x="12" y="18.620001" opacity="0.85"><tspan font-size="5px">zipped</tspan></text>
+ </g>
+</svg>

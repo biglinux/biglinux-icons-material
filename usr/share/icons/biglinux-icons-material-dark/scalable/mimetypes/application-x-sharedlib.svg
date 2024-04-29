@@ -1,10 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path fill="#555" d="m14.871 5-.065.782a2.3 2.3 0 0 0-.682.395l-.711-.335-.743 1.286.646.448a2.3 2.3 0 0 0-.002.789l-.644.446.743 1.287.71-.334c.203.168.434.3.683.392l.065.783h1.485l.065-.782c.248-.092.479-.225.682-.394l.711.335.743-1.286-.646-.449a2.3 2.3 0 0 0 .036-.393q0-.2-.034-.396l.644-.446-.743-1.286-.709.334a2.3 2.3 0 0 0-.684-.392L16.356 5H14.87Zm.743 1.98a.99.99 0 1 1 0 1.98.99.99 0 0 1 0-1.98m-6.47 3.535-.094 1.117a3.3 3.3 0 0 0-.974.564l-1.015-.478L6 13.555l.922.64a3.3 3.3 0 0 0-.002 1.127L6 15.96l1.06 1.837 1.014-.477c.291.241.621.43.976.56L9.144 19h2.121l.093-1.117c.355-.132.684-.322.975-.564l1.015.478 1.06-1.837-.921-.64a3.3 3.3 0 0 0 .002-1.127l.92-.638-1.06-1.837-1.014.477a3.3 3.3 0 0 0-.976-.56l-.094-1.12zm1.06 2.828a1.416 1.416 0 0 1 1 2.414 1.417 1.417 0 0 1-2 0 1.414 1.414 0 0 1 1-2.414"/>
-<defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#DDD"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <text x="11.98832" y="10.948756" fill="#00d9d9" font-family="Lato" font-size="10px" font-weight="bold" opacity=".9" stroke-width=".88121" text-anchor="middle"><tspan font-size="4.8466px" stroke-width=".88121">LIB</tspan></text>
+ <text x="11.98832" y="15.948756" fill="#00baba" font-family="Lato" font-size="10.574px" font-weight="bold" opacity=".9" stroke-width=".88121" text-anchor="middle"><tspan font-size="4.8466px" stroke-width=".88121">shared</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00baba" offset=".2"/>
+   <stop stop-color="#485e68" offset=".205"/>
+   <stop stop-color="#35454c" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>

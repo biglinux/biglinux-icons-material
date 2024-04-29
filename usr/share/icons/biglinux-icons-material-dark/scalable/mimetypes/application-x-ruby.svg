@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
- <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity="0.9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
-<path fill="#f1f1f1" d="m16.395 5-3.737.477c.545.272 1.293.204 1.521 1.003zm.957.064-2.148 1.243 3.685-.035zm-5.559 1.304c-.443.026-.975.177-1.568.472-1.897.945-3.683 2.977-3.99 4.535s.98 2.054 2.878 1.109c1.896-.945 3.682-2.972 3.99-4.53.21-1.071-.333-1.641-1.31-1.586m1.77 2.928 4.457-.064-3.673-2.22c-.005.706-.385 1.92-.784 2.284m5.39-.021L19 6.994l-3.84-.242zm-.207.557-4.451.069 3.232 2.185zm-5.416.238c-2.379 3.18-8.017 6.388-8.067 1.595L5 17.295c.06.34.496 1.353 1.95 1.627 3.687.129 6.208.177 11.282-.514.428-2.372.402-4.82.514-7.245-1.637 2.543-3.442 4.496-5.799 5.693 1.651-1.37 3-2.87 4.257-4.388z" opacity="0.9"/>
-<defs>
-  <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
-   <stop  style="stop-color:#f1f1f1" offset="0.2"/>
-   <stop  style="stop-color:#d35050" offset="0.205"/>
-   <stop  style="stop-color:#ff4c4c" offset="1"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <path d="m14.696 10.546-2.2926 0.29263c0.33436 0.16687 0.79325 0.12515 0.93308 0.61534zm0.58711 0.03927-1.3178 0.76258 2.2607-0.02148zm-3.4105 0.8c-0.27178 0.01595-0.59816 0.10859-0.96192 0.28957-1.1638 0.57976-2.2595 1.8264-2.4478 2.7822-0.18834 0.95586 0.60123 1.2601 1.7657 0.68037 1.1632-0.57976 2.2589-1.8233 2.4478-2.7791 0.12883-0.65706-0.2043-1.0068-0.80368-0.97304m1.0859 1.7963 2.7344-0.03927-2.2534-1.362c-0.0031 0.43312-0.2362 1.1779-0.48098 1.4012m3.3068-0.01288 0.02883-1.3994-2.3558-0.14846zm-0.127 0.34172-2.7306 0.04233 1.9829 1.3405zm-3.3227 0.14601c-1.4595 1.951-4.9184 3.919-4.9491 0.97855l-0.16135 3.4539c0.03681 0.20859 0.30429 0.83006 1.1963 0.99816 2.262 0.07914 3.8086 0.10859 6.9214-0.31534 0.26258-1.4552 0.24663-2.9571 0.31534-4.4448-1.0043 1.5601-2.1117 2.7583-3.5577 3.4926 1.0129-0.84049 1.8405-1.7608 2.6117-2.6921z" fill="#f1f1f1" opacity=".9" stroke-width=".6135"/>
+ <g transform="translate(0 1.0682)" alignment-baseline="middle" fill="#fafafa" font-family="Lato" font-weight="bold" text-anchor="middle">
+  <text x="12" y="7"><tspan font-size="5px">ruby</tspan></text>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f1f1f1" offset=".2"/>
+   <stop stop-color="#d35050" offset=".205"/>
+   <stop stop-color="#ff4c4c" offset="1"/>
   </linearGradient>
-</defs>
+ </defs>
 </svg>

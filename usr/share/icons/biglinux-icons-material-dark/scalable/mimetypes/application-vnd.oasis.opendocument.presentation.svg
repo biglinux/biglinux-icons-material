@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
- <path d="m7.3114 4.8386v0.62515h0.62515v5.0231c0 0.34133 0.28444 0.62515 0.62515 0.62515h3.1258v0.75956l-1.7004 1.1528c-0.16254 0.07814-0.22005 0.3207-0.11753 0.46886 0.10252 0.14754 0.33821 0.16254 0.46886 0.03876l1.6617-1.1328 1.6617 1.1328c0.13066 0.12378 0.36696 0.10878 0.46886-0.03876 0.10252-0.14816 0.04439-0.39072-0.1169-0.46886l-1.701-1.1528v-0.75956h3.1258c0.34071 0 0.62515-0.28382 0.62515-0.62515v-5.0231h0.62515v-0.62515zm1.2503 0.62515h6.8767v4.6886c0 0.31258-0.31258 0.31258-0.31258 0.31258h-6.2515c-0.31258 0-0.31258-0.31258-0.31258-0.31258zm1.8755 1.2503a1.2503 1.2503 0 1 0 1.2503 1.2503h-1.2503zm1.8755 0v0.62515h2.5006v-0.62515zm0 1.2503v0.62515h1.8755v-0.62515z" color="#000000" fill="#b8ffff"/>
- <text id="labelText" x="12" y="19.472914" alignment-baseline="middle" fill="#b8ffff" font-family="Sans" font-size="5.5px" letter-spacing=".5px" text-anchor="middle"><tspan>odp</tspan></text>
+ <path d="m7.3114 10.736v0.56509h0.62515v4.5405c0 0.30854 0.28444 0.56509 0.62515 0.56509h3.1258v0.68659l-1.7004 1.042c-0.16254 0.07063-0.22005 0.28989-0.11753 0.42382 0.10252 0.13337 0.33821 0.14692 0.46886 0.03504l1.6617-1.024 1.6617 1.024c0.13066 0.11189 0.36696 0.09833 0.46886-0.03504 0.10252-0.13393 0.04439-0.35318-0.1169-0.42382l-1.701-1.042v-0.68659h3.1258c0.34071 0 0.62515-0.25655 0.62515-0.56509v-4.5405h0.62515v-0.56509zm1.2503 0.56509h6.8767v4.2382c0 0.28255-0.31258 0.28255-0.31258 0.28255h-6.2515c-0.31258 0-0.31258-0.28255-0.31258-0.28255zm1.8755 1.1302a1.2503 1.1302 0 1 0 1.2503 1.1302h-1.2503zm1.8755 0v0.56509h2.5006v-0.56509zm0 1.1302v0.56509h1.8755v-0.56509z" color="#000000" fill="#fff" stroke-width=".95075"/>
+ <g transform="translate(0 -8.9288)" alignment-baseline="middle" fill="#fff" font-family="Lato" text-anchor="middle">
+  <text x="12" y="18"><tspan font-size="5.5px">odp</tspan></text>
+ </g>
  <defs>
   <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#b8ffff" offset=".2"/>
-   <stop stop-color="#f09341" offset=".205"/>
+   <stop stop-color="#cd5838" offset=".2"/>
+   <stop stop-color="#e68d3e" offset=".205"/>
    <stop stop-color="#d0120d" offset="1"/>
   </linearGradient>
  </defs>

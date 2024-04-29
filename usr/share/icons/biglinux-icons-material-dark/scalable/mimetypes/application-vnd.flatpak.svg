@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
- <path d="m12.268 3.7758-4.9152 2.6466v5.6852l4.9152 2.6466 4.9144-2.6466v-5.6852zm0 0.7975 3.8236 2.0584-3.8236 2.0592-3.8236-2.0592z" clip-rule="evenodd" fill="#fff" fill-rule="evenodd" stroke-width=".78417"/>
+ <path d="m12.268 10.821-3.7902 2.0408v4.3839l3.7902 2.0408 3.7895-2.0408v-4.3839zm0 0.61496 2.9484 1.5873-2.9484 1.5879-2.9484-1.5879z" clip-rule="evenodd" fill="#fff" fill-rule="evenodd" stroke-width=".60468"/>
  <g transform="translate(0 .85741)" alignment-baseline="middle" fill="#fff" font-family="Lato" font-weight="bold" text-anchor="middle">
-  <text x="12" y="18.620001"><tspan font-size="5px">flatpak</tspan></text>
+  <text x="12" y="8"><tspan font-size="5px">flatpak</tspan></text>
  </g>
  <defs>
   <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#68aed4" offset=".2"/>
-   <stop stop-color="#83C9F0" offset=".205"/>
-   <stop stop-color="#3A9BD1" offset="1"/>
+   <stop stop-color="#3A9BD1" offset=".2"/>
+   <stop stop-color="#69b1d7" offset=".205"/>
+   <stop stop-color="#2e7fa7" offset="1"/>
   </linearGradient>
  </defs>
 </svg>

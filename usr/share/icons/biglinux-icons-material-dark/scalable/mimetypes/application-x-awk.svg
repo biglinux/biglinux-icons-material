@@ -1,1 +1,15 @@
-/usr/share/icons/biglinux-icons-material-dark/scalable/mimetypes/text-x-script.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".5" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+
+ <g transform="translate(0 1.4548)" alignment-baseline="middle" fill="#58c34f" font-family="Lato" font-weight="bold" text-anchor="middle">
+  <text x="12" y="13"><tspan font-size="5px">AWK</tspan></text>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#50b348" offset=".2"/>
+   <stop offset=".205"/>
+   <stop stop-color="#454545" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

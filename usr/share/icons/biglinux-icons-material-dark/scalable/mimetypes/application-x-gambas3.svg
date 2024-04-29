@@ -1,1 +1,14 @@
-/usr/share/icons/biglinux-icons-material-dark/scalable/mimetypes/text-xml.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <g transform="matrix(.88121 0 0 .88121 1.4138 3.619)" alignment-baseline="middle" fill="#ffb9a1" font-family="Lato" font-weight="bold" text-anchor="middle">
+  <text x="12" y="12"><tspan font-size="5.5px">Gambas</tspan></text>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffb286" offset=".2"/>
+   <stop stop-color="#077d9d" offset=".205"/>
+   <stop stop-color="#055c72" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

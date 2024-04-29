@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
- <path d="m7.2918 13.643h9.4165v-7.8476h-9.4165zm0.78496-7.0626h1.5692v1.5692h-1.5692zm2.3542 0h5.4927v1.5692h-5.4927zm-2.3542 2.3542h1.5692v1.5692h-1.5692zm2.3542 0h5.4927v1.5692h-5.4927zm-2.3542 2.3542h1.5692v1.5692h-1.5692zm2.3542 0h5.4927v1.5692h-5.4927z" fill="#b8ffff" stroke-width=".67263"/>
- <text id="labelText" x="12" y="19.648609" alignment-baseline="middle" fill="#b8ffff" font-family="Sans" font-size="5.5px" letter-spacing=".5px" text-anchor="middle"><tspan>ods</tspan></text>
+ <path d="m7.2851 17.998h9.4299v-7.1934h-9.4299zm0.78608-6.4738h1.5714v1.4384h-1.5714zm2.3576 0h5.5005v1.4384h-5.5005zm-2.3576 2.1579h1.5714v1.4384h-1.5714zm2.3576 0h5.5005v1.4384h-5.5005zm-2.3576 2.1579h1.5714v1.4384h-1.5714zm2.3576 0h5.5005v1.4384h-5.5005z" fill="none" stroke="#fefefe" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".407" style="paint-order:normal"/>
+ <g transform="translate(0 -8.4047)" alignment-baseline="middle" fill="#fff" font-family="Lato" text-anchor="middle">
+  <text x="12" y="18"><tspan font-size="5.5px">ods</tspan></text>
+ </g>
  <defs>
   <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#b8ffff" offset=".2"/>
-   <stop stop-color="#6dd743" offset=".205"/>
+   <stop stop-color="#009543" offset=".2"/>
+   <stop stop-color="#65b437" offset=".205"/>
    <stop stop-color="#006c34" offset="1"/>
   </linearGradient>
  </defs>

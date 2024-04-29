@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".5" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
- <path d="m10.465 5.9143-0.13476 1.6032c-0.51294 0.18779-0.99024 0.46078-1.4102 0.80853l-1.4701-0.68682-1.5353 2.636 1.3345 0.91808a4.7816 4.7816 0 0 0-0.073898 0.80679q0 0.40774 0.070421 0.81027l-1.331 0.9146 1.5353 2.636 1.4667-0.68421a4.8686 4.8686 0 0 0 1.4136 0.80245l0.13389 1.6066h3.0707l0.13476-1.6032a4.8686 4.8686 0 0 0 1.4102-0.80853l1.4701 0.68682 1.5362-2.636-1.3345-0.91808a4.8686 4.8686 0 0 0 0.073898-0.80679 4.7816 4.7816 0 0 0-0.07042-0.81027l1.331-0.9146-1.5353-2.636-1.4667 0.68421a4.8686 4.8686 0 0 0-1.4136-0.80245l-0.13389-1.6066zm1.5353 4.0574c0.5425 0 1.0633 0.213 1.4475 0.59379a2.0196 2.0196 0 0 1 0 2.869 2.0605 2.0605 0 0 1-1.4475 0.59379 2.0605 2.0605 0 0 1-1.4475-0.59379 2.017 2.017 0 0 1 0-2.869 2.0605 2.0605 0 0 1 1.4475-0.59379" fill="url(#linearGradient5)" stroke-width=".86939"/>
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <path d="m10.899 9.9522-0.09664 1.1496c-0.36783 0.13466-0.7101 0.33042-1.0112 0.57979l-1.0542-0.49251-1.101 1.8903 0.95696 0.65835a3.4289 3.4289 0 0 0-0.052992 0.57854q0 0.29239 0.050498 0.58104l-0.95445 0.65585 1.101 1.8903 1.0518-0.49064a3.4912 3.4912 0 0 0 1.0137 0.57543l0.09601 1.1521h2.202l0.09664-1.1496a3.4912 3.4912 0 0 0 1.0112-0.57979l1.0542 0.49251 1.1016-1.8903-0.95696-0.65835a3.4912 3.4912 0 0 0 0.05299-0.57854 3.4289 3.4289 0 0 0-0.0505-0.58104l0.95445-0.65585-1.101-1.8903-1.0518 0.49064a3.4912 3.4912 0 0 0-1.0137-0.57543l-0.09601-1.1521zm1.101 2.9095c0.38902 0 0.76248 0.15274 1.038 0.4258a1.4482 1.4482 0 0 1 0 2.0573 1.4776 1.4776 0 0 1-1.038 0.4258 1.4776 1.4776 0 0 1-1.038-0.4258 1.4464 1.4464 0 0 1 0-2.0573 1.4776 1.4776 0 0 1 1.038-0.4258" fill="url(#linearGradient5)" stroke-width=".62343"/>
+ <g transform="translate(0 1.487)" alignment-baseline="middle" fill="#565656" font-family="Lato" font-weight="bold" text-anchor="middle">
+  <text x="12" y="7"><tspan font-size="5px">exec</tspan></text>
+ </g>
  <defs>
   <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#565656" offset=".2"/>
    <stop stop-color="#fff" offset=".205"/>
    <stop stop-color="#dadada" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient5" x1="5" x2="19" y1="12" y2="12" gradientTransform="matrix(.86939 0 0 .86939 1.5673 1.5673)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient5" x1="5" x2="19" y1="12" y2="12" gradientTransform="matrix(.62343 0 0 .62343 4.5189 6.835)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#565656" offset="0"/>
    <stop stop-color="#262626" offset="1"/>
   </linearGradient>

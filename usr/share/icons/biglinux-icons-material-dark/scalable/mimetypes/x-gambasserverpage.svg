@@ -1,1 +1,32 @@
-/usr/share/icons/biglinux-icons-material-dark/scalable/mimetypes/text-xml.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+  <g transform="matrix(.88121 0 0 .88121 1.4138 1.9353)" text-anchor="middle" alignment-baseline="middle" fill="#ffb9a1" font-family="Lato" font-weight="bold">
+   <text x="12" y="12"><tspan font-size="5.5px">Gambas</tspan></text>
+ </g>
+  <g transform="matrix(.88121 0 0 .88121 1.4138 1.9353)" text-anchor="middle" alignment-baseline="middle" fill="#ffffff" font-family="Lato" font-weight="bold">
+   <text x="12" y="18.620001" opacity="0.9"><tspan font-size="5px">server</tspan></text>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffb286" offset=".2"/>
+   <stop stop-color="#077d9d" offset=".205"/>
+   <stop stop-color="#055c72" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>
+
+
+
+
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity="0.9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
+ <text id="labelText" x="12" y="16" text-anchor="middle" alignment-baseline="middle" style="font-size:7px;font-family:Sans;letter-spacing:0.5px;text-anchor:middle;fill:#D85ECA"><tspan>XML</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop  style="stop-color:#D85ECA" offset="0.2"/>
+   <stop  style="stop-color:#fff" offset="0.205"/>
+   <stop  style="stop-color:#dadada" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

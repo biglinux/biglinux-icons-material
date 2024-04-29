@@ -1,1 +1,27 @@
-/usr/share/icons/biglinux-icons-material-dark/scalable/mimetypes/image-x-generic.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <g transform="matrix(.64745 0 0 .64745 3.9633 6.3807)">
+  <path d="m9.333 10.639a1.7945 1.7945 0 1 0 0-3.589 1.7945 1.7945 0 0 0 0 3.589m4.979-0.544a1.27 1.27 0 0 0-1.155 0.743l-1.27 2.205-0.021 0.036-0.013 0.023h-2e-3a0.934 0.934 0 0 1-1.228 0.313 0.9 0.9 0 0 1-0.337-0.313h-2e-3l-0.348-0.349a1.293 1.293 0 0 0-2.247 0.36l-0.897 1.726q-0.052 0.09-0.095 0.183l-0.023 0.045 2e-3 3e-3a2.12 2.12 0 0 0-0.014 1.655 2.12 2.12 0 0 0 2.008 1.31h6.589l0.047 1e-3a2.124 2.124 0 0 0 1.922-3.024l4e-3 -5e-3 -1.713-4.035a1.3 1.3 0 0 0-0.087-0.204l-0.013-0.031h-4e-3a1.27 1.27 0 0 0-1.103-0.642" fill="#000" opacity=".07735" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".173"/>
+  <path d="m9.883 10.089a1.795 1.795 0 1 0 0-3.59 1.795 1.795 0 0 0 0 3.59" fill="url(#b)"/>
+  <path d="m14.862 9.545a1.27 1.27 0 0 0-1.155 0.743l-1.27 2.205-0.021 0.036-0.013 0.023h-3e-3a0.934 0.934 0 0 1-1.228 0.313 0.9 0.9 0 0 1-0.337-0.313h-2e-3l-0.348-0.349a1.293 1.293 0 0 0-2.247 0.36l-0.897 1.726q-0.052 0.09-0.095 0.183l-0.023 0.045 2e-3 3e-3a2.12 2.12 0 0 0-0.014 1.655 2.12 2.12 0 0 0 2.008 1.31h6.589l0.047 1e-3a2.124 2.124 0 0 0 1.922-3.024l4e-3 -5e-3 -1.713-4.035a1.3 1.3 0 0 0-0.087-0.204l-0.013-0.031h-3e-3a1.27 1.27 0 0 0-1.104-0.642z" fill="url(#c)"/>
+ </g>
+ <g transform="matrix(.88121 0 0 .88121 1.4138 2.7084)" alignment-baseline="middle" fill="#fff" font-family="Lato" font-weight="bold" opacity=".9" text-anchor="middle">
+  <text x="12"  y="7"><tspan font-size="5.5px">jpg</tspan></text>
+ </g>
+ <defs>
+  <linearGradient id="b" x1="8.626" x2="11.245" y1="9.359" y2="7.15" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#CBC900" offset="0"/>
+   <stop stop-color="#F4ED12" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="6.983" x2="17.978" y1="16.954" y2="10.606" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#84FAA1" offset="0"/>
+   <stop stop-color="#33C478" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#719fe4" offset=".2"/>
+   <stop stop-color="#95BFFF" offset=".205"/>
+   <stop stop-color="#5089df" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

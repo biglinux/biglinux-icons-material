@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
- <path d="m13.089 13.245-3.5612-3.5612 3.5612-3.5612 1.1866 1.1873-2.3739 2.3739 1.1873 1.1866 3.5612-3.5603-3.1023-3.1015a0.64749 0.64749 0 0 0-0.91781 0l-5.0164 5.0164a0.64749 0.64749 0 0 0 0 0.91781l5.0164 5.0164a0.64749 0.64749 0 0 0 0.91781 0l5.0164-5.0164a0.64749 0.64749 0 0 0 0-0.91781l-0.72842-0.72842z" fill="#fff" stroke-width=".80935"/>
- <g transform="translate(1.0864 1.5953)" alignment-baseline="middle" fill="#fafafa" font-family="Lato" font-weight="bold" text-anchor="middle">
-  <text x="12" y="18.620001"><tspan font-size="5px">epub</tspan></text>
+ <path d="m13.089 17.754-2.4569-2.4569 2.4569-2.4569 0.81865 0.81913-1.6378 1.6378 0.81913 0.81865 2.4569-2.4563-2.1403-2.1398a0.44671 0.44671 0 0 0-0.63321 0l-3.4609 3.4609a0.44671 0.44671 0 0 0 0 0.63321l3.4609 3.4609a0.44671 0.44671 0 0 0 0.63321 0l3.4609-3.4609a0.44671 0.44671 0 0 0 0-0.63321l-0.50254-0.50254z" fill="#fff" stroke-width=".55838"/>
+ <g transform="translate(1.0864 .57627)" alignment-baseline="middle" fill="#fafafa" font-family="Lato" font-weight="bold" text-anchor="middle">
+  <text x="12" y="8.5"><tspan font-size="5px">epub</tspan></text>
  </g>
  <defs>
   <linearGradient id="a" x2="1" y1="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#77B430" offset=".2"/>
-   <stop stop-color="#a0d623" offset=".205"/>
-   <stop stop-color="#8abb1f" offset="1"/>
+   <stop stop-color="#608c25" offset=".2"/>
+   <stop stop-color="#6ca12b" offset=".205"/>
+   <stop stop-color="#608c25" offset="1"/>
   </linearGradient>
  </defs>
 </svg>

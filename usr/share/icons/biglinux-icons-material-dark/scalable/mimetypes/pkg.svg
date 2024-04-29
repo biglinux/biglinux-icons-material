@@ -1,50 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x=".59035" y=".59035" width="22.819" height="22.819" rx="6.8458" fill="url(#a)" stroke="#808080" opacity=".9" stroke-opacity=".1" stroke-width="1.0372" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
- <g transform="matrix(.94846 0 0 .94846 .82663 1.0912)" fill="#6b71e2" style="fill:#22ad51">
-  <path d="m11.098 1v1.366h1.365v-1.366zm1.365 1.366v1.366h1.366v-1.366zm0 1.366h-1.365v1.366h1.365zm-1.365 0v-1.366h-1.366v1.366zm0 5.452v0.011h1.365v-0.01z" opacity=".4" style="fill:#22ad51"/>
-  <path d="m9.732 3.732v1.366h1.366v-1.366zm1.366 1.366v1.365h2.731v-2.731h-1.366v1.366zm0 1.365h-1.366v1.366h1.366z" opacity=".6" style="fill:#22ad51"/>
-  <path d="m11.098 6.463v1.366h1.365v-1.366zm1.365 1.366v1.366h-1.365v-1.365h-1.366v1.267h-2.732l4.78 5.903 4.781-5.904-2.732 1e-3v-1.267z" style="fill:#22ad51"/>
+ <rect x=".59035" y=".59035" width="22.819" height="22.819" rx="6.8458" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".1" stroke-width="1.0372" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <g transform="matrix(.81625 0 0 .81625 2.3841 8.2192)" fill="#0f0">
+  <path d="m11.098 1v1.366h1.365v-1.366zm1.365 1.366v1.366h1.366v-1.366zm0 1.366h-1.365v1.366h1.365zm-1.365 0v-1.366h-1.366v1.366zm0 5.452v0.011h1.365v-0.01z" opacity=".4"/>
+  <path d="m9.732 3.732v1.366h1.366v-1.366zm1.366 1.366v1.365h2.731v-2.731h-1.366v1.366zm0 1.365h-1.366v1.366h1.366z" opacity=".6"/>
+  <path d="m11.098 6.463v1.366h1.365v-1.366zm1.365 1.366v1.366h-1.365v-1.365h-1.366v1.267h-2.732l4.78 5.903 4.781-5.904-2.732 1e-3v-1.267z"/>
  </g>
- <g transform="translate(0 .50602)" alignment-baseline="middle" fill="#6b71e2" font-family="Lato" font-weight="bold" text-anchor="middle">
+ <g transform="translate(0 1.2088)" alignment-baseline="middle" fill="#fafafa" font-family="Lato" font-weight="bold" text-anchor="middle">
   <switch>
-   <text x="12" y="18.620001" systemLanguage="pt"><tspan font-size="5px">instalar</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="es"><tspan font-size="5px">instalar</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="he"><tspan font-size="5px">להתקין</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="zh"><tspan font-size="5px">安装</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="ar"><tspan font-size="5px">تثبيت</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="be"><tspan font-size="3px">інсталюваць</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="bg"><tspan font-size="3px">инсталирай</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="bn"><tspan font-size="5px">ইনস্টল</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="cs"><tspan font-size="4px">instalovat</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="da"><tspan font-size="4px">installere</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="id"><tspan font-size="5px">pasang</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="hi"><tspan font-size="5px">इंस्टॉल</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="hr"><tspan font-size="4px">instaliraj</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="de"><tspan font-size="4px">installier</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="ja"><tspan font-size="3px">インストール</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="nl"><tspan font-size="4px">installeren</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="et"><tspan font-size="5px">installi</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="ko"><tspan font-size="5px">설치</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="fr"><tspan font-size="5px">installer</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="fi"><tspan font-size="5px">asentaa</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="hu"><tspan font-size="5px">telepít</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="is"><tspan font-size="5px">setja upp</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="it"><tspan font-size="4px">installare</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="nb"><tspan font-size="4px">installere</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="ro"><tspan font-size="4px">instalează</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="ru"><tspan font-size="4px">установить</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="sk"><tspan font-size="4px">inštalovať</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="sl"><tspan font-size="5px">namesti</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="sv"><tspan font-size="5px">installera</tspan></text>
-   <text x="12" y="18.620001" systemLanguage="tr"><tspan font-size="5px">kurulum</tspan></text>
-   <text x="12" y="18.620001"><tspan font-size="5px">install</tspan></text>
+   <text x="12" y="6.5" systemLanguage="pt"><tspan font-size="5px">instalar</tspan></text>
+   <text x="12" y="6.5" systemLanguage="es"><tspan font-size="5px">instalar</tspan></text>
+   <text x="12" y="6.5" systemLanguage="he"><tspan font-size="5px">להתקין</tspan></text>
+   <text x="12" y="6.5" systemLanguage="zh"><tspan font-size="5px">安装</tspan></text>
+   <text x="12" y="6.5" systemLanguage="ar"><tspan font-size="5px">تثبيت</tspan></text>
+   <text x="12" y="6.5" systemLanguage="be"><tspan font-size="3px">інсталюваць</tspan></text>
+   <text x="12" y="6.5" systemLanguage="bg"><tspan font-size="3px">инсталирай</tspan></text>
+   <text x="12" y="6.5" systemLanguage="bn"><tspan font-size="5px">ইনস্টল</tspan></text>
+   <text x="12" y="6.5" systemLanguage="cs"><tspan font-size="4px">instalovat</tspan></text>
+   <text x="12" y="6.5" systemLanguage="da"><tspan font-size="4px">installere</tspan></text>
+   <text x="12" y="6.5" systemLanguage="id"><tspan font-size="5px">pasang</tspan></text>
+   <text x="12" y="6.5" systemLanguage="hi"><tspan font-size="5px">इंस्टॉल</tspan></text>
+   <text x="12" y="6.5" systemLanguage="hr"><tspan font-size="4px">instaliraj</tspan></text>
+   <text x="12" y="6.5" systemLanguage="de"><tspan font-size="4px">installier</tspan></text>
+   <text x="12" y="6.5" systemLanguage="ja"><tspan font-size="3px">インストール</tspan></text>
+   <text x="12" y="6.5" systemLanguage="nl"><tspan font-size="4px">installeren</tspan></text>
+   <text x="12" y="6.5" systemLanguage="et"><tspan font-size="5px">installi</tspan></text>
+   <text x="12" y="6.5" systemLanguage="ko"><tspan font-size="5px">설치</tspan></text>
+   <text x="12" y="6.5" systemLanguage="fr"><tspan font-size="5px">installer</tspan></text>
+   <text x="12" y="6.5" systemLanguage="fi"><tspan font-size="5px">asentaa</tspan></text>
+   <text x="12" y="6.5" systemLanguage="hu"><tspan font-size="5px">telepít</tspan></text>
+   <text x="12" y="6.5" systemLanguage="is"><tspan font-size="5px">setja upp</tspan></text>
+   <text x="12" y="6.5" systemLanguage="it"><tspan font-size="4px">installare</tspan></text>
+   <text x="12" y="6.5" systemLanguage="nb"><tspan font-size="4px">installere</tspan></text>
+   <text x="12" y="6.5" systemLanguage="ro"><tspan font-size="4px">instalează</tspan></text>
+   <text x="12" y="6.5" systemLanguage="ru"><tspan font-size="4px">установить</tspan></text>
+   <text x="12" y="6.5" systemLanguage="sk"><tspan font-size="4px">inštalovať</tspan></text>
+   <text x="12" y="6.5" systemLanguage="sl"><tspan font-size="5px">namesti</tspan></text>
+   <text x="12" y="6.5" systemLanguage="sv"><tspan font-size="5px">installera</tspan></text>
+   <text x="12" y="6.5" systemLanguage="tr"><tspan font-size="5px">kurulum</tspan></text>
+   <text x="12" y="6.5"><tspan font-size="5px">install</tspan></text>
   </switch>
  </g>
  <defs>
-  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#6b71e2" offset=".2"/>
-   <stop  style="stop-color:#fff" offset="0.205"/>
-   <stop  style="stop-color:#dadada" offset="1"/>
+  <linearGradient id="a" x1="1.0355" x2=".057686" y1="1.0829" y2=".035287" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#646ea6" offset=".2"/>
+   <stop stop-color="#7887ca" offset="0"/>
+   <stop stop-color="#41498a" offset="1"/>
   </linearGradient>
  </defs>
 </svg>

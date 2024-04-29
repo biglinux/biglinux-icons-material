@@ -1,10 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
-<rect width="22" height="22" x="1" y="1" opacity="0.85" fill="url(#a)" rx="6.6" style="vector-effect:non-scaling-stroke;-inkscape-stroke:hairline;stroke-width:1;stroke-dasharray:none;stroke:gray;stroke-opacity:.2"/>
-<path fill="#F55" fill-rule="evenodd" d="m11.607 4-.777 1.002-1.233-.281-.334 1.22-1.247.214.158 1.255-1.07.675.628 1.1L7 10.217l1 .775-.279 1.234 1.22.333.214 1.247.488-.062V20l2.762-2.01L15.167 20v-5.911l.059.014.334-1.22 1.247-.215-.16-1.255 1.072-.674-.628-1.1.73-1.033-.998-.776.279-1.233-1.22-.334-.214-1.246-1.255.158-.675-1.07-1.1.626L11.608 4Zm.804 2.59a3.006 3.006 0 1 1 0 6.012 3.006 3.006 0 0 1 0-6.013Z" clip-rule="evenodd"/>
-<defs>
-<linearGradient id="a" gradientTransform="scale(33)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F4F4F4"/>
-<stop offset="1" stop-color="#DDD"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <path d="m11.941 10.029-0.4539 0.58533-0.72027-0.16414-0.19511 0.71267-0.72845 0.12501 0.092296 0.73312-0.62505 0.39431 0.36686 0.64258-0.42761 0.60286 0.58416 0.45272-0.16298 0.72085 0.71267 0.19452 0.12501 0.72845 0.28507-0.03622v3.6545l1.6135-1.1742 1.6135 1.1742v-3.453l0.03446 0.0082 0.19511-0.71267 0.72845-0.1256-0.09347-0.73312 0.62622-0.39373-0.36686-0.64258 0.42644-0.60344-0.58299-0.45331 0.16298-0.7203-0.71267-0.19511-0.12501-0.72786-0.73312 0.0923-0.39431-0.62505-0.64258 0.36568-0.60169-0.42702zm0.46967 1.513a1.756 1.756 0 1 1 0 3.512 1.7563 1.7563 0 0 1 0-3.5126z" clip-rule="evenodd" fill="#fafafa" fill-rule="evenodd" stroke-width=".58416"/>
+ <g transform="matrix(.88121 0 0 .88121 -2.4959 -1.154)" alignment-baseline="middle" fill="#fafafa" font-family="Lato" font-weight="bold" opacity=".9">
+  <text x="12" y="11"><tspan font-size="5.5px" opacity=".9">cert</tspan></text>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#F55" offset=".2"/>
+   <stop stop-color="#ff7375" offset=".205"/>
+   <stop stop-color="#F55" offset="1"/>
+  </linearGradient>
+ </defs>
 </svg>
