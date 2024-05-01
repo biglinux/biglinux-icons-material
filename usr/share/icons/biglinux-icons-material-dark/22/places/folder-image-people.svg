@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
+.ColorScheme-Contrast{color:#dedede}
 </style>
 </defs>
-<path fill="currentColor" d="M11 3a8 8 0 0 0-8 8 8 8 0 0 0 6.662 7.885 8 8 0 0 0 .793.095A8 8 0 0 0 11 19a8 8 0 0 0 1.59-.16 8 8 0 0 0 .773-.197 8 8 0 0 0 2.858-1.584 8 8 0 0 0 .338-.307l-.004-.008A8 8 0 0 0 19 11a8 8 0 0 0-8-8m0 1a7 7 0 0 1 7 7 7 7 0 0 1-1.928 4.81A6 6 0 0 0 11 13a6 6 0 0 0-5.076 2.815A7 7 0 0 1 4 11a7 7 0 0 1 7-7m0 3a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2" class="ColorScheme-Text"/>
+<path fill="currentColor" d="M11 3a8 8 0 0 0-8 8 8 8 0 0 0 6.662 7.885 8 8 0 0 0 .793.095A8 8 0 0 0 11 19a8 8 0 0 0 1.59-.16 8 8 0 0 0 .773-.197 8 8 0 0 0 2.858-1.584 8 8 0 0 0 .338-.307l-.004-.008A8 8 0 0 0 19 11a8 8 0 0 0-8-8m0 1a7 7 0 0 1 7 7 7 7 0 0 1-1.928 4.81A6 6 0 0 0 11 13a6 6 0 0 0-5.076 2.815A7 7 0 0 1 4 11a7 7 0 0 1 7-7m0 3a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2" class="ColorScheme-Contrast"/>
 </svg>

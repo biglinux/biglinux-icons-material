@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}.ColorScheme-NegativeText{color:#da4453}
+.ColorScheme-Contrast{color:#dedede}.ColorScheme-NegativeText{color:#da4453}
 </style>
-<path fill="currentColor" d="m4.121 2 1 1H12v1h1v1h1V2zM8 4c-.531 0-.954.242-1.281.598L7.12 5h2.465C9.232 4.437 8.714 4 8 4m-6 .121V5h.879zM2 6v3h1V8h1V7h.879l-1-1zm6.121 0 1 1H12v1h1v1h1V6zM6.613 8.734c-.069.086-.14.171-.199.266h.465zM2 10v4h1v-2h1v-1h4.879l-1-1zm10.121 0L14 11.879V10zM8 12a2 2 0 0 0-2 2h1a1 1 0 0 1 1-1 1 1 0 0 1 1 1h1a2 2 0 0 0-2-2" class="ColorScheme-Text"/>
+<path fill="currentColor" d="m4.121 2 1 1H12v1h1v1h1V2zM8 4c-.531 0-.954.242-1.281.598L7.12 5h2.465C9.232 4.437 8.714 4 8 4m-6 .121V5h.879zM2 6v3h1V8h1V7h.879l-1-1zm6.121 0 1 1H12v1h1v1h1V6zM6.613 8.734c-.069.086-.14.171-.199.266h.465zM2 10v4h1v-2h1v-1h4.879l-1-1zm10.121 0L14 11.879V10zM8 12a2 2 0 0 0-2 2h1a1 1 0 0 1 1-1 1 1 0 0 1 1 1h1a2 2 0 0 0-2-2" class="ColorScheme-Contrast"/>
 <path fill="currentColor" d="M2.707 2 2 2.707 13.293 14l.707-.732Z" class="ColorScheme-NegativeText"/>
 </svg>

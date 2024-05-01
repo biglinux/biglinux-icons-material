@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
+.ColorScheme-Contrast{color:#dedede}
 </style>
 </defs>
-<g class="ColorScheme-Text" style="fill:currentColor">
+<g class="ColorScheme-Contrast" style="fill:currentColor">
 <path d="M3 0C1.892 0 1 .892 1 2v12c0 1.108.892 2 2 2h9c1.108 0 2-.892 2-2V2c0-1.108-.892-2-2-2zm0 1h9c.554 0 1 .446 1 1v12c0 .554-.446 1-1 1H3c-.554 0-1-.446-1-1V2c0-.554.446-1 1-1"/>
 <circle cx="3.5" cy="2.5" r=".5"/>
 <path d="M15.5 3c.277 0 .5.223.5.5V13l-.5 1-.5-1V3.5c0-.277.223-.5.5-.5"/>

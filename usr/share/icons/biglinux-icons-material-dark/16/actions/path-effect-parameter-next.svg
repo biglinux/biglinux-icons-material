@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <defs id="defs3051">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}.ColorScheme-Highlight{color:#3daee9}
+.ColorScheme-Contrast{color:#dedede}.ColorScheme-Highlight{color:#3daee9}
 </style>
 </defs>
-<path d="M11 2v3h3V2zm1 1h1v1h-1zm1 6v5h1V9zm-3.393.002A27 27 0 0 1 9 9.609l1.904 1.893-1.873 1.934.576.566 2.393-2.5zM3.5 11c-.831 0-1.5.022-1.5.049v2.902c0 .027.669.049 1.5.049s1.5-.022 1.5-.049V11.05c0-.028-.669-.05-1.5-.05M3 12h1v1H3z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path d="M11 2v3h3V2zm1 1h1v1h-1zm1 6v5h1V9zm-3.393.002A27 27 0 0 1 9 9.609l1.904 1.893-1.873 1.934.576.566 2.393-2.5zM3.5 11c-.831 0-1.5.022-1.5.049v2.902c0 .027.669.049 1.5.049s1.5-.022 1.5-.049V11.05c0-.028-.669-.05-1.5-.05M3 12h1v1H3z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 <path d="M11 3a8 8 0 0 0-8 8h1a7 7 0 0 1 7-7z" class="ColorScheme-Highlight" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 </svg>

@@ -34,7 +34,7 @@
 <path id="I" fill="url(#3)" d="M408.57 539.8c8.864 0 16-7.136 16-16h-16z"/>
 <path id="J" fill="url(#1)" d="M408.57 539.8c-8.864 0-16-7.136-16-16h16z"/>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
+.ColorScheme-Contrast{color:#dedede}
 </style>
 </defs>
 <g id="g3389" transform="matrix(.78152 0 0 .78147 -.597 -806.8)">
@@ -61,5 +61,5 @@
 <path id="path3427" fill="url(#linearGradient3480)" d="M408.57 507.8c8.864 0 16 7.136 16 16h-16z" clip-path="url(#G)" opacity=".3"/>
 </g>
 </g>
-<path d="m1 11.708 2.5 2.5 2.5-2.5L5.293 11 4 12.294V7a4 4 0 0 1 8 0h1A5 5 0 0 0 3 7v5.294L1.707 11z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path d="m1 11.708 2.5 2.5 2.5-2.5L5.293 11 4 12.294V7a4 4 0 0 1 8 0h1A5 5 0 0 0 3 7v5.294L1.707 11z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 </svg>

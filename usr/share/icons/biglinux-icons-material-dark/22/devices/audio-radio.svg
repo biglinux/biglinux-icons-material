@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
+.ColorScheme-Contrast{color:#dedede}
 </style>
-<path fill="currentColor" d="M6.856 4.26a.605.605 0 0 0-.072 1.186L12.583 7H5.01c-1.108 0-2 .892-2 2v7c0 1.108.892 2 2 2H17c1.108 0 2-.892 2-2V9c0-1.108-.892-2-2-2h-.16a.6.6 0 0 0-.29-.193L7.099 4.273a.6.6 0 0 0-.243-.013M5 8h12.01c.554 0 1 .446 1 1v7c0 .554-.446 1-1 1H5c-.554 0-1-.446-1-1V9c0-.554.446-1 1-1m.01 2v1H10v-1zm9.49 0a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5m0 1a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3m-9.49 1v1H10v-1zm0 2v1H10v-1z" class="ColorScheme-Text"/>
+<path fill="currentColor" d="M6.856 4.26a.605.605 0 0 0-.072 1.186L12.583 7H5.01c-1.108 0-2 .892-2 2v7c0 1.108.892 2 2 2H17c1.108 0 2-.892 2-2V9c0-1.108-.892-2-2-2h-.16a.6.6 0 0 0-.29-.193L7.099 4.273a.6.6 0 0 0-.243-.013M5 8h12.01c.554 0 1 .446 1 1v7c0 .554-.446 1-1 1H5c-.554 0-1-.446-1-1V9c0-.554.446-1 1-1m.01 2v1H10v-1zm9.49 0a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5m0 1a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3m-9.49 1v1H10v-1zm0 2v1H10v-1z" class="ColorScheme-Contrast"/>
 </svg>

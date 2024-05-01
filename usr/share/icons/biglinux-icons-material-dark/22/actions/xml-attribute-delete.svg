@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}.ColorScheme-NegativeText{color:#da4453}
+.ColorScheme-Contrast{color:#dedede}.ColorScheme-NegativeText{color:#da4453}
 </style>
 </defs>
 <path fill="currentColor" d="M16.5 13a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7m-1.666 1 1.666 1.666L18.166 14l.834.834-1.666 1.666L19 18.166l-.834.834-1.666-1.666L14.834 19 14 18.166l1.666-1.666L14 14.834z" class="ColorScheme-NegativeText"/>
-<path fill="currentColor" d="M4 3a1 1 0 0 0-1 1v7.07a1 1 0 0 0 .293.707l7.777 7.78a1 1 0 0 0 1.414 0l.391-.391a4.5 4.5 0 0 1-.514-.9l-.584.584L4 11.07V4h7.07l7.78 7.777-.584.584a4.5 4.5 0 0 1 .9.514l.39-.39a1 1 0 0 0 0-1.415l-7.779-7.777A1 1 0 0 0 11.07 3z" class="ColorScheme-Text"/>
-<path fill="currentColor" d="M7.951 6A2 2 0 0 0 6 8a2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zM8 7a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1" class="ColorScheme-Text"/>
+<path fill="currentColor" d="M4 3a1 1 0 0 0-1 1v7.07a1 1 0 0 0 .293.707l7.777 7.78a1 1 0 0 0 1.414 0l.391-.391a4.5 4.5 0 0 1-.514-.9l-.584.584L4 11.07V4h7.07l7.78 7.777-.584.584a4.5 4.5 0 0 1 .9.514l.39-.39a1 1 0 0 0 0-1.415l-7.779-7.777A1 1 0 0 0 11.07 3z" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M7.951 6A2 2 0 0 0 6 8a2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zM8 7a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1" class="ColorScheme-Contrast"/>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
+.ColorScheme-Contrast{color:#dedede}
 </style>
-<path d="M4 5c-.554 0-1 .446-1 1v9c0 .554.446 1 1 1h14c.554 0 1-.446 1-1V6c0-.554-.446-1-1-1zm0 1h14v9H4zm1 2v1h1V8zm2 0v1h1V8zm2 0v1h1V8zm2 0v1h1V8zm2 0v1h1V8zm2 0v1h2V8zM5 10v1h2v-1zm3 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h3v-1zm-9 2v1h2v-1zm3 0v1h6v-1zm7 0v1h2v-1z" class="ColorScheme-Text" style="fill:currentColor"/>
+<path d="M4 5c-.554 0-1 .446-1 1v9c0 .554.446 1 1 1h14c.554 0 1-.446 1-1V6c0-.554-.446-1-1-1zm0 1h14v9H4zm1 2v1h1V8zm2 0v1h1V8zm2 0v1h1V8zm2 0v1h1V8zm2 0v1h1V8zm2 0v1h2V8zM5 10v1h2v-1zm3 0v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h3v-1zm-9 2v1h2v-1zm3 0v1h6v-1zm7 0v1h2v-1z" class="ColorScheme-Contrast" style="fill:currentColor"/>
 </svg>

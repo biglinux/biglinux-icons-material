@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
 <defs id="defs3051">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}.ColorScheme-Highlight{color:#3daee9}
+.ColorScheme-Contrast{color:#dedede}.ColorScheme-Highlight{color:#3daee9}
 </style>
 </defs>
-<path d="M15.781 5.563 11.937 9.75l.75.688 3.844-4.188c-.141-.135-.473-.423-.75-.687m-9.562.062-.75.688 3.808 4.101.754-.695zm4.281 7.813v2.124h1v-2.124c-.397.004-.705 0-1 0" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path d="M15.781 5.563 11.937 9.75l.75.688 3.844-4.188c-.141-.135-.473-.423-.75-.687m-9.562.062-.75.688 3.808 4.101.754-.695zm4.281 7.813v2.124h1v-2.124c-.397.004-.705 0-1 0" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 <path id="path10" d="M4.5 3A1.5 1.5 0 0 0 3 4.5 1.5 1.5 0 0 0 4.5 6 1.5 1.5 0 0 0 6 4.5 1.5 1.5 0 0 0 4.5 3m13 0A1.5 1.5 0 0 0 16 4.5 1.5 1.5 0 0 0 17.5 6 1.5 1.5 0 0 0 19 4.5 1.5 1.5 0 0 0 17.5 3M11 10a1.5 1.5 0 0 0-1.5 1.5A1.5 1.5 0 0 0 11 13a1.5 1.5 0 0 0 1.5-1.5A1.5 1.5 0 0 0 11 10m0 6a1.5 1.5 0 0 0-1.5 1.5A1.5 1.5 0 0 0 11 19a1.5 1.5 0 0 0 1.5-1.5A1.5 1.5 0 0 0 11 16" class="ColorScheme-Highlight" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 </svg>

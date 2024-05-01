@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}
+.ColorScheme-Contrast{color:#dedede}
 </style>
 </defs>
-<g fill="currentColor" class="ColorScheme-Text">
+<g fill="currentColor" class="ColorScheme-Contrast">
 <path d="M17 3a1 1 0 0 0-1 1v1H4.51c-.822 0-1.5.678-1.5 1.5v8.994c0 .823.678 1.5 1.5 1.5H16V19h1v-4h2l.01-7.003L17.005 8V4.5s0-.5.5-.5h1.5V3zM4.51 6H16v9.994H4.51a.49.49 0 0 1-.5-.5V6.5c0-.286.214-.5.5-.5m12.5 2.994h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1z"/>
 <path d="M12.7 6.98a.4.4 0 0 0-.178.01l-4.09 1.124c-.252.069-.455.348-.455.625V13a2.2 2.2 0 0 0-.869.04c-.803.196-1.288.774-1.084 1.29.203.517 1.019.777 1.822.58.685-.168 1.155-.62 1.13-1.086V9.81l3-.823V12a2.2 2.2 0 0 0-.87.04c-.803.196-1.288.774-1.084 1.29.203.517 1.019.777 1.822.58.666-.164 1.132-.597 1.13-1.053V7.365c0-.207-.115-.354-.278-.384z"/>
 </g>

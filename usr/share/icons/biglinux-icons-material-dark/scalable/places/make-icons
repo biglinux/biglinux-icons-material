@@ -15,7 +15,7 @@ for i in folder-activities.svg folder-bookmark.svg folder-cloud.svg folder-comic
 
     # Add icon from symbolic folder changing size and color
     if [[ $i != folder.svg ]]; then
-        grep path "../../16/places/$i" | sed -E 's|style="[^"]*"|style="fill:currentColor;opacity:0.8" id="icon" transform="translate(8, 11) scale(0.5)" class="ColorScheme-Text"|g' | sed -E 's|fill="#dedede"|style="fill:currentColor;opacity:0.7" id="icon" transform="translate(8, 11) scale(0.5)" class="ColorScheme-Text"|g' | sed 's|class="ColorScheme-Text" class="ColorScheme-Text"|class="ColorScheme-Text"|g' | sed 's|class="ColorScheme-Text"/>|/>|g;s|id="path4139"||g' >> $i
+        grep path "../../16/places/$i" | sed -E 's|style="[^"]*"|style="fill:currentColor;opacity:0.8" id="icon" transform="translate(8, 11) scale(0.5)" class="ColorScheme-Contrast"|g' | sed -E 's|fill="#dedede"|style="fill:currentColor;opacity:0.7" id="icon" transform="translate(8, 11) scale(0.5)" class="ColorScheme-Contrast"|g' | sed 's|class="ColorScheme-Contrast" class="ColorScheme-Contrast"|class="ColorScheme-Contrast"|g' | sed 's|class="ColorScheme-Contrast"/>|/>|g;s|id="path4139"||g' >> $i
     fi
     echo '</svg>' >> $i
 done

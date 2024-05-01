@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dedede}.ColorScheme-NegativeText{color:#da4453}
+.ColorScheme-Contrast{color:#dedede}.ColorScheme-NegativeText{color:#da4453}
 </style>
 </defs>
-<path d="M5 3v1h2v1.05c-2.238.255-4 2.148-4 4.45 0 2.314 1.78 4.215 4.033 4.453a3.5 3.5 0 0 1-.767-1.187A3.49 3.49 0 0 1 4 9.5 3.5 3.5 0 0 1 7.5 6c1.48 0 2.739.922 3.25 2.22a3.5 3.5 0 0 1 1.201.753 4.45 4.45 0 0 0-.957-2.26l.754-.754.398.395.708-.708-1.5-1.5-.708.708.397.396-.752.752A4.5 4.5 0 0 0 8 5.051V4h2V3Z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path d="M5 3v1h2v1.05c-2.238.255-4 2.148-4 4.45 0 2.314 1.78 4.215 4.033 4.453a3.5 3.5 0 0 1-.767-1.187A3.49 3.49 0 0 1 4 9.5 3.5 3.5 0 0 1 7.5 6c1.48 0 2.739.922 3.25 2.22a3.5 3.5 0 0 1 1.201.753 4.45 4.45 0 0 0-.957-2.26l.754-.754.398.395.708-.708-1.5-1.5-.708.708.397.396-.752.752A4.5 4.5 0 0 0 8 5.051V4h2V3Z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 <path d="M12 11.5A2.5 2.5 0 0 1 9.5 14 2.5 2.5 0 0 1 7 11.5 2.5 2.5 0 0 1 9.5 9a2.5 2.5 0 0 1 2.5 2.5" class="ColorScheme-NegativeText" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 </svg>
