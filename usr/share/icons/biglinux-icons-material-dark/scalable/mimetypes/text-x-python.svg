@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
- <g transform="matrix(.5927 0 0 .5927 4.8876 2.5711)">
+ <g transform="matrix(.44906 0 0 .44906 6.6113 9.6622)">
   <path d="m11.697 3.2c-2.018 0-3.642 0.812-3.642 1.82v2.428h3.642v0.607h-6.677c-1.008 0-1.82 1.625-1.82 3.642v0.606c0 2.018 0.812 3.642 1.82 3.642h2.428v-1.82s0-2.428 2.428-2.428h4.855s1.214 0 1.214-1.214v-5.463c0-1.009-1.624-1.821-3.642-1.821h-0.606zm-1.821 1.214a0.607 0.607 0 1 1 0 1.214 0.607 0.607 0 0 1 0-1.214" fill="#347ab4"/>
   <path d="m12.303 20.8c2.018 0 3.642-0.812 3.642-1.82v-2.428h-3.642v-0.607h6.676c1.009 0 1.821-1.624 1.821-3.642v-0.606c0-2.018-0.812-3.642-1.82-3.642h-2.428v2.428c0 1.82-1.821 1.82-1.821 1.82h-4.855c-1.82 0-1.82 1.821-1.82 1.821v4.855c0 1.009 1.623 1.821 3.64 1.821zm1.821-1.82a0.6075 0.6075 0 1 1 0-1.215 0.607 0.607 0 0 1 0 1.214z" fill="#b4912a"/>
  </g>
- <g transform="translate(0 .99797)" alignment-baseline="middle" fill="#347ab4" font-family="Lato" font-weight="bold" text-anchor="middle">
-  <text x="12" y="18.620001"><tspan font-size="5px">python</tspan></text>
+ <g transform="translate(0 .47088)" alignment-baseline="middle" fill="#347ab4" font-family="Lato" font-weight="bold" text-anchor="middle">
+  <text x="12" y="9"><tspan font-size="5px">python</tspan></text>
  </g>
  <defs>
   <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">

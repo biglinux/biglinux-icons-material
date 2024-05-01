@@ -1,1 +1,19 @@
-/usr/share/icons/biglinux-icons-material-dark/scalable/mimetypes/application-x-cd-image.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c0d1cd" offset=".2"/>
+   <stop offset=".205"/>
+   <stop stop-color="#454545" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient9" x1="2.0339" x2="21.999" y1="17.905" y2="17.905" gradientTransform="translate(0 .070278)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c0d1cd" offset="0"/>
+   <stop stop-color="#f5f6ec" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <path d="m12.016 12.952a10.644 10.644 0 0 0-9.9824 6.9746c1.1677 1.8458 3.2195 3.0703 5.5742 3.0703h0.54883c0.27559-1.8525 1.7667-3.2773 3.8574-3.2773 2.0864 0 3.5718 1.4546 3.8516 3.2773h0.54297c2.3648 0 4.4249-1.2347 5.5898-3.0938a10.644 10.644 0 0 0-9.9824-6.9512z" fill="url(#linearGradient9)" style="-inkscape-stroke:hairline"/>
+ <path d="m11.986 18.299a5.3385 5.3385 0 0 0-5.2363 4.6309c0.2765 0.03503 0.55743 0.05469 0.84375 0.05469h1.8965a2.6702 2.6702 0 0 1 2.4922-2.0176h0.0039a2.6702 2.6702 0 0 1 2.5078 2.0176h1.9004c0.28293 0 0.56063-0.01852 0.83398-0.05273a5.3385 5.3385 0 0 0-5.2422-4.6328z" fill="#fff" opacity=".722"/>
+ <text x="11.98832" y="17.587114"  font-family="Lato" opacity=".9" stroke-width=".881" text-anchor="middle"><tspan fill="#000000" font-size="4px">disk</tspan></text>
+ <text x="11.98832" y="11" fill="#c0d1cd" font-family="Lato" font-size="10px" font-weight="bold" opacity=".9" stroke-width=".88121" text-anchor="middle"><tspan font-size="4.5px" stroke-width=".88121">k3b</tspan></text>
+</svg>
