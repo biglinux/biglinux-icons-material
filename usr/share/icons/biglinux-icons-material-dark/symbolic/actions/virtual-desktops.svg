@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
-<path fill="currentColor" d="M2 3v4h5V3zm7 0v4h5V3zM3 4h2v1H3zM2 9v4h5V9zm7 0v4h5V9zm2 2h2v1h-2z" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M2 3v4h5V3zm7 0v4h5V3zM3 4h2v1H3zM2 9v4h5V9zm7 0v4h5V9zm2 2h2v1h-2z" class="ColorScheme-Text"/>
 </svg>

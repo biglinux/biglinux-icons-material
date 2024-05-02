@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M75 215h1v16h-1z" class="ColorScheme-Contrast" style="opacity:1;fill-opacity:1;fill:currentColor" transform="translate(-75 -215)" fill="currentColor"/>
-<path d="M75 215h16v1H75Z" style="opacity:1;fill-opacity:1;fill:currentColor" transform="translate(-75 -215)" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M90 215h1v16h-1z" style="opacity:1;fill-opacity:1;fill:currentColor" transform="translate(-75 -215)" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M75 230h16v1H75Zm0-12h16v1H75Zm0 3h16v1H75Zm0 3h16v1H75Z" style="opacity:1;fill-opacity:1;fill:currentColor" transform="translate(-75 -215)" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M75 739.362h16v1H75Z" style="opacity:1;fill-opacity:1;fill:currentColor" transform="translate(-75 -727.362)" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M78 215h1v16h-1zm3 0h1v16h-1zm3 0h1v16h-1zm3 0h1v16h-1z" style="opacity:1;fill-opacity:1;fill:currentColor" transform="translate(-75 -215)" class="ColorScheme-Contrast" fill="currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path d="M75 215h1v16h-1z" class="ColorScheme-Text" style="opacity:1;fill-opacity:1;fill:currentColor" transform="translate(-75 -215)" fill="currentColor"/>
+<path d="M75 215h16v1H75Z" style="opacity:1;fill-opacity:1;fill:currentColor" transform="translate(-75 -215)" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M90 215h1v16h-1z" style="opacity:1;fill-opacity:1;fill:currentColor" transform="translate(-75 -215)" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M75 230h16v1H75Zm0-12h16v1H75Zm0 3h16v1H75Zm0 3h16v1H75Z" style="opacity:1;fill-opacity:1;fill:currentColor" transform="translate(-75 -215)" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M75 739.362h16v1H75Z" style="opacity:1;fill-opacity:1;fill:currentColor" transform="translate(-75 -727.362)" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M78 215h1v16h-1zm3 0h1v16h-1zm3 0h1v16h-1zm3 0h1v16h-1z" style="opacity:1;fill-opacity:1;fill:currentColor" transform="translate(-75 -215)" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

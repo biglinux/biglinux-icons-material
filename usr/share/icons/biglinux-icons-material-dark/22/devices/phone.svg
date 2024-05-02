@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
-<g fill="currentColor" class="ColorScheme-Contrast">
-<path d="M6.96 2C5.875 2 5 2.874 5 3.96v14.08C5 19.126 5.874 20 6.96 20H15c1.087 0 1.96-.874 1.96-1.96V3.96C16.96 2.874 16.087 2 15 2zM7 3h7.961c.554 0 1 .446 1 1v14c0 .554-.446 1-1 1H7c-.554 0-1-.446-1-1V4c0-.554.446-1 1-1" class="ColorScheme-Contrast"/>
-<rect width="6" height="2" x="8" y="2" class="ColorScheme-Contrast" rx="1" ry="1"/>
+<g fill="currentColor" class="ColorScheme-Text">
+<path d="M6.96 2C5.875 2 5 2.874 5 3.96v14.08C5 19.126 5.874 20 6.96 20H15c1.087 0 1.96-.874 1.96-1.96V3.96C16.96 2.874 16.087 2 15 2zM7 3h7.961c.554 0 1 .446 1 1v14c0 .554-.446 1-1 1H7c-.554 0-1-.446-1-1V4c0-.554.446-1 1-1" class="ColorScheme-Text"/>
+<rect width="6" height="2" x="8" y="2" class="ColorScheme-Text" rx="1" ry="1"/>
 </g>
-<rect width="6" height=".5" x="8" y="17.5" fill="currentColor" class="ColorScheme-Contrast" opacity=".5" rx=".25" ry=".25"/>
+<rect width="6" height=".5" x="8" y="17.5" fill="currentColor" class="ColorScheme-Text" opacity=".5" rx=".25" ry=".25"/>
 </svg>

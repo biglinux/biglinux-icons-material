@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" d="M3 1c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V3c0-1.108-.892-2-2-2zm0 1h10c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1H3c-.554 0-1-.446-1-1V3c0-.554.446-1 1-1" class="ColorScheme-Contrast" style="fill:currentColor"/>
-<path fill="currentColor" fill-rule="evenodd" d="M5 4v8h3c1.662 0 3-1.338 3-3V7c0-1.662-1.338-3-3-3zm1 1h2c1.108 0 2 .892 2 2v2c0 1.108-.892 2-2 2H6z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path fill="currentColor" d="M3 1c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V3c0-1.108-.892-2-2-2zm0 1h10c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1H3c-.554 0-1-.446-1-1V3c0-.554.446-1 1-1" class="ColorScheme-Text" style="fill:currentColor"/>
+<path fill="currentColor" fill-rule="evenodd" d="M5 4v8h3c1.662 0 3-1.338 3-3V7c0-1.662-1.338-3-3-3zm1 1h2c1.108 0 2 .892 2 2v2c0 1.108-.892 2-2 2H6z" class="ColorScheme-Text" style="fill:currentColor"/>
 </svg>

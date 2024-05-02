@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor">
-<path d="M11 9v5l3-2.5z" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
-<path d="M2 3C.892 3 0 3.892 0 5v6c0 1.108.892 2 2 2h2v-1H2c-.554 0-1-.446-1-1V5c0-.554.446-1 1-1h12c.554 0 1 .446 1 1v5h1V5c0-1.108-.892-2-2-2z" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
-<path d="M5 0C3.892 0 2.963.893 3 2v2h1V2c0-.554.446-1 1-1h6c.554 0 1.042.448 1 1v2h1V2c0-1.108-.892-2-2-2zm0 10h5v1H5zm0 2h5v1H5z" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
-<path d="M5 7c-1.108 0-2 .892-2 2v5c0 1.108.892 2 2 2h6a1.99 1.99 0 0 0 1.725-1H5c-.554 0-1-.446-1-1V9c0-.554.446-1 1-1h7.725A1.99 1.99 0 0 0 11 7z" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
-<circle cx="13.5" cy="5.5" r=".5" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><g class="ColorScheme-Text" style="fill:currentColor" fill="currentColor">
+<path d="M11 9v5l3-2.5z" class="ColorScheme-Text" style="fill:currentColor" fill="currentColor"/>
+<path d="M2 3C.892 3 0 3.892 0 5v6c0 1.108.892 2 2 2h2v-1H2c-.554 0-1-.446-1-1V5c0-.554.446-1 1-1h12c.554 0 1 .446 1 1v5h1V5c0-1.108-.892-2-2-2z" class="ColorScheme-Text" fill="currentColor" style="fill:currentColor"/>
+<path d="M5 0C3.892 0 2.963.893 3 2v2h1V2c0-.554.446-1 1-1h6c.554 0 1.042.448 1 1v2h1V2c0-1.108-.892-2-2-2zm0 10h5v1H5zm0 2h5v1H5z" class="ColorScheme-Text" style="fill:currentColor" fill="currentColor"/>
+<path d="M5 7c-1.108 0-2 .892-2 2v5c0 1.108.892 2 2 2h6a1.99 1.99 0 0 0 1.725-1H5c-.554 0-1-.446-1-1V9c0-.554.446-1 1-1h7.725A1.99 1.99 0 0 0 11 7z" class="ColorScheme-Text" style="fill:currentColor" fill="currentColor"/>
+<circle cx="13.5" cy="5.5" r=".5" class="ColorScheme-Text" style="fill:currentColor" fill="currentColor"/>
 </g>
 </svg>

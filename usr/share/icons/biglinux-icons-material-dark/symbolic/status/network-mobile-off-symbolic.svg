@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg4153" width="22" height="22" version="1.1">
 <defs id="defs4157">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}.ColorScheme-NegativeText{color:#e74c3c}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-NegativeText{color:#e74c3c}
 </style>
 </defs>
 <g id="network-mobile-off" transform="translate(-146 -52)">
 <path id="rect4437-6" fill="none" d="M146 52h22v22h-22z" opacity=".2"/>
-<path id="path4439-7" fill="currentColor" fill-rule="evenodd" d="m165 55-16 16h12.902l-.854-.854 2.153-2.15-2.153-2.152 1.31-1.307.458-.46 2.152 2.152.032-.032z" class="ColorScheme-Contrast" opacity=".35"/>
+<path id="path4439-7" fill="currentColor" fill-rule="evenodd" d="m165 55-16 16h12.902l-.854-.854 2.153-2.15-2.153-2.152 1.31-1.307.458-.46 2.152 2.152.032-.032z" class="ColorScheme-Text" opacity=".35"/>
 <path id="path6" fill="currentColor" d="m162.82 64.996-.848.848 2.151 2.152-2.151 2.152.848.848 2.152-2.152 2.151 2.152.849-.848-2.152-2.152 2.152-2.152-.849-.848-2.151 2.152z" class="ColorScheme-NegativeText"/>
 </g>
 </svg>

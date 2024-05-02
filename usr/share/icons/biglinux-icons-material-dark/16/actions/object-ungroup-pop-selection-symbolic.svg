@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M4 0h2v2H4zm10 0h2v2h-2zM4 10h2v2H4zm10 0h2v2h-2z" class="ColorScheme-Contrast" style="stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" fill="currentColor"/>
-<path d="M2 7C.892 7 0 7.892 0 9v5c0 1.108.892 2 2 2h7c1.108 0 2-.892 2-2V9c0-1.108-.892-2-2-2zm0 1h7c.554 0 1 .446 1 1v5c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V9c0-.554.446-1 1-1" style="stroke-linecap:round;stroke-linejoin:round;stop-opacity:.35;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M10 1a5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 1a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4" style="opacity:1;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path d="M4 0h2v2H4zm10 0h2v2h-2zM4 10h2v2H4zm10 0h2v2h-2z" class="ColorScheme-Text" style="stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" fill="currentColor"/>
+<path d="M2 7C.892 7 0 7.892 0 9v5c0 1.108.892 2 2 2h7c1.108 0 2-.892 2-2V9c0-1.108-.892-2-2-2zm0 1h7c.554 0 1 .446 1 1v5c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V9c0-.554.446-1 1-1" style="stroke-linecap:round;stroke-linejoin:round;stop-opacity:.35;fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M10 1a5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 1a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4" style="opacity:1;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

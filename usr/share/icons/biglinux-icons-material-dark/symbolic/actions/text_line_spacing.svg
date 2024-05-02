@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <defs id="defs3051">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}.ColorScheme-Highlight{color:#3daee9}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-Highlight{color:#3daee9}
 </style>
 </defs>
-<path d="M2 4v1h7V4zm0 2v1h6V6zm0 3v1h8V9zm0 2v1h3.563v-1z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path d="M2 4v1h7V4zm0 2v1h6V6zm0 3v1h8V9zm0 2v1h3.563v-1z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 <path d="M12.5 2 11 4h1v8h-1l1.5 2 1.5-2h-1V4h1z" class="ColorScheme-Highlight" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 </svg>

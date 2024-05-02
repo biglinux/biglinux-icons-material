@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
-<path d="M9.618 6.721a2.5 2.5 0 0 0-.39-.317l-.735.734A1.486 1.486 0 0 1 8.91 9.55l-2.12 2.122a1.486 1.486 0 0 1-2.122 0 1.486 1.486 0 0 1 0-2.121l.605-.605a3.5 3.5 0 0 1-.206-1.209L3.961 8.843a2.506 2.506 0 0 0 0 3.535 2.506 2.506 0 0 0 3.535 0l2.122-2.121a2.506 2.506 0 0 0 0-3.536" class="ColorScheme-Contrast" style="fill:currentColor" transform="translate(-.203 -.136)"/>
-<path d="M6.79 9.55q.18.181.389.317l.734-.734a1.486 1.486 0 0 1-.417-2.411L9.618 4.6a1.486 1.486 0 0 1 2.121 0 1.486 1.486 0 0 1 0 2.121l-.605.605c.137.391.211.798.206 1.209l1.106-1.107a2.506 2.506 0 0 0 0-3.535 2.506 2.506 0 0 0-3.535 0L6.789 6.014a2.506 2.506 0 0 0 0 3.536" class="ColorScheme-Contrast" style="fill:currentColor" transform="translate(-.203 -.136)"/>
-<path d="M8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8m0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path d="M9.618 6.721a2.5 2.5 0 0 0-.39-.317l-.735.734A1.486 1.486 0 0 1 8.91 9.55l-2.12 2.122a1.486 1.486 0 0 1-2.122 0 1.486 1.486 0 0 1 0-2.121l.605-.605a3.5 3.5 0 0 1-.206-1.209L3.961 8.843a2.506 2.506 0 0 0 0 3.535 2.506 2.506 0 0 0 3.535 0l2.122-2.121a2.506 2.506 0 0 0 0-3.536" class="ColorScheme-Text" style="fill:currentColor" transform="translate(-.203 -.136)"/>
+<path d="M6.79 9.55q.18.181.389.317l.734-.734a1.486 1.486 0 0 1-.417-2.411L9.618 4.6a1.486 1.486 0 0 1 2.121 0 1.486 1.486 0 0 1 0 2.121l-.605.605c.137.391.211.798.206 1.209l1.106-1.107a2.506 2.506 0 0 0 0-3.535 2.506 2.506 0 0 0-3.535 0L6.789 6.014a2.506 2.506 0 0 0 0 3.536" class="ColorScheme-Text" style="fill:currentColor" transform="translate(-.203 -.136)"/>
+<path d="M8 0a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8m0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7" class="ColorScheme-Text" style="fill:currentColor"/>
 </svg>

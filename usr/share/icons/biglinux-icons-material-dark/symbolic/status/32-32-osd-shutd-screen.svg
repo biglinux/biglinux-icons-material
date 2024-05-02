@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg4312" width="32" height="32" version="1.1">
 <defs id="defs4314">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#7b7c7e}.ColorScheme-ButtonFocus{color:#1e92ff}
+.ColorScheme-Text{color:#7b7c7e}.ColorScheme-ButtonFocus{color:#1e92ff}
 </style>
 </defs>
 <g id="layer1" transform="translate(-112 -1019.362)">
 <g id="32-32-osd-shutd-screen" style="fill:none" transform="translate(112 1019.362)">
 <path id="rect4200-9" d="M0 0h32v32H0z" style="fill:none"/>
-<path id="path4204-73" d="M125 36v9h1v-8h15v12h-9v1h10V36Zm-11 10v14h17V46Zm1 1h15v12h-15z" class="ColorScheme-Contrast" style="color:#7b7c7e;fill:currentColor;fill-opacity:1;stroke:none" transform="translate(-112 -32)"/>
+<path id="path4204-73" d="M125 36v9h1v-8h15v12h-9v1h10V36Zm-11 10v14h17V46Zm1 1h15v12h-15z" class="ColorScheme-Text" style="color:#7b7c7e;fill:currentColor;fill-opacity:1;stroke:none" transform="translate(-112 -32)"/>
 <path id="path4210-6" d="M5 17v8h11v-8zm7 1h1v1h-1zm2 0h1v1h-1zm-8 2h9v4H6Z" class="ColorScheme-ButtonFocus" style="color:#3daee6;fill:currentColor;fill-opacity:1;stroke:none"/>
 <path id="path4214" d="m18.671 6.757-1.414 1.414L20.085 11l-2 2.001H20v.913l1.5-1.5 2.828 2.829 1.414-1.414L22.913 11l2.829-2.828-1.414-1.414-2.829 2.828z" style="clip-rule:evenodd;fill:#da4453;fill-rule:evenodd"/>
 </g>

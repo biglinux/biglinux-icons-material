@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M10.828 2.828 8 0 5.172 2.828l.707.707 1.62-1.621V5h1V1.914l1.622 1.621zm0 10.344L8 16l-2.828-2.828.707-.707 1.62 1.621V11h1v3.086l1.622-1.621zm2.344-2.344L16 8l-2.828-2.828-.707.707 1.621 1.62H11v1h3.086l-1.621 1.622zm-10.344 0L0 8l2.828-2.828.707.707-1.621 1.62H5v1H1.914l1.621 1.622z" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
-<circle cx="8" cy="8" r="1" fill="currentColor" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path d="M10.828 2.828 8 0 5.172 2.828l.707.707 1.62-1.621V5h1V1.914l1.622 1.621zm0 10.344L8 16l-2.828-2.828.707-.707 1.62 1.621V11h1v3.086l1.622-1.621zm2.344-2.344L16 8l-2.828-2.828-.707.707 1.621 1.62H11v1h3.086l-1.621 1.622zm-10.344 0L0 8l2.828-2.828.707.707-1.621 1.62H5v1H1.914l1.621 1.622z" class="ColorScheme-Text" style="fill:currentColor" fill="currentColor"/>
+<circle cx="8" cy="8" r="1" fill="currentColor" class="ColorScheme-Text" style="fill:currentColor"/>
 </svg>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="m5.219 1-.313.281-3.625 3.625L1 5.22v5.56l.281.313 3.625 3.625.313.281h5.561l.313-.281 3.625-3.625.281-.313V5.22l-.281-.313-3.625-3.625L10.78 1zm.406 1h4.75L14 5.625v4.75L10.375 14h-4.75L2 10.375v-4.75z" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
-<path fill="currentColor" d="m5.879 5.172-.707.707L7.293 8l-2.121 2.121.707.707L8 8.708l2.121 2.12.707-.707L8.708 8l2.12-2.121-.707-.707L8 7.293z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path d="m5.219 1-.313.281-3.625 3.625L1 5.22v5.56l.281.313 3.625 3.625.313.281h5.561l.313-.281 3.625-3.625.281-.313V5.22l-.281-.313-3.625-3.625L10.78 1zm.406 1h4.75L14 5.625v4.75L10.375 14h-4.75L2 10.375v-4.75z" class="ColorScheme-Text" style="fill:currentColor" fill="currentColor"/>
+<path fill="currentColor" d="m5.879 5.172-.707.707L7.293 8l-2.121 2.121.707.707L8 8.708l2.121 2.12.707-.707L8.708 8l2.12-2.121-.707-.707L8 7.293z" class="ColorScheme-Text" style="fill:currentColor"/>
 </svg>

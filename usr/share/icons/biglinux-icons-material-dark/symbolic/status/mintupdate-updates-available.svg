@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}.ColorScheme-Highlight{color:#4285f4}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-Highlight{color:#4285f4}
 </style>
 </defs>
-<path fill="currentColor" d="M10.5 7h1v1h-1zm0 2h1v6h-1z" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M10.5 7h1v1h-1zm0 2h1v6h-1z" class="ColorScheme-Text"/>
 <circle cx="17" cy="17" r="2" fill="currentColor" class="ColorScheme-Highlight"/>
-<path fill="currentColor" d="M11 3a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 3.293-.71 3 3 0 0 1-.275-.974A7 7 0 0 1 11 18a7 7 0 0 1-7-7 7 7 0 0 1 6.906-7H11a7 7 0 0 1 7 7 7 7 0 0 1-.684 3.018 3 3 0 0 1 .975.273A8 8 0 0 0 19 11a8 8 0 0 0-8-8" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M11 3a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 3.293-.71 3 3 0 0 1-.275-.974A7 7 0 0 1 11 18a7 7 0 0 1-7-7 7 7 0 0 1 6.906-7H11a7 7 0 0 1 7 7 7 7 0 0 1-.684 3.018 3 3 0 0 1 .975.273A8 8 0 0 0 19 11a8 8 0 0 0-8-8" class="ColorScheme-Text"/>
 </svg>

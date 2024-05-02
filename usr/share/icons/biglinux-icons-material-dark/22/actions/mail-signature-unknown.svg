@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}.ColorScheme-PositiveText{color:#f67400}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-PositiveText{color:#f67400}
 </style>
 </defs>
 <path fill="currentColor" d="m18 12-4 4v2h2l4-4z" class="ColorScheme-PositiveText"/>
-<path fill="currentColor" d="M5 4C3.338 4 2 5.338 2 7v8c0 1.662 1.338 3 3 3h8v-1H5a1.99 1.99 0 0 1-1.988-1.887l4.597-3.498.721.55c1.465 1.114 3.876 1.114 5.342 0L19 8.11V11h1V7c0-1.663-1.338-3-3-3zm0 1h12a1.99 1.99 0 0 1 1.988 1.887l-6.129 4.66c-1.03.783-2.688.783-3.718 0l-6.13-4.66A1.99 1.99 0 0 1 5 5M3 8.11 6.8 11 3 13.889z" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M5 4C3.338 4 2 5.338 2 7v8c0 1.662 1.338 3 3 3h8v-1H5a1.99 1.99 0 0 1-1.988-1.887l4.597-3.498.721.55c1.465 1.114 3.876 1.114 5.342 0L19 8.11V11h1V7c0-1.663-1.338-3-3-3zm0 1h12a1.99 1.99 0 0 1 1.988 1.887l-6.129 4.66c-1.03.783-2.688.783-3.718 0l-6.13-4.66A1.99 1.99 0 0 1 5 5M3 8.11 6.8 11 3 13.889z" class="ColorScheme-Text"/>
 </svg>

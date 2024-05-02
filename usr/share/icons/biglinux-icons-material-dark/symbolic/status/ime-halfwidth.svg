@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 <g id="ime-halfwidth" transform="translate(0 -170)">
 <path id="rect4222" d="M0 170h22v22H0z" style="fill:none;fill-opacity:1;stroke:none"/>
-<path id="ellipse4224" d="M167.566 91.432A8 8 0 0 1 168 94a8 8 0 0 1-8 8 8 8 0 0 1-2.566-.432A8 8 0 0 0 165 107a8 8 0 0 0 8-8 8 8 0 0 0-5.434-7.568" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none" transform="translate(-154 82)"/>
+<path id="ellipse4224" d="M167.566 91.432A8 8 0 0 1 168 94a8 8 0 0 1-8 8 8 8 0 0 1-2.566-.432A8 8 0 0 0 165 107a8 8 0 0 0 8-8 8 8 0 0 0-5.434-7.568" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none" transform="translate(-154 82)"/>
 </g>
 </svg>

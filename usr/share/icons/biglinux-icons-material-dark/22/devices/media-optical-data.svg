@@ -1,8 +1,10 @@
-<svg viewBox="0 0 22 22">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
-<path fill="currentColor" d="M10.99 2A9 9 0 0 0 2 11a9 9 0 0 0 9 9 9 9 0 0 0 3-.516v-1.07A8 8 0 0 1 11 19a8 8 0 0 1-8-8 8 8 0 0 1 8-8 8 8 0 0 1 8 8 8 8 0 0 1-.062 1h1.005A9 9 0 0 0 20 11a9 9 0 0 0-9-9zM11 8c-1.68 0-3 1.32-3 3s1.32 3 3 3 3-1.32 3-3-1.32-3-3-3m.006 1.006a2 2 0 0 1 1.996 1.996 2 2 0 0 1-1.996 1.996c-1.098 0-2.014-.897-2.014-1.996s.916-1.996 2.014-1.996M15 13v7h3l2-2v-5zm1 1h3v4h-1v1h-2z" class="ColorScheme-Contrast"/>
+<g class="ColorScheme-Text" style="fill:currentColor">
+<path d="M10.99 2A9 9 0 0 0 2 11a9 9 0 0 0 9 9 9 9 0 0 0 3-.516v-1.07A8 8 0 0 1 11 19a8 8 0 0 1-8-8 8 8 0 0 1 8-8 8 8 0 0 1 8 8 8 8 0 0 1-.062 1h1.005A9 9 0 0 0 20 11a9 9 0 0 0-9-9zM11 8c-1.68 0-3 1.32-3 3s1.32 3 3 3 3-1.32 3-3-1.32-3-3-3m.006 1.006a2 2 0 0 1 1.996 1.996 2 2 0 0 1-1.996 1.996c-1.098 0-2.014-.897-2.014-1.996s.916-1.996 2.014-1.996M15 13v7h3l2-2v-5zm1 1h3v4h-1v1h-2z"/>
+</g>
 </svg>

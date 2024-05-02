@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Highlight{color:#3daee9}.ColorScheme-Contrast{color:#bebebe}
+.ColorScheme-Highlight{color:#3daee9}.ColorScheme-Text{color:#fcfcfc}
 </style>
-<path id="smartphone" fill="currentColor" d="M8 3c-1.108 0-2 .892-2 2v12c0 1.108.892 2 2 2h6c1.108 0 2-.892 2-2V5c0-1.108-.892-2-2-2zm0 1h6c.554 0 1 .446 1 1v12c0 .554-.446 1-1 1H8c-.554 0-1-.446-1-1V5c0-.554.446-1 1-1m.5 1a.5.5 0 0 0-.5.5.5.5 0 0 0 .5.5.5.5 0 0 0 .5-.5.5.5 0 0 0-.5-.5m1 11a.499.499 0 1 0 0 1h3a.499.499 0 1 0 0-1z" class="ColorScheme-Contrast"/>
+<path id="smartphone" fill="currentColor" d="M8 3c-1.108 0-2 .892-2 2v12c0 1.108.892 2 2 2h6c1.108 0 2-.892 2-2V5c0-1.108-.892-2-2-2zm0 1h6c.554 0 1 .446 1 1v12c0 .554-.446 1-1 1H8c-.554 0-1-.446-1-1V5c0-.554.446-1 1-1m.5 1a.5.5 0 0 0-.5.5.5.5 0 0 0 .5.5.5.5 0 0 0 .5-.5.5.5 0 0 0-.5-.5m1 11a.499.499 0 1 0 0 1h3a.499.499 0 1 0 0-1z" class="ColorScheme-Text"/>
 <path fill="currentColor" d="m11 7.996-.342.318c-.283.265-.346.376-.568.487-.223.11-.679.243-1.658.377L8 9.238v.436s.017 3.135 2.815 4.254l.185.074.186-.074C13.984 12.81 14 9.674 14 9.674v-.436l-.432-.06c-.974-.135-1.429-.265-1.654-.377s-.292-.226-.574-.488zm.002 1.324c.136.13.235.26.467.375.299.149.867.247 1.457.352-.033.499-.244 2.008-1.926 2.822-1.68-.814-1.893-2.32-1.926-2.82.593-.105 1.162-.202 1.461-.352.233-.116.331-.247.467-.377" class="ColorScheme-Highlight"/>
 </svg>

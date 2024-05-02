@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}.ColorScheme-NegativeText{color:#da4453}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-NegativeText{color:#da4453}
 </style>
-<path d="m5.121 3 1 1H18v11.879l1 1V3zm2 2 1 1H13V5zm2 2 1 1H11V7zM5 7.121V11H3v1h6.879l-1-1H6V8.121zM13.121 11l1 1H17v-1zM3 13v6h13.879l-2-2H14v-.879L10.879 13zm12.121 0L17 14.879V13zM4 17h1v1H4zm2 0h1v1H6zm2 0h1v1H8zm2 0h1v1h-1z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path d="m5.121 3 1 1H18v11.879l1 1V3zm2 2 1 1H13V5zm2 2 1 1H11V7zM5 7.121V11H3v1h6.879l-1-1H6V8.121zM13.121 11l1 1H17v-1zM3 13v6h13.879l-2-2H14v-.879L10.879 13zm12.121 0L17 14.879V13zM4 17h1v1H4zm2 0h1v1H6zm2 0h1v1H8zm2 0h1v1h-1z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 <path d="M3.707 3 3 3.707 18.293 19l.707-.707zM14 5v1h3V5z" class="ColorScheme-NegativeText" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 </svg>

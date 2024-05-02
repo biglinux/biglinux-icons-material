@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg372" width="32" height="32" version="1.1">
 <defs id="defs3">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
 <g id="input-num-on" transform="translate(-19 -112)">
 <path id="rect54" fill="none" d="M19 112h32v32H19z"/>
-<path id="path56" fill="currentColor" d="M25 116v20l10 4 10-4v-20h-1zm1 1h18v16H26Zm9 3v2h-2v1h2v6h-2v1h5v-1h-2v-9zm-9 14h18v1H26Z" class="ColorScheme-Contrast"/>
+<path id="path56" fill="currentColor" d="M25 116v20l10 4 10-4v-20h-1zm1 1h18v16H26Zm9 3v2h-2v1h2v6h-2v1h5v-1h-2v-9zm-9 14h18v1H26Z" class="ColorScheme-Text"/>
 </g>
 </svg>

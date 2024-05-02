@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}.ColorScheme-PositiveText{color:#27ae60}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-PositiveText{color:#27ae60}
 </style>
 </defs>
 <path fill="currentColor" d="M16.5 11a3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-3.5-3.5m1.99 1.379.707.707-3.535 3.535-2.121-2.121.707-.707 1.414 1.414z" class="ColorScheme-PositiveText"/>
-<path fill="currentColor" d="M5 4C3.338 4 2 5.338 2 7v8c0 1.662 1.338 3 3 3h7v-1H5a1.99 1.99 0 0 1-1.988-1.887l4.597-3.498.721.55c.988.75 2.402.983 3.67.722v-.903c-.952.3-2.083.153-2.86-.437l-6.128-4.66A1.99 1.99 0 0 1 5 5h12a1.99 1.99 0 0 1 1.988 1.887L14.894 10h1.623L19 8.111v1.89h1V7c0-1.663-1.338-3-3-3zM3 8.11 6.8 11 3 13.889z" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M5 4C3.338 4 2 5.338 2 7v8c0 1.662 1.338 3 3 3h7v-1H5a1.99 1.99 0 0 1-1.988-1.887l4.597-3.498.721.55c.988.75 2.402.983 3.67.722v-.903c-.952.3-2.083.153-2.86-.437l-6.128-4.66A1.99 1.99 0 0 1 5 5h12a1.99 1.99 0 0 1 1.988 1.887L14.894 10h1.623L19 8.111v1.89h1V7c0-1.663-1.338-3-3-3zM3 8.11 6.8 11 3 13.889z" class="ColorScheme-Text"/>
 </svg>

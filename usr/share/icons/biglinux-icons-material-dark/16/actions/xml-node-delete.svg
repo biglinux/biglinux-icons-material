@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <defs id="defs3051">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}.ColorScheme-NegativeText{color:#da4453}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-NegativeText{color:#da4453}
 </style>
 </defs>
 <g transform="translate(0 -1036.362)">
-<path id="rect3918" d="M9.09 2 5.943 13.74l.967.26 3.147-11.74zM5.285 4l-2.96 3.145L2 7.492l.324.346L5.268 11l.714-.695-2.62-2.813L6 4.695zm5.43 0L10 4.695l2.639 2.797-.473.508h1.36l.15-.162.324-.346-.324-.347z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none" transform="translate(0 1036.362)"/>
+<path id="rect3918" d="M9.09 2 5.943 13.74l.967.26 3.147-11.74zM5.285 4l-2.96 3.145L2 7.492l.324.346L5.268 11l.714-.695-2.62-2.813L6 4.695zm5.43 0L10 4.695l2.639 2.797-.473.508h1.36l.15-.162.324-.346-.324-.347z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none" transform="translate(0 1036.362)"/>
 <path id="rect5234" d="m9 1046.195 1.667 1.667L9 1049.53l.833.833 1.667-1.667 1.667 1.667.833-.833-1.667-1.667 1.667-1.667-.833-.833-1.667 1.667-1.667-1.667z" class="ColorScheme-NegativeText" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 </g>
 </svg>

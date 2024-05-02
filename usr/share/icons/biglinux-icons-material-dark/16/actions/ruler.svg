@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Contrast" style="fill:currentColor">
-<style id="current-color-scheme" type="text/css" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor">
-.ColorScheme-Contrast{color:#dedede}
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Text" style="fill:currentColor">
+<style id="current-color-scheme" type="text/css" class="ColorScheme-Text" fill="currentColor" style="fill:currentColor">
+.ColorScheme-Text{color:#fcfcfc}
 </style>
-<path d="M7.278.914v3.572H8V4a4.035 4.035 0 0 1 3.134 6.04A4.04 4.04 0 0 1 8 12.043v-.532h-.722v3.618h.716v-2.366a4.8 4.8 0 0 0 1.206-.25l.405.926.656-.285-.404-.93c.364-.192.702-.43 1.005-.71l.742.689.488-.524-.741-.69a5 5 0 0 0 .404-.589q.13-.227.233-.465l2.233.786.238-.676-2.231-.785q.16-.602.164-1.222l1.007-.072-.05-.717-1.01.074A4.8 4.8 0 0 0 12 6.137l.897-.469-.333-.635-.897.47a4.7 4.7 0 0 0-.782-.95l1.483-1.847-.56-.448-1.481 1.844a4.8 4.8 0 0 0-1.097-.56l.266-.975-.691-.189-.266.975a5 5 0 0 0-.545-.073V.914zm0 4.551v1.036H8V5.465zm0 2.016v1.034H8V7.481zm0 2.014v1.036H8V9.495z" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
-<path d="M7.442 3.265A4.757 4.757 0 0 0 3.323 10.4a4.76 4.76 0 0 0 4.119 2.378v-.717a4.038 4.038 0 0 1-3.498-6.059 4.04 4.04 0 0 1 3.498-2.02z" opacity=".4" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
+<path d="M7.278.914v3.572H8V4a4.035 4.035 0 0 1 3.134 6.04A4.04 4.04 0 0 1 8 12.043v-.532h-.722v3.618h.716v-2.366a4.8 4.8 0 0 0 1.206-.25l.405.926.656-.285-.404-.93c.364-.192.702-.43 1.005-.71l.742.689.488-.524-.741-.69a5 5 0 0 0 .404-.589q.13-.227.233-.465l2.233.786.238-.676-2.231-.785q.16-.602.164-1.222l1.007-.072-.05-.717-1.01.074A4.8 4.8 0 0 0 12 6.137l.897-.469-.333-.635-.897.47a4.7 4.7 0 0 0-.782-.95l1.483-1.847-.56-.448-1.481 1.844a4.8 4.8 0 0 0-1.097-.56l.266-.975-.691-.189-.266.975a5 5 0 0 0-.545-.073V.914zm0 4.551v1.036H8V5.465zm0 2.016v1.034H8V7.481zm0 2.014v1.036H8V9.495z" class="ColorScheme-Text" style="fill:currentColor" fill="currentColor"/>
+<path d="M7.442 3.265A4.757 4.757 0 0 0 3.323 10.4a4.76 4.76 0 0 0 4.119 2.378v-.717a4.038 4.038 0 0 1-3.498-6.059 4.04 4.04 0 0 1 3.498-2.02z" opacity=".4" class="ColorScheme-Text" fill="currentColor" style="fill:currentColor"/>
 </g>
 </svg>

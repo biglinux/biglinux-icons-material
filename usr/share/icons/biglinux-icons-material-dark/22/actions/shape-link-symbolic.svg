@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M8 1a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2m0 1a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1" class="ColorScheme-Contrast" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" fill="currentColor"/>
-<path d="M7.5 4h1v10h-1z" style="stroke-width:.953463;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M5 6h6v1H5zM1 8a7 7 0 0 0 7 7 7 7 0 0 0 7-7h-1a6 6 0 0 1-6 6 6 6 0 0 1-6-6z" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M4.866 5.428h4v1h-4z" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="rotate(30)" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M-8.99 13.428h4v1h-4z" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="scale(-1 1)rotate(30)" class="ColorScheme-Contrast" fill="currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path d="M8 1a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2m0 1a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1" class="ColorScheme-Text" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" fill="currentColor"/>
+<path d="M7.5 4h1v10h-1z" style="stroke-width:.953463;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M5 6h6v1H5zM1 8a7 7 0 0 0 7 7 7 7 0 0 0 7-7h-1a6 6 0 0 1-6 6 6 6 0 0 1-6-6z" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M4.866 5.428h4v1h-4z" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="rotate(30)" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M-8.99 13.428h4v1h-4z" style="stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" transform="scale(-1 1)rotate(30)" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

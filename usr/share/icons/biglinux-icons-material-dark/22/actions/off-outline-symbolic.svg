@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="m5.769 5.064-.707.707 5.168 5.166.707-.707Z" class="ColorScheme-Contrast" style="stroke-linecap:butt;fill-opacity:1;fill:currentColor" fill="currentColor"/>
-<path d="M10.23 5.064 5.062 10.23l.707.707 5.168-5.166Z" style="stroke-linecap:butt;fill-opacity:1;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M8 1a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-7-7m0 1a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6" style="fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path d="m5.769 5.064-.707.707 5.168 5.166.707-.707Z" class="ColorScheme-Text" style="stroke-linecap:butt;fill-opacity:1;fill:currentColor" fill="currentColor"/>
+<path d="M10.23 5.064 5.062 10.23l.707.707 5.168-5.166Z" style="stroke-linecap:butt;fill-opacity:1;fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M8 1a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-7-7m0 1a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6" style="fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stop-fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Contrast" style="fill:currentColor">
-<style id="current-color-scheme" type="text/css" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor">
-.ColorScheme-Contrast{color:#dedede}
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Text" style="fill:currentColor">
+<style id="current-color-scheme" type="text/css" class="ColorScheme-Text" fill="currentColor" style="fill:currentColor">
+.ColorScheme-Text{color:#fcfcfc}
 </style>
-<path d="M3 8.995h4.017v4H3zm5 0h5v4H8z" class="ColorScheme-Contrast" style="marker:none;fill:currentColor" fill="currentColor"/>
-<path d="M.986.964v14.031H15V.965H1.986zm1 1H14v5.031H1.986zm0 6.031H14v6H1.986z" opacity=".5" style="marker:none;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M3 2.995h10v3H3z" style="marker:none;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M3 8.995h4.017v4H3zm5 0h5v4H8z" class="ColorScheme-Text" style="marker:none;fill:currentColor" fill="currentColor"/>
+<path d="M.986.964v14.031H15V.965H1.986zm1 1H14v5.031H1.986zm0 6.031H14v6H1.986z" opacity=".5" style="marker:none;fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M3 2.995h10v3H3z" style="marker:none;fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
 </g>
 </svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 <g id="mail-unread-new" transform="translate(-27)">
 <path id="rect4178" d="M27 0h22v22H27z" style="opacity:1;fill:none;fill-opacity:1;stroke:none"/>
-<path id="rect4144-0" d="M28 3v16h13v-1H29v-.586l.463-.463 6.267-6.267 1.454 1.45.814.815H38l.816-.814 1.454-1.451L41.586 12H43l-2.023-2.023 5.752-5.754L46.95 4H47v8h1V3zm1 1h.049l.222.223 5.752 5.754L29 16zm1.463 0h15.074L38 11.537zM45 13l-.574 1.613-1.547-.734.734 1.547L42 16l1.613.574-.734 1.547 1.547-.734L45 19l.574-1.613 1.547.734-.734-1.547L48 16l-1.613-.574.734-1.547-1.547.734z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path id="rect4144-0" d="M28 3v16h13v-1H29v-.586l.463-.463 6.267-6.267 1.454 1.45.814.815H38l.816-.814 1.454-1.451L41.586 12H43l-2.023-2.023 5.752-5.754L46.95 4H47v8h1V3zm1 1h.049l.222.223 5.752 5.754L29 16zm1.463 0h15.074L38 11.537zM45 13l-.574 1.613-1.547-.734.734 1.547L42 16l1.613.574-.734 1.547 1.547-.734L45 19l.574-1.613 1.547.734-.734-1.547L48 16l-1.613-.574.734-1.547-1.547.734z" class="ColorScheme-Text" style="fill:currentColor"/>
 </g>
 </svg>

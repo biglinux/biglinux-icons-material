@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
-<path d="M5.75 1a.75.75 0 0 0-.75.75v4.5c0 .414.336.75.75.75h.191l-1 2H1.75a.75.75 0 0 0-.75.75v4.5c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-4.5A.75.75 0 0 0 6.25 9h-.191l1-2H8.94l1 2h-.19a.75.75 0 0 0-.75.75v4.5c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-4.5a.75.75 0 0 0-.75-.75h-3.191l-1-2h.191a.75.75 0 0 0 .75-.75v-4.5a.75.75 0 0 0-.75-.75zM6 2h4v4H6zm-4 8h4v4H2zm8 0h4v4h-4z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path d="M5.75 1a.75.75 0 0 0-.75.75v4.5c0 .414.336.75.75.75h.191l-1 2H1.75a.75.75 0 0 0-.75.75v4.5c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-4.5A.75.75 0 0 0 6.25 9h-.191l1-2H8.94l1 2h-.19a.75.75 0 0 0-.75.75v4.5c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-4.5a.75.75 0 0 0-.75-.75h-3.191l-1-2h.191a.75.75 0 0 0 .75-.75v-4.5a.75.75 0 0 0-.75-.75zM6 2h4v4H6zm-4 8h4v4H2zm8 0h4v4h-4z" class="ColorScheme-Text" style="fill:currentColor"/>
 </svg>

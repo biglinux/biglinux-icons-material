@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}.ColorScheme-Highlight{color:#3daee9}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-Highlight{color:#3daee9}
 </style>
 <g stroke-linecap="square">
-<g fill="currentColor" class="ColorScheme-Contrast">
+<g fill="currentColor" class="ColorScheme-Text">
 <path d="M5.5 3A2.5 2.5 0 0 0 3 5.5 2.5 2.5 0 0 0 5.5 8 2.5 2.5 0 0 0 8 5.5 2.5 2.5 0 0 0 5.5 3m0 1A1.5 1.5 0 0 1 7 5.5 1.5 1.5 0 0 1 5.5 7 1.5 1.5 0 0 1 4 5.5 1.5 1.5 0 0 1 5.5 4m0 10A2.5 2.5 0 0 0 3 16.5 2.5 2.5 0 0 0 5.5 19 2.5 2.5 0 0 0 8 16.5 2.5 2.5 0 0 0 5.5 14m0 1A1.5 1.5 0 0 1 7 16.5 1.5 1.5 0 0 1 5.5 18 1.5 1.5 0 0 1 4 16.5 1.5 1.5 0 0 1 5.5 15"/>
 <path d="M5 7h1v8H5z"/>
 <path d="M15 7v2a1 1 0 0 1-1 1H6.951A2 2 0 0 0 5 12h1a1 1 0 0 1 1-1h7.049A2 2 0 0 0 16 9V7z"/>

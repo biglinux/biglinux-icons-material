@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" d="M8.25 5a1 1 0 0 0-.69.275L2.93 9.687l-.62.588a1 1 0 0 0 0 1.45l.62.587 4.63 4.413a1 1 0 0 0 .69.275H19a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zm0 1H19v10H8.25l-4.63-4.41L3 11l.62-.59z" class="ColorScheme-Contrast" style="fill:currentColor"/>
-<path fill="currentColor" d="M10.99 8 13 10.01 15.01 8l.99.99L13.99 11 16 13.01l-.99.99L13 11.99 10.99 14l-.99-.99L12.01 11 10 8.99z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path fill="currentColor" d="M8.25 5a1 1 0 0 0-.69.275L2.93 9.687l-.62.588a1 1 0 0 0 0 1.45l.62.587 4.63 4.413a1 1 0 0 0 .69.275H19a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1zm0 1H19v10H8.25l-4.63-4.41L3 11l.62-.59z" class="ColorScheme-Text" style="fill:currentColor"/>
+<path fill="currentColor" d="M10.99 8 13 10.01 15.01 8l.99.99L13.99 11 16 13.01l-.99.99L13 11.99 10.99 14l-.99-.99L12.01 11 10 8.99z" class="ColorScheme-Text" style="fill:currentColor"/>
 </svg>

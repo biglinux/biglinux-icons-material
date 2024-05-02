@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg width="16" height="16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><style id="current-color-scheme" type="text/css">
+.ColorScheme-Text{color:#fcfcfc}
 </style>
-<path d="M4 2v3H2v1h2v4H2v1h2v3h1v-3h4v3h1v-3h2v-1h-2V6h2V5h-2V2H9v3H5V2zm9.5 0c-.277 0-.5.223-.5.5v9a.499.499 0 1 0 1 0v-9c0-.277-.223-.5-.5-.5M5 6h4v4H5zm8.5 7a.5.5 0 0 0-.5.5.5.5 0 0 0 .5.5.5.5 0 0 0 .5-.5.5.5 0 0 0-.5-.5" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path d="M4 2v3H2v1h2v4H2v1h2v3h1v-3h4v3h1v-3h2v-1h-2V6h2V5h-2V2H9v3H5V2zm9.5 0c-.277 0-.5.223-.5.5v9a.499.499 0 1 0 1 0v-9c0-.277-.223-.5-.5-.5M5 6h4v4H5zm8.5 7a.5.5 0 0 0-.5.5.5.5 0 0 0 .5.5.5.5 0 0 0 .5-.5.5.5 0 0 0-.5-.5" class="ColorScheme-Text" style="fill:currentColor"/>
 </svg>

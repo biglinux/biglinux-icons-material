@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg" width="22" height="22" version="1.1">
 <defs id="defs3">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#333}
+.ColorScheme-Text{color:#333}
 </style>
 </defs>
 <g id="22-22-device-notifier">
 <path id="rect27" fill="none" d="M0 0h22v22H0z" opacity=".2"/>
-<path id="path844" fill="currentColor" d="M8.5 3h5a.5.5 0 0 1 .5.5V7a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2V3.5a.5.5 0 0 1 .5-.5M13 7V4H9v3zM8 8a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V9a1 1 0 0 0-1-1z" class="ColorScheme-Contrast"/>
+<path id="path844" fill="currentColor" d="M8.5 3h5a.5.5 0 0 1 .5.5V7a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2V3.5a.5.5 0 0 1 .5-.5M13 7V4H9v3zM8 8a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V9a1 1 0 0 0-1-1z" class="ColorScheme-Text"/>
 </g>
 </svg>

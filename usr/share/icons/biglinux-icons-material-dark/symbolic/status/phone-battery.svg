@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg3869" width="32" height="32" version="1.1">
 <defs id="defs3871">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
 <g id="layer1" transform="translate(-321 -564.362)">
 <g id="phone-battery" transform="translate(-2 -43)">
-<path id="rect907" fill="none" d="M323 607.362h32v32h-32z" style="color:#bebebe"/>
-<path id="path909" fill="currentColor" d="M334 609.362c-1.662 0-3 1.338-3 3v22c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-22c0-1.662-1.338-3-3-3zm0 1h10c1.108 0 2 .892 2 2v22c0 1.108-.892 2-2 2h-10c-1.108 0-2-.892-2-2v-22c0-1.108.892-2 2-2m2.5 23a.499.499 0 1 0 0 1h5a.499.499 0 1 0 0-1z" class="ColorScheme-Contrast"/>
-<path id="path1642" fill="currentColor" d="m339 617.362-3 7h3v5l3-7h-3z" class="ColorScheme-Contrast"/>
+<path id="rect907" fill="none" d="M323 607.362h32v32h-32z" style="color:#fcfcfc"/>
+<path id="path909" fill="currentColor" d="M334 609.362c-1.662 0-3 1.338-3 3v22c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-22c0-1.662-1.338-3-3-3zm0 1h10c1.108 0 2 .892 2 2v22c0 1.108-.892 2-2 2h-10c-1.108 0-2-.892-2-2v-22c0-1.108.892-2 2-2m2.5 23a.499.499 0 1 0 0 1h5a.499.499 0 1 0 0-1z" class="ColorScheme-Text"/>
+<path id="path1642" fill="currentColor" d="m339 617.362-3 7h3v5l3-7h-3z" class="ColorScheme-Text"/>
 </g>
 </g>
 </svg>

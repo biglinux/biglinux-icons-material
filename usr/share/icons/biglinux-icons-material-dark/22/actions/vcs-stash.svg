@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg11" version="1.1" viewBox="0 0 22 22">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}.ColorScheme-Highlight{color:#3daee9}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-Highlight{color:#3daee9}
 </style>
-<path id="path3" fill="currentColor" d="M3 10v9h7v-9H9v4H4v-4zm1 6h5v1H4z" class="ColorScheme-Contrast"/>
+<path id="path3" fill="currentColor" d="M3 10v9h7v-9H9v4H4v-4zm1 6h5v1H4z" class="ColorScheme-Text"/>
 <path id="path5" fill="currentColor" d="M13 17h5v2h-5z" class="ColorScheme-Highlight"/>
-<path id="path7" fill="currentColor" d="m3.5 5.793-.707.707.353.354L6.5 10.207l3.354-3.353.353-.354-.707-.707-3 3z" class="ColorScheme-Contrast"/>
-<path id="path9" fill="currentColor" d="M7.951 3A2 2 0 0 0 6 5v4h1V5a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v11h1V5a2 2 0 0 0-1.951-2z" class="ColorScheme-Contrast"/>
+<path id="path7" fill="currentColor" d="m3.5 5.793-.707.707.353.354L6.5 10.207l3.354-3.353.353-.354-.707-.707-3 3z" class="ColorScheme-Text"/>
+<path id="path9" fill="currentColor" d="M7.951 3A2 2 0 0 0 6 5v4h1V5a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v11h1V5a2 2 0 0 0-1.951-2z" class="ColorScheme-Text"/>
 </svg>

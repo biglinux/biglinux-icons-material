@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M3 2v1h1v2H3v1h3V5H5V3h1V2zm5 0v1h6V2zm0 2v1h4V4zM2 8v1h1v2H2v1h5v-1H6V9h1V8zm2 1h1v2H4zm8 4v1h2v-1z" class="ColorScheme-Contrast" style="fill-opacity:1;stroke:none;fill:currentColor" fill="currentColor"/>
-<path d="M14 11H9l2.5-3Z" class="ColorScheme-Contrast" style="fill-opacity:1;stroke:none;fill:currentColor" fill="currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path d="M3 2v1h1v2H3v1h3V5H5V3h1V2zm5 0v1h6V2zm0 2v1h4V4zM2 8v1h1v2H2v1h5v-1H6V9h1V8zm2 1h1v2H4zm8 4v1h2v-1z" class="ColorScheme-Text" style="fill-opacity:1;stroke:none;fill:currentColor" fill="currentColor"/>
+<path d="M14 11H9l2.5-3Z" class="ColorScheme-Text" style="fill-opacity:1;stroke:none;fill:currentColor" fill="currentColor"/>
 </svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="32" height="32" version="1.1">
 <defs id="defs3051">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
 <g id="cantata" transform="translate(-22)">
-<path id="path13" d="M38 4a12 12 0 0 0-12 12 12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 38 4m0 1a11 11 0 0 1 11 11 11 11 0 0 1-11 11 11 11 0 0 1-11-11A11 11 0 0 1 38 5" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:.6;stroke:none"/>
-<path id="path15" d="M37.002 4v16.994c-1.256-.542-3.214-.828-4.768-.184-2.602 1.077-3.765 3.472-3.005 5.308s3.159 2.42 5.762 1.343c2.053-.852 3.045-3.114 3.042-4.448l-.03-13.015s5.1.599 5.1 5.397c0 3.599-1.1 4.6-4.1 7.598 3-1.8 5.298-4 5.298-7.598 0-4.798-3.704-6.956-4.652-7.904-.6-.6-1.348-2.89-1.348-2.89Z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path id="path13" d="M38 4a12 12 0 0 0-12 12 12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 38 4m0 1a11 11 0 0 1 11 11 11 11 0 0 1-11 11 11 11 0 0 1-11-11A11 11 0 0 1 38 5" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:.6;stroke:none"/>
+<path id="path15" d="M37.002 4v16.994c-1.256-.542-3.214-.828-4.768-.184-2.602 1.077-3.765 3.472-3.005 5.308s3.159 2.42 5.762 1.343c2.053-.852 3.045-3.114 3.042-4.448l-.03-13.015s5.1.599 5.1 5.397c0 3.599-1.1 4.6-4.1 7.598 3-1.8 5.298-4 5.298-7.598 0-4.798-3.704-6.956-4.652-7.904-.6-.6-1.348-2.89-1.348-2.89Z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 <path id="path18" d="M22 0v32h32V0Z" style="opacity:1;fill:none"/>
 </g>
 </svg>

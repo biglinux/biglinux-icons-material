@@ -24,13 +24,13 @@
 <stop id="stop4176-0" offset="1" stop-color="#cae7fc"/>
 </linearGradient>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
 <g transform="translate(-326 -534.36)">
 <g id="layer1-3" transform="translate(326 -496)">
 <path id="rect4156" d="M16 4v1H5v11H4v2h2v-1h11V6h1V4z" style="fill:url(#linearGradient4164);stroke-width:6;stroke-linecap:round;stroke-linejoin:round" transform="translate(0 1030.36)"/>
-<path id="path4318" d="M15 3v3.293l-2 2-3.182 3.182L6.293 15H3v4h4v-3.293l3.525-3.525L13.707 9l2-2H19V3zm1 1h2v2h-2zM4 16h2v2H4z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none" transform="translate(0 1030.36)"/>
+<path id="path4318" d="M15 3v3.293l-2 2-3.182 3.182L6.293 15H3v4h4v-3.293l3.525-3.525L13.707 9l2-2H19V3zm1 1h2v2h-2zM4 16h2v2H4z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none" transform="translate(0 1030.36)"/>
 </g>
 </g>
 </svg>

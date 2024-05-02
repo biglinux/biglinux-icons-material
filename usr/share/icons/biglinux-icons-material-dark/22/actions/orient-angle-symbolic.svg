@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g style="fill-opacity:1;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor">
-<style id="current-color-scheme" type="text/css" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor">
-.ColorScheme-Contrast{color:#dedede}
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><g style="fill-opacity:1;fill:currentColor" class="ColorScheme-Text" fill="currentColor">
+<style id="current-color-scheme" type="text/css" class="ColorScheme-Text" fill="currentColor" style="fill:currentColor">
+.ColorScheme-Text{color:#fcfcfc}
 </style>
-<path d="M11.957 2.13 0 13h16v-1H2.586l10.043-9.13Z" class="ColorScheme-Contrast" style="fill-opacity:1;fill:currentColor" fill="currentColor"/>
-<path d="M10.352 4.648 9.305 5.725a8.75 8.75 0 0 1 2.65 6.271h1.5c0-2.767-1.12-5.418-3.103-7.348" style="opacity:.6;fill-opacity:1;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M11.957 2.13 0 13h16v-1H2.586l10.043-9.13Z" class="ColorScheme-Text" style="fill-opacity:1;fill:currentColor" fill="currentColor"/>
+<path d="M10.352 4.648 9.305 5.725a8.75 8.75 0 0 1 2.65 6.271h1.5c0-2.767-1.12-5.418-3.103-7.348" style="opacity:.6;fill-opacity:1;fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
 </g>
-<path d="M10.5 16h4l-2-3zM8.696.994l-2.951 2.7 3.5.864Z" style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M10.5 16h4l-2-3zM8.696.994l-2.951 2.7 3.5.864Z" style="stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

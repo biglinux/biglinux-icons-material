@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}.ColorScheme-NegativeText{color:#da4453}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-NegativeText{color:#da4453}
 </style>
-<path fill="currentColor" d="M2 2v1h11v2h1V2zm0 2v10h4v-1H3V5h9V4zm2 2v1h2V6zm3 0v8h1V7h5v1h1V6zM4 9v1h1V9zm0 2v1h2v-1z" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M2 2v1h11v2h1V2zm0 2v10h4v-1H3V5h9V4zm2 2v1h2V6zm3 0v8h1V7h5v1h1V6zM4 9v1h1V9zm0 2v1h2v-1z" class="ColorScheme-Text"/>
 <path fill="currentColor" d="M9 11v1h5v-1z" class="ColorScheme-NegativeText"/>
 </svg>

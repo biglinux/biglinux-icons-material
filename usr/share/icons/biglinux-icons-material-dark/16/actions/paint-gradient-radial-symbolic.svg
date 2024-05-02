@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" fill-rule="evenodd" d="M0 0v16h16V0z" opacity=".2" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast"/>
-<path fill="currentColor" fill-rule="evenodd" d="M2.043 0A10 10 0 0 0 0 2.043v11.914A10 10 0 0 0 2.043 16h11.914A10 10 0 0 0 16 13.957V2.002A10 10 0 0 0 14 0z" opacity=".2" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast"/>
-<circle cx="8" cy="8" r="8" fill="currentColor" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast"/>
-<circle cx="8" cy="8" r="6" fill="currentColor" fill-rule="evenodd" opacity=".5" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast"/>
-<circle cx="8" cy="8" r="4" fill="currentColor" fill-rule="evenodd" opacity=".5" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast"/>
-<circle cx="8" cy="8" r="2" fill="currentColor" fill-rule="evenodd" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path fill="currentColor" fill-rule="evenodd" d="M0 0v16h16V0z" opacity=".2" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Text"/>
+<path fill="currentColor" fill-rule="evenodd" d="M2.043 0A10 10 0 0 0 0 2.043v11.914A10 10 0 0 0 2.043 16h11.914A10 10 0 0 0 16 13.957V2.002A10 10 0 0 0 14 0z" opacity=".2" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Text"/>
+<circle cx="8" cy="8" r="8" fill="currentColor" fill-rule="evenodd" opacity=".3" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Text"/>
+<circle cx="8" cy="8" r="6" fill="currentColor" fill-rule="evenodd" opacity=".5" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Text"/>
+<circle cx="8" cy="8" r="4" fill="currentColor" fill-rule="evenodd" opacity=".5" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Text"/>
+<circle cx="8" cy="8" r="2" fill="currentColor" fill-rule="evenodd" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Text"/>
 </svg>

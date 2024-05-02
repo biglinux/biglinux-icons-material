@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path fill="currentColor" fill-rule="evenodd" d="M2 9c-1.108 0-2 .892-2 2v5h1v-5c0-.554.446-1 1-1h12c.554 0 1 .446 1 1v5h1v-5c0-1.108-.892-2-2-2z" class="ColorScheme-Contrast" style="fill:currentColor"/>
-<path fill="currentColor" fill-rule="evenodd" d="M1.104 10.449a.85.85 0 0 0-.104.404v.69L6.861 15.5c.623.42 1.655.42 2.278 0l5.86-3.957v-.69a.85.85 0 0 0-.103-.404l-6.619 4.469a.51.51 0 0 1-.554 0z" class="ColorScheme-Contrast" style="fill:currentColor"/>
-<rect width="6" height="1" x="5.657" y="-5.657" fill="currentColor" fill-rule="evenodd" rx="0" ry="0" transform="rotate(45)" class="ColorScheme-Contrast" style="fill:currentColor"/>
-<rect width="6" height="1" x="-5.657" y="5.657" fill="currentColor" fill-rule="evenodd" rx="0" ry="0" transform="scale(-1 1)rotate(45)" class="ColorScheme-Contrast" style="fill:currentColor"/>
-<path fill="currentColor" fill-rule="evenodd" d="M7.5 1h1v7h-1z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path fill="currentColor" fill-rule="evenodd" d="M2 9c-1.108 0-2 .892-2 2v5h1v-5c0-.554.446-1 1-1h12c.554 0 1 .446 1 1v5h1v-5c0-1.108-.892-2-2-2z" class="ColorScheme-Text" style="fill:currentColor"/>
+<path fill="currentColor" fill-rule="evenodd" d="M1.104 10.449a.85.85 0 0 0-.104.404v.69L6.861 15.5c.623.42 1.655.42 2.278 0l5.86-3.957v-.69a.85.85 0 0 0-.103-.404l-6.619 4.469a.51.51 0 0 1-.554 0z" class="ColorScheme-Text" style="fill:currentColor"/>
+<rect width="6" height="1" x="5.657" y="-5.657" fill="currentColor" fill-rule="evenodd" rx="0" ry="0" transform="rotate(45)" class="ColorScheme-Text" style="fill:currentColor"/>
+<rect width="6" height="1" x="-5.657" y="5.657" fill="currentColor" fill-rule="evenodd" rx="0" ry="0" transform="scale(-1 1)rotate(45)" class="ColorScheme-Text" style="fill:currentColor"/>
+<path fill="currentColor" fill-rule="evenodd" d="M7.5 1h1v7h-1z" class="ColorScheme-Text" style="fill:currentColor"/>
 </svg>

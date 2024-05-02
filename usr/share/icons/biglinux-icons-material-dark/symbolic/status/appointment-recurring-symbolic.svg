@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
-<path fill="currentColor" d="M11 3a8 8 0 0 0-7.928 7h1.006A7 7 0 0 1 11 4a7 7 0 0 1 6.32 4H14v1h5V4h-1v3.168A8 8 0 0 0 11 3m6.922 9A7 7 0 0 1 11 18a7 7 0 0 1-6.31-4H8v-1H3v5h1v-3.195A8 8 0 0 0 11 19a8 8 0 0 0 7.928-7z" class="ColorScheme-Contrast"/>
+<path fill="currentColor" d="M11 3a8 8 0 0 0-7.928 7h1.006A7 7 0 0 1 11 4a7 7 0 0 1 6.32 4H14v1h5V4h-1v3.168A8 8 0 0 0 11 3m6.922 9A7 7 0 0 1 11 18a7 7 0 0 1-6.31-4H8v-1H3v5h1v-3.195A8 8 0 0 0 11 19a8 8 0 0 0 7.928-7z" class="ColorScheme-Text"/>
 </svg>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
-<g class="ColorScheme-Contrast" style="fill:currentColor">
+<g class="ColorScheme-Text" style="fill:currentColor">
 <path d="M13.065 12.113c0 .289 2.207.454 2.085-.069-.176-.88-1.841-.811-2.085.069m-10.499 1.4c.501.44 1.26-.097 1.503-.716-.488-.646-2.288.041-1.503.715m10.229-.795c-.623.578.108 1.183.718.784.162-.11-.014-.646-.718-.784"/>
 <path id="icecap" d="m8.88 3 2.207 2.283c.203.206.203.633.082.756l-1.097-.907-.217 1.334-.907-.495-1.476.949-.487-1.995L6.2 6.658l-1.964-.013c-.379 0-.325-.4.068-.798C5.076 4.98 6.58 3.509 7.053 3c.487-.509 1.34-.495 1.828 0z" class="full-specularity"/>
 <path d="M5.32 9.83c.121 0 4.17.55 2.613.976-.596.166-3.331-.976-2.614-.976"/>

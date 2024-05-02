@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <defs id="defs3051">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}.ColorScheme-ViewBackground{color:#fcfcfc}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-ViewBackground{color:#fcfcfc}
 </style>
 </defs>
 <path d="M2 1v6h1V2h5v5h1V2h5v5h1V1zm0 7v6h13V8h-1v5H9V8H8v5H3V8z" class="ColorScheme-ViewBackground" style="fill:currentColor;fill-opacity:1;stroke:none" transform="translate(-421.714 -531.79)"/>
-<path d="M423.714 538.79h13v1h-13z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none" transform="translate(-421.714 -531.79)"/>
-<path d="M435.714 533.79v5h-5v-5zm-6 0v5h-5v-5zm6 6v5h-5v-5zm-6 0v5h-5v-5z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:.5;stroke:none" transform="translate(-421.714 -531.79)"/>
+<path d="M423.714 538.79h13v1h-13z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none" transform="translate(-421.714 -531.79)"/>
+<path d="M435.714 533.79v5h-5v-5zm-6 0v5h-5v-5zm6 6v5h-5v-5zm-6 0v5h-5v-5z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:.5;stroke:none" transform="translate(-421.714 -531.79)"/>
 </svg>

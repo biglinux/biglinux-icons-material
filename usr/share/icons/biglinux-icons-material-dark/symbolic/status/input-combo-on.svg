@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 <g id="22-22-input-combo-on">
 <path d="M0 0h22v22H0z" opacity=".001"/>
-<path d="M4 3v14l7 2 7-2V3zm1 1h12v10H5zm0 11h12v1H5zm9-10v.833h-1v.834h1v2.5h-1V10h3v-.833h-1V5zM9.438 6 7 12h1.074l.406-1h3.04l.406 1H13l-2.44-6h-.537L10 6.01 9.977 6zM10 7.258 11.113 10H8.887z" class="ColorScheme-Contrast"/>
+<path d="M4 3v14l7 2 7-2V3zm1 1h12v10H5zm0 11h12v1H5zm9-10v.833h-1v.834h1v2.5h-1V10h3v-.833h-1V5zM9.438 6 7 12h1.074l.406-1h3.04l.406 1H13l-2.44-6h-.537L10 6.01 9.977 6zM10 7.258 11.113 10H8.887z" class="ColorScheme-Text"/>
 </g>
 </svg>

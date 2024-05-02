@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M0 7h1V6H0Zm2 0h1V6H2Zm2 0h1V6H4Zm8 0h1V6h-1zm2 0h1V6h-1zM0 1h1V0H0Zm2 0h1V0H2ZM0 5h1V4H0Zm0-2h1V2H0Zm4-2h1V0H4Zm2 0h1V0H6Zm2 0h1V0H8Zm2 0h1V0h-1zm2 0h1V0h-1zm2 0h1V0h-1zm0 2h1V2h-1zm0 2h1V4h-1z" class="ColorScheme-Contrast" style="fill-opacity:1;fill:currentColor" fill="currentColor"/>
-<path d="M7.5 4.999h1v7h-1z" style="stroke-width:1.87083;stroke-linecap:square;paint-order:stroke fill markers;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M9.849 2.535h5v1h-5z" style="stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-fill:currentColor" transform="rotate(45)" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M-1.465 13.849h5v1h-5z" style="stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-fill:currentColor" transform="scale(-1 1)rotate(45)" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M3 13.999h10v1H3zM3 3h10v1H3z" style="stroke-width:1.69031;stroke-linecap:square;paint-order:stroke fill markers;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path d="M0 7h1V6H0Zm2 0h1V6H2Zm2 0h1V6H4Zm8 0h1V6h-1zm2 0h1V6h-1zM0 1h1V0H0Zm2 0h1V0H2ZM0 5h1V4H0Zm0-2h1V2H0Zm4-2h1V0H4Zm2 0h1V0H6Zm2 0h1V0H8Zm2 0h1V0h-1zm2 0h1V0h-1zm2 0h1V0h-1zm0 2h1V2h-1zm0 2h1V4h-1z" class="ColorScheme-Text" style="fill-opacity:1;fill:currentColor" fill="currentColor"/>
+<path d="M7.5 4.999h1v7h-1z" style="stroke-width:1.87083;stroke-linecap:square;paint-order:stroke fill markers;stop-fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M9.849 2.535h5v1h-5z" style="stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-fill:currentColor" transform="rotate(45)" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M-1.465 13.849h5v1h-5z" style="stroke-width:2;stroke-linecap:square;paint-order:stroke fill markers;stop-fill:currentColor" transform="scale(-1 1)rotate(45)" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M3 13.999h10v1H3zM3 3h10v1H3z" style="stroke-width:1.69031;stroke-linecap:square;paint-order:stroke fill markers;stop-fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

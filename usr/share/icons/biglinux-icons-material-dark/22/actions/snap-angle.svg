@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
 <defs>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Highlight{color:#3daee9}.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Highlight{color:#3daee9}.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
 <path d="m15.045 6.453-.707.707A12.5 12.5 0 0 1 18 16h1c0-3.58-1.424-7.015-3.955-9.547" class="ColorScheme-Highlight" style="fill:currentColor;fill-opacity:1;stroke:none"/>
-<path d="M1 16v1h1v-1zm6 0v1h1v-1zm2 0v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zM17 3.293 6.293 14l.707.707L17.707 4z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path d="M1 16v1h1v-1zm6 0v1h1v-1zm2 0v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zm3 0v1h2v-1zM17 3.293 6.293 14l.707.707L17.707 4z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 <path d="M2 14v5h5v-5zm1 1h3v3H3z" class="ColorScheme-Highlight" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 </svg>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 5.821 5.821">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}.ColorScheme-NegativeText{color:#da4453}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-NegativeText{color:#da4453}
 </style>
-<path d="M11 8v.988L12.012 10H14v1.988l1.867 1.867c.279.085.566.144.863.145H20V8h-3.27a3 3 0 0 0-2.23 1H13V8zM2 9v4h8.982l-1-1H3v-2h4.982l-1-1zm14.73 0H19v4h-2.27A2 2 0 0 1 15 12v-2h.002a2 2 0 0 1 1.728-1" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none" transform="scale(.26458)"/>
+<path d="M11 8v.988L12.012 10H14v1.988l1.867 1.867c.279.085.566.144.863.145H20V8h-3.27a3 3 0 0 0-2.23 1H13V8zM2 9v4h8.982l-1-1H3v-2h4.982l-1-1zm14.73 0H19v4h-2.27A2 2 0 0 1 15 12v-2h.002a2 2 0 0 1 1.728-1" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none" transform="scale(.26458)"/>
 <path d="m.794 292.16.187-.187 4.046 4.046-.187.187z" class="ColorScheme-NegativeText" style="fill:currentColor;fill-opacity:1;stroke:none" transform="translate(0 -291.18)"/>
 </svg>

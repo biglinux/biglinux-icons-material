@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
-<g fill="currentColor" class="ColorScheme-Contrast">
+<g fill="currentColor" class="ColorScheme-Text">
 <path d="m6.293 8 6-6 .707.707L7.707 8 13 13.293l-.707.707z"/>
 <path d="m2.293 8 6-6L9 2.707 3.707 8 9 13.293 8.293 14z"/>
 </g>

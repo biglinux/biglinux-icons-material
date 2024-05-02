@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M0 0h7v5.994L5.838 5H6V1H1.166L.824.707Z" class="ColorScheme-Contrast" style="opacity:.5;fill-rule:evenodd;stroke-linecap:square;stop-fill:currentColor" fill="currentColor"/>
-<path d="m0 0 .824.707L10 8.563v7.894L0 7.926Zm1 2.172v5.293l8 6.824V9.023Z" style="fill-opacity:1;-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M0 12h9v1H0z" style="fill-rule:evenodd;stroke:none;stroke-width:1.34164;stroke-linecap:square;stop-fill:currentColor" transform="matrix(0 1 1 0 0 0)" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="m9.672 7.172.707-.707 2.121 2.12 2.121-2.12.707.707-2.121 2.121L12.5 10l-.707-.707Z" style="fill-rule:evenodd;stroke:none;stroke-linecap:square;stop-fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path d="M0 0h7v5.994L5.838 5H6V1H1.166L.824.707Z" class="ColorScheme-Text" style="opacity:.5;fill-rule:evenodd;stroke-linecap:square;stop-fill:currentColor" fill="currentColor"/>
+<path d="m0 0 .824.707L10 8.563v7.894L0 7.926Zm1 2.172v5.293l8 6.824V9.023Z" style="fill-opacity:1;-inkscape-stroke:none;fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M0 12h9v1H0z" style="fill-rule:evenodd;stroke:none;stroke-width:1.34164;stroke-linecap:square;stop-fill:currentColor" transform="matrix(0 1 1 0 0 0)" class="ColorScheme-Text" fill="currentColor"/>
+<path d="m9.672 7.172.707-.707 2.121 2.12 2.121-2.12.707.707-2.121 2.121L12.5 10l-.707-.707Z" style="fill-rule:evenodd;stroke:none;stroke-linecap:square;stop-fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

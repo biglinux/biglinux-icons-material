@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
 <defs id="defs3051">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
-<path d="M3 4v3h1v8H3v3h10v-1h-1V7h6v5h1V7h1V4zm1 1h1v1H4zm2 0h1v1H6zm2 0h1v1H8zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zM5 7h6v8H5zm-1 9h1v1H4zm2 0h1v1H6zm2 0h1v1H8zm2 0h1v1h-1z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path d="M3 4v3h1v8H3v3h10v-1h-1V7h6v5h1V7h1V4zm1 1h1v1H4zm2 0h1v1H6zm2 0h1v1H8zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zM5 7h6v8H5zm-1 9h1v1H4zm2 0h1v1H6zm2 0h1v1H8zm2 0h1v1h-1z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 <path d="m16 12-.576 1.611-1.545-.732.734 1.547L13 15l1.611.576-.732 1.545 1.547-.734L16 18l.576-1.611 1.545.732-.734-1.547L19 15l-1.611-.576.732-1.545-1.547.734z" style="fill:#fdbc4b"/>
 </svg>

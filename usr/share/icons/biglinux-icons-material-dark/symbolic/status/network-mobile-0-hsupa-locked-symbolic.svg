@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg4153" width="22" height="22" version="1.1">
 <defs id="defs4157">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
 <g id="network-mobile-0-hsupa-locked" transform="translate(-88 264)">
 <path id="rect5579" fill="none" d="M88-264h22v22H88z" opacity=".55"/>
-<path id="path5581" fill="currentColor" fill-rule="evenodd" d="m107-261-16 16h11v-3l1-1v-2l2-2h2z" class="ColorScheme-Contrast" opacity=".35"/>
-<path id="path5583" fill="currentColor" d="M106-252c-1.108 0-2 .892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-.892-2-2-2m0 1c.554 0 1 .446 1 1v2h-2v-2c0-.554.446-1 1-1" class="ColorScheme-Contrast"/>
-<path id="path5659" fill="currentColor" d="M91-261v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z" class="ColorScheme-Contrast"/>
+<path id="path5581" fill="currentColor" fill-rule="evenodd" d="m107-261-16 16h11v-3l1-1v-2l2-2h2z" class="ColorScheme-Text" opacity=".35"/>
+<path id="path5583" fill="currentColor" d="M106-252c-1.108 0-2 .892-2 2v2h-1v3h6v-3h-1v-2c0-1.108-.892-2-2-2m0 1c.554 0 1 .446 1 1v2h-2v-2c0-.554.446-1 1-1" class="ColorScheme-Text"/>
+<path id="path5659" fill="currentColor" d="M91-261v5h1v-2h2v2h1v-5h-1v2h-2v-2zm6 0-1 2h2z" class="ColorScheme-Text"/>
 </g>
 </svg>

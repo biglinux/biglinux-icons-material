@@ -6,9 +6,9 @@
 <stop id="stop4176-0" offset="1" stop-color="#cae7fc"/>
 </linearGradient>
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
 <path id="rect4156" d="M11 3v1H4v7H3v2h2v-1h7V5h1V3z" style="fill:url(#linearGradient4164);stroke-width:6;stroke-linecap:round;stroke-linejoin:round"/>
-<path id="path6" d="M10 2v3.281L5.281 10H2v4h4v-3.281L10.719 6H14V2zm1 1h2v2h-2zm-8 8h2v2H3z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path id="path6" d="M10 2v3.281L5.281 10H2v4h4v-3.281L10.719 6H14V2zm1 1h2v2h-2zm-8 8h2v2H3z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 </svg>

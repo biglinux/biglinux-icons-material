@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Contrast" style="fill:currentColor">
-<style id="current-color-scheme" type="text/css" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor">
-.ColorScheme-Contrast{color:#dedede}
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Text" style="fill:currentColor">
+<style id="current-color-scheme" type="text/css" class="ColorScheme-Text" fill="currentColor" style="fill:currentColor">
+.ColorScheme-Text{color:#fcfcfc}
 </style>
-<path d="m13.023 8.996-1 .004H2v3.856A2.14 2.14 0 0 0 4.145 15h5.738c.898 0 1.66-.55 1.98-1.328.356.195.754.3 1.16.309a2.5 2.5 0 0 0 2.5-2.5 2.487 2.487 0 0 0-2.5-2.485M3 10h8v3c0 .554-.446 1-1 1H4c-.554 0-1-.446-1-1zm10.023.016a1.465 1.465 0 0 1 0 2.93 1.48 1.48 0 0 1-1-.462v-2.008a1.48 1.48 0 0 1 1-.46M6 1v.5C6 2.32 6.676 3 7.5 3h3c.281 0 .5.215.5.5 0 .281-.219.5-.5.5h-7C2.676 4 2 4.676 2 5.5 2 6.32 2.676 7 3.5 7h4c.281 0 .5.215.5.5V8h1v-.5C9 6.676 8.32 6 7.5 6h-4a.49.49 0 0 1-.5-.5c0-.285.215-.5.5-.5h7c.82 0 1.5-.68 1.5-1.5 0-.824-.68-1.5-1.5-1.5h-3a.49.49 0 0 1-.5-.5V1z" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
+<path d="m13.023 8.996-1 .004H2v3.856A2.14 2.14 0 0 0 4.145 15h5.738c.898 0 1.66-.55 1.98-1.328.356.195.754.3 1.16.309a2.5 2.5 0 0 0 2.5-2.5 2.487 2.487 0 0 0-2.5-2.485M3 10h8v3c0 .554-.446 1-1 1H4c-.554 0-1-.446-1-1zm10.023.016a1.465 1.465 0 0 1 0 2.93 1.48 1.48 0 0 1-1-.462v-2.008a1.48 1.48 0 0 1 1-.46M6 1v.5C6 2.32 6.676 3 7.5 3h3c.281 0 .5.215.5.5 0 .281-.219.5-.5.5h-7C2.676 4 2 4.676 2 5.5 2 6.32 2.676 7 3.5 7h4c.281 0 .5.215.5.5V8h1v-.5C9 6.676 8.32 6 7.5 6h-4a.49.49 0 0 1-.5-.5c0-.285.215-.5.5-.5h7c.82 0 1.5-.68 1.5-1.5 0-.824-.68-1.5-1.5-1.5h-3a.49.49 0 0 1-.5-.5V1z" class="ColorScheme-Text" style="fill:currentColor" fill="currentColor"/>
 </g>
 </svg>

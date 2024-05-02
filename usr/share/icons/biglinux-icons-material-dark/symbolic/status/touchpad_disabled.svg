@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg89" width="32" height="32" version="1.1">
 <defs id="defs5">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}.ColorScheme-NegativeText{color:#da4453}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-NegativeText{color:#da4453}
 </style>
 </defs>
 <g id="touchpad_disabled" transform="translate(0 65)">
 <path id="path43" fill="#ff3232" d="M7-55.293 10.293-52 7-48.707c.013.025.707.707.707.707L11-51.293 14.293-48l.707-.707L11.707-52 15-55.293 14.293-56 11-52.707 7.707-56Z" class="ColorScheme-NegativeText"/>
 <path id="path45" fill="none" d="M0-65v32h32v-32z"/>
-<g id="g61" fill="currentColor" class="ColorScheme-Contrast" transform="translate(0 -65)">
+<g id="g61" fill="currentColor" class="ColorScheme-Text" transform="translate(0 -65)">
 <g id="g57" transform="translate(-44 1)">
 <path id="path47" d="M74 17h-1v6c0 2.216-1.784 4-4 4h-3c-2.216 0-4-1.784-4-4v-6h-1v6c0 2.77 2.23 5 5 5h3c2.77 0 5-2.23 5-5z" opacity=".5"/>
 <path id="path49" d="M64.5 9c-.831 0-1.5.669-1.5 1.5V17h1v-7h1v7h1v-6.5c0-.831-.669-1.5-1.5-1.5" opacity=".5"/>

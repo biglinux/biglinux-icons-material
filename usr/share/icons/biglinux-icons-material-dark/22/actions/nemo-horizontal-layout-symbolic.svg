@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="-3 -3 22 22">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Contrast" style="fill:currentColor">
-<circle cx="2.99" cy="8" r="1" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
-<circle cx="8" cy="8" r="1" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
-<circle cx="13" cy="8" r="1" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Text" style="fill:currentColor">
+<circle cx="2.99" cy="8" r="1" class="ColorScheme-Text" fill="currentColor" style="fill:currentColor"/>
+<circle cx="8" cy="8" r="1" class="ColorScheme-Text" fill="currentColor" style="fill:currentColor"/>
+<circle cx="13" cy="8" r="1" class="ColorScheme-Text" fill="currentColor" style="fill:currentColor"/>
 </g>
 </svg>

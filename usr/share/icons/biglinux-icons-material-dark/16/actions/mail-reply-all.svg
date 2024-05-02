@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M6 4 1 8l5 4v-1.281L2.602 8 6 5.281z" style="fill-opacity:1;stroke:none;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M9 4 4 8l5 4V9h5V7H9Z" style="fill-opacity:1;stroke:none;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path d="M6 4 1 8l5 4v-1.281L2.602 8 6 5.281z" style="fill-opacity:1;stroke:none;fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M9 4 4 8l5 4V9h5V7H9Z" style="fill-opacity:1;stroke:none;fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

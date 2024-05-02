@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}.ColorScheme-NeutralText{color:#f67400}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-NeutralText{color:#f67400}
 </style>
-<path d="M10.988 3 6 7.99v6.02L10.988 19H12V3zM3 8v6h2V8z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path d="M10.988 3 6 7.99v6.02L10.988 19H12V3zM3 8v6h2V8z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 <circle cx="16" cy="11" r="3" class="ColorScheme-NeutralText" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 </svg>

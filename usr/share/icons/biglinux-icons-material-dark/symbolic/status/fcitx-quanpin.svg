@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 <g id="fcitx-quanpin">
-<path id="path4261" d="M3 3v16h16V3zm1 1h14v14H4zm6.51.902c-.186.93-1.548 2.061-2.944 2.85C6.171 8.54 4.83 9.029 4.83 9.029l.34.942s.8-.294 1.83-.795V10h3.5v2H8v1h2.5v3H6v1h10v-1h-4.5v-3H14v-1h-2.5v-2H15v-.87c1.016.517 1.824.839 1.824.839l.352-.938s-3.856-1.498-5.733-3.787c.013-.05.037-.096.047-.146zm.49 1.33C12.116 7.447 13.543 8.37 14.734 9H7.338c.237-.121.473-.237.72-.377 1.096-.619 2.274-1.394 2.942-2.39" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path id="path4261" d="M3 3v16h16V3zm1 1h14v14H4zm6.51.902c-.186.93-1.548 2.061-2.944 2.85C6.171 8.54 4.83 9.029 4.83 9.029l.34.942s.8-.294 1.83-.795V10h3.5v2H8v1h2.5v3H6v1h10v-1h-4.5v-3H14v-1h-2.5v-2H15v-.87c1.016.517 1.824.839 1.824.839l.352-.938s-3.856-1.498-5.733-3.787c.013-.05.037-.096.047-.146zm.49 1.33C12.116 7.447 13.543 8.37 14.734 9H7.338c.237-.121.473-.237.72-.377 1.096-.619 2.274-1.394 2.942-2.39" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 <path id="rect4263" d="M0 0h22v22H0z" style="fill:none;fill-opacity:1;stroke:none;stroke-linejoin:miter"/>
 </g>
 </svg>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor">
-<path d="M2 2c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1V3c0-.554-.446-1-1-1zm0 1h2v2H2zm5-1c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1V3c0-.554-.446-1-1-1zm0 1h2v2H7zm5-1c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1V3c0-.554-.446-1-1-1zm0 1h2v2h-2zM2 11c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1v-2c0-.554-.446-1-1-1zm0 1h2v2H2zm5-1c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1v-2c0-.554-.446-1-1-1zm0 1h2v2H7zm5-1c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1v-2c0-.554-.446-1-1-1zm0 1h2v2h-2z" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
-<rect width="14" height="1" x="1" y="8" ry=".5" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><g class="ColorScheme-Text" style="fill:currentColor" fill="currentColor">
+<path d="M2 2c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1V3c0-.554-.446-1-1-1zm0 1h2v2H2zm5-1c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1V3c0-.554-.446-1-1-1zm0 1h2v2H7zm5-1c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1V3c0-.554-.446-1-1-1zm0 1h2v2h-2zM2 11c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1v-2c0-.554-.446-1-1-1zm0 1h2v2H2zm5-1c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1v-2c0-.554-.446-1-1-1zm0 1h2v2H7zm5-1c-.554 0-1 .446-1 1v2c0 .554.446 1 1 1h2c.554 0 1-.446 1-1v-2c0-.554-.446-1-1-1zm0 1h2v2h-2z" class="ColorScheme-Text" fill="currentColor" style="fill:currentColor"/>
+<rect width="14" height="1" x="1" y="8" ry=".5" class="ColorScheme-Text" fill="currentColor" style="fill:currentColor"/>
 </g>
 </svg>

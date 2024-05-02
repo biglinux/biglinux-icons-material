@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg19" version="1.1" viewBox="0 0 16 16">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
-<g id="g13" fill="currentColor" stroke-linecap="square" class="ColorScheme-Contrast">
+<g id="g13" fill="currentColor" stroke-linecap="square" class="ColorScheme-Text">
 <path id="path3" d="M3.5 3A1.5 1.5 0 0 0 2 4.5 1.5 1.5 0 0 0 3.5 6 1.5 1.5 0 0 0 5 4.5 1.5 1.5 0 0 0 3.5 3m-.012 1H3.5a.5.5 0 0 1 .5.5.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .488-.5"/>
 <path id="path5" d="M3.5 11A1.5 1.5 0 0 0 2 12.5 1.5 1.5 0 0 0 3.5 14 1.5 1.5 0 0 0 5 12.5 1.5 1.5 0 0 0 3.5 11m-.012 1H3.5a.5.5 0 0 1 .5.5.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .488-.5"/>
 <path id="path7" d="M11.5 11a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5m-.012 1h.012a.5.5 0 0 1 .5.5.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .488-.5"/>
 <path id="path9" d="M3 5h1v7H3z"/>
 <path id="path11" d="M7 4v1h3a1 1 0 0 1 1 1v6h1V6a2 2 0 0 0-1.951-2H10z"/>
 </g>
-<path id="path15" fill="currentColor" d="M8.5 1.793 5.793 4.5 8.5 7.207l.707-.707-2-2 2-2z" class="ColorScheme-Contrast"/>
+<path id="path15" fill="currentColor" d="M8.5 1.793 5.793 4.5 8.5 7.207l.707-.707-2-2 2-2z" class="ColorScheme-Text"/>
 </svg>

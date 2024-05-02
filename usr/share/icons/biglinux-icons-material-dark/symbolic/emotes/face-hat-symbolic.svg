@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
-<path d="m4.674.576-.278.74-.687 1.836L.149 6h2.21A6 6 0 0 0 2 8a6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-.344-2h2.196L12.29 3.152 11.326.576 8 .992zm.66 1.09L8 2l2.666-.334.5 1.334H4.834zM4.248 4h7.504L13 5H3zm-.814 2H5a1 1 0 0 0 1 1 1 1 0 0 0 1-1h2a1 1 0 0 0 1 1 1 1 0 0 0 1-1h1.58A5 5 0 0 1 13 8a5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 .434-2M5.5 10a.499.499 0 1 0 0 1h5a.499.499 0 1 0 0-1z" class="ColorScheme-Contrast" style="fill:currentColor"/>
+<path d="m4.674.576-.278.74-.687 1.836L.149 6h2.21A6 6 0 0 0 2 8a6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-.344-2h2.196L12.29 3.152 11.326.576 8 .992zm.66 1.09L8 2l2.666-.334.5 1.334H4.834zM4.248 4h7.504L13 5H3zm-.814 2H5a1 1 0 0 0 1 1 1 1 0 0 0 1-1h2a1 1 0 0 0 1 1 1 1 0 0 0 1-1h1.58A5 5 0 0 1 13 8a5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 .434-2M5.5 10a.499.499 0 1 0 0 1h5a.499.499 0 1 0 0-1z" class="ColorScheme-Text" style="fill:currentColor"/>
 </svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
 <defs id="defs3051">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#dedede}.ColorScheme-PositiveText{color:#27ae60}
+.ColorScheme-Text{color:#fcfcfc}.ColorScheme-PositiveText{color:#27ae60}
 </style>
 </defs>
-<path d="M2 2v12h7v-1H3V7h10v2h1V4H9.008l-2-2L7 2.008V2H3zm1 1h3.592l1 1h-.594v.008L6.99 4l-2 2H2.998z" class="ColorScheme-Contrast" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+<path d="M2 2v12h7v-1H3V7h10v2h1V4H9.008l-2-2L7 2.008V2H3zm1 1h3.592l1 1h-.594v.008L6.99 4l-2 2H2.998z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 <path d="M11.5 9A2.5 2.5 0 0 0 9 11.5a2.5 2.5 0 0 0 .416 1.377l.732-.732A1.5 1.5 0 0 1 10 11.5a1.5 1.5 0 0 1 1.5-1.5 1.5 1.5 0 0 1 .645.148l.732-.732A2.5 2.5 0 0 0 11.5 9m2.084 1.123-.732.732A1.5 1.5 0 0 1 13 11.5a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-.645-.148l-.732.732A2.5 2.5 0 0 0 11.5 14a2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-.416-1.377" class="ColorScheme-PositiveText" style="fill:currentColor;fill-opacity:1;stroke:none"/>
 </svg>

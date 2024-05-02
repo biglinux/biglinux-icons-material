@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Contrast" style="fill:currentColor">
-<style id="current-color-scheme" type="text/css" class="ColorScheme-Contrast" fill="currentColor" style="fill:currentColor">
-.ColorScheme-Contrast{color:#dedede}
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><g fill="currentColor" class="ColorScheme-Text" style="fill:currentColor">
+<style id="current-color-scheme" type="text/css" class="ColorScheme-Text" fill="currentColor" style="fill:currentColor">
+.ColorScheme-Text{color:#fcfcfc}
 </style>
-<path d="M0 0h1v1H0zm2 0h1v1H2zm2 0h1v1H4zm2 0h1v1H6zm2 0h1v1H8zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zM0 2h1v1H0zm0 2h1v1H0zm0 2h1v1H0zm0 2h1v1H0zm0 2h1v1H0zm0 2h1v1H0zm0 2h1v1H0zM14 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zM2 14h1v1H2zm2 0h1v1H4zm2 0h1v1H6zm2 0h1v1H8zm2 0h1v1h-1zm2 0h1v1h-1z" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
-<path d="M2 2v11h11V2zm2 2h7v7H4z" opacity=".5" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Contrast" fill="currentColor"/>
-<path d="M47 713.36h2v3h-2zm9 0h2v3h-2zm-5-4h3v2h-3zm0 9h3v2h-3zm-4 0h2v2h-2zm0-9h2v2h-2zm9 0h2v2h-2zm0 9h2v2h-2z" opacity=".999" style="paint-order:stroke fill markers;fill:currentColor" transform="translate(-45 -707.36)" class="ColorScheme-Contrast" fill="currentColor"/>
+<path d="M0 0h1v1H0zm2 0h1v1H2zm2 0h1v1H4zm2 0h1v1H6zm2 0h1v1H8zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zM0 2h1v1H0zm0 2h1v1H0zm0 2h1v1H0zm0 2h1v1H0zm0 2h1v1H0zm0 2h1v1H0zm0 2h1v1H0zM14 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zM2 14h1v1H2zm2 0h1v1H4zm2 0h1v1H6zm2 0h1v1H8zm2 0h1v1h-1zm2 0h1v1h-1z" class="ColorScheme-Text" style="fill:currentColor" fill="currentColor"/>
+<path d="M2 2v11h11V2zm2 2h7v7H4z" opacity=".5" style="paint-order:stroke fill markers;fill:currentColor" class="ColorScheme-Text" fill="currentColor"/>
+<path d="M47 713.36h2v3h-2zm9 0h2v3h-2zm-5-4h3v2h-3zm0 9h3v2h-3zm-4 0h2v2h-2zm0-9h2v2h-2zm9 0h2v2h-2zm0 9h2v2h-2z" opacity=".999" style="paint-order:stroke fill markers;fill:currentColor" transform="translate(-45 -707.36)" class="ColorScheme-Text" fill="currentColor"/>
 </g>
 </svg>

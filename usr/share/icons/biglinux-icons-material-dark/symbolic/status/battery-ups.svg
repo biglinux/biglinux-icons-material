@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg199" width="32" height="32" version="1.0">
 <defs id="defs3">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#333}
+.ColorScheme-Text{color:#333}
 </style>
 </defs>
 <g id="battery-ups" transform="translate(-182.54 -428.51)">
 <path id="rect171" fill="none" d="M182.54 428.51h32v32h-32z"/>
-<path id="path173" fill="currentColor" d="M190.54 432.51v24h16v-24zm1 1h14v22h-14zm7 2-3 7h3v4l3-7h-3zm-6 15v3h1v-3zm2 0v3h1v-3zm2 0v3h1v-3zm2 0v3h1v-3zm4.5 0a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5" class="ColorScheme-Contrast"/>
+<path id="path173" fill="currentColor" d="M190.54 432.51v24h16v-24zm1 1h14v22h-14zm7 2-3 7h3v4l3-7h-3zm-6 15v3h1v-3zm2 0v3h1v-3zm2 0v3h1v-3zm2 0v3h1v-3zm4.5 0a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5" class="ColorScheme-Text"/>
 </g>
 </svg>

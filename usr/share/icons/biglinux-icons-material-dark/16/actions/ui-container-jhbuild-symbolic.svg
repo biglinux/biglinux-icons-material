@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='ASCII'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Contrast{color:#dedede; fill:currentColor;}</style></defs><path d="M2 0C.892 0 0 .892 0 2v5c0 1.108.892 2 2 2h6c1.108 0 2-.892 2-2V2c0-1.108-.892-2-2-2zm0 1h6c.554 0 1 .446 1 1v5c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V2c0-.554.446-1 1-1m0 9c-1.108 0-2 .892-2 2v2c0 1.108.892 2 2 2h4c1.108 0 2-.892 2-2v-2c0-1.108-.892-2-2-2zm0 1h4c.554 0 1 .446 1 1v2c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1v-2c0-.554.446-1 1-1" class="ColorScheme-Contrast" style="fill:currentColor" fill="currentColor"/>
-<rect width="6" height="4" x="1" y="11" class="ColorScheme-Contrast" style="fill:currentColor" opacity=".35" rx="1" ry="1" fill="currentColor"/>
-<path class="ColorScheme-Contrast" style="fill:currentColor" d="M11 8c-1.108 0-2 .892-2 2v2c0 1.108.892 2 2 2h3c1.108 0 2-.892 2-2v-2c0-1.108-.892-2-2-2zm0 1h3c.554 0 1 .446 1 1v2c0 .554-.446 1-1 1h-3c-.554 0-1-.446-1-1v-2c0-.554.446-1 1-1" fill="currentColor"/>
-<rect width="5" height="4" x="10" y="9" class="ColorScheme-Contrast" style="fill:currentColor" opacity=".35" rx="1" ry="1" fill="currentColor"/>
-<rect width="1" height="3" x="4" y="8" class="ColorScheme-Contrast" style="fill:currentColor" rx="0" ry="0" fill="currentColor"/>
-<path class="ColorScheme-Contrast" style="fill:currentColor" d="m9.293 7.293 1.414 1.414-.707.707L8.586 8zM9 11l-1.932.518.259.966 1.932-.518z" fill="currentColor"/>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#fcfcfc; fill:currentColor;}</style></defs><path d="M2 0C.892 0 0 .892 0 2v5c0 1.108.892 2 2 2h6c1.108 0 2-.892 2-2V2c0-1.108-.892-2-2-2zm0 1h6c.554 0 1 .446 1 1v5c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1V2c0-.554.446-1 1-1m0 9c-1.108 0-2 .892-2 2v2c0 1.108.892 2 2 2h4c1.108 0 2-.892 2-2v-2c0-1.108-.892-2-2-2zm0 1h4c.554 0 1 .446 1 1v2c0 .554-.446 1-1 1H2c-.554 0-1-.446-1-1v-2c0-.554.446-1 1-1" class="ColorScheme-Text" style="fill:currentColor" fill="currentColor"/>
+<rect width="6" height="4" x="1" y="11" class="ColorScheme-Text" style="fill:currentColor" opacity=".35" rx="1" ry="1" fill="currentColor"/>
+<path class="ColorScheme-Text" style="fill:currentColor" d="M11 8c-1.108 0-2 .892-2 2v2c0 1.108.892 2 2 2h3c1.108 0 2-.892 2-2v-2c0-1.108-.892-2-2-2zm0 1h3c.554 0 1 .446 1 1v2c0 .554-.446 1-1 1h-3c-.554 0-1-.446-1-1v-2c0-.554.446-1 1-1" fill="currentColor"/>
+<rect width="5" height="4" x="10" y="9" class="ColorScheme-Text" style="fill:currentColor" opacity=".35" rx="1" ry="1" fill="currentColor"/>
+<rect width="1" height="3" x="4" y="8" class="ColorScheme-Text" style="fill:currentColor" rx="0" ry="0" fill="currentColor"/>
+<path class="ColorScheme-Text" style="fill:currentColor" d="m9.293 7.293 1.414 1.414-.707.707L8.586 8zM9 11l-1.932.518.259.966 1.932-.518z" fill="currentColor"/>
 </svg>

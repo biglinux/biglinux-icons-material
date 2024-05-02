@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg4153" width="22" height="22" version="1.1">
 <defs id="defs4157">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Contrast{color:#bebebe}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
 <g id="network-mobile-20-hspa" transform="translate(-66 198)">
 <path id="rect5399" fill="none" d="M66-198h22v22H66z" opacity=".55"/>
-<path id="path5401" fill="currentColor" fill-rule="evenodd" d="m69-179 16-16v16z" class="ColorScheme-Contrast" opacity=".35"/>
-<path id="path5403" fill="currentColor" fill-rule="evenodd" d="m76-186-7 7h7z" class="ColorScheme-Contrast"/>
-<path id="path5509" fill="currentColor" d="M69-195v5h1v-2h2v2h1v-5h-1v2h-2v-2z" class="ColorScheme-Contrast"/>
+<path id="path5401" fill="currentColor" fill-rule="evenodd" d="m69-179 16-16v16z" class="ColorScheme-Text" opacity=".35"/>
+<path id="path5403" fill="currentColor" fill-rule="evenodd" d="m76-186-7 7h7z" class="ColorScheme-Text"/>
+<path id="path5509" fill="currentColor" d="M69-195v5h1v-2h2v2h1v-5h-1v2h-2v-2z" class="ColorScheme-Text"/>
 </g>
 </svg>
