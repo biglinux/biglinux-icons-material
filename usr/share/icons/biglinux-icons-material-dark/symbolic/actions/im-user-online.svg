@@ -2,8 +2,9 @@
 <g fill="currentColor">
 <style id="current-color-scheme" type="text/css">
 .ColorScheme-Text{color:#fcfcfc}
+.ColorScheme-Background{color:#2f2f2f}
 </style>
 <path d="M8 9a5 4.5 0 0 0-5 4.5 5 4.5 0 0 0 .033.5h9.93a5 4.5 0 0 0 .037-.5A5 4.5 0 0 0 8 9m0 1a4 3.5 0 0 1 3.955 3h-7.91A4 3.5 0 0 1 8 10m0-8a3 3 0 1 0 0 6 3 3 0 0 0 0-6m1.592 1.232.707.707-2.83 2.828-1.768-1.768.707-.707 1.061 1.061z" class="ColorScheme-Text" style="fill:currentColor"/>
 </g>
-<path fill="currentColor" d="m9.6 3.23.707.707-2.83 2.828-1.768-1.768.707-.707 1.061 1.061z"/>
+<path class="ColorScheme-Background" style="fill:currentColor" d="m9.6 3.23.707.707-2.83 2.828-1.768-1.768.707-.707 1.061 1.061z"/>
 </svg>

@@ -1,49 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-<filter id="a" width="1" height="1" x="0" y="0">
-<feColorMatrix color-interpolation-filters="sRGB" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-</filter>
-<mask id="b">
-<g filter="url(#a)">
-<path fill-opacity=".5" d="M-1.6-1.6h19.2v19.2H-1.6z"/>
-</g>
-</mask>
-<clipPath id="c">
-<path d="M0 0h1600v1200H0z"/>
-</clipPath>
-<mask id="d">
-<g filter="url(#a)">
-<path fill-opacity=".7" d="M-1.6-1.6h19.2v19.2H-1.6z"/>
-</g>
-</mask>
-<clipPath id="e">
-<path d="M0 0h1600v1200H0z"/>
-</clipPath>
-<mask id="f">
-<g filter="url(#a)">
-<path fill-opacity=".35" d="M-1.6-1.6h19.2v19.2H-1.6z"/>
-</g>
-</mask>
-<clipPath id="g">
-<path d="M0 0h1600v1200H0z"/>
-</clipPath>
-<g mask="url(#b)">
-<g clip-path="url(#c)" transform="translate(-56 -916)">
-<path d="M550 182a2 2 0 0 0-1 .281v3.438c.305.18.648.277 1 .281a2 2 0 1 0 0-4m0 5c-.34 0-.68.059-1 .176V194h4v-4a3 3 0 0 0-3-3"/>
-</g>
-</g>
-<g mask="url(#d)">
-<g clip-path="url(#e)" transform="translate(-56 -916)">
-<path d="M569 182v4a2 2 0 1 0 0-4m0 5v7h3v-4a3 3 0 0 0-3-3"/>
-</g>
-</g>
-<g mask="url(#f)">
-<g clip-path="url(#g)" transform="translate(-56 -916)">
-<path d="M573 182.27v3.45a2 2 0 0 0 1-1.72c0-.714-.383-1.375-1-1.73m0 4.906V194h2v-4c0-1.27-.8-2.402-2-2.824"/>
-</g>
-</g>
-<rect width="11" height="1" x="5" y="14" fill="#fcfcfc" rx=".5" ry=".5"/>
-<g fill="#fcfcfc" stroke-width="0">
-<path d="M8.366.635c-.512 0-1.023.196-1.415.588L.589 7.586a1.995 1.995 0 0 0 0 2.828L5.175 15h3.554l6.002-6a1.995 1.995 0 0 0 0-2.828L9.78 1.222A2 2 0 0 0 8.365.636m0 1a1 1 0 0 1 .707.295l4.95 4.949a1 1 0 0 1 0 1.414l-3.536 3.535-6.364-6.363L7.659 1.93a1 1 0 0 1 .707-.295m-4.95 4.537 6.364 6.363-2.121 2.12a1 1 0 0 1-1.415 0L1.296 9.708a1 1 0 0 1 0-1.414z"/>
-<path d="M3.416 6.172.589 9l6 6h.727l2.465-2.465z" opacity=".45"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<style id="current-color-scheme" type="text/css">
+.ColorScheme-Text{color:#fcfcfc}
+</style>
+<g class="ColorScheme-Text" style="fill:currentColor" stroke-width="0"><rect x="5" y="14" width="11" height="1" rx=".5" ry=".5"/><path d="M8.366.635c-.512 0-1.023.196-1.415.588L.589 7.586a1.995 1.995 0 0 0 0 2.828L5.175 15h3.554l6.002-6a1.995 1.995 0 0 0 0-2.828L9.78 1.222A2 2 0 0 0 8.365.636m0 1a1 1 0 0 1 .707.295l4.95 4.949a1 1 0 0 1 0 1.414l-3.536 3.535-6.364-6.363L7.659 1.93a1 1 0 0 1 .707-.295m-4.95 4.537 6.364 6.363-2.121 2.12a1 1 0 0 1-1.415 0L1.296 9.708a1 1 0 0 1 0-1.414z"/><path d="M3.416 6.172.589 9l6 6h.727l2.465-2.465z" opacity=".45"/></g></svg>

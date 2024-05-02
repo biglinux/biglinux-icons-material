@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg18" width="32" height="32" version="1">
 <defs id="materia">
 <style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#dfdfdf}
+.ColorScheme-Text{color:#fcfcfc}
 </style>
 </defs>
-<g id="yakuake">
+<g id="yakuake" class="ColorScheme-Text" style="fill:currentColor">
 <path id="rect11" d="M0 0h32v32H0z" opacity=".001"/>
-<path id="rect43" fill-opacity=".3" d="M4.102 8.37v.046h23.797v-.047Zm23.797.046v16.566H4.102V8.416h-.936v17.5h25.668v-17.5zm-11.061 4.047-3.5 3.5 1.238 1.238 3.5-3.5z" class="ColorScheme-Text" style="fill:currentColor"/>
-<path id="path1467" fill="#2980b9" stroke-width="1.75" d="m17.458 13.083-3.5 3.5" color="#000" style="-inkscape-stroke:none"/>
-<path id="rect63" d="M2.583 6.083h26.833c.323 0 .584.26.584.584v1.166c0 .323-.26.584-.584.584H2.583A.58.58 0 0 1 2 7.833V6.667c0-.324.26-.584.583-.584m8.493 6.38-1.238 1.239 2.884 2.88-2.884 2.882 1.238 1.238 4.12-4.12zm4.925 8.788v1.75h6.416v-1.75z" class="ColorScheme-Text" style="fill:currentColor"/>
+<path id="rect43" fill-opacity=".3" d="M4.102 8.37v.046h23.797v-.047Zm23.797.046v16.566H4.102V8.416h-.936v17.5h25.668v-17.5zm-11.061 4.047-3.5 3.5 1.238 1.238 3.5-3.5z"/>
+<path id="path1467" fill="#2980b9" stroke-width="1.75" d="m17.458 13.083-3.5 3.5" style="-inkscape-stroke:none"/>
+<path id="rect63" d="M2.583 6.083h26.833c.323 0 .584.26.584.584v1.166c0 .323-.26.584-.584.584H2.583A.58.58 0 0 1 2 7.833V6.667c0-.324.26-.584.583-.584m8.493 6.38-1.238 1.239 2.884 2.88-2.884 2.882 1.238 1.238 4.12-4.12zm4.925 8.788v1.75h6.416v-1.75z"/>
 </g>
 </svg>
