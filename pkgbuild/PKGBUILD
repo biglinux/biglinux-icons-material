@@ -39,4 +39,25 @@ package() {
     if [ -d "${InternalDir}/opt" ]; then
         cp -r "${InternalDir}/opt" "${pkgdir}/"
     fi
+    
+    # Generate light theme from dark theme
+    mkdir -p "${pkgdir}/usr/share/icons/biglinux-icons-material"
+    cd "${pkgdir}/usr/share/icons/biglinux-icons-material"
+    cp -R ../biglinux-icons-material-dark/16 .
+    cp -R ../biglinux-icons-material-dark/22 .
+    cp -R ../biglinux-icons-material-dark/symbolic .
+    ln -s 16 16@2x
+    ln -s 16 16@3x
+    ln -s 22 22@3x
+    ln -s 22 22@2x
+    ln -s scalable scalable@2x
+    ln -s scalable scalable@3x
+    ln -s symbolic symbolic@2x
+    ln -s symbolic symbolic@3x
+    ln -s ../biglinux-icons-material-dark/scalable scalable
+    ln -s ../biglinux-icons-material-dark/scalable scalable@2x
+    ln -s ../biglinux-icons-material-dark/scalable scalable@3x
+    # Change index.theme
+    cp ../biglinux-icons-material-dark/index.theme .
+    sed -i 's|breeze-dark|breeze|g;s|BigLinux-Icons-Material-Dark|BigLinux-Icons-Material|g' index.theme
 }
