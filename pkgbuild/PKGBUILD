@@ -60,4 +60,8 @@ package() {
     # Change index.theme
     cp ../biglinux-icons-material-dark/index.theme .
     sed -i 's|breeze-dark|breeze|g;s|BigLinux-Icons-Material-Dark|BigLinux-Icons-Material|g' index.theme
+    # Change color of all icons
+    find 16 -type f -name '*.svg' -exec sed -i 's|#fcfcfc|#232629|g' {} \;
+    find 22 -type f -name '*.svg' -exec sed -i 's|#fcfcfc|#232629|g' {} \;
+    find symbolic -type f -name '*.svg' -exec sed -i 's|#fcfcfc|#232629|g' {} \;
 }
