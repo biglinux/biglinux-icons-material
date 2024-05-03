@@ -50,8 +50,6 @@ package() {
     ln -s 16 16@3x
     ln -s 22 22@3x
     ln -s 22 22@2x
-    ln -s scalable scalable@2x
-    ln -s scalable scalable@3x
     ln -s symbolic symbolic16
     ln -s symbolic symbolic22
     ln -s ../biglinux-icons-material-dark/scalable scalable
